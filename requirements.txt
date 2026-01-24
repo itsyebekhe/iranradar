@@ -1,0 +1,6 @@
+gnews
+newspaper3k
+requests
+nltk
+lxml_html_clean
+deep-translator
