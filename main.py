@@ -12,8 +12,8 @@ from urllib.parse import urljoin
 SEARCH_QUERY = 'Iran AND (Israel OR USA OR nuclear OR conflict OR sanctions OR currency)'
 LANGUAGE = 'en'
 COUNTRY = 'US'
-PERIOD = '6h'
-MAX_RESULTS = 15
+PERIOD = '12h'
+MAX_RESULTS = 30
 NEWS_FILE = 'news.json'
 MARKET_FILE = 'market.json'
 HISTORY_FILE = 'seen_news.txt'
