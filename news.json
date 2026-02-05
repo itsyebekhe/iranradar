@@ -1,247 +1,71 @@
 [
     {
-        "title_fa": "زنده: آمریکا و ایران در آستانه مذاکرات در یافتن زمینه‌های مشترک به مشکل خورده‌اند",
-        "title_en": "LIVE: US, Iran struggle to find common ground ahead of talks",
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDBfNzJuako0WFhnRFBmZkFhb1J3bk9zX3EwMF9zM2Z1VVllcWFwZC1aM3hqR29BWC1pemlRNkR6TEtPdXF1MjdvbUtqbG9HeGQ5RzBpeG50Ti0xY2E4S05BclZwX0JDalVNRmZWb0hFTU9ueUZ2WDlYWFhNMXdzTDFYZFF2eVFEZHUya3RfaGczRkpFSFhHTXNHeHRpMFVMUzFNd2hvalZjRmhJb0dtYkN4MXZxMFpWdHfSAb8BQVVfeXFMTlJjRklSTVEwWmVkMHdYQmhqUVRaQlZrWXRtdXRpWlpsa1NQMHFYUWstLVVxSHFCZU5UcFl5Qy1iVzVXSHI3YWxud1oyMjhSNXJHMXU5c3dCeWM3Z2dERm1zdUkwaFd4RjFCU1ZlZ3VZNEM0amdWWi1aUEJHc3dCVTBqeGFuNWNtbVFFZ2Zsb1JpX3NObjN4djZxVUlrZ2VjZWR1R0J5b3NDRGRVc2RsSE0zV1ZhdWxLUmtrcW1nTEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "title_fa": "هجوم گسترده به بازار طلا در ایران پس از سقوط ارزش پول ملی",
+        "title_en": "Gold Rush Sweeps Iran As Currency Collapses",
+        "summary": [
+            "ریال به طور قابل‌توجهی کاهش ارزش یافته و مردم به دنبال حفظ سرمایه‌اند",
+            "تقاضا برای خرید طلای نقدی و سکه به‌سرعت افزایش یافته است",
+            "بازار با کمبود عرضه و جهش قیمت‌ها روبه‌رو شده و نوسان‌گیری تشدید شده است"
+        ],
+        "impact": "این روند اعتماد عمومی به سیاست‌های اقتصادی را تضعیف کرده، فشار بر ذخایر ارزی و ثبات بازار داخلی را افزایش می‌دهد و توان دولت در کنترل تورم و آرام نگه‌داشتن جامعه را کاهش می‌دهد.",
+        "tag": "اقتصادی",
+        "sentiment": -0.9,
+        "source": "Evrim Ağacı",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSG9HR1ItUlcxQklpeU9nVkp4Q0dsZDRXSU94aXVaY0gzYWQzWlVGaEhNd3ZqTlNmTHdZTVdlWDE3ejdUZ3RjRzJ4UXRBNzlGVUxMM2ZZZUhpWmdfZWVGWTV0VTBGejJfOFl2eTVLbmpfQ1ppTUhMUWJCbTNJcm9uRFJpMA?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 16:18:45 GMT",
-        "tag": "سیاسی",
-        "sentiment": -0.5
+        "date": "Thu, 05 Feb 2026 16:21:04 GMT",
+        "timestamp": 1770308464.0
     },
     {
-        "title_fa": "آمریکا و ایران روز جمعه در عمان گفت‌وگو خواهند داشت",
-        "title_en": "U.S. and Iran to Hold Talks in Oman on Friday",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaURrNmZVUHdWODB0bVBEX1d1cHlMcWRZRmd2MXRGOUhENzhzVUNVaENkMlQwZTdmaHgzU3FEVXMtOFNxSzFPTXdNSGhBVk5ndTZOVmsxendzdHV0Z1VLaG8xZk9FVFNUeFZrbTdsUjdncU0xbFhOU01VbmdWY0tnUw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 16:28:00 GMT",
-        "tag": "سیاسی",
-        "sentiment": 0.2
-    },
-    {
-        "title_fa": "ایالات متحده و ایران توافق کردند روز جمعه در عمان مذاکرات هسته‌ای برگزار کنند.",
-        "title_en": "US and Iran agree to hold nuclear talks in Oman on Friday",
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YWEpXaXY0UkdwR05rM0FLZElzZmpKd3dRek9BcFNTSGkwSW5MRFF3cHktcmRUWTQyaTlnaEU3ODJDM05IZ1V6VEdKOHRTM0ZBd0IwYU9YN2Fqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 14:10:35 GMT",
-        "tag": "هسته‌ای",
-        "sentiment": 0.4
-    },
-    {
-        "title_fa": "مذاکرات هسته‌ای میان آمریکا و ایران پس از تلاش رهبران عرب برای اقناع کاخ سفید از سر گرفته شد",
-        "title_en": "U.S.-Iran nuclear talks back on after Arab leaders lobby White House",
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iSEhhZV9KM2g3aVpoeHBaOGNZZEc4VHl6U19QNFNzR21lS2xDSm9yS2w4WGZJdWt1VWRQbGZUU3VFa0JXUTFYQVZFZGJoc3U2aWhjVTZYRHBScTZFRkV1R0FzRFVYdW9JY0xBTmdoV3FsZ1p4S3Br?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 12:38:33 GMT",
-        "tag": "هسته‌ای",
-        "sentiment": 0.4
-    },
-    {
-        "title_fa": "ارتش ایران اعلام کرد در صورتی که «دشمن» بخواهد، آمادهٔ جنگ است.",
-        "title_en": "Iran’s army says it is ready for war, if that’s what ‘the enemy chooses’",
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzJqUFhaSUFiMXBKOGxXWnFtU3ZtMmJoVE1WRDAyT2doR1hhZnd1SkplYk5fVW9XbXktZGNOekQ0aFlJUmQ5dUFlYnlRQnBqMHBHZVktbUlMS0V0SlB0NEJwbkhRc0V1RVctU3hheWdRVTNVem1MR0lzMng2WDJLR0dlUFFpUFJJc1V2elBDMWFWRlpLaDRKTW5kbDN4N03SAaQBQVVfeXFMTVVQX3hGQjY2LTNpRjRYQ2pvZ1ZNZnNDZWxRYVQ1QUUycnRDVjhjM0hrRUgtdTM2MW5ENV9XU0pYZGxFQ0g1Ti1hNGttQl83T0p5X3NkeWNrbVVObFBrdU1lYzhCNlp5c3lVZVBuZEo1VklxS3FtR1FVUHZCVnh6T250N2NSZkQwTjV5X3QtYWJLSE5NQzQtMFg5bzFGYkNkYkpGdm0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 14:38:11 GMT",
+        "title_fa": "ترامپ احتمال حملات هوایی جدید آمریکا علیه ایران را رد نکرد",
+        "title_en": "Trump Does Not Rule Out New US Airstrikes on Iran",
+        "summary": [
+            "رئیس‌جمهور پیشین آمریکا اعلام کرد انجام حملات هوایی جدید علیه ایران را منتفی نمی‌داند.",
+            "اظهارات او نشانه‌ای از احتمال تشدید نظامی و افزایش تنش‌ها در منطقه است.",
+            "تا کنون هیچ اقدام نظامی مشخصی اعلام نشده و پیامدهای دیپلماتیک و امنیتی نامشخص باقی مانده‌اند."
+        ],
+        "impact": "این موضع احتمال افزایش تنش نظامی در منطقه را بالا می‌برد، ایران را وادار به تقویت آماده‌باش نظامی و هماهنگی با متحدان و گروه‌های نیابتی می‌کند و فضای دیپلماسی را تیره‌تر می‌سازد.",
         "tag": "نظامی",
-        "sentiment": -0.7
-    },
-    {
-        "title_fa": "آنچه باید بدانید: ایران و آمریکا برای مذاکرات هسته‌ای در عمان آماده می‌شوند",
-        "title_en": "What to know as Iran and US set for nuclear talks in Oman",
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1ZlTTdER2dRQW5vT3RSMXZrcmdGMUlxaTc1Y1BGNmJTLVZDeHJsWWpPNmZBSmV1cTFmbUJhNVBNa3V6dmpvZWZQQWZPUlQwTzhDbjNFQ0kzQURSQ1liandnOWJSZ3hUaU9yU2pOOXVqUEpnUTEwRkkxT25DMUZLdHp3US13S2lDWWhsNWt6U3lkTkpmdXhCckJvNFI1cFZZb0J5Y3lzcmNaOVdHT09kanZLM1pTYkIwTGJCSmh6ZWtEdG1XVjNCVzNMakl2ZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 14:28:51 GMT",
-        "tag": "هسته‌ای",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "مسائل کلیدی که آمریکا و ایران در مذاکرات هسته‌ای بر سر آن اختلاف دارند چیست؟",
-        "title_en": "What are key issues dividing US and Iran in nuclear talks?",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUElxUWFyRzlXcEVhQ0ZiNWlScURQSmhiSFJZRjBGZUR5UnV3UUJRNkEwX0phanZsV0FCMmRkeHJFbDA5cmFvM3FCUlctdGlUREpfejVFNkJhMjZSSmNiTmtrbWN6a1Vsb0tNa0M3S29KaEVuS0pVSlBXTkc4R0ZGUzBVakpjNzc5eW0xdWEzamV2ekVVSTk2c2tfLWNZcEZWQzhaZlB6dUdCcml5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 12:29:39 GMT",
-        "tag": "هسته‌ای",
-        "sentiment": -0.2
-    },
-    {
-        "title_fa": "گزارش: اسرائیل خود را برای تلافی‌جویی احتمالی حوثی‌ها در صورت حمله آمریکا به ایران آماده می‌کند",
-        "title_en": "Israel preparing for Houthi retaliation if US strikes Iran",
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmU0RjeHVlXzRwakVKallYa2RqenR5WDc0YWZvUWV1TWJPdHpkMVBaR2tIY1AwQmlTREtmYmpZVHVuSnV2MDcxZUxqZWN2SUo2RzA1TkJnTHdnQnZsRmhySVRlei1xSDFtQ2tyUFBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "sentiment": -0.8,
+        "source": "Kyiv Post",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yLWhRNEQ3RTMtZFBhcnJaSGZMMkptZkxFRHhHcjRDMEZSYXJuREpoWmlJVGhlWUc5R3ROTmZvX1lpeHp5bGtlMC1uOA?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 11:11:54 GMT",
+        "date": "Thu, 05 Feb 2026 15:02:33 GMT",
+        "timestamp": 1770303753.0
+    },
+    {
+        "title_fa": "سپاه پاسداران انقلاب اسلامی دو نفتکش را در خلیج فارس به اتهام قاچاق نفت توقیف کرد",
+        "title_en": "Iran's IRGC seizes two tankers in Gulf over alleged oil smuggling",
+        "summary": [
+            "سپاه پاسداران دو نفتکش را در خلیج فارس توقیف کرد",
+            "علت اعلامی توقیف، اتهام قاچاق نفت اعلام شده است",
+            "این عملیات می‌تواند امنیت کشتیرانی و تنش‌های منطقه‌ای را تحت‌تأثیر قرار دهد"
+        ],
+        "impact": "توقیف نفتکش‌ها نفوذ و توان بازدارندگی دریایی تهران را تقویت می‌کند اما می‌تواند هزینه‌های دیپلماتیک و اقتصادی و افزایش تنش در منطقه را برای ایران به‌دنبال داشته باشد.",
         "tag": "نظامی",
-        "sentiment": -0.4
-    },
-    {
-        "title_fa": "ایران از مذاکرات با آمریکا چه می‌خواهد؟",
-        "title_en": "What does Iran want from talks with the US?",
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlAxY25UWlB0QURUazlESXY3QmlZeURJYk52dUExZ3VuSUVpMFdjdzRQUEJrNm5LWWtTZWVDS2JPRGxuMkd0OXhJTFNzYW1pU3RmRUtTcWNWT2dpdmtZdGNzdGVCalZyNVQ3azJwRmpZT2xzOC1BTzdmdWdDYzFUMThjVHhPRHdHVmR1ZzgtNkt5QkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 12:53:13 GMT",
-        "tag": "سیاسی",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "ایالات متحده و ایران روز جمعه در عمان مذاکراتی برگزار می‌کنند.",
-        "title_en": "US, Iran to hold talks in Oman on Friday",
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54M0otREw0YTBaVERuQndUcEt4OGxfRW9yeEdRLVpsUEhNUzVkTHc5VGhGNXdNeXp3bFpDTHdvQXdvcjByVzFUMWl3MmdwMkxabjBFSVRucWI3YzBXUTUyWk1ieUlBdVpiV1NDaldSeTQ3UUtXaEpPdWlRNGTSAXxBVV95cUxQZFdNVjMxLU5KOURoczc0SWZRLUtkNWNOX08tWlk1TjVHYnBFZDl6YkpMZjAxVjZqS2NLd1p5U1NoZVBlQ2NUT3pYZlVmME5rc0psTXB1eXl1RDBBOXVlU3hwLUc1SUwtUURSczliUG01cUZNQ3BDM3RCdEF4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "sentiment": 0.2,
+        "source": "AL-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1VRWmlOb0tKbG5ORXNaS2tjUFRxNzdlR2Z3Q1JyLVdrSFZmUGV2RTliSlM5b28tNW1NTV9iSWE2bHdkNHctLU5qWE9mZ1pnOHl3bF9OYTRYYndxVnpFQ3ZxNnAzZnZhNFJlNGlnODFqTVdralhXRTJMaEdEWnZHRngwS3pONE1BUkxlbnlIdG1VcmtqdG5YNEEwM3lIM2dJbi1aZC1UNXN4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 13:29:48 GMT",
-        "tag": "سیاسی",
-        "sentiment": 0.2
+        "date": "Thu, 05 Feb 2026 14:45:56 GMT",
+        "timestamp": 1770302756.0
     },
     {
-        "title_fa": "ویدئو: آمریکا و ایران قرار است در عمان برای مذاکرات هسته‌ای دیدار کنند",
-        "title_en": "Video US and Iran to hold nuclear talks in Oman",
-        "source": "ABC News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM253blJIUC1YeDFBYkRuOGlhaFFWM1hsUGprb01vYlR5cXo4YjMtQVhTczNzbUswVkM4dUFDTXZXbmtyMVZVdDlvWHNzZXpIUk5wdm1ZS2xyQ0tCb3duUndNQkJYSHNtXzVPVXk0TjV3UGJPWjlWdDllazJzMTYxclJPekRyYzM0RTM2Rg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 15:03:33 GMT",
-        "tag": "هسته‌ای",
-        "sentiment": 0.2
-    },
-    {
-        "title_fa": "آمریکا و ایران قرار است در عمان مذاکرات هسته‌ای برگزار کنند",
-        "title_en": "US and Iran to hold nuclear talks in Oman",
-        "source": "Commonspace.eu",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55YXptbVNQZE5oZGNDWVcxbWFXVkZzNmliM2s2cnRaeEdGR0p4eVdwUVJMd1FET2NqZWlnMm1HaS04aGJ0SS04c1BMUksxY3NxYjJvSlpBQ1N1dGhGbmUwcDdka0w3UDFQa045Wl8wN0JVNERhdEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 14:52:17 GMT",
-        "tag": "هسته‌ای",
-        "sentiment": 0.25
-    },
-    {
-        "title_fa": "تظاهرات گسترده مردمی در ایران با تحریم‌های اقتصادی و مداخله نظامی آمریکا مواجه شدند",
-        "title_en": "Iranian Popular Protests Faced with US Economic Sanctions and Military Intervention",
-        "source": "Verso Books",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHFZYUFMbGFZV0hUcHh5a2VsY0FIRlRuR0Z0WVNabVhiaEZ0aFRSeXJUTmdyNUh2QUIzMzBpNTBCeGdoNW1sN2xXQjFwZWFHd3lDVmRkQmg1bGF4cGN4YThBaGxaVWdoSWRocHp5UVh0TmQ5em52NUthOGozWWt0bTYyUWdMSEt3Y3dRTVBtSU1HTWEzYXlVUy1EU3JadlVpMUFNSE5JZmFRYTlCOWlqWjl3dGstMUZ0dFNXN29B?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 11:48:10 GMT",
-        "tag": "سیاسی",
-        "sentiment": -0.7
-    },
-    {
-        "title_fa": "در مذاکرات عمان، یک توافق نفتی برای ترامپ می‌تواند به معنای توافق هسته‌ای برای ایران باشد",
-        "title_en": "In Oman Talks, an Oil Deal for Trump Can Mean a Nuclear Deal for Iran",
-        "source": "foreignpolicy.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWlwRGlWc2dINTZwSlVPYi1TaXFDZFZOWnR5SHlvUzVnWHZrZlFGcHdnZ1plb3hFaTIwb2dfZXhHWGZxckJRSHJqbjVGNFZ0Z0dxeFIzWTllN3hWdjRrMk40S3h6cXp4aVZQRGdWZjk4UnJTNjRSTUF6djRERHB0ejFOUzdqTHhtbmZybXl0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 12:35:30 GMT",
-        "tag": "هسته‌ای",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "Two countries have changed their position about war with Iran",
-        "title_en": "Two countries have changed their position about war with Iran",
-        "source": "The Economist",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVW9LYks5Q1hrUC1jVWl3SERDYndfZGVER3VIcVIzM25qMVlySXNsbFdnN0JVM1BYT3pQLTN5dEJibTAtaUYwX2ZFSkZoMmg3aEpMNTJ1d0VicTJwMjhNSWc3YVVBeUpxSGxsUndDSUhfZ2ZjSmxJdGtRUFZpZm1uYURjUWVwTUhuQUNSMnBBdUR1MFU1QVpwTWJOcFNoNE9acGU0NEUxZU90LUhqYVFpTGtzWmNTT0NkdldOdVl3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 13:47:23 GMT",
-        "tag": "سیاسی",
-        "sentiment": 0
-    },
-    {
-        "title_fa": "آمریکا و ایران بر سر برگزاری مذاکرات هسته‌ای توافق کردند",
-        "title_en": "US and Iran agree to nuclear talks",
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5RjFIVU0yNzdubnRfR3BFR21RN00xTnVVZEpqazc3NjEyQy13R1h4M3BxaGNpNTYxZ0lXb1lraDFwR0hCNGtHV29TRHdNMjFRRWY2MmM3SndxZVZycUpHUEZFckxVOGtFWHlnWVFyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 15:36:56 GMT",
-        "tag": "هسته‌ای",
-        "sentiment": 0.6
-    },
-    {
-        "title_fa": "موشک‌های بالستیک مسئله‌ای کلیدی برای اسرائیل در مذاکرات آمریکا و ایران",
-        "title_en": "Ballistic missiles a key issue for Israel in US-Iran talks",
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aQ2pWamtrNG5SM0hJSWYtTUkxX3FncHhpanRxbXBLa29IcHY5c0RyZnRiRkVxOGVMbzR0NWNNV0lWOVN4Sk1rdXM5YU4tZ3QzZ2p6cU9Dd2Jja3pvWENnZ3J0eWlXTDQwSnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 15:22:12 GMT",
+        "title_fa": "تصمیم اتحادیه اروپا برای اعلام سپاه پاسداران به‌عنوان سازمان تروریستی؛ تغییری راهبردی در مواجهه با ایران",
+        "title_en": "The EU’s IRGC terrorist designation marks a major shift on Iran",
+        "summary": [
+            "اتحادیه اروپا سپاه پاسداران انقلاب اسلامی را در فهرست سازمان‌های تروریستی قرار داد.",
+            "این اقدام نشان‌دهنده تحول راهبردی و تشدید مواضع غرب علیه تهران است.",
+            "نتایج احتمالی شامل تشدید تحریم‌ها، انزوای دیپلماتیک و احتمال پاسخ‌های تلافی‌جویانه از سوی ایران است."
+        ],
+        "impact": "این تصمیم به افزایش انزوای بین‌المللی و فشار بر ایران می‌انجامد، فعالیت‌های برون‌مرزی سپاه را محدود می‌کند و تنش‌های دیپلماتیک و منطقه‌ای را تشدید خواهد کرد.",
         "tag": "نظامی",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "مذاکرات آمریکا و ایران: تهران تا چه حد برای رسیدن به توافق پیش خواهد رفت؟",
-        "title_en": "US-Iran talks: How far will Tehran go to make a deal?",
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzc4MTM3RGRhQVNwZjlwY3hSRUVXOUFwLTZVZ1JfeEl1b1dZYW80SXJNRWtGMEpvNXl1X2dyN0hGVmxZalpnYXNvQzNXTVMwVGNwMm9PZ0FyU2QtTkJKXzh3N3BmVC16LS1lX1JoSHRySGp1Z2d1RV9oVk9mTDZwTzIycWJmdkZYbl9mcdIBjAFBVV95cUxQSDNrbDVqd3ZyYWIxbXczeU93R0VKNUF3ZVZKZGNwcF9uOGM5TFdFWGhiaEJxQkg5VDJJWHYtdlJVMHdseTJJbm1WSEJnQTEyS3A4b0ZTWlNJSHpzNkFKb0lVa3kzYVc2NlpVUl9oYjlRbUFoVnhfd285Wjh0WjBIOWdDMm50V2ZoZlVmZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "sentiment": -0.85,
+        "source": "Chatham House",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNHdsS0J6WjdPM1RlTm9hc2gwaHpRbXRGMEp6SWxtcEdQaldnelFUdVRVSm9IZXUwSFh3a3JsWm8zUTVZUzBxY0V6bWc5ZUpxZEEzRy1NOGVMOVhBN1lvamVySk14cmFXcHpubjE5bTg3eFZRRURkQVR2NGQxMng5d0h2ODdGcDN1UWxEMWg1OFc3MlVs?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 14:57:11 GMT",
-        "tag": "سیاسی",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "یک جت نظامی تخصصی آمریکایی آخرین هواپیمایی است که در خاورمیانه ردیابی شده، در حالی که تقویت حضور نظامی ادامه دارد.",
-        "title_en": "Specialist US military jet latest to be tracked in Middle East as build-up continues",
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJdnN0QmJRb2hMUk51elprX0JLZzFJN2F5UzJYMXdlTGFCY0Rpbml2YzQxQ1kxc0VTT1lWTWRLVU5FYlc5SGQyeFBvX2Nab0FEYUFpeA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 16:24:38 GMT",
-        "tag": "نظامی",
-        "sentiment": -0.3
-    },
-    {
-        "title_fa": "ایران و آمریکا قرار است درباره تروریسم نیابتی و موشک‌های بالستیک مذاکره کنند",
-        "title_en": "Iran, US to negotiate over proxy terror, ballistic missiles",
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2NTkzVEJId2hiUGx6azcxNUlmQWRkMkVaZVBfRHh0OGFzNGRTMGRWdHFwUEg5R2piVjNBR1pNVU1QR1RIR0x5MzAxLVhVYnUyMC05Z2N3MXNVVjRBU2dVak5EWVRnUVRTVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 12:24:39 GMT",
-        "tag": "نظامی",
-        "sentiment": 0.2
-    },
-    {
-        "title_fa": "چه باید دانست که ایران و آمریکا برای مذاکرات هسته ای در عمان آماده می شوند؟",
-        "title_en": "What to know as Iran and US set for nuclear talks in Oman",
-        "source": "ABC News",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmlUcEp6cUlkMF9Td2w0Y3A3ZGtCWkpNbE5RNzRzUjI5RXprQ2NXbEJTNkFXZTlfNm44QTNGT01LdzRIMUZaZHBBVHpIT2V1NHdYQ0F0dm5JdjhwTTlyY1hacnN1N2czMGNOT2F3dTBYZlZKeEhyUW1udVFPcS1xNW9rSXJNMFltd0HSAY8BQVVfeXFMUF9SRXUxTndrcVV3c3ZrRXNOTkEwcExuendlNXE0dlZHaWlFOXkyNnNhRjV1SmtFNHdHS09qQms1UzZCWHRJbk5WczRGTldzak9NUGs3ZksxSjdWSWktRnRMYUp4VzFWdGI4YVR2ZXRKb3A2VENjcURBRzQtMmk1aDQ0alFwczBleklXbEE2MlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 08:13:52 GMT",
-        "tag": "هسته‌ای",
-        "tag_color": "warning",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "مذاکرات هسته ای ایران و آمریکا پس از لابی کردن رهبران عرب در کاخ سفید آغاز شد",
-        "title_en": "U.S.-Iran nuclear talks back on after Arab leaders lobby White House",
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iSEhhZV9KM2g3aVpoeHBaOGNZZEc4VHl6U19QNFNzR21lS2xDSm9yS2w4WGZJdWt1VWRQbGZUU3VFa0JXUTFYQVZFZGJoc3U2aWhjVTZYRHBScTZFRkV1R0FzRFVYdW9JY0xBTmdoV3FsZ1p4S3Br?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 12:18:31 GMT",
-        "tag": "هسته‌ای",
-        "tag_color": "warning",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "زنده: ایالات متحده و ایران برای یافتن زمینه مشترک پیش از مذاکرات تلاش می کنند",
-        "title_en": "LIVE: US, Iran struggle to find common ground ahead of talks",
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDBfNzJuako0WFhnRFBmZkFhb1J3bk9zX3EwMF9zM2Z1VVllcWFwZC1aM3hqR29BWC1pemlRNkR6TEtPdXF1MjdvbUtqbG9HeGQ5RzBpeG50Ti0xY2E4S05BclZwX0JDalVNRmZWb0hFTU9ueUZ2WDlYWFhNMXdzTDFYZFF2eVFEZHUya3RfaGczRkpFSFhHTXNHeHRpMFVMUzFNd2hvalZjRmhJb0dtYkN4MXZxMFpWdHfSAb8BQVVfeXFMTlJjRklSTVEwWmVkMHdYQmhqUVRaQlZrWXRtdXRpWlpsa1NQMHFYUWstLVVxSHFCZU5UcFl5Qy1iVzVXSHI3YWxud1oyMjhSNXJHMXU5c3dCeWM3Z2dERm1zdUkwaFd4RjFCU1ZlZ3VZNEM0amdWWi1aUEJHc3dCVTBqeGFuNWNtbVFFZ2Zsb1JpX3NObjN4djZxVUlrZ2VjZWR1R0J5b3NDRGRVc2RsSE0zV1ZhdWxLUmtrcW1nTEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 15:33:21 GMT",
-        "tag": "سیاسی",
-        "tag_color": "primary",
-        "sentiment": -0.08181818181818182
-    },
-    {
-        "title_fa": "چه موضوعاتی کلیدی است که بین آمریکا و ایران در مذاکرات هسته ای شکاف می کند؟",
-        "title_en": "What are key issues dividing US and Iran in nuclear talks?",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUElxUWFyRzlXcEVhQ0ZiNWlScURQSmhiSFJZRjBGZUR5UnV3UUJRNkEwX0phanZsV0FCMmRkeHJFbDA5cmFvM3FCUlctdGlUREpfejVFNkJhMjZSSmNiTmtrbWN6a1Vsb0tNa0M3S29KaEVuS0pVSlBXTkc4R0ZGUzBVakpjNzc5eW0xdWEzamV2ekVVSTk2c2tfLWNZcEZWQzhaZlB6dUdCcml5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 12:29:39 GMT",
-        "tag": "هسته‌ای",
-        "tag_color": "warning",
-        "sentiment": 0.0
+        "date": "Thu, 05 Feb 2026 13:45:58 GMT",
+        "timestamp": 1770299158.0
     },
     {
         "title_fa": "آمریکا و ایران توافق کردند روز جمعه در عمان مذاکرات هسته ای برگزار کنند",
@@ -266,14 +90,24 @@
         "sentiment": 0.2
     },
     {
-        "title_fa": "موشک های بالستیک یکی از موضوعات کلیدی اسرائیل در مذاکرات ایران و آمریکاست",
-        "title_en": "Ballistic missiles a key issue for Israel in US-Iran talks",
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aQ2pWamtrNG5SM0hJSWYtTUkxX3FncHhpanRxbXBLa29IcHY5c0RyZnRiRkVxOGVMbzR0NWNNV0lWOVN4Sk1rdXM5YU4tZ3QzZ2p6cU9Dd2Jja3pvWENnZ3J0eWlXTDQwSnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 15:22:12 GMT",
-        "tag": "نظامی",
-        "tag_color": "danger",
+        "title_fa": "زنده: ایالات متحده و ایران برای یافتن زمینه مشترک پیش از مذاکرات تلاش می کنند",
+        "title_en": "LIVE: US, Iran struggle to find common ground ahead of talks",
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDBfNzJuako0WFhnRFBmZkFhb1J3bk9zX3EwMF9zM2Z1VVllcWFwZC1aM3hqR29BWC1pemlRNkR6TEtPdXF1MjdvbUtqbG9HeGQ5RzBpeG50Ti0xY2E4S05BclZwX0JDalVNRmZWb0hFTU9ueUZ2WDlYWFhNMXdzTDFYZFF2eVFEZHUya3RfaGczRkpFSFhHTXNHeHRpMFVMUzFNd2hvalZjRmhJb0dtYkN4MXZxMFpWdHfSAb8BQVVfeXFMTlJjRklSTVEwWmVkMHdYQmhqUVRaQlZrWXRtdXRpWlpsa1NQMHFYUWstLVVxSHFCZU5UcFl5Qy1iVzVXSHI3YWxud1oyMjhSNXJHMXU5c3dCeWM3Z2dERm1zdUkwaFd4RjFCU1ZlZ3VZNEM0amdWWi1aUEJHc3dCVTBqeGFuNWNtbVFFZ2Zsb1JpX3NObjN4djZxVUlrZ2VjZWR1R0J5b3NDRGRVc2RsSE0zV1ZhdWxLUmtrcW1nTEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "date": "Thu, 05 Feb 2026 15:33:21 GMT",
+        "tag": "سیاسی",
+        "tag_color": "primary",
+        "sentiment": -0.08181818181818182
+    },
+    {
+        "title_fa": "آنچه باید بدانید: ایران و آمریکا برای مذاکرات هسته‌ای در عمان آماده می‌شوند",
+        "title_en": "What to know as Iran and US set for nuclear talks in Oman",
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1ZlTTdER2dRQW5vT3RSMXZrcmdGMUlxaTc1Y1BGNmJTLVZDeHJsWWpPNmZBSmV1cTFmbUJhNVBNa3V6dmpvZWZQQWZPUlQwTzhDbjNFQ0kzQURSQ1liandnOWJSZ3hUaU9yU2pOOXVqUEpnUTEwRkkxT25DMUZLdHp3US13S2lDWWhsNWt6U3lkTkpmdXhCckJvNFI1cFZZb0J5Y3lzcmNaOVdHT09kanZLM1pTYkIwTGJCSmh6ZWtEdG1XVjNCVzNMakl2ZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "date": "Thu, 05 Feb 2026 14:28:51 GMT",
+        "tag": "هسته‌ای",
         "sentiment": 0.0
     },
     {
@@ -283,6 +117,17 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVW9LYks5Q1hrUC1jVWl3SERDYndfZGVER3VIcVIzM25qMVlySXNsbFdnN0JVM1BYT3pQLTN5dEJibTAtaUYwX2ZFSkZoMmg3aEpMNTJ1d0VicTJwMjhNSWc3YVVBeUpxSGxsUndDSUhfZ2ZjSmxJdGtRUFZpZm1uYURjUWVwTUhuQUNSMnBBdUR1MFU1QVpwTWJOcFNoNE9acGU0NEUxZU90LUhqYVFpTGtzWmNTT0NkdldOdVl3?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
         "date": "Thu, 05 Feb 2026 13:47:23 GMT",
+        "tag": "نظامی",
+        "tag_color": "danger",
+        "sentiment": 0.0
+    },
+    {
+        "title_fa": "موشک های بالستیک یکی از موضوعات کلیدی اسرائیل در مذاکرات ایران و آمریکاست",
+        "title_en": "Ballistic missiles a key issue for Israel in US-Iran talks",
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aQ2pWamtrNG5SM0hJSWYtTUkxX3FncHhpanRxbXBLa29IcHY5c0RyZnRiRkVxOGVMbzR0NWNNV0lWOVN4Sk1rdXM5YU4tZ3QzZ2p6cU9Dd2Jja3pvWENnZ3J0eWlXTDQwSnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "date": "Thu, 05 Feb 2026 15:22:12 GMT",
         "tag": "نظامی",
         "tag_color": "danger",
         "sentiment": 0.0
@@ -310,26 +155,15 @@
         "sentiment": 0.0
     },
     {
-        "title_fa": "با نزدیک شدن به مذاکرات، ترامپ می گوید ایران تلاش کرده برنامه هسته ای خود را از سر بگیرد",
-        "title_en": "As negotiations near, Trump says Iran attempted to restart nuclear program",
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUFRb3JjVl8zeC1yeDVKRno2QTczSUZESVhVeEZFQzUyTGtIMlB4VjhuSlFkbUtZVFNxR0htSEpXYXVoWTJYa3o4TmVtdExaeXR3TmhUc09kZVFxSEpFTTh1dDN1UERqd1JvcWZOTXFjcFlvRHIwLUNIQ2F6TXRGQXdTWmp3cmhId2d2VWlUVEx0aTBDdElFZllzczJwTUd2dllpaVoyb1ZzbDNaaThDbmN5VDZldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "title_fa": "ویدئوی مذاکرات هسته ای آمریکا و ایران در عمان",
+        "title_en": "Video US and Iran to hold nuclear talks in Oman",
+        "source": "ABC News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM253blJIUC1YeDFBYkRuOGlhaFFWM1hsUGprb01vYlR5cXo4YjMtQVhTczNzbUswVkM4dUFDTXZXbmtyMVZVdDlvWHNzZXpIUk5wdm1ZS2xyQ0tCb3duUndNQkJYSHNtXzVPVXk0TjV3UGJPWjlWdDllazJzMTYxclJPekRyYzM0RTM2Rg?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 05:01:53 GMT",
+        "date": "Thu, 05 Feb 2026 15:03:33 GMT",
         "tag": "هسته‌ای",
         "tag_color": "warning",
-        "sentiment": 0.1
-    },
-    {
-        "title_fa": "در مذاکرات عمان، توافق نفتی برای ترامپ می تواند به معنای توافق هسته ای برای ایران باشد",
-        "title_en": "In Oman Talks, an Oil Deal for Trump Can Mean a Nuclear Deal for Iran",
-        "source": "foreignpolicy.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWlwRGlWc2dINTZwSlVPYi1TaXFDZFZOWnR5SHlvUzVnWHZrZlFGcHdnZ1plb3hFaTIwb2dfZXhHWGZxckJRSHJqbjVGNFZ0Z0dxeFIzWTllN3hWdjRrMk40S3h6cXp4aVZQRGdWZjk4UnJTNjRSTUF6djRERHB0ejFOUzdqTHhtbmZybXl0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 12:35:30 GMT",
-        "tag": "هسته‌ای",
-        "tag_color": "warning",
-        "sentiment": -0.3125
+        "sentiment": 0.0
     },
     {
         "title_fa": "مذاکرات هسته ای آمریکا و ایران در عمان",
@@ -343,14 +177,88 @@
         "sentiment": 0.0
     },
     {
-        "title_fa": "ایران و آمریکا بر سر ترور نیابتی و موشک های بالستیک مذاکره می کنند",
-        "title_en": "Iran, US to negotiate over proxy terror, ballistic missiles",
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2NTkzVEJId2hiUGx6azcxNUlmQWRkMkVaZVBfRHh0OGFzNGRTMGRWdHFwUEg5R2piVjNBR1pNVU1QR1RIR0x5MzAxLVhVYnUyMC05Z2N3MXNVVjRBU2dVak5EWVRnUVRTVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "title_fa": "فراتر از بحران: اختلافات پایدار بین ایالات متحده و ایران",
+        "title_en": "Beyond the Crisis: The Enduring Disputes Between the U.S. and Iran",
+        "source": "Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLURUdF9YOFhtLXhKcnV6Snc2Y29iM2g3QkctWTdHVEdFTHFYSzUyZEdpZlQ4cjZTeV9JMDRBZFpRRTNNZ040R2Q3alM4RENWTVZMblJBcHVjVEYwcVNLN0VpTU1fOTNCaDhoMnRENmlMenpERWZSd1FIdjVhd1ZORlVfNjdjczBxMS1UV2hrbl9rN3ZlT2s5dGJxSW1oOVhzNXRPU0lR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "date": "Thu, 05 Feb 2026 15:30:00 GMT",
+        "tag": "سیاسی",
+        "tag_color": "primary",
+        "sentiment": 0.0
+    },
+    {
+        "title_fa": "آمریکا و ایران روز جمعه در عمان گفت‌وگو خواهند داشت",
+        "title_en": "U.S. and Iran to Hold Talks in Oman on Friday",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaURrNmZVUHdWODB0bVBEX1d1cHlMcWRZRmd2MXRGOUhENzhzVUNVaENkMlQwZTdmaHgzU3FEVXMtOFNxSzFPTXdNSGhBVk5ndTZOVmsxendzdHV0Z1VLaG8xZk9FVFNUeFZrbTdsUjdncU0xbFhOU01VbmdWY0tnUw?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 12:24:39 GMT",
+        "date": "Thu, 05 Feb 2026 16:28:00 GMT",
+        "tag": "سیاسی",
+        "sentiment": 0.2
+    },
+    {
+        "title_fa": "مذاکرات هسته ای ایران و آمریکا پس از لابی کردن رهبران عرب در کاخ سفید آغاز شد",
+        "title_en": "U.S.-Iran nuclear talks back on after Arab leaders lobby White House",
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iSEhhZV9KM2g3aVpoeHBaOGNZZEc4VHl6U19QNFNzR21lS2xDSm9yS2w4WGZJdWt1VWRQbGZUU3VFa0JXUTFYQVZFZGJoc3U2aWhjVTZYRHBScTZFRkV1R0FzRFVYdW9JY0xBTmdoV3FsZ1p4S3Br?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "date": "Thu, 05 Feb 2026 12:18:31 GMT",
+        "tag": "هسته‌ای",
+        "tag_color": "warning",
+        "sentiment": 0.0
+    },
+    {
+        "title_fa": "چه موضوعاتی کلیدی است که بین آمریکا و ایران در مذاکرات هسته ای شکاف می کند؟",
+        "title_en": "What are key issues dividing US and Iran in nuclear talks?",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUElxUWFyRzlXcEVhQ0ZiNWlScURQSmhiSFJZRjBGZUR5UnV3UUJRNkEwX0phanZsV0FCMmRkeHJFbDA5cmFvM3FCUlctdGlUREpfejVFNkJhMjZSSmNiTmtrbWN6a1Vsb0tNa0M3S29KaEVuS0pVSlBXTkc4R0ZGUzBVakpjNzc5eW0xdWEzamV2ekVVSTk2c2tfLWNZcEZWQzhaZlB6dUdCcml5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "date": "Thu, 05 Feb 2026 12:29:39 GMT",
+        "tag": "هسته‌ای",
+        "tag_color": "warning",
+        "sentiment": 0.0
+    },
+    {
+        "title_fa": "گزارش: اسرائیل خود را برای تلافی‌جویی احتمالی حوثی‌ها در صورت حمله آمریکا به ایران آماده می‌کند",
+        "title_en": "Israel preparing for Houthi retaliation if US strikes Iran",
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmU0RjeHVlXzRwakVKallYa2RqenR5WDc0YWZvUWV1TWJPdHpkMVBaR2tIY1AwQmlTREtmYmpZVHVuSnV2MDcxZUxqZWN2SUo2RzA1TkJnTHdnQnZsRmhySVRlei1xSDFtQ2tyUFBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "date": "Thu, 05 Feb 2026 11:11:54 GMT",
         "tag": "نظامی",
-        "tag_color": "danger",
+        "sentiment": -0.4
+    },
+    {
+        "title_fa": "تظاهرات گسترده مردمی در ایران با تحریم‌های اقتصادی و مداخله نظامی آمریکا مواجه شدند",
+        "title_en": "Iranian Popular Protests Faced with US Economic Sanctions and Military Intervention",
+        "source": "Verso Books",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHFZYUFMbGFZV0hUcHh5a2VsY0FIRlRuR0Z0WVNabVhiaEZ0aFRSeXJUTmdyNUh2QUIzMzBpNTBCeGdoNW1sN2xXQjFwZWFHd3lDVmRkQmg1bGF4cGN4YThBaGxaVWdoSWRocHp5UVh0TmQ5em52NUthOGozWWt0bTYyUWdMSEt3Y3dRTVBtSU1HTWEzYXlVUy1EU3JadlVpMUFNSE5JZmFRYTlCOWlqWjl3dGstMUZ0dFNXN29B?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "date": "Thu, 05 Feb 2026 11:48:10 GMT",
+        "tag": "سیاسی",
+        "sentiment": -0.7
+    },
+    {
+        "title_fa": "در مذاکرات عمان، توافق نفتی برای ترامپ می تواند به معنای توافق هسته ای برای ایران باشد",
+        "title_en": "In Oman Talks, an Oil Deal for Trump Can Mean a Nuclear Deal for Iran",
+        "source": "foreignpolicy.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWlwRGlWc2dINTZwSlVPYi1TaXFDZFZOWnR5SHlvUzVnWHZrZlFGcHdnZ1plb3hFaTIwb2dfZXhHWGZxckJRSHJqbjVGNFZ0Z0dxeFIzWTllN3hWdjRrMk40S3h6cXp4aVZQRGdWZjk4UnJTNjRSTUF6djRERHB0ejFOUzdqTHhtbmZybXl0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "date": "Thu, 05 Feb 2026 12:35:30 GMT",
+        "tag": "هسته‌ای",
+        "tag_color": "warning",
+        "sentiment": -0.3125
+    },
+    {
+        "title_fa": "آمریکا و ایران بر سر مذاکرات هسته ای توافق کردند",
+        "title_en": "US and Iran agree to nuclear talks",
+        "source": "France 24",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5RjFIVU0yNzdubnRfR3BFR21RN00xTnVVZEpqazc3NjEyQy13R1h4M3BxaGNpNTYxZ0lXb1lraDFwR0hCNGtHV29TRHdNMjFRRWY2MmM3SndxZVZycUpHUEZFckxVOGtFWHlnWVFyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "date": "Thu, 05 Feb 2026 15:36:56 GMT",
+        "tag": "هسته‌ای",
+        "tag_color": "warning",
         "sentiment": 0.0
     },
     {
@@ -362,6 +270,49 @@
         "date": "Thu, 05 Feb 2026 14:57:11 GMT",
         "tag": "سیاسی",
         "tag_color": "primary",
+        "sentiment": 0.1
+    },
+    {
+        "title_fa": "یک جت نظامی تخصصی آمریکایی آخرین هواپیمایی است که در خاورمیانه ردیابی شده، در حالی که تقویت حضور نظامی ادامه دارد.",
+        "title_en": "Specialist US military jet latest to be tracked in Middle East as build-up continues",
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJdnN0QmJRb2hMUk51elprX0JLZzFJN2F5UzJYMXdlTGFCY0Rpbml2YzQxQ1kxc0VTT1lWTWRLVU5FYlc5SGQyeFBvX2Nab0FEYUFpeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "date": "Thu, 05 Feb 2026 16:24:38 GMT",
+        "tag": "نظامی",
+        "sentiment": -0.3
+    },
+    {
+        "title_fa": "ایران و آمریکا بر سر ترور نیابتی و موشک های بالستیک مذاکره می کنند",
+        "title_en": "Iran, US to negotiate over proxy terror, ballistic missiles",
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2NTkzVEJId2hiUGx6azcxNUlmQWRkMkVaZVBfRHh0OGFzNGRTMGRWdHFwUEg5R2piVjNBR1pNVU1QR1RIR0x5MzAxLVhVYnUyMC05Z2N3MXNVVjRBU2dVak5EWVRnUVRTVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "date": "Thu, 05 Feb 2026 12:24:39 GMT",
+        "tag": "نظامی",
+        "tag_color": "danger",
+        "sentiment": 0.0
+    },
+    {
+        "title_fa": "چه باید دانست که ایران و آمریکا برای مذاکرات هسته ای در عمان آماده می شوند؟",
+        "title_en": "What to know as Iran and US set for nuclear talks in Oman",
+        "source": "ABC News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmlUcEp6cUlkMF9Td2w0Y3A3ZGtCWkpNbE5RNzRzUjI5RXprQ2NXbEJTNkFXZTlfNm44QTNGT01LdzRIMUZaZHBBVHpIT2V1NHdYQ0F0dm5JdjhwTTlyY1hacnN1N2czMGNOT2F3dTBYZlZKeEhyUW1udVFPcS1xNW9rSXJNMFltd0HSAY8BQVVfeXFMUF9SRXUxTndrcVV3c3ZrRXNOTkEwcExuendlNXE0dlZHaWlFOXkyNnNhRjV1SmtFNHdHS09qQms1UzZCWHRJbk5WczRGTldzak9NUGs3ZksxSjdWSWktRnRMYUp4VzFWdGI4YVR2ZXRKb3A2VENjcURBRzQtMmk1aDQ0alFwczBleklXbEE2MlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "date": "Thu, 05 Feb 2026 08:13:52 GMT",
+        "tag": "هسته‌ای",
+        "tag_color": "warning",
+        "sentiment": 0.0
+    },
+    {
+        "title_fa": "با نزدیک شدن به مذاکرات، ترامپ می گوید ایران تلاش کرده برنامه هسته ای خود را از سر بگیرد",
+        "title_en": "As negotiations near, Trump says Iran attempted to restart nuclear program",
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUFRb3JjVl8zeC1yeDVKRno2QTczSUZESVhVeEZFQzUyTGtIMlB4VjhuSlFkbUtZVFNxR0htSEpXYXVoWTJYa3o4TmVtdExaeXR3TmhUc09kZVFxSEpFTTh1dDN1UERqd1JvcWZOTXFjcFlvRHIwLUNIQ2F6TXRGQXdTWmp3cmhId2d2VWlUVEx0aTBDdElFZllzczJwTUd2dllpaVoyb1ZzbDNaaThDbmN5VDZldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "date": "Thu, 05 Feb 2026 05:01:53 GMT",
+        "tag": "هسته‌ای",
+        "tag_color": "warning",
         "sentiment": 0.1
     },
     {
@@ -396,17 +347,6 @@
         "tag": "سیاسی",
         "tag_color": "primary",
         "sentiment": 1.0
-    },
-    {
-        "title_fa": "ویدئوی مذاکرات هسته ای آمریکا و ایران در عمان",
-        "title_en": "Video US and Iran to hold nuclear talks in Oman",
-        "source": "ABC News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM253blJIUC1YeDFBYkRuOGlhaFFWM1hsUGprb01vYlR5cXo4YjMtQVhTczNzbUswVkM4dUFDTXZXbmtyMVZVdDlvWHNzZXpIUk5wdm1ZS2xyQ0tCb3duUndNQkJYSHNtXzVPVXk0TjV3UGJPWjlWdDllazJzMTYxclJPekRyYzM0RTM2Rg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 15:03:33 GMT",
-        "tag": "هسته‌ای",
-        "tag_color": "warning",
-        "sentiment": 0.0
     },
     {
         "title_fa": "گفت‌وگوهای ایران و آمریکا بر محور هسته‌ای، با موضوعات گسترده‌تر نیز روی میز",
@@ -472,28 +412,6 @@
         "date": "Thu, 05 Feb 2026 10:56:14 GMT",
         "tag": "سیاسی",
         "tag_color": "primary",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "فراتر از بحران: اختلافات پایدار بین ایالات متحده و ایران",
-        "title_en": "Beyond the Crisis: The Enduring Disputes Between the U.S. and Iran",
-        "source": "Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLURUdF9YOFhtLXhKcnV6Snc2Y29iM2g3QkctWTdHVEdFTHFYSzUyZEdpZlQ4cjZTeV9JMDRBZFpRRTNNZ040R2Q3alM4RENWTVZMblJBcHVjVEYwcVNLN0VpTU1fOTNCaDhoMnRENmlMenpERWZSd1FIdjVhd1ZORlVfNjdjczBxMS1UV2hrbl9rN3ZlT2s5dGJxSW1oOVhzNXRPU0lR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "date": "Thu, 05 Feb 2026 15:30:00 GMT",
-        "tag": "سیاسی",
-        "tag_color": "primary",
-        "sentiment": 0.0
-    },
-    {
-        "title_fa": "آمریکا و ایران بر سر مذاکرات هسته ای توافق کردند",
-        "title_en": "US and Iran agree to nuclear talks",
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5RjFIVU0yNzdubnRfR3BFR21RN00xTnVVZEpqazc3NjEyQy13R1h4M3BxaGNpNTYxZ0lXb1lraDFwR0hCNGtHV29TRHdNMjFRRWY2MmM3SndxZVZycUpHUEZFckxVOGtFWHlnWVFyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-        "date": "Thu, 05 Feb 2026 15:36:56 GMT",
-        "tag": "هسته‌ای",
-        "tag_color": "warning",
         "sentiment": 0.0
     },
     {
