@@ -6,3 +6,4 @@ lxml_html_clean
 deep-translator
 textblob
 beautifulsoup4
+fake-useragent
