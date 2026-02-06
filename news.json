@@ -1,5 +1,39 @@
 [
     {
+        "title_fa": "آیا مذاکرات جدید هسته‌ای بین آمریکا و ایران در راه است؟",
+        "title_en": "New nuclear talks between US, Iran?",
+        "summary": [
+            "اظهارات اخیر نشان می‌دهد احتمال از سرگیری مذاکرات هسته‌ای بین تهران و واشنگتن مطرح است، اما هیچ توافق زمانی یا محتوایی قطعی اعلام نشده است.",
+            "مباحث احتمالی شامل بازگشت آمریکا به برجام، رفع تحریم‌ها و تضمین‌های نظارتی بر برنامه هسته‌ای ایران خواهد بود.",
+            "کشورهای منطقه و بازیگران جهانی تحولات را رصد می‌کنند زیرا هر پیشرفتی می‌تواند پیامدهای سیاسی، امنیتی و اقتصادی گسترده‌ای داشته باشد."
+        ],
+        "impact": "آغاز یا حتی اعلان مذاکرات می‌تواند به کاهش تنش‌ها، تأثیر بر قیمت انرژی و بازتعریف مناسبات منطقه‌ای و بین‌المللی منجر شود.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZGRLaEozUFJQNVN1QkwtVDJwOGYwX2xwZmNsMV9XdF94cmNWZHFIdHNBQUZaMVNYQ2sweEJKdU54blFucUFHTjEwUDZHTmRmYVNoUV9CekZZQWczSko3OG5VQU5RZDUzRmkzOS1SS2RSRmRzODhNOXkwQmVRZmtUMl81Y0VwNnRrUVJMNEVaWkJCZ1FINUt4aVdySkdab2NfWUHSAacBQVVfeXFMTnFKZHdDT2QzUkNpLUhYcFlZckJDMXlJcmRnWTJBQnVlXzgyQjVqVFVFRFVOemQ3Mk1DSnVQOFRwQS1HUDRZa2oxZ3BQbVdXdHlwUmpkLWUxeEhYdWxZYUFxaklKRURlMjBGc2x4X0Q5T3ZkSXVBTXk1X2EySEVYRmpJVjc2eWNqdXp4OTd1RGJyMzNabC05X25DOU5RWGVCMGtRUnYyZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Fri, 06 Feb 2026 23:31:00 GMT",
+        "timestamp": 1770420660.0
+    },
+    {
+        "title_fa": "ایران و آمریکا گفتگوهای غیرمستقیم در عمان درباره برنامه هسته‌ای تهران",
+        "title_en": "Iran and US hold indirect talks in Oman about Tehran's nuclear program",
+        "summary": [
+            "گفتگوهای غیرمستقیم میان ایران و آمریکا در عمان درباره برنامه هسته‌ای تهران برگزار شد.",
+            "مذاکرات از طریق واسطه‌ها انجام می‌شود و دو طرف به‌صورت مستقیم دیدار نمی‌کنند.",
+            "این تماس‌ها می‌تواند زمینه‌ساز مذاکرات گسترده‌تر یا کاهش تنش‌ها باشد، اما نتیجه نهایی نامشخص است."
+        ],
+        "impact": "این گفت‌وگوها می‌تواند مسیر احیای دیپلماسی و کاهش تنش‌ها را هموار کند، اما دستیابی به توافق نهایی نیازمند اراده سیاسی و حل مشکلات فنی است.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "cbs19.tv",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmk1aXo5QVh1TUlzaldvdW5telBEV3ltYlBhWmFtdHMyWUZMM19na0U5LXpqSU43R21lQVVOMTBzMXlRUGFSOGQzMTY0aU93akxrdnRTM1BEd3JsZUJCU3BSbS1xMUkxMU91bVNmdnNxRFdnbFYyMFhNa3pQNl9MdTljdm5sU0tYTjJkOEl4RG81Z0hjdVg2MFI3WWlrX0lyeTBZYl9SX3FBUEV2MGZ2WGJQaHh0N2ZnQUhhc1ZKbTNZTV9qeHR5YnNjemM1cndlX09vR1h0RVVmMm5YT0JHMW5B?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Fri, 06 Feb 2026 23:28:50 GMT",
+        "timestamp": 1770420530.0
+    },
+    {
         "title_fa": "آتش‌سوزی در پایتخت ایران مهار شد",
         "title_en": "Fire in Iran's capital Tehran extinguished",
         "summary": [
@@ -15,6 +49,23 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tcktrRVRjaGZWUUhWdEgxUXpHWXVKSUkxRExVU0dUOE1faDRHZkw5TC1hX2tESC1VYkN5U1FUakN0Tm44dDBpODQzUGtyYTc0ekJ0dFREcjVPYVh2ejU3UTB0eDlNdWE1R3c?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Fri, 06 Feb 2026 23:15:26 GMT",
         "timestamp": 1770419726.0
+    },
+    {
+        "title_fa": "دیپلمات: ایران در مذاکرات با آمریکا از پایان غنی‌سازی سرباز زد؛ توان موشکی مطرح نشد",
+        "title_en": "Diplomat: At talks with US, Iran refuses to end enrichment; missile capabilities not discussed",
+        "summary": [
+            "یک دیپلمات اعلام کرده ایران حاضر نیست غنی‌سازی اورانیوم را متوقف کند.",
+            "در مذاکرات بین آمریکا و ایران درباره برنامه هسته‌ای، موضوع قابلیت‌های موشکی ایران مطرح یا مذاکره نشده است.",
+            "این گزارش نشان می‌دهد موضوع هسته‌ای و موشکی به‌صورت جداگانه باقی مانده و مسیر احیای توافق هسته‌ای پیچیده است."
+        ],
+        "impact": "این موضع ایران شانس دستیابی به یک توافق جامع هسته‌ای را کاهش می‌دهد و می‌تواند به تشدید تنش‌ها در منطقه بینجامد.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNclJJU2dScU1OV2QwMmJDQzluUEVHb3VsaXpQRThjYzU5Z2RuZ2tRNXF4aHlKTWZaOWpVcFM1WHY3WWQ3UGhnWG53Vi1xZ1lTV05Pem4xWjlhbExSZ1QyZGZ1Y2E3YTQ4VTAyaGlwRnBXQ0tyYlF3ZHBDcXRoUV9uM1pwSTBBdnFfYkZYR29vUnVIMGxSQlZxX29pOGlyYnI5NXAzNGZlVEhRM2pNVlNZeNIBtgFBVV95cUxNa0dGUkREVThnaDZ0N2ljV3F5NXlkQTlDVFdnX1NZOEU4dkM5U2pTQXN3OTVXQ2Y0MFF1MENYelVqenBtRHItNmVWVlExelhwdWxVMHM2RnVNNWppSTJCNWxRTXNCSFRMUkVRWHgxanFPdk5kbjUxOTgyWE1QbkVlYkxhdlNKRW9jTjZNYWluQ2JpRE5RRUdSdFNfQjlGZWtxVnhmUG9HLXQ3WTV2OEJYOEM0X3JIUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Fri, 06 Feb 2026 23:13:00 GMT",
+        "timestamp": 1770419580.0
     },
     {
         "title_fa": "ترامپ بر کشورهای واردکننده از ایران تعرفه وضع کرد؛ هم‌زمان مذاکرات هسته‌ای از سر گرفته شد",
@@ -1719,71 +1770,5 @@
         "image": null,
         "date": "Fri, 06 Feb 2026 08:10:00 GMT",
         "timestamp": 1770365400.0
-    },
-    {
-        "title_fa": "آمریکا و ایران پس از هشت ماه مذاکرات هسته‌ای را در عمان از سر گرفتند؛ تهدیدات جنگی در افق",
-        "title_en": "US, Iran resume nuclear talks in Oman after eight-month pause, with war threats looming",
-        "summary": [
-            "مذاکرات هسته‌ای بین آمریکا و ایران پس از وقفه هشت ماهه در عمان از سر گرفته شد.",
-            "این گفت‌وگوها در حالی انجام می‌شود که اظهارات درباره احتمال اقدام نظامی و تهدید به جنگ شدت گرفته‌اند.",
-            "فرصت دیپلماتیک ولی شکننده‌ای ایجاد شده که می‌تواند به کاهش تحریم‌ها یا تشدید بحران منطقه‌ای بیانجامد."
-        ],
-        "impact": "از سرگیری مذاکرات برای ایران امکان کاهش فشار اقتصادی و پیشبرد توافق هسته‌ای را فراهم می‌کند، اما وجود تهدیدات نظامی و بی‌اعتمادی می‌تواند به تشدید ریسک‌های منطقه‌ای و کاهش فضای دیپلماسی منجر شود.",
-        "tag": [
-            "نظامی",
-            "هسته‌ای",
-            "اقتصادی",
-            "سیاسی",
-            "اجتماعی"
-        ],
-        "sentiment": -0.4,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhRGJ1NC1qRURVS3pidG1oYV9QazRPVjVSOEJFX2E3b2ptcFI2Z1FfOERBRjR1bjlxUGpwVGowcnRaamY4LVFONEJ5RW1VR2U0QzV3eEx3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "date": "Fri, 06 Feb 2026 07:56:34 GMT",
-        "timestamp": 1770364594.0
-    },
-    {
-        "title_fa": "آمریکا و ایران پس از هشت ماه مذاکرات هسته‌ای را در عمان از سر گرفتند؛ تهدیدات جنگی در افق",
-        "title_en": "US, Iran resume nuclear talks in Oman after eight-month pause, with war threats looming",
-        "summary": [
-            "مذاکرات هسته‌ای بین آمریکا و ایران پس از وقفه هشت ماهه در عمان از سر گرفته شد.",
-            "این گفت‌وگوها در حالی انجام می‌شود که اظهارات درباره احتمال اقدام نظامی و تهدید به جنگ شدت گرفته‌اند.",
-            "فرصت دیپلماتیک ولی شکننده‌ای ایجاد شده که می‌تواند به کاهش تحریم‌ها یا تشدید بحران منطقه‌ای بیانجامد."
-        ],
-        "impact": "از سرگیری مذاکرات برای ایران امکان کاهش فشار اقتصادی و پیشبرد توافق هسته‌ای را فراهم می‌کند، اما وجود تهدیدات نظامی و بی‌اعتمادی می‌تواند به تشدید ریسک‌های منطقه‌ای و کاهش فضای دیپلماسی منجر شود.",
-        "tag": [
-            "نظامی",
-            "هسته‌ای",
-            "اقتصادی",
-            "سیاسی",
-            "اجتماعی"
-        ],
-        "sentiment": -0.4,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhRGJ1NC1qRURVS3pidG1oYV9QazRPVjVSOEJFX2E3b2ptcFI2Z1FfOERBRjR1bjlxUGpwVGowcnRaamY4LVFONEJ5RW1VR2U0QzV3eEx3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "date": "Fri, 06 Feb 2026 07:56:34 GMT",
-        "timestamp": 1770364594.0
-    },
-    {
-        "title_fa": "رسانه‌های ایران: گفت‌وگوهای هسته‌ای میان آمریکا و ایران در عمان آغاز شد",
-        "title_en": "U.S. and Iran Begin Nuclear Talks in Oman, Iranian Media Report",
-        "summary": [
-            "تماس‌های دیپلماتیک مستقیم بین واشینگتن و تهران در عمان گزارش شده است.",
-            "تمرکز مذاکرات بر مسائل هسته‌ای و احتمال کاهش تنش‌ها و تحریم‌ها است.",
-            "اطلاعات اولیه از منابع ایرانی است؛ ماهیت و دامنه توافقات هنوز نامشخص باقی مانده است."
-        ],
-        "impact": "آغاز این مذاکرات می‌تواند فضای دیپلماتیک برای کاهش ریسک نظامی، کاهش فشارهای اقتصادی و امکان دستیابی به توافق هسته‌ای یا مؤلفه‌هایی از آن را برای ایران فراهم کند.",
-        "tag": [
-            "هسته‌ای",
-            "سیاسی"
-        ],
-        "sentiment": 0.35,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR01PU0RXcXZmaDF5SW5MYi10U0U2dE05NnljbllaVGVoT2V6WUUtN3dLNlFIVkJzUFhPTjhtcE5RZzV5TFhQd3FrWG5tdVFPWnNnUUk3MnpmdkFnTENyMmh3bFBGMmtsbGFwNTBWd2ktTk9Sc2Z3aUcxZ3lHX0paelROYUduQl9MdDJSM3VBejlQLWFzNFJmM29FMnp4Y0ZoaGpQamFmOHQ3ZWhHOVN0MjJDVldlVGU1TmhNR3h4aU5HdDlYeUFEVGdtWEM0Y1Z4dnRHMWVFOHJjYTZpeGMwU2FteU44ZkRBSmhhZ3RIWFluZGQxQW1xclpnSDhxbi1DSUQ4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "date": "Fri, 06 Feb 2026 07:53:00 GMT",
-        "timestamp": 1770364380.0
     }
 ]
