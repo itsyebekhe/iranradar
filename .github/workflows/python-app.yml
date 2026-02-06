@@ -2,7 +2,7 @@ name: Iran Radar Update
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Runs every 2 hours
+    - cron: '*/15 * * * *' # Runs every 15 minutes
   workflow_dispatch:      # Allows manual run
 
 permissions:
@@ -27,10 +27,10 @@ jobs:
 
       - name: Run News Script
         env: 
-          # THIS IS THE IMPORTANT PART
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          # CHANGED: The key must be TG_CHANNEL_ID to match python os.environ.get
+          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }} 
         run: python main.py
 
       - name: Commit and Push Changes
@@ -38,8 +38,8 @@ jobs:
           git config --global user.name "IranRadarBot"
           git config --global user.email "bot@noreply.github.com"
           
-          # Add the history file and the json database
-          git add sent_news.txt news.json market.json
+          # CHANGED: Removed sent_news.txt (we use news.json for history now)
+          git add news.json market.json
           
-          # Commit only if there are new news items
+          # Commit only if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update news feed" && git push)
