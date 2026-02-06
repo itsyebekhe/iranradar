@@ -17,7 +17,7 @@ CONFIG = {
     'SEARCH_QUERY': 'Iran AND (Israel OR USA OR nuclear OR conflict OR sanctions OR currency OR IRGC)',
     'LANGUAGE': 'en',
     'COUNTRY': 'US',
-    'PERIOD': '4h',
+    'PERIOD': '1h',
     'MAX_RESULTS': 10,  # LIMITED TO 10 AS REQUESTED
     'FILES': {
         'NEWS': 'news.json',
