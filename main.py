@@ -3,7 +3,7 @@ import json
 import time
 import logging
 import requests
-import urllib.parse
+import html
 import concurrent.futures
 from datetime import datetime
 from dateutil import parser
@@ -20,8 +20,11 @@ CONFIG = {
     'MAX_RESULTS': 30,
     'FILES': {
         'NEWS': 'news.json',
-        'MARKET': 'market.json',
-        'HISTORY': 'seen_news.txt'
+        'MARKET': 'market.json'
+    },
+    'TELEGRAM': {
+        'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'), 
+        'CHANNEL_ID': os.environ.get('TG_CHANNEL_ID') 
     },
     'TIMEOUT': 20,
     'MAX_WORKERS': 4,
@@ -34,8 +37,11 @@ logger = logging.getLogger()
 class IranNewsRadar:
     def __init__(self):
         self.ua = UserAgent()
-        self.seen_urls = self._load_seen()
         self.api_key = CONFIG['POLLINATIONS_KEY']
+        
+        # Load existing data to check for duplicates
+        self.existing_news = self._load_existing_news()
+        self.seen_urls = {item.get('url') for item in self.existing_news if item.get('url')}
 
     def _get_headers(self):
         return {
@@ -44,14 +50,62 @@ class IranNewsRadar:
             'Referer': 'https://www.google.com/',
         }
 
-    def _load_seen(self):
-        if not os.path.exists(CONFIG['FILES']['HISTORY']): return set()
-        with open(CONFIG['FILES']['HISTORY'], 'r', encoding='utf-8') as f:
-            return set(f.read().splitlines())
+    def _load_existing_news(self):
+        """Loads the JSON file to use as history."""
+        if not os.path.exists(CONFIG['FILES']['NEWS']):
+            return []
+        try:
+            with open(CONFIG['FILES']['NEWS'], 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return data if isinstance(data, list) else []
+        except Exception as e:
+            logger.error(f"Error loading news.json: {e}")
+            return []
 
-    def _save_seen(self, new_urls):
-        with open(CONFIG['FILES']['HISTORY'], 'a', encoding='utf-8') as f:
-            for url in new_urls: f.write(url + '\n')
+    # --- TELEGRAM SENDER ---
+    def send_to_telegram(self, item):
+        token = CONFIG['TELEGRAM']['BOT_TOKEN']
+        chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
+
+        if not token or not chat_id:
+            logger.warning("Telegram credentials missing.")
+            return
+
+        # Prepare Data with HTML escaping
+        title_fa = html.escape(item.get('title_fa', 'News Update'))
+        url = item.get('url', '')
+        summary_list = item.get('summary', [])
+        impact = html.escape(item.get('impact', ''))
+        tag = html.escape(item.get('tag', 'General'))
+        
+        # Format Bullet points
+        summary_text = "\n".join([f"• {html.escape(s)}" for s in summary_list])
+
+        # Construct Message HTML
+        # Title is linked, Analysis is quoted, Preview disabled
+        message_html = (
+            f"<b><a href='{url}'>{title_fa}</a></b>\n\n"
+            f"<blockquote>{summary_text}\n\n"
+            f"🎯 <b>تأثیر:</b> {impact}</blockquote>\n\n"
+            f"#{tag.replace(' ', '_')}"
+        )
+
+        api_url = f"https://api.telegram.org/bot{token}/sendMessage"
+        payload = {
+            "chat_id": chat_id,
+            "text": message_html,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True 
+        }
+
+        try:
+            resp = requests.post(api_url, json=payload, timeout=10)
+            if resp.status_code != 200:
+                logger.error(f"Telegram Error {resp.status_code}: {resp.text}")
+            else:
+                logger.info(f" -> Sent to Telegram: {title_fa[:20]}")
+        except Exception as e:
+            logger.error(f"Telegram Exception: {e}")
 
     # --- 1. MARKET DATA ---
     def fetch_market_rates(self):
@@ -69,14 +123,13 @@ class IranNewsRadar:
         except: pass
         return {"usd": "N/A", "updated": "--:--"}
 
-    # --- 2. SCRAPER (TEXT ONLY - NO IMAGES) ---
+    # --- 2. SCRAPER ---
     def scrape_article(self, url):
         try:
             resp = requests.get(url, headers=self._get_headers(), timeout=10)
             final_url = resp.url
             soup = BeautifulSoup(resp.text, 'html.parser')
             
-            # Remove junk to get clean text
             for tag in soup(["script", "style", "nav", "footer", "header", "aside", "figure", "img"]): 
                 tag.extract()
             
@@ -117,7 +170,8 @@ class IranNewsRadar:
             }, timeout=30)
             if resp.status_code == 200:
                 raw = resp.json()['choices'][0]['message']['content']
-                return json.loads(raw.replace("```json", "").replace("```", "").strip())
+                clean_raw = raw.replace("```json", "").replace("```", "").strip()
+                return json.loads(clean_raw)
         except Exception as e:
             logger.error(f"AI Error: {e}")
         return None
@@ -125,21 +179,24 @@ class IranNewsRadar:
     # --- PROCESSOR ---
     def process_item(self, entry):
         orig_url = entry.get('url')
-        if orig_url in self.seen_urls: return None
+        
+        # Check against existing news.json URLs (before scraping)
+        if orig_url in self.seen_urls: 
+            return None
 
         raw_title = entry.get('title', '').rsplit(' - ', 1)[0]
         publisher_name = entry.get('publisher', {}).get('title', 'Source')
         
-        # A. Scrape (Text Only)
         real_url, full_text = self.scrape_article(orig_url)
-        if real_url in self.seen_urls: return None
+        
+        # Check against existing news.json URLs (after scraping/redirect)
+        if real_url in self.seen_urls: 
+            return None
 
-        # B. Analyze
         ai = self.analyze_with_ai(raw_title, full_text)
         if not ai: 
             ai = {"title_fa": raw_title, "summary": ["تحلیل در دسترس نیست"], "impact": "بررسی نشده", "tag": "عمومی", "sentiment": 0}
 
-        # C. Time
         try:
             ts = parser.parse(entry.get('published date')).timestamp()
         except:
@@ -154,14 +211,12 @@ class IranNewsRadar:
             "sentiment": ai.get('sentiment'),
             "source": publisher_name,
             "url": real_url,
-            "image": None, # Force No Image
             "date": entry.get('published date'),
-            "timestamp": ts,
-            "_orig_url": orig_url
+            "timestamp": ts
         }
 
     def run(self):
-        logger.info(">>> Radar Started (No Images Mode)...")
+        logger.info(">>> Radar Started (History via news.json)...")
         
         # 1. Market
         with open(CONFIG['FILES']['MARKET'], 'w') as f: json.dump(self.fetch_market_rates(), f)
@@ -170,39 +225,46 @@ class IranNewsRadar:
         try:
             results = GNews(language=CONFIG['LANGUAGE'], country=CONFIG['COUNTRY'], 
                            period=CONFIG['PERIOD'], max_results=CONFIG['MAX_RESULTS']).get_news(CONFIG['SEARCH_QUERY'])
-        except: return
+        except Exception as e:
+            logger.error(f"GNews failed: {e}")
+            return
 
         new_items = []
-        seen_updates = []
 
+        # 3. Process
         with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIG['MAX_WORKERS']) as exc:
             futures = {exc.submit(self.process_item, i): i for i in results}
             for fut in concurrent.futures.as_completed(futures):
                 res = fut.result()
                 if res:
-                    seen_updates.extend([res.pop('_orig_url'), res['url']])
                     new_items.append(res)
                     logger.info(f" + Processed: {res['title_en'][:20]}")
 
-        # 3. Clean & Save
+        # 4. Send & Save
         if new_items:
-            try:
-                with open(CONFIG['FILES']['NEWS'], 'r') as f: old = json.load(f)
-            except: old = []
+            # Sort for Telegram sending (oldest first)
+            new_items.sort(key=lambda x: x.get('timestamp', 0))
 
-            # Clean old data (Simplified - no image checking needed)
-            clean_old = []
-            for item in old:
-                # Only check if summary exists (AI success)
-                if 'summary' in item:
-                    clean_old.append(item)
-
-            combined = new_items + clean_old
-            combined.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+            logger.info(f"Sending {len(new_items)} new items...")
             
-            with open(CONFIG['FILES']['NEWS'], 'w') as f: json.dump(combined[:50], f, indent=4)
-            self._save_seen(seen_updates)
-            logger.info(">>> Database Updated.")
+            for item in new_items:
+                self.send_to_telegram(item)
+                time.sleep(2) # Avoid rate limits
+
+            # Update Database
+            # We add new items to existing_news, sort by Newest First, and slice to keep size manageable
+            updated_list = new_items + self.existing_news
+            updated_list.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+            
+            # Keep last 100 items to ensure history for deduplication is sufficient
+            final_list = updated_list[:100] 
+
+            with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
+                json.dump(final_list, f, indent=4, ensure_ascii=False)
+            
+            logger.info(">>> News.json updated.")
+        else:
+            logger.info(">>> No new news found.")
 
 if __name__ == "__main__":
     IranNewsRadar().run()
