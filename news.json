@@ -1,5 +1,22 @@
 [
     {
+        "title_fa": "آمریکا و ایران مذاکرات حساس در عمان را به پایان رساندند؛ آنچه باید بدانید",
+        "title_en": "US and Iran conclude high-stakes talks in Oman. Here’s what to know",
+        "summary": [
+            "مذاکرات سطح‌بالا در عمان میان نمایندگان آمریکا و ایران برای بررسی راه‌های کاهش تنش‌ها و مسائل دوجانبه و منطقه‌ای برگزار شد.",
+            "طرفین تا این لحظه هیچ توافق رسمی و گسترده‌ای را اعلام نکرده‌اند؛ احتمال پیگیری گفتگوهای فنی، جلسات بعدی یا کانال‌های پنهان دیپلماتیک وجود دارد.",
+            "پیامدهای احتمالی شامل کاهش خطر تشدید نظامی، تأثیر بر تحریم‌ها و امنیت دریایی و امکان اقدامات اعتمادساز مانند تبادل زندانیان است، اما نتایج قطعی هنوز مشخص نیست."
+        ],
+        "impact": "این دور مذاکرات می‌تواند مسیر دیپلماسی را باز کند و خطر تنش‌های منطقه‌ای را کاهش دهد، ولی تحقق هر تأثیری بستگی به مذاکرات آتی و اجرای تعهدات دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "Egypt Independent",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSldmT015SGFJSXZOcmJHeVk3Q0RDMEtHVy1OeUNNRlMtRW1iZm55Y2kyRVBrR2QwQ28xTEQ5QndodEJDd3ZEWkhOMVdERFIxYXhscnJyVVFCam1rZjA5UjJpSzZVMFhHWVFnb28xbUtFQWJIRThZYktXUFVJYWpJVkpqTXM1UnVmS2E2QzVZRFRKY19lR0NqQmhfenQtb1R6?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sat, 07 Feb 2026 09:00:22 GMT",
+        "timestamp": 1770454822.0
+    },
+    {
         "title_fa": "چرا ایران پس از مذاکرات هسته‌ای عمان با انتخاب‌های سخت مواجه است",
         "title_en": "Why Iran is facing hard choices after Oman nuclear talks",
         "summary": [
@@ -1663,21 +1680,5 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnM5RUdOc3NWejgzUlRIMVpZOGIwTjdKM0dTQ3JTZE5tU1dRRXRVZlJDLXlNVFRQNmYyaXk1WGoxU3M5QXREQjlEdUpQNlRrMGpSM3ZPaGNWZjE4Vl8tVjlNaThpNTRHbUxGWnZoRlVNc2ZfRG9rb1lST0EwYUQzNm53bEFWaVk1S1E?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Fri, 06 Feb 2026 16:16:13 GMT",
         "timestamp": 1770394573.0
-    },
-    {
-        "title_fa": "گزارش: ترامپ درباره ایران «اهداف روشنی» ندارد در حالی که مذاکرات هسته‌ای از سر گرفته می‌شود",
-        "title_en": "Trump has 'no clear goals' for Iran as nuclear talks resume: Report",
-        "summary": [
-            "یک گزارش می‌گوید رئیس‌جمهور ترامپ اهداف مشخصی در قبال ایران ندارد، هم‌زمان که مذاکرات هسته‌ای دوباره آغاز می‌شود.",
-            "ابهام در موضع آمریکا می‌تواند موقعیت چانه‌زنی واشنگتن را تضعیف کند و متحدان و طرف‌های مذاکرات را دچار سردرگمی کند.",
-            "نتیجه‌گیری یا تداوم این وضعیت می‌تواند بر ثبات منطقه‌ای و روند دیپلماسی بین‌المللی درباره برنامه هسته‌ای ایران تأثیر بگذارد."
-        ],
-        "impact": "ابهام در اهداف آمریکا می‌تواند مذاکرات را پیچیده‌تر کرده و به بی‌ثباتی منطقه‌ای یا تضعیف اجماع بین‌المللی منجر شود.",
-        "tag": "سیاست",
-        "urgency": 7,
-        "source": "thecradle.co",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NZGJtY0czRmdkdlk0cEdudnpuNXQ1MWlKZ0dxZXhSbG5oYU9QdGc0T1BBTm9iSjhYUjJ1VTVnYVdyQ1MzS2lBY0k4V1hiQk0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Fri, 06 Feb 2026 16:01:19 GMT",
-        "timestamp": 1770393679.0
     }
 ]
