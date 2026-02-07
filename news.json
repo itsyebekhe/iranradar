@@ -1,5 +1,73 @@
 [
     {
+        "title_fa": "افزایش قیمت نفت به‌دلیل نگرانی از احتمال درگیری میان ایران و آمریکا",
+        "title_en": "Oil Prices Rise on Fears of a Potential Conflict Between Iran and the United States",
+        "summary": [
+            "نگرانی‌های ژئوپولیتیکی درباره احتمال تنش نظامی بین ایران و آمریکا باعث افزایش قیمت نفت جهانی شده است.",
+            "معامله‌گران از بیم اختلال احتمالی در عرضه نفت منطقه، به دارایی‌های امن روی می‌آورند و نوسانات در بازار انرژی شدت گرفته است.",
+            "هرگونه تشدید تنش می‌تواند عرضه نفت را محدود کند و بر قیمت‌ها و ثبات بازارهای جهانی انرژی تأثیر بگذارد."
+        ],
+        "impact": "این تحول می‌تواند هزینه‌های انرژی را برای مصرف‌کنندگان و صنایع افزایش داده و فشارهای تورمی جهانی را تقویت کند.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Jordan News",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmRZeVdpdG53eGNvYVRubFhjVlJXeWdKSDM2eXZyS3V1eUZGVnBGQnhTVGhESFV4WHdoZTRRU1EwV25aS0FuS191RE15Y2dKcC1wdjJuUnF2NVBpTFM3ejFzdHJ4Y2ZuSy0yeWUzUHRVWl9HMlMwaUJLcGdjcjVMekJjYVFFTGk4TjBOM01BNVVhM3dKei1DWTJRVVJheTI5Nm1vMi0zbVlpRGVXZ20xS3B5dG9pR0ZndERla2lzZG1CR0N4X3pvVkVCejFwWmdF?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sat, 07 Feb 2026 12:25:30 GMT",
+        "timestamp": 1770467130.0
+    },
+    {
+        "title_fa": "تنش‌های آمریکا و ایران: هیأت ایرانی برای مذاکرات هسته‌ای به مسقط عمان رسید",
+        "title_en": "US-Iran Tensions: Iranian delegation arrives in Oman's capital Muscat for nuclear talks with US",
+        "summary": [
+            "هیأت ایرانی برای گفت‌وگوهای مرتبط با برنامه هسته‌ای به پایتخت عمان، مسقط، وارد شده‌اند تا مذاکراتی با طرف آمریکایی برگزار شود.",
+            "عمان به‌عنوان میانجی منطقه‌ای و میزبان تاریخی گفت‌وگوها نقش واسطه‌ای ایفا می‌کند و بار دیگر محل مذاکرات حساس شده است.",
+            "این دیدار می‌تواند فرصتی برای کاهش تنش‌ها و ازسرگیری مکالمات دیپلماتیک فراهم کند، اما نتیجه و دامنه توافقات هنوز نامشخص است."
+        ],
+        "impact": "این دیدار می‌تواند مسیر احیای گفت‌وگوها، کاهش تنش‌ها و تأثیر بر تحریم‌ها و ثبات منطقه‌ای را هموار کند.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.15,
+        "source": "news.cgtn.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUHYtZzRZU0xuMHVyZGZQR0dUcHRpT2JhZEVBVEZmZTNKclFfQ0NPWDBTSmVPZk02eXlIbDFQQzBibmRsSTJRZkxuaXQwcUpmLUZkTUFRbXZiS2ZOZUJwNVZROFM3OEY1bmlCa0dyZXA2X2w0djhRUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sat, 07 Feb 2026 12:22:02 GMT",
+        "timestamp": 1770466922.0
+    },
+    {
+        "title_fa": "ایران: در صورت حمله آمریکا، پایگاه‌های آمریکایی در خاورمیانه را هدف قرار می‌دهیم",
+        "title_en": "Iran says it will strike American bases in Middle East if US attacks",
+        "summary": [
+            "ایران تهدید کرده که در پاسخ به هر حمله نظامی از سوی آمریکا، پایگاه‌های آمریکایی در خاورمیانه را هدف خواهد گرفت.",
+            "این اظهارات به‌عنوان پیامی بازدارنده برای جلوگیری از اقدام نظامی آمریکا و هشدار درباره افزایش تنش‌ها تعبیر می‌شود.",
+            "پیامدهای احتمالی شامل افزایش خطر برخورد مستقیم میان تهران و واشینگتن، تأثیر بر حضور نظامی آمریکا و تشدید درگیری‌های نیابتی در منطقه است."
+        ],
+        "impact": "این تهدید می‌تواند احتمال تشدید نظامی و بروز برخورد مستقیم بین ایران و آمریکا را بالا برده و ثبات امنیتی خاورمیانه را به خطر اندازد.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUxsWEw5aEk3QktWaFRXZnNZY3VzUU5BRXhBNU1WTkgxejVENWFwVnJoZTAtT3E2NUJtOE9KMm1TWjBZV25vZEI5eVdMWmM0Y0QxeUZwZnl6bVdZa0lxc0R0aFdCLWJRLVRsX2tna2pLc3l3LXVvREd3NWQ5M1R6dmV3ZTNaVGZRaTMwYWJ6cWJlVXZWekMxT1lQdE5menVtekdWQVNFZ2MzY2N0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sat, 07 Feb 2026 12:19:11 GMT",
+        "timestamp": 1770466751.0
+    },
+    {
+        "title_fa": "ترامپ به دیپلماسی با ایران بازمی‌گردد، اما راه باریک است",
+        "title_en": "Trump Reverts to Diplomacy With Iran, but the Road Is Narrow",
+        "summary": [
+            "ترامپ لحن خود را تغییر داده و بار دیگر به مسیر گفت‌وگو با تهران روی آورده، اما جزئیات توافق احتمالی روشن نیست.",
+            "محدودیت‌های سیاسی داخلی در آمریکا، بی‌اعتمادی ایران و مخالفت بازیگران منطقه‌ای مانع گسترش سریع دیپلماسی می‌شوند.",
+            "نتیجه این رویکرد می‌تواند شامل کاهش تحریم‌ها یا مذاکره درباره برنامه هسته‌ای باشد، اما شانس رسیدن به توافق پایدار پایین و پرمخاطره است."
+        ],
+        "impact": "این تغییر موضع می‌تواند پنجره‌ای برای کاهش تنش و بازگشت به مذاکرات هسته‌ای باز کند اما با موانع سیاسی و منطقه‌ای قابل‌توجهی روبه‌رو است.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.05,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnNVMW5sMzhlR1pkeEhlaXV4QVNZaUxGZUZ1N0FWMHJ3Um1YZjZ4RDZ6UFJNOVNvR1o1bTNvbmVwT25yMTlFTk5SX2Z0UElwOUJWMFZaY2lNNlBtdHRQR3ZSZmp2QUJrLTZQMl9neGc5LWNjcEM0clc1OUc0QzlxX2Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sat, 07 Feb 2026 12:10:27 GMT",
+        "timestamp": 1770466227.0
+    },
+    {
         "title_fa": "وزیر خارجه ایران خواهان ازسرگیری مذاکرات هسته‌ای شد اما به آمریکا هشدار داد",
         "title_en": "Iran FM looks to more nuclear talks, but warns US",
         "summary": [
@@ -1628,72 +1696,5 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OazgzMFRJZ3ZPakpoRDlaTEc1eU9aQXhPQzZfSWF5Nmk4ODk5UzhtQ1pEc3VBUDJMeElsMHJuN3dtc0l5UVJNUkVxc01oQ0FWTVhXRHF5RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Fri, 06 Feb 2026 18:52:58 GMT",
         "timestamp": 1770403978.0
-    },
-    {
-        "title_fa": "ترامپ به‌خاطر برنامه هسته‌ای ایران تهدید به جنگ نمی‌کند؛ بلکه به‌خاطر به چالش کشیدن هژمونی آمریکا",
-        "title_en": "Trump is not threatening war on Iran over its nuclear program, but because it challenges U.S. dominance",
-        "summary": [
-            "نویسنده می‌گوید تهدیدات ترامپ علیه ایران عمدتاً مربوط به حفظ و بازتولید هژمونی ایالات متحده در منطقه است، نه صرفاً نگرانی از برنامه هسته‌ای تهران.",
-            "رفتار و گفتار آمریکا به‌عنوان ابزاری برای نشان دادن قدرت و بازدارندگی در برابر رقبا و اطمینان‌بخشی به متحدان تفسیر می‌شود، نه تمرکز صرف بر عدم اشاعه هسته‌ای.",
-            "این رویکرد می‌تواند دیپلماسی را تضعیف کند، به توجیه فشارهای نظامی کمک نماید و ریسک درگیری و بی‌ثباتی در خاورمیانه را افزایش دهد."
-        ],
-        "impact": "این تحلیل نشان می‌دهد که اولویت حفظ هژمونی می‌تواند تنش‌ها را در خاورمیانه تشدید، راه‌های دیپلماتیک را محدود و خطر برخورد نظامی یا بی‌ثباتی منطقه‌ای را افزایش دهد.",
-        "tag": "هژمونی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Mondoweiss",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOFRkVFFSV0VMZ2FVVnlNZkYtOXBDbjBReFRxR21YNjFGLUJkVUxKYWh5UTJWbVZVemhIRFVmMkprWWpzRUxVQ1dEZC1nQU40ZFpSQXlNU3NUbUloOV9EcjMyNnJnSHlselRXaXhINklwWEVZdXJfdFlKNmY0UXVfUWxsUlY2T1dScUtYT25JYmVWM3hQa29VenRZUWtGUi02dlRZeE0zV2EwaF9JMU95MFZyRnhKYkRnZHQzWk5fNFBVNlZlR20zQUp6aTlEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Fri, 06 Feb 2026 18:38:44 GMT",
-        "timestamp": 1770403124.0
-    },
-    {
-        "title_fa": "ایران و آمریکا از سرگیری گفت‌وگوهای هسته‌ای در عمان؛ تنش‌ها همچنان بالا",
-        "title_en": "Iran, U.S. Restart Nuclear Talks in Oman as Tensions Remain High",
-        "summary": [
-            "مذاکرات هسته‌ای میان ایران و ایالات متحده در عمان از سر گرفته شد؛ تلاش‌ها برای بازگشت به توافق یا یافتن چارچوبی جدید ادامه دارد.",
-            "طرفین بر موضوعات کلیدی مانند محدودیت برنامه هسته‌ای، راستی‌آزمایی و رفع تحریم‌ها تمرکز دارند، اما اختلافات عمده حل نشده باقی مانده‌اند.",
-            "با وجود مذاکرات، فضای منطقه‌ای و تنش‌های دیپلماتیک و نظامی بالا است که موفقیت گفتگوها را نامطمئن می‌سازد."
-        ],
-        "impact": "این مذاکرات می‌تواند مسیر پرونده هسته‌ای و معادلات منطقه‌ای را تغییر دهد، اما احتمال دستیابی به توافق در شرایط کنونی نامطمئن است.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "gCaptain",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUlZdksxUEgyTnZvVGJwaGZLdlV6X1hYZXdjc2MxNS0tMjlQRHc4aXFndmwyVDJRdFRhUkk2b0ttdmZ2ZGJuZTlWWUczS2xxNVlxTWFjQ2E5TmVraUNueHUxaVo5OGpzNW8weUQ3MFREUGZFRkNJdFdiSjZ2SHFxekNFWWRzZ1M1UDNnSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Fri, 06 Feb 2026 18:29:20 GMT",
-        "timestamp": 1770402560.0
-    },
-    {
-        "title_fa": "مسؤول ایرانی: مذاکرات هسته‌ای پس از آغاز «خوب» گفت‌وگوها با آمریکا در عمان ادامه می‌یابد",
-        "title_en": "Iranian official says nuclear talks will continue after US, Tehran negotiations had 'a good start' in Oman",
-        "summary": [
-            "یک مقام ایرانی اعلام کرده که مذاکرات هسته‌ای بین تهران و واشینگتن در عمان «آغاز خوبی» داشته و گفتگوها ادامه خواهد یافت.",
-            "جزییات دقیق دیدارها اعلام نشده اما پیام عمومی حاکی از تمایل طرفین به ادامه مذاکرات و پیگیری موضوعات کلیدی است.",
-            "نشست در عمان می‌تواند مقدمه‌ای برای دورهای بعدی گفتگوها درباره بازگشت به توافق هسته‌ای و کاهش تحریم‌ها باشد."
-        ],
-        "impact": "این پیشرفت آغازین احتمال ازسرگیری مذاکرات هسته‌ای و تلاش برای کاهش تنش‌ها و بازگشت به مسیر دیپلماتیک را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkx3cGZWQ3UyUXczdFVtdGlaOGt4VUtIbjhfdVpoN3lnMS1PSmNGNlVXZXhrMGx3cEljZDEzbXNLdGhuSUV3WWVjcXJOT1l6dHU4N0dHb29tUDE3Nm1ZVU1EZXk2M24yZTVyZi1kTGxfWUdWLW01cVB4YzM4dTJlZG1NT0NVVkU4RDAtd093T2hWcWItWFBFNlo3OW5WMDVXZzlGNEJ3OEFIeUxhTU5SLWd1WWtOd1lVUXhuaXpSWFltRG_SAcgBQVVfeXFMUEljMF9CS3R5RlVWN0M4ZWxINzNGYU1wRlhCZ1hGVWxVZXZBV052cXRPbFdLSldvWWw5Rl94eHpUcUI4NU54ZWJGeF9UXzA3dl9EbFhHZUNOVmVyQUJlLWFtU1RTZFNiNHV0UjZhb0tubWhDZ1dCbGY5ajlxc252Z2t6VEdvRU1zX3A0TmtIRTdWSHA5MC1QYk5TZmM0bkNNSlRXQlJxbDE1VHNTeXp4UkY3N0xjUDhmLVlqaXEwNVM0SEFmZFBlV20?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Fri, 06 Feb 2026 18:27:36 GMT",
-        "timestamp": 1770402456.0
-    },
-    {
-        "title_fa": "نیویورک تایمز: تعمیرات سایت موشکی پیشرفته ایران سریع‌تر از تأسیسات هسته‌ای انجام می‌شود",
-        "title_en": "Iran Advanced Missile Site Repairs Faster Than Nuclear Facilities - NYT",
-        "summary": [
-            "نیویورک تایمز گزارش داده است که عملیات تعمیر و بازسازی در یک سایت موشکی پیشرفته ایران سریع‌تر از تأسیسات هسته‌ای این کشور انجام می‌شود.",
-            "سرعت بازسازی نشان‌دهنده توانایی بالای ایران در حفظ و بازیابی قابلیت‌های موشکی است و می‌تواند اثربخشی حملات یا فشارها برای از کار انداختن این سایت‌ها را کاهش دهد.",
-            "گزارش نگرانی‌هایی را درباره پیامدهای نظارتی و نظامی در منطقه برانگیخته است و ممکن است بر محاسبات کشورهای غربی و هم‌پیمانان منطقه‌ای تأثیر بگذارد."
-        ],
-        "impact": "این گزارش می‌تواند نگرانی‌های امنیتی و استراتژیک را افزایش دهد چون بازسازی سریع سایت‌های موشکی توان بازدارندگی ایران را تقویت و گزینه‌های مقابله‌ای را پیچیده‌تر می‌کند.",
-        "tag": "موشکی",
-        "urgency": 7,
-        "source": "Caspian Post",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFk5TEg0clpISWtMWW1yT3BhX1pweUhiR3MwU2M3eUZnREtGSUlhSFQyVXhIdEdQenlVRXNySGJGZ2I5eDBYMlZ2OVVfUUNidUw0MVdaOGNQR0JZYWx4Sk8yc3gwQ3N1bTdBczZnb2lYMldSdDN5SkF1UlIwZzZhRnFpejUzQWZGc3pfakJ2bmE5T29qY09zRmNaSnI4WUU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Fri, 06 Feb 2026 18:14:56 GMT",
-        "timestamp": 1770401696.0
     }
 ]
