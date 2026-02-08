@@ -1,5 +1,56 @@
 [
     {
+        "title_fa": "نقشهٔ هشت‌سالهٔ مخفی سپاه برای کنترل ایران",
+        "title_en": "The IRGC’s secret eight year blueprint to control Iran",
+        "summary": [
+            "گزارش ادعا می‌کند سپاه پاسداران برنامه‌ای هشت‌ساله و سری برای تسلط بر نهادهای سیاسی، امنیتی و اقتصادی کشور تدوین کرده است.",
+            "ابزارها شامل نفوذ در دستگاه‌های دولتی، گسترش حضور در اقتصاد و رسانه‌ها و افزایش سرکوب اعتراضات و مخالفان بالقوه ذکر شده است.",
+            "اجرای چنین برنامه‌ای می‌تواند تعادل قوا را تغییر دهد، فضای مدنی را محدود کند و پیامدهای گسترده‌ای برای روابط بین‌الملل و وضعیت اقتصادی کشور داشته باشد."
+        ],
+        "impact": "در صورت صحت ادعاها، این طرح می‌تواند تمرکز قدرت را به نفع یک نهاد نظامی افزایش داده و باعث تضعیف نهادهای مدنی، افزایش سرکوب و تغییر جهت‌گیری سیاست‌های داخلی و خارجی شود.",
+        "tag": "سپاه",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "JNS.org",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvb3I2SFFmYVhHa05oMkNuRWZJSndRaTY1TmlBeFJxQkl2b0kwSFlFSU9DY3NhZWRPNEJBYWtKTWo1MHlIY041aUgweHFrT3JMOHYzMEc3dXRmc0NpM2lCVGI4bTNFQW1QV19zQ015R0hJNlk0T1pBSktDeTdpZzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sun, 08 Feb 2026 10:30:26 GMT",
+        "timestamp": 1770546626.0
+    },
+    {
+        "title_fa": "پزشکیان مذاکرات هسته‌ای با آمریکا را «گامی رو به جلو» برای تهران خواند",
+        "title_en": "Iran's Pezeshkian calls nuke talks with US 'step forward' for Tehran",
+        "summary": [
+            "پزشکیان ارزیابی خود از گفت‌وگوهای هسته‌ای با آمریکا را «گامی رو به جلو» برای منافع تهران توصیف کرده است.",
+            "این اظهارنظر نشان‌دهنده گرایشی مثبت نسبت به از سرگیری یا پیشرفت گفت‌وگوهای دیپلماتیک میان تهران و واشنگتن است.",
+            "نتایج نهایی منوط به دورهای بعدی مذاکرات و واکنش‌های داخلی و بین‌المللی خواهد بود."
+        ],
+        "impact": "این بیان می‌تواند فضا برای کاهش تنش‌ها و احیای دیپلماسی بین تهران و واشنگتن را باز کند، اما پیشرفت ملموس به نتایج مذاکرات آتی بستگی دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.35,
+        "source": "TRT World",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nTEtXdFlRemZqM0FwSUdLc1MtMTFqNkZNd2w2TWVscjNQN2h6RWZTdFFmR2xoeHNWWmhjd1pQUlV4RDU4R3hfYXlaVEdsZTB4cmQ1ZXNGbTDSAV5BVV95cUxOdU5KV2RNOGt2MGJhNHp6RDNKLXRlM3MzMmtiaXhkSlFjU2NiSmpZbUhYZ0NxSUw3MjNBSmQ1V19pSkdSamZDeFlXUXBFTzBBaEY5MnVhNW9HY3oxOXhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sun, 08 Feb 2026 10:18:13 GMT",
+        "timestamp": 1770545893.0
+    },
+    {
+        "title_fa": "از سرگیری شکننده مذاکرات هسته‌ای میان واشنگتن و تهران",
+        "title_en": "Iran nuclear talks: Fragile resumption of discussions between Washington and Tehran",
+        "summary": [
+            "مذاکرات هسته‌ای میان ایالات متحده و ایران پس از وقفه‌ای کوتاه به‌طور شکننده از سر گرفته شده‌اند.",
+            "طرفین هنوز به توافق مشخصی نرسیده‌اند و جزییات نشست‌ها و پیشرفت‌ها نامشخص باقی است.",
+            "این گفت‌وگوها پیامدهایی برای تحریم‌ها، نظارت بین‌المللی و ثبات منطقه‌ای خواهند داشت."
+        ],
+        "impact": "این گفت‌وگوها می‌توانند مسیر بازگشت به توافق هسته‌ای، وضعیت تحریم‌ها و ثبات منطقه‌ای را تعیین کنند.",
+        "tag": "مذاکرات",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Le Monde.fr",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb3ZuM2dCV0RJQjk3Z3VGWHNDcWpDbzVKbVpPMDJsZGk3d1lHUEZxOFB5SVdXNGJwVHNKVE9DdWVKZkhQdndvSTRSNWlEb0YzYmExcnV6UjJjalBrcjE4bHRuRjN4UTBiZjM1akpEem9lS0FvSUhlXzd6NV9wZ2xOcG1WU0FDejVxZi1lbkNIRTlKNE1qWUlyUGRzSFFMUHUwSTBsbHJ0SGg1ZFoxQ2paZ1lRTTI5ZWd4OGJkZEZyYWZSTUFzekI0Tnp1LWtnRGZhQ0VMNVFZeFBYdFc5YjdXUmkycW44OUFyTUZ2OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sun, 08 Feb 2026 09:58:17 GMT",
+        "timestamp": 1770544697.0
+    },
+    {
         "title_fa": "مذاکرات هسته‌ای با رویکردی محتاطانه و ارزیابی‌محور ادامه دارد",
         "title_en": "Nuclear Negotiations Proceed with a Cautious, Evaluative Approach",
         "summary": [
@@ -1645,56 +1696,5 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGlJWXdUdkFnMWhUOTlXV2s4cHl5YWZHWlBpX1dUZVV2RGtNcElhczBGZDNna3pSblEzUUwzU0JpUUVmMVhteDBfWFduV2ZmVU5QRDhTdHBNVkFZOC03N0h1eEpJT0VKZW5DQUFlLVQwWjAwbTN1eXViZzdKUEM4anNPZVlNbXV0eWMzSmhWN2ZQNjA2NEJGWkNENndkVTJJVVdibkpQOGN3R2lnaS1OQ1pjd3JSc2I2Rmhr?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Sat, 07 Feb 2026 09:53:07 GMT",
         "timestamp": 1770457987.0
-    },
-    {
-        "title_fa": "وزیر خارجه ایران اسرائیل را به «دکترین سلطه» متهم کرد",
-        "title_en": "Iran FM criticizes Israel for ‘doctrine of domination’",
-        "summary": [
-            "وزیر امور خارجه ایران اسرائیل را به پیروی از «دکترین سلطه» و تلاش برای اعمال نفوذ و تسلط متهم کرد.",
-            "او سیاست‌ها و رفتارهای اسرائیل را عاملی برای تشدید تنش و بی‌ثباتی در منطقه دانست.",
-            "این اظهارات می‌تواند واکنش‌های دیپلماتیک و بین‌المللی را برانگیزد و مناسبات منطقه‌ای را تحت تأثیر قرار دهد."
-        ],
-        "impact": "این موضع‌گیری احتمالاً تنش‌ها را در منطقه تشدید و فضای دیپلماتیک را محدود خواهد کرد.",
-        "tag": "خارجی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Arab News PK",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwRXR5X3dZTDlfaHphSlBTVlVVREl3TWRNSWo5eEFLc3Y3aFg5cDJHd1NiblZoVmIxZnctRDJkaEZ0dHJUb1JFSGo5Szg3eTNQWEVDdTR4c3c0WUwz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sat, 07 Feb 2026 09:40:10 GMT",
-        "timestamp": 1770457210.0
-    },
-    {
-        "title_fa": "عراقچی: اسرائیل به همسایگان ضعیف نیاز دارد",
-        "title_en": "Iranian FM Araghchi says Israel 'requires weak neighbours'",
-        "summary": [
-            "عراقچی، دیپلمات ارشد ایران، با انتقاد از سیاست‌های منطقه‌ای اسرائیل گفت این کشور «به همسایگان ضعیف نیاز دارد».",
-            "او این اظهارات را در چارچوب رقابت قدرت و نفوذ در خاورمیانه مطرح کرده که به مواضع امنیتی و سیاسی بازمی‌گردد.",
-            "این نوع اظهارنظرها می‌تواند تنش‌های دیپلماتیک میان ایران، اسرائیل و کشورهای همسایه را تحت‌تأثیر قرار دهد."
-        ],
-        "impact": "این سخنان احتمالاً فضای تنش و رقابت منطقه‌ای را تشدید کرده و بر روندهای دیپلماتیک و روابط میان دولت‌ها تأثیر خواهد گذاشت.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92RU01b3FfcGhMcU1PVDY3SnY5RGFHVDVuRmJfRDBqeG14NUtRYmRiWDJ3VVNiSmpEM1RpYUx3VmJmUk1walVMNzlNX3VZZ3ozZWRLWmdfOVJYTTFkVGVGZGF6V3d0TC0ybUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sat, 07 Feb 2026 09:24:13 GMT",
-        "timestamp": 1770456253.0
-    },
-    {
-        "title_fa": "عراقچی: «پروژه توسعه‌طلبانه» اسرائیل به دنبال تضعیف خاورمیانه است",
-        "title_en": "Israel’s 'expansionist project' aims weakend Middle East, Iran's Araghchi says",
-        "summary": [
-            "علی باقری‌کنی/عراقچی اسرائیل را متهم کرد که از طریق یک «پروژه توسعه‌طلبانه» در پی تضعیف ثبات و امنیت منطقه است.",
-            "او هشدار داد که چنین سیاست‌هایی می‌تواند تنش‌ها را افزایش داده و به بی‌ثباتی سیاسی و نظامی در خاورمیانه بینجامد.",
-            "این اظهارات احتمالاً مسیر دیپلماسی ایران را تقویت کرده و تلاش‌ها برای جلب حمایت منطقه‌ای و بین‌المللی علیه گسترش نفوذ اسرائیل را تشدید می‌کند."
-        ],
-        "impact": "این ادعاها می‌توانند به افزایش تنش‌های منطقه‌ای کمک کنند و دیپلماسی و اقدامات امنیتی را برای مقابله با آن فعال‌تر سازند.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "TRT World",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeXZaU3F1UklHNG10VzFpSmNTM0s0QTZtdHlyV1lOWncyU2hLT3JCZzFxalRIN1FvbWcyUHJLVWd5ZjRQZWx1dzVlSWRTOFVaWVBuSEdMNHN5V2pqTklNc2RfX1ZEZUVNNHZTQ285MWdTbUhsRTJGMjZkdnVzOGdMbkNmLTdla2N4Rm9HdlV1ZTRlUVFjMFR0bHRjRnBtd3JSWjFDSFRuLUZ0bV9IQmFCemJ6ZDhrUHNFazAwQU9DdWxXN3V5QjRTSFRza3NRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sat, 07 Feb 2026 09:10:31 GMT",
-        "timestamp": 1770455431.0
     }
 ]
