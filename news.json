@@ -1,5 +1,90 @@
 [
     {
+        "title_fa": "چرا ترامپ معامله هسته‌ای سخت‌گیرانه‌تر با ایران را به جنگ ترجیح می‌دهد",
+        "title_en": "Why Trump prefers a tougher Iran nuclear deal over conflict",
+        "summary": [
+            "محاسبات سیاسی و انتخاباتی و تمایل به حفظ میراث «فشار حداکثری» ترامپ را به دنبال توافقی با شرایط سخت‌تر از جمله محدودیت‌های طولانی‌تر و بازرسی‌های شدیدتر سوق می‌دهد.",
+            "هزینه‌های انسانی، اقتصادی و ژئوپلیتیکی جنگ—از جمله افزایش قیمت نفت و ریسک گسترش درگیری—او را به انتخاب گزینه دیپلماتیک ترجیحی تشویق می‌کند.",
+            "تحریم‌ها و ابزارهای دیپلماتیک به ترامپ امکان می‌دهد فشار و اهرم را حفظ کند و در عین حال از پیامدهای مستقیم نظامی و مسئولیت بین‌المللی اجتناب ورزد."
+        ],
+        "impact": "رویکرد به توافق سخت‌تر احتمال کاهش خطر جنگ مستقیم را بالا می‌برد اما می‌تواند تنش‌های دیپلماتیک و فشار اقتصادی بر ایران را افزایش دهد و پیامدهایی برای بازار انرژی و ثبات منطقه داشته باشد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PQi1pZ3Q4Mno1elBhSGxjNjNaSlJRRk01MkZSeHltdU1zRmlWVElhUkhHRzdkbHRWNWQ5RGhET0EwNERUaXo0Z0lVZ0E5VGZQWThhbDAyNUlSZWdKN3VQTThZRFhrSTlYSjZhbGl3TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sun, 08 Feb 2026 17:32:25 GMT",
+        "timestamp": 1770571945.0
+    },
+    {
+        "title_fa": "اسرائیل آمادگی حملات یک‌جانبه علیه ایران را اعلام کرد",
+        "title_en": "Israel signals readiness for unilateral strikes on Iran",
+        "summary": [
+            "اسرائیل اعلام کرده که آماده انجام حملات نظامی یک‌جانبه علیه ایران است.",
+            "این اعلام می‌تواند تنش‌ها در منطقه را تشدید کرده و پیامدهای دیپلماتیک و امنیتی به دنبال داشته باشد.",
+            "انتظار می‌رود ایران، بازیگران منطقه‌ای و جامعه بین‌الملل واکنش نشان داده و سطح آماده‌باش نظامی افزایش یابد."
+        ],
+        "impact": "این پیام می‌تواند موجب تشدید فوری تنش‌های منطقه‌ای، تحت‌الشعاع قرار گرفتن مذاکرات دیپلماتیک و بالا رفتن ریسک درگیری نظامی شود.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "شفق نيوز",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDIwMXdDWjl6LXI4YmFZWEw1dERXX3d5S2pLQjc0aDc2Y3lZV1NQV3FZVGV1d0JVaGFSSXBJNi13b2kxVUJnX3BiUFdpOWhOWnJWdTNZbHlyZzlCaWxlRUJ4bGM3V1hvWjRlY3ZMcHUzWFp4clRBdnhVODlzeEhfU2MwWGZYLTdyb2RqalhQNDEwbzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sun, 08 Feb 2026 17:28:11 GMT",
+        "timestamp": 1770571691.0
+    },
+    {
+        "title_fa": "صدور حکم ۷ سال زندان دیگر برای برنده نوبل، نرگس محمدی",
+        "title_en": "Iran Sentences Nobel Laureate Narges Mohammadi to 7 More Years in Prison",
+        "summary": [
+            "دادگاه ایران نرگس محمدی را به ۷ سال زندان دیگر محکوم کرد.",
+            "نرگس محمدی، برنده جایزه نوبل و فعال برجسته حقوق بشر و حقوق زنان، هدف این حکم قرار گرفته است.",
+            "انتظار می‌رود این حکم با محکومیت‌های بین‌المللی، فشارهای دیپلماتیک و تشدید سرکوب فعالان مدنی همراه شود."
+        ],
+        "impact": "این حکم می‌تواند موجی از محکومیت بین‌المللی و فشار بر جمهوری اسلامی ایجاد کند و اثری بازدارنده بر جامعه مدنی و مدافعان حقوق بشر داشته باشد.",
+        "tag": "حقوق‌بشر",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Jakarta Globe",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2VTUGVOZkUxbG1ob1puT1JaRHF1SUF1WHczTlJoN0tHYjRDQmhYWDJmMFhiOFNRdGNYNE50ZUkwWlpoa0hyNmhTSWNmSXNPRS1qOVRka2poaVRmWWxaQlhvdTVsQ3k1OEZoNmY5SVYycXZMaDRhU1NqQkhPc243TXFPZTdFRGpHSC0zZTRIMEtZWGdpRFAtdlpMOThMR19tT3pJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sun, 08 Feb 2026 17:19:00 GMT",
+        "timestamp": 1770571140.0
+    },
+    {
+        "title_fa": "نتانیاهو ترامپ را برای مطرح‌کردن خواسته‌ها درباره مذاکرات با ایران تحت فشار قرار می‌دهد",
+        "title_en": "Netanyahu 'to press Trump with demands on Iran talks'",
+        "summary": [
+            "نتانیاهو قصد دارد از رئیس‌جمهور آمریکا بخواهد که خواسته‌های اسرائیل را در مذاکرات با ایران پیگیری کند.",
+            "این فشار می‌تواند موضع آمریکا در گفتگوهای مربوط به برنامه هسته‌ای و شروط خروح یا بازنویسی توافق را تشدید کند.",
+            "تحرک دیپلماتیک احتمال افزایش تنش‌های منطقه‌ای و واکنش‌های تند از سوی ایران و بازیگران بین‌المللی را بالا می‌برد."
+        ],
+        "impact": "اقدام نتانیاهو می‌تواند موضع آمریکا را در مذاکرات با ایران سخت‌تر کند، شانس حصول توافق را کاهش دهد و تنش‌های منطقه‌ای را افزایش دهد.",
+        "tag": "بین‌الملل",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The New Arab",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCd0Etd2dtem1QSXBfMW0tb2p0YWN3LXdQWnliUnZjd011V0plaXI3dmZmZnJWcDJJV0ZMbEY3WS0zMnRTVnBZR2xmOFpzSHE1SjBmYThZRXVxMGdLMW1kX3lacFVGLWpkN2VETzhhNk44SFZoVlU0bdIBfkFVX3lxTE9JSm9wcG5uZFVzaXg0Rks0Ylc0T3NGSXZaWlNkODJxSHh1YXhEbW9QSm1UVEJ5WjNtLVNsUUVHTVVIMGp2TzEyakI4WngtMXI3Q3M5aVlzMV9nbFY2TUt2b3hFWW5IS1lSdURqWERzSm1Lcm5FTl91WmJzbHE5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sun, 08 Feb 2026 17:09:53 GMT",
+        "timestamp": 1770570593.0
+    },
+    {
+        "title_fa": "ایران: به‌رسمیت‌شناختن غنی‌سازی شرط کلیدی مذاکرات هسته‌ای با آمریکا",
+        "title_en": "Iran says enrichment recognition key to nuclear talks with US",
+        "summary": [
+            "ایران اعلام کرده که شناسایی حق غنی‌سازی اورانیوم از سوی آمریکا شرط اصلی برای ادامه مذاکرات هسته‌ای است.",
+            "این موضع می‌تواند روند مذاکرات برای احیای برجام یا توافق‌های موقت را تحت‌تأثیر قرار دهد.",
+            "پافشاری تهران ممکن است باعث پیچیده‌تر شدن گفتگوها درباره رفع تحریم‌ها و جزئیات فنی شود."
+        ],
+        "impact": "این خواسته می‌تواند احتمال پیشرفت سریع در مذاکرات و روند تسهیل تحریم‌ها را کاهش داده و به بن‌بست دیپلماتیک بینجامد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXJkREVHNUZ3Mm9ZV29VUC1ZbEJfN3h6aUVsSnJhZDVUOWZDbE1YbThlZWpldVFUZnlWNGd3X3kwUlVHTDc5c2hEa0JJNEZ1R1VTUTBJd2RIbGlqLVdBX0lxbThfSjFtUnAxOVhXNmpFa0hYb1NObWdKWmRxTnZ5SEp0dmpwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Sun, 08 Feb 2026 17:03:29 GMT",
+        "timestamp": 1770570209.0
+    },
+    {
         "title_fa": "نماینده کنگره کلاودیا تِنی: تحلیل تنش‌های آمریکا و ایران در بحبوحه مذاکرات هسته‌ای در عمان",
         "title_en": "Rep. Claudia Tenney analyzes US-Iran tensions amid crucial nuclear talks in Oman",
         "summary": [
@@ -1613,90 +1698,5 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2pqQnB4X0JwTGNwYnFoLXBMZlA1cFlaRGxzYTJmZnlNbUNKV2lPZllGemRvYUVTalpCM2tMbWhuaGctYXpmRXB5WC1IUkVvUWRRNjE2cTM2eTNzV0RWbEdGVk9KdzZfR3pXTE5kTHoxSFAwdjVybGM2VFhFcXFTb3BsSVV2ckVHd0s0?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Sat, 07 Feb 2026 17:26:39 GMT",
         "timestamp": 1770485199.0
-    },
-    {
-        "title_fa": "ایرانِ آزاد از نخست‌وزیر اسرائیل استقبال خواهد کرد",
-        "title_en": "A free Iran would welcome Israel’s prime minister",
-        "summary": [
-            "بیان اصلی: در صورت تحقق «ایران آزاد» امکان عادی‌سازی روابط و استقبال رسمی از رهبران اسرائیل مطرح می‌شود.",
-            "پیامدها: چنین دیدگاهی می‌تواند مناقشه‌های داخلی را تشدید کند و واکنش‌های منطقه‌ای و بین‌المللی را برانگیزد.",
-            "مقصود حامیان: تأکید بر تغییر بنیادین در سیاست خارجی ایران، اولویت دادن به دیپلماسی و حقوق بشر است."
-        ],
-        "impact": "این ادعا می‌تواند مباحث درباره جهت‌گیری آینده سیاست خارجی ایران را فعال کرده و هم حمایت‌های داخلی برای همکاری و هم مخالفت‌های شدید را به دنبال داشته باشد.",
-        "tag": "روابط",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmRjc1h0MmJRY0RYeDBpU2FLeWpTbHc0dm15ZEIzMzZ2T0FaQWVKcjlXd2FkeVBMSmZUQ19LaERNNXg5X1hpdy1RWUZQM1NocHRWeFBNRHFCeTZpMWhjQ2JwMG1FNHV0aEdCRTkzeDZzTEFKVklReU41dXNjamxGVWVRVFhrLWZO?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sat, 07 Feb 2026 17:24:00 GMT",
-        "timestamp": 1770485040.0
-    },
-    {
-        "title_fa": "ترامپ: گفت‌وگوهای بسیار خوبی با ایران درباره توافق هسته‌ای",
-        "title_en": "Trump: ‘Very good talks’ with Iran on nuclear agreement",
-        "summary": [
-            "دونالد ترامپ اعلام کرد که با ایران «گفت‌وگوهای بسیار خوبی» درباره توافق هسته‌ای داشته است.",
-            "جزئیات محتوای مذاکرات، طرف‌های حاضر و گام‌های بعدی تاکنون اعلام نشده است.",
-            "این اظهارنظر می‌تواند نشان‌دهنده آغاز یا پیشرفتی در روند دیپلماسی بین آمریکا و ایران باشد و احتمالاً واکنش‌های سیاسی و بازارها را برمی‌انگیزد."
-        ],
-        "impact": "خبر می‌تواند مسیر مذاکرات هسته‌ای و سیاست‌های منطقه‌ای را تحت‌تأثیر قرار دهد و فشار سیاسی داخلی و بین‌المللی را افزایش دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EWmlibjlqX0QxV002anVnTk5KM0JrcWxGVEhxQWo1N3pDb0NnSXJ0a3NYXzlCUUhBdGtOTjZKd2NLSVJBUm9pbkY0bWVnQkJFY0I5Zy01Mno2QkFpSDdoSHBQNXhRd1hXUmhpMGpIUkI3QnNDOExWcGdjOWtzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sat, 07 Feb 2026 17:07:06 GMT",
-        "timestamp": 1770484026.0
-    },
-    {
-        "title_fa": "ترامپ: مذاکرات هسته‌ای در عمان «بسیار خوب» بود؛ ایران «بشدت» خواهان توافق است",
-        "title_en": "Trump says nuclear talks in Oman were ‘very good,’ claims Iran wants a deal ‘very badly’",
-        "summary": [
-            "دونالد ترامپ گفت مذاکرات مربوط به برنامه هسته‌ای ایران که در عمان برگزار شد «بسیار خوب» بوده است.",
-            "ترامپ مدعی شد ایران «بشدت» خواهان رسیدن به توافق است.",
-            "این اظهارات می‌تواند نشان‌دهنده پیشرفت دیپلماتیک احتمالی یا تلاشی برای جهت‌دهی به روایت عمومی درباره گفت‌وگوها باشد."
-        ],
-        "impact": "اگر ادعاهای ترامپ صحت داشته باشد، پیشرفت در مذاکرات می‌تواند به کاهش تنش‌ها در خلیج فارس و احیای گفت‌وگوهای هسته‌ای منتهی شود.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "930 WFMD Free Talk",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXJwSkZZYXNtLVk1b3VGZF9rTGJueXBkcloxZ282WnlDMUhJR1lKNmVJYmNxRGkxYTJqUzlBeS1jcFF0dHNLZ0Q2OHJ0RDRhRk9mYTZ2NlRDa1EwWHlxZW50dEJOS2NqZ1NUd2Q2WUZaa0hFME1EYnlxM3lxdm1oamtwWmZTT0p1b3h4TnEtZVVPTDhqRnowaTk4S0NqME5ZY2QzUmtDX20xSHNKYlV5YnRkcnZPZ3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sat, 07 Feb 2026 16:59:15 GMT",
-        "timestamp": 1770483555.0
-    },
-    {
-        "title_fa": "عراقچی: برنامه موشکی ایران غیرقابل مذاکره است",
-        "title_en": "Araghchi Says Iran’s Missile Program Is Non-Negotiable",
-        "summary": [
-            "عراقچی تصریح کرده است که برنامه موشکی جمهوری اسلامی موضوعی نیست که تحت مذاکره قرار گیرد.",
-            "این موضع می‌تواند به افزایش تنش‌ها با کشورهای غربی و طرف‌های درگیر در مذاکرات بینجامد.",
-            "اظهارات احتمالاً بر روند مذاکرات هسته‌ای، سیاست فشار تحریمی و مواضع منطقه‌ای ایران تأثیر خواهد گذاشت."
-        ],
-        "impact": "بیانیه عراقچی می‌تواند دور جدیدی از تنش سیاسی و دیپلماتیک با غرب را تشدید کرده و مسیر مذاکرات و فشارهای تحریمی را پیچیده‌تر کند.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "Caspian Post",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3V4NGhNQ2tPMVJVVl9ldWhkWExvRzNPTjZ4WjJHVUpLYzMxelM3Y3JCRnFrRWVkY2NBazFlbTVRWlZ6SFc0NlQxaV8wQmhfVFpGTkFNaEpBWlNPTzZOV0xQVlVsYUI5M1g3dXZ4Z2NVSFBlY2FOeDBlNDF4YUFuT29lQ253Qlh2MkZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sat, 07 Feb 2026 16:42:23 GMT",
-        "timestamp": 1770482543.0
-    },
-    {
-        "title_fa": "ایران هشداری سردکننده صادر کرد؛ آمریکا همزمان توان نظامی و دیپلماسی را به‌کار گرفت",
-        "title_en": "Iran Sends Chiilling Warning as US Deploys Muscle With Diplomacy",
-        "summary": [
-            "آمریکا با تقویت حضور نظامی در منطقه و همزمان پیگیری راهکارهای دیپلماتیک، تلاش می‌کند فشار را مدیریت کند.",
-            "ایران هشداری قاطع و بازدارنده صادر کرده که تلویحاً به پاسخ نظامی یا اقدامات انتقامی اشاره دارد.",
-            "این تلاقی زورآزمایی نظامی و دیپلماسی خطر اشتباه محاسبه، تشدید تنش منطقه‌ای و تأثیر منفی بر بازار انرژی و امنیت کشتیرانی را افزایش می‌دهد."
-        ],
-        "impact": "احتمال افزایش بی‌ثباتی منطقه‌ای و اختلال در بازارهای انرژی و مسیرهای دریایی حیاتی بالا رفته است.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Kashmir Observer",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjF3aHhnZzlnVjVPQTJNYXY1bTFzdGZqX2RUSk1JckRtVnF2R1lYYnNTQ3lpbG8xZDhnUWtOLWh1NDJDODlzUTRpZ0V1UWY3bjg4QlJ1M0ktcGJUZFhGREp0XzZwMW5oRk5ycy1UNkVRQTgtbGoyb19KZHRzaVNwMHJVWTAyVDRPNk44N184anUyTkNGQU8wRVBTbE8xdmQ5NmRtdmdJUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sat, 07 Feb 2026 16:38:17 GMT",
-        "timestamp": 1770482297.0
     }
 ]
