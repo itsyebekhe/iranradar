@@ -1,5 +1,73 @@
 [
     {
+        "title_fa": "جی.دی. ونس درباره مذاکرات هسته‌ای ایران در کنفرانس خبری صحبت کرد",
+        "title_en": "JD Vance addresses Iran nuclear talks during press conference",
+        "summary": [
+            "سناتور جی.دی. ونس در یک کنفرانس خبری به روند مذاکرات هسته‌ای با ایران پرداخت.",
+            "او در سخنان خود بر نگرانی‌های امنیتی و ضرورت شفافیت و نظارت در مذاکرات تاکید کرد.",
+            "این اظهارات می‌تواند بر تصمیم‌گیری قانون‌گذاران و جهت‌گیری سیاست خارجی آمریکا نسبت به توافق‌ها تاثیر بگذارد."
+        ],
+        "impact": "اظهارات ونس احتمالاً فضای سیاسی داخلی آمریکا و تصویر کنگره نسبت به هر توافق هسته‌ای با ایران را تحت تاثیر قرار می‌دهد.",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UY1BSdTZILUszOHpxMmJjaldNVW9jV09sX3JCNDRNRFhGa2dNRmM5LXE4ZGhSNlEwcnFoOVl6ak5rTm5hWTNiUERuWGE3OS02ZlhXWmFhYWJ2Yk5oZTRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Mon, 09 Feb 2026 23:12:26 GMT",
+        "timestamp": 1770678746.0
+    },
+    {
+        "title_fa": "مبارزه واقعی: نیروهای نیابتی ایران",
+        "title_en": "The Real Fight: Iran’s Proxies",
+        "summary": [
+            "ایران از شبکه‌ای از بازیگران نیابتی (حزب‌الله، شبه‌نظامیان عراقی، انصارالله یمن، گروه‌های سوری و افغان و غیره) برای افزایش نفوذ و بازدارندگی منطقه‌ای استفاده می‌کند.",
+            "خط‌مشی نیابتی منجر به حملات نامتقارن، هدف‌گیری مسیرهای دریایی و مرزها، و چرخه‌ای از تعرضات و تلافی‌ها شده که امنیت منطقه و دیپلماسی را پیچیده می‌کند.",
+            "واکنش‌های خارجی (مانند حملات محدود ارتش‌های آمریکا و اسرائیل، تحریم‌ها و تلاش برای قطع تأمین مالی و تسلیحاتی) ریسک تشدید و تبدیل درگیری‌های محلی به بحران گسترده‌تر را بالا برده‌اند."
+        ],
+        "impact": "فعالیت گسترده و هماهنگ گروه‌های نیابتی ایران پویایی امنیتی منطقه را پیچیده کرده و خطر تشدید درگیری‌های فرامرزی و اختلال در مسیرهای حیاتی اقتصادی را افزایش می‌دهد.",
+        "tag": "پروکسی‌ها",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "الحرة",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93SG9mcXpsMmJJN3lwR2EzWFNIWXY4MkJiaWNIU2REbmhxRXRtZEZ0ZTdkNnUyOHptcmMwUEQxX3ZMdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Mon, 09 Feb 2026 22:34:43 GMT",
+        "timestamp": 1770676483.0
+    },
+    {
+        "title_fa": "تیم حقیقت‌یاب: آیا ایران در حال بازسازی تأسیسات هسته‌ای است؟",
+        "title_en": "Fact Check Team: Is Iran rebuilding their nuclear sites?",
+        "summary": [
+            "ادعا: گمانه‌زنی‌هایی مطرح شده که ایران در حال بازسازی یا بازتوانی گسترده تأسیسات هسته‌ای خود است.",
+            "شواهد موجود: تصاویر ماهواره‌ای و گزارش‌های رسانه‌ای مواردی از تعمیرات و توسعه موضعی را نشان می‌دهند اما هیچ شواهد مستقل و تأییدشده‌ای از بازسازی گسترده همه سایت‌ها وجود ندارد؛ آژانس بین‌المللی انرژی اتمی همچنان نظارت و گزارش‌دهی می‌کند.",
+            "نتیجه‌گیری: وضعیت فعلی نیازمند بررسی مستمر و مدارک بیشتر است؛ ادعاها تا زمان ارائه شواهد قطعی قابل‌تأیید نیستند و برخی گزارش‌ها ممکن است اغراق یا برداشت نادرست باشند."
+        ],
+        "impact": "در صورت اثبات بازسازی گسترده، این موضوع می‌تواند مذاکرات هسته‌ای، تحریم‌ها و تنش‌های منطقه‌ای را تشدید کند.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "WJLA",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGZpMXBBWnJZa212Ylo0RmxBbWNqVGg2Z2Z2NXlfNkhEQ1FGQXRHbmlIR3M3VEc3Z1JJNGhlZjJHVWdpRVhsVS1BRUZjMkNtcWNDdkhPQ2ZmZUdkbTlaNnZhMDhlOGVEOG4wanFobzNfUHU1LW9QWjdOb3JhS1BudUNKZjlnaWV5VUdQWmVKemphazFwaFR3ZDNGcDBDeW5SbEoxSHFTTnBXTGxkUW5rV2VGNUJrSjhaaXRiYk56c2JvclVOVUxuOEdHSTF6V3dq?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Mon, 09 Feb 2026 22:28:13 GMT",
+        "timestamp": 1770676093.0
+    },
+    {
+        "title_fa": "تیم بررسی واقعیت: آیا ایران در حال بازسازی سایت‌های هسته‌ای خود است؟",
+        "title_en": "Fact Check Team: Is Iran rebuilding their nuclear sites?",
+        "summary": [
+            "ادعا: در شبکه‌ها و برخی گزارش‌ها مطرح شده که ایران در حال «بازسازی کامل» یا از صفر بازسازیِ سایت‌های هسته‌ای خود است.",
+            "شواهد: تصاویر ماهواره‌ای و گزارش‌های آژانس بین‌المللی انرژی اتمی نشان‌دهنده تعمیرات، توسعه یا ساخت بخش‌هایی در سایت‌هایی مانند نطنز و فردو و افزایش ظرفیت غنی‌سازی است؛ اما این شواهد بازسازی همه‌جانبه و سریِ همه سایت‌ها را ثابت نمی‌کنند.",
+            "نتیجه فکت‌چک: بخشی از ادعا — تعمیرات و توسعه و بازگشت فعالیت‌ها — تأیید شد، اما برچسب «بازسازی کامل و همگانی» اغراق‌آمیز است و شواهد قطعی از یک بازسازی پنهانی و سراسری وجود ندارد؛ نظارت محدود آژانس باعث ابهام باقی می‌ماند."
+        ],
+        "impact": "این موضوع می‌تواند تنش‌های منطقه‌ای و مذاکرات دیپلماتیک را تشدید کند زیرا هم افزایش فعالیت هسته‌ای و هم ابهامات نظارتی بر اعتماد بین‌المللی تأثیر منفی دارد.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "thenationaldesk.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTEk2ME5rLVVqZ2NSd1ctTHNKR0s1c3c2Q09FRzlhSE96czFFQ1lWZ1pKc3FjOEtXNXZkVGlFQVAtMGhXSHl4NW1kTXE5OEJVeFQxSzhVQTZfZFVyS2g2Z3NmY18wejBkR2tCaURudGc5Mklud2NXRG1xM252azdsOWlFUWFjNnpKUXBYQTk1aWVrNjM1M3FTVzhqdVBIcnJXelpuajlUZWJFek8zUVdNTlo3dV8tekJYRWI0SThDY2pYZFhvNERKMHBMbUdLUy1xTUhrM2tPSjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Mon, 09 Feb 2026 22:23:24 GMT",
+        "timestamp": 1770675804.0
+    },
+    {
         "title_fa": "دیدگاه | ایران ضعیف‌تر یعنی اسرائیل منزوی‌تر",
         "title_en": "Opinion | A Weak Iran Means a More Isolated Israel",
         "summary": [
@@ -1626,73 +1694,5 @@
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWVpWME1veElEdkpZNm9DVGJxbVhyMlhCcVVOYUpxeHRfemhjRjJGRFBHSUQ1Uk5QQlREU0ExdUwxSGtkOTB1cTRoVUkzSjFsRWRWZElLYVpkcHc4QnEtdmZ2eEhtZDAtM1poVS1IbVFYUjl5bmdNc05Nb2JIX1UwY3Q3dkd1NjgxbzNfY1dTbnlqV2VRbFBpQThzX1NaVUFtMTVYRUN6czdFZUhoeXk0VEw1VFdjVTM0enA2bEh0WDBrSVhFRUZydmplb19fdF9lQzJzOEtSTVBwZVN0SEwtbC03bDhCbXBIeU93QjR0RnZybk1yN1JzY3RxdXIwS1RVYUtOS1lhVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Sun, 08 Feb 2026 18:16:00 GMT",
         "timestamp": 1770574560.0
-    },
-    {
-        "title_fa": "آمریکا از ایران خواست در مذاکرات هسته‌ای بعدی امتیاز بیاورد",
-        "title_en": "US tells Iran to bring concessions to next nuclear talks",
-        "summary": [
-            "واشنگتن از تهران خواسته در دور بعدی مذاکرات هسته‌ای امتیازاتی ارائه کند تا پیشرفت ملموسی به دست آید.",
-            "این موضع نشان‌دهنده فشار آمریکا برای رسیدن به توافق سریع‌تر است و احتمالا محور گفت‌وگوها برنامه هسته‌ای و کاهش یا تعلیق تحریم‌ها خواهد بود.",
-            "واکنش ایران به این درخواست می‌تواند مسیر مذاکرات و سطح تنش‌های منطقه‌ای را تعیین کند؛ عدم توافق ممکن است به تشدید فشارهای اقتصادی یا افزایش تنش‌ها منجر شود."
-        ],
-        "impact": "این درخواست می‌تواند مذاکرات را تحت فشار قرار دهد و در صورت عدم حصول توافق، راه را برای تشدید تحریم‌ها و افزایش تنش در منطقه باز کند.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40bnIxbWFmY1U4QjBZdlpxekhuZWxwUXRBVXRydmltT1M1ZmtXQURHY1Y0aEdqWGhsVFVWQW4zenZUdVktcEtOVFhiMEF2TW1WZFBJdGdhVEhqMlYtaHN3NUl6MXQ4bURySlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sun, 08 Feb 2026 18:12:48 GMT",
-        "timestamp": 1770574368.0
-    },
-    {
-        "title_fa": "چرا ترامپ معامله هسته‌ای سخت‌گیرانه‌تر با ایران را به جنگ ترجیح می‌دهد",
-        "title_en": "Why Trump prefers a tougher Iran nuclear deal over conflict",
-        "summary": [
-            "محاسبات سیاسی و انتخاباتی و تمایل به حفظ میراث «فشار حداکثری» ترامپ را به دنبال توافقی با شرایط سخت‌تر از جمله محدودیت‌های طولانی‌تر و بازرسی‌های شدیدتر سوق می‌دهد.",
-            "هزینه‌های انسانی، اقتصادی و ژئوپلیتیکی جنگ—از جمله افزایش قیمت نفت و ریسک گسترش درگیری—او را به انتخاب گزینه دیپلماتیک ترجیحی تشویق می‌کند.",
-            "تحریم‌ها و ابزارهای دیپلماتیک به ترامپ امکان می‌دهد فشار و اهرم را حفظ کند و در عین حال از پیامدهای مستقیم نظامی و مسئولیت بین‌المللی اجتناب ورزد."
-        ],
-        "impact": "رویکرد به توافق سخت‌تر احتمال کاهش خطر جنگ مستقیم را بالا می‌برد اما می‌تواند تنش‌های دیپلماتیک و فشار اقتصادی بر ایران را افزایش دهد و پیامدهایی برای بازار انرژی و ثبات منطقه داشته باشد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PQi1pZ3Q4Mno1elBhSGxjNjNaSlJRRk01MkZSeHltdU1zRmlWVElhUkhHRzdkbHRWNWQ5RGhET0EwNERUaXo0Z0lVZ0E5VGZQWThhbDAyNUlSZWdKN3VQTThZRFhrSTlYSjZhbGl3TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sun, 08 Feb 2026 17:32:25 GMT",
-        "timestamp": 1770571945.0
-    },
-    {
-        "title_fa": "اسرائیل آمادگی حملات یک‌جانبه علیه ایران را اعلام کرد",
-        "title_en": "Israel signals readiness for unilateral strikes on Iran",
-        "summary": [
-            "اسرائیل اعلام کرده که آماده انجام حملات نظامی یک‌جانبه علیه ایران است.",
-            "این اعلام می‌تواند تنش‌ها در منطقه را تشدید کرده و پیامدهای دیپلماتیک و امنیتی به دنبال داشته باشد.",
-            "انتظار می‌رود ایران، بازیگران منطقه‌ای و جامعه بین‌الملل واکنش نشان داده و سطح آماده‌باش نظامی افزایش یابد."
-        ],
-        "impact": "این پیام می‌تواند موجب تشدید فوری تنش‌های منطقه‌ای، تحت‌الشعاع قرار گرفتن مذاکرات دیپلماتیک و بالا رفتن ریسک درگیری نظامی شود.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "شفق نيوز",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDIwMXdDWjl6LXI4YmFZWEw1dERXX3d5S2pLQjc0aDc2Y3lZV1NQV3FZVGV1d0JVaGFSSXBJNi13b2kxVUJnX3BiUFdpOWhOWnJWdTNZbHlyZzlCaWxlRUJ4bGM3V1hvWjRlY3ZMcHUzWFp4clRBdnhVODlzeEhfU2MwWGZYLTdyb2RqalhQNDEwbzA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sun, 08 Feb 2026 17:28:11 GMT",
-        "timestamp": 1770571691.0
-    },
-    {
-        "title_fa": "صدور حکم ۷ سال زندان دیگر برای برنده نوبل، نرگس محمدی",
-        "title_en": "Iran Sentences Nobel Laureate Narges Mohammadi to 7 More Years in Prison",
-        "summary": [
-            "دادگاه ایران نرگس محمدی را به ۷ سال زندان دیگر محکوم کرد.",
-            "نرگس محمدی، برنده جایزه نوبل و فعال برجسته حقوق بشر و حقوق زنان، هدف این حکم قرار گرفته است.",
-            "انتظار می‌رود این حکم با محکومیت‌های بین‌المللی، فشارهای دیپلماتیک و تشدید سرکوب فعالان مدنی همراه شود."
-        ],
-        "impact": "این حکم می‌تواند موجی از محکومیت بین‌المللی و فشار بر جمهوری اسلامی ایجاد کند و اثری بازدارنده بر جامعه مدنی و مدافعان حقوق بشر داشته باشد.",
-        "tag": "حقوق‌بشر",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Jakarta Globe",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2VTUGVOZkUxbG1ob1puT1JaRHF1SUF1WHczTlJoN0tHYjRDQmhYWDJmMFhiOFNRdGNYNE50ZUkwWlpoa0hyNmhTSWNmSXNPRS1qOVRka2poaVRmWWxaQlhvdTVsQ3k1OEZoNmY5SVYycXZMaDRhU1NqQkhPc243TXFPZTdFRGpHSC0zZTRIMEtZWGdpRFAtdlpMOThMR19tT3pJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Sun, 08 Feb 2026 17:19:00 GMT",
-        "timestamp": 1770571140.0
     }
 ]
