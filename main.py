@@ -6,7 +6,7 @@ import cloudscraper
 import html
 import re
 import concurrent.futures
-from datetime import datetime, timedelta, timezone # <--- UPDATED IMPORT
+from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 from gnews import GNews
 from fake_useragent import UserAgent
@@ -18,7 +18,7 @@ CONFIG = {
     'LANGUAGE': 'en',
     'COUNTRY': 'US',
     'PERIOD': '1h',
-    'MAX_RESULTS': 5,  # LIMITED TO 10 AS REQUESTED
+    'MAX_RESULTS': 10, 
     'FILES': {
         'NEWS': 'news.json',
         'MARKET': 'market.json'
@@ -41,15 +41,50 @@ class IranNewsRadar:
         self.api_key = CONFIG['POLLINATIONS_KEY']
         self.existing_news = self._load_existing_news()
         
+        # Load seen URLs (we expect these to be final URLs from previous runs)
         self.seen_urls = {item.get('url') for item in self.existing_news if item.get('url')}
         self.seen_titles = {self._normalize_text(item.get('title_en', '')) for item in self.existing_news}
-
-    def _get_headers(self):
-        return {'User-Agent': UserAgent().random}
+        
+        self.stop_words = {
+            'a', 'an', 'the', 'and', 'or', 'but', 'if', 'because', 'as', 'what',
+            'when', 'where', 'how', 'of', 'at', 'by', 'for', 'with', 'about',
+            'against', 'between', 'into', 'through', 'during', 'before', 'after',
+            'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off',
+            'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there',
+            'why', 'so', 'news', 'report', 'live', 'update', 'analysis'
+        }
 
     def _normalize_text(self, text):
         if not text: return ""
         return re.sub(r'\W+', '', text).lower()
+
+    def _get_tokens(self, text):
+        if not text: return set()
+        clean = re.sub(r'[^\w\s]', '', text.lower())
+        words = set(clean.split())
+        return words - self.stop_words
+
+    def _is_duplicate_fuzzy(self, new_title, comparison_pool):
+        new_tokens = self._get_tokens(new_title)
+        if not new_tokens: return False
+
+        for item in comparison_pool:
+            existing_title = item.get('title', item.get('title_en', ''))
+            existing_tokens = self._get_tokens(existing_title)
+            if not existing_tokens: continue
+
+            intersection = new_tokens.intersection(existing_tokens)
+            union = new_tokens.union(existing_tokens)
+            
+            if not union: continue
+            
+            similarity = len(intersection) / len(union)
+
+            # >35% similarity OR >4 identical keywords
+            if similarity > 0.35 or len(intersection) >= 4:
+                logger.info(f"🚫 Fuzzy Duplicate: '{new_title}' ~= '{existing_title}'")
+                return True
+        return False
 
     def _load_existing_news(self):
         if not os.path.exists(CONFIG['FILES']['NEWS']): return []
@@ -58,6 +93,29 @@ class IranNewsRadar:
                 data = json.load(f)
                 return data if isinstance(data, list) else []
         except: return []
+
+    # --- NEW: URL RESOLVER ---
+    def _resolve_final_url(self, gnews_url):
+        """
+        Follows the Google News redirect to get the actual site URL.
+        """
+        if not gnews_url: return None
+        try:
+            # We use a HEAD request first to be fast, or a GET with stream=True
+            # allowing redirects to let the library find the final destination.
+            resp = self.scraper.get(gnews_url, allow_redirects=True, timeout=10, stream=True)
+            final_url = resp.url
+            # Close connection immediately, we don't need body yet
+            resp.close()
+            
+            # If it still looks like a google url, it might have failed to decode, keep original
+            if "news.google.com" in final_url and len(final_url) < 100:
+                return gnews_url
+                
+            return final_url
+        except Exception as e:
+            logger.warning(f"⚠️ Could not resolve URL {gnews_url}: {e}")
+            return gnews_url
 
     # --- MARKET DATA ---
     def fetch_market_rates(self):
@@ -69,7 +127,6 @@ class IranNewsRadar:
                 usd = soup.find('input', attrs={'data-curr': 'tmn'})
                 if usd:
                     val = usd.get('data-price') or usd.get('value')
-                    # Format as 65,000
                     if val: data["usd"] = f"{int(int(val.replace(',', '')) / 10):,}"
         except: pass
 
@@ -83,72 +140,56 @@ class IranNewsRadar:
         data["updated"] = time.strftime("%H:%M")
         return data
 
-    # --- TELEGRAM SENDER (STYLISH PERSIAN) ---
+    # --- TELEGRAM SENDER ---
     def send_digest_to_telegram(self, items):
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-        if not token or not chat_id: 
-            logger.error("❌ Telegram Credentials Missing!")
-            return
+        if not token or not chat_id: return
 
-        # 1. Prepare Market Header
         try:
             with open(CONFIG['FILES']['MARKET'], 'r') as f: mkt = json.load(f)
             usd_price = mkt.get('usd', 'نامشخص')
             oil_price = mkt.get('oil', 'نامشخص')
-            
-            # Persian Market Text
             market_text = f"💵 <b>دلار:</b> {usd_price} تومان | 🛢 <b>نفت:</b> {oil_price} دلار"
         except: market_text = ""
 
-        # --- CALCULATE IRAN TIME (UTC+3:30) ---
         utc_now = datetime.now(timezone.utc)
         iran_offset = timezone(timedelta(hours=3, minutes=30))
         current_time = utc_now.astimezone(iran_offset).strftime("%H:%M")
         
-        # 2. Persian Header
         header = (
             f"📡 <b>رادار هوشمند اخبار ایران</b> | ⏱ {current_time}\n"
             f"{market_text}\n"
             f"➖➖➖➖➖➖➖➖➖➖\n\n"
         )
-        
-        # 3. Persian Footer
-        footer = "\n📊 <a href='https://itsyebekhe.github.io/rasadai/'>مشاهده داشبورد کامل و آرشیو اخبار</a>"
+        footer = "\n📊 <a href='https://itsyebekhe.github.io/rasadai/'>مشاهده داشبورد کامل</a>"
 
         messages_to_send = []
         current_chunk = header
 
         for item in items:
-            # Data Preparation
             title = str(item.get('title_fa', item.get('title_en')))
             source = str(item.get('source', 'Unknown'))
             url = str(item.get('url', ''))
             impact = str(item.get('impact', ''))
             urgency = item.get('urgency', 3)
             
-            # Icons
             icon = "🔹"
             if urgency >= 8: icon = "🚨"
             elif urgency >= 6: icon = "⚠️"
 
-            # Tag Handling
             raw_tag = item.get('tag', 'General')
             tag_str = str(raw_tag[0]) if isinstance(raw_tag, list) and raw_tag else str(raw_tag)
 
-            # HTML Escaping
             safe_title = html.escape(title)
             safe_source = html.escape(source)
             safe_impact = html.escape(impact)
             safe_tag = html.escape(tag_str).replace(' ', '_')
             
-            # Summary formatting
             summary_raw = item.get('summary', [])
             if isinstance(summary_raw, str): summary_raw = [summary_raw]
-            # Use small bullet points
             safe_summary = "\n".join([f"▪️ {html.escape(str(s))}" for s in summary_raw])
 
-            # 4. Construct Stylish Item HTML
             item_html = (
                 f"{icon} <b><a href='{url}'>{safe_title}</a></b>\n"
                 f"🗞 <i>منبع: {safe_source}</i>\n\n"
@@ -158,7 +199,6 @@ class IranNewsRadar:
                 f"〰️〰️〰️〰️〰️〰️〰️\n\n"
             )
 
-            # Check Chunk Limit (Safety buffer)
             if len(current_chunk) + len(item_html) + len(footer) > 3900:
                 messages_to_send.append(current_chunk + footer)
                 current_chunk = header + item_html
@@ -168,41 +208,37 @@ class IranNewsRadar:
         if current_chunk != header:
             messages_to_send.append(current_chunk + footer)
 
-        # Send
         api_url = f"https://api.telegram.org/bot{token}/sendMessage"
         for i, msg in enumerate(messages_to_send):
             try:
-                resp = cloudscraper.create_scraper().post(api_url, json={
-                    "chat_id": chat_id, 
-                    "text": msg, 
-                    "parse_mode": "HTML", 
-                    "disable_web_page_preview": True
+                cloudscraper.create_scraper().post(api_url, json={
+                    "chat_id": chat_id, "text": msg, "parse_mode": "HTML", "disable_web_page_preview": True
                 })
-                if resp.status_code == 200:
-                    logger.info(f"✅ Message {i+1} Sent.")
-                else:
-                    logger.error(f"❌ Send Fail: {resp.text}")
+                time.sleep(1.5)
             except Exception as e:
-                logger.error(f"❌ Connection Fail: {e}")
-            time.sleep(1.5)
+                logger.error(f"❌ Send Fail: {e}")
 
-    # --- SCRAPER & AI (Unchanged Logic) ---
-    def scrape_article(self, url, fallback):
+    # --- SCRAPER & AI ---
+    def scrape_article_text(self, final_url, fallback_snippet):
+        """
+        Scrapes text from the already resolved URL.
+        """
         try:
-            if url.lower().endswith('.pdf'): return url, fallback
-            resp = self.scraper.get(url, timeout=15, allow_redirects=True)
+            if final_url.lower().endswith('.pdf'): return fallback_snippet
+            resp = self.scraper.get(final_url, timeout=15)
+            
             soup = BeautifulSoup(resp.text, 'html.parser')
             for tag in soup(["script", "style", "nav", "footer", "header", "form", "iframe"]): tag.extract()
             paragraphs = [p.get_text().strip() for p in soup.find_all('p') if len(p.get_text()) > 50]
             text = " ".join(paragraphs)[:4500]
-            if len(text) < 100: return resp.url, fallback
-            return resp.url, text
-        except: return url, fallback
+            
+            if len(text) < 100: return fallback_snippet
+            return text
+        except: return fallback_snippet
 
     def analyze_with_ai(self, headline, full_text):
         if not self.api_key: return None
         context = full_text if len(full_text) > 100 else headline
-        # Default fallback now includes sentiment
         fallback = {"title_fa": headline, "summary": ["تحلیل در دسترس نیست"], "impact": "بررسی نشده", "tag": "News", "urgency": 3, "sentiment": 0}
 
         try:
@@ -213,7 +249,6 @@ class IranNewsRadar:
                     "model": "openai",
                     "messages": [{
                         "role": "system", 
-                        # UPDATED PROMPT BELOW: Added sentiment(float -1.0 to 1.0)
                         "content": "You are a Persian News Analyst. Output valid JSON: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(float between -1.0 and 1.0)}."
                     }, {
                         "role": "user", 
@@ -230,16 +265,25 @@ class IranNewsRadar:
 
     def process_item(self, entry):
         raw_title = entry.get('title', '').rsplit(' - ', 1)[0]
-        norm_title = self._normalize_text(raw_title)
         
-        if norm_title in self.seen_titles: return None
+        # 1. Resolve URL FIRST
+        gnews_url = entry.get('url')
+        logger.info(f"Resolving: {raw_title[:30]}...")
+        final_url = self._resolve_final_url(gnews_url)
         
-        orig_url = entry.get('url')
-        if orig_url in self.seen_urls: return None
+        # 2. Check Resolved URL against history
+        if final_url in self.seen_urls:
+            logger.info(f"🚫 Duplicate URL found: {final_url}")
+            return None
 
-        snippet = entry.get('description', raw_title)
-        real_url, text = self.scrape_article(orig_url, snippet)
+        # 3. Check Title against history (Backup check)
+        if self._normalize_text(raw_title) in self.seen_titles: return None
         
+        # 4. Scrape content using Final URL
+        snippet = entry.get('description', raw_title)
+        text = self.scrape_article_text(final_url, snippet)
+        
+        # 5. Analyze
         ai = self.analyze_with_ai(raw_title, text)
         if not ai: ai = {}
 
@@ -255,7 +299,7 @@ class IranNewsRadar:
             "urgency": ai.get('urgency', 3),
             "sentiment": ai.get('sentiment', 0), 
             "source": entry.get('publisher', {}).get('title', 'Source'),
-            "url": real_url,
+            "url": final_url, # SAVE FINAL URL
             "date": entry.get('published date'),
             "timestamp": ts
         }
@@ -271,22 +315,51 @@ class IranNewsRadar:
             logger.error(f"GNews Error: {e}")
             return
 
+        # --- BATCH PRE-FILTERING (FUZZY TITLE) ---
+        # Filter duplicates based on Title first (cheap) before resolving URLs (expensive)
+        unique_batch_results = []
+        for item in results:
+            title = item.get('title', '').rsplit(' - ', 1)[0]
+            
+            # Check Title vs History
+            if self._is_duplicate_fuzzy(title, self.existing_news): continue
+            
+            # Check Title vs Current Batch
+            if self._is_duplicate_fuzzy(title, unique_batch_results): continue
+                
+            unique_batch_results.append(item)
+
+        logger.info(f"Raw: {len(results)} | Unique Titles: {len(unique_batch_results)}")
+
+        # --- PROCESSING & URL RESOLUTION ---
         new_items = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIG['MAX_WORKERS']) as exc:
-            futures = {exc.submit(self.process_item, i): i for i in results}
+            futures = {exc.submit(self.process_item, i): i for i in unique_batch_results}
             for fut in concurrent.futures.as_completed(futures):
                 res = fut.result()
                 if res:
                     new_items.append(res)
+                    # Add to local cache immediately to help subsequent threads if needed
                     self.seen_titles.add(self._normalize_text(res['title_en']))
-                    logger.info(f" + OK: {res['title_en'][:20]}")
+                    self.seen_urls.add(res['url'])
+                    self.existing_news.append(res)
 
         if new_items:
             new_items.sort(key=lambda x: (x.get('urgency', 0), x.get('timestamp', 0)), reverse=True)
             self.send_digest_to_telegram(new_items)
 
-            all_news = new_items + self.existing_news
+            # Re-load full list for saving
+            all_news = self._load_existing_news()
+            
+            # Add new items that aren't already in file (double safety)
+            existing_urls_file = {x.get('url') for x in all_news}
+            for ni in new_items:
+                if ni['url'] not in existing_urls_file:
+                    all_news.append(ni)
+
+            # Sort by time
             all_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+            
             with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
                 json.dump(all_news[:100], f, indent=4, ensure_ascii=False)
             logger.info(">>> Done.")
