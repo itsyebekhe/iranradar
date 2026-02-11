@@ -1,5 +1,39 @@
 [
     {
+        "title_fa": "نگاهی به برنامه موشکی غیرقابل مذاکره رژیم",
+        "title_en": "A look at Iran's non-negotiable ballistic missile program",
+        "summary": [
+            "رژیم برنامه موشکی را به‌عنوان ابزار بقا و فشار منطقه‌ای حفظ کرده؛ منابع کلان مالی از نیازهای معیشتی مردم به سمت صنایع نظامی و پروژه‌های سپاه منتقل می‌شوند.",
+            "سپاه و شبکه‌های وابسته از پروژه‌های موشکی برای توسعه فساد اقتصادی و تقویت منافع گروهی استفاده کرده‌اند؛ این نهاد به‌جای امنیت ملی به منبع درآمد و قدرت‌نمایی تبدیل شده است.",
+            "تمرکز بر موشک و رفتار تهاجمی سیاست خارجی، ایران را بیش از پیش منزوی کرده و تحریم‌ها و هزینه‌های اقتصادی را افزایش داده است؛ مردم فشار تورم، بیکاری و فقر را تحمل می‌کنند."
+        ],
+        "impact": "حفظ اولویت‌های نظامی و منافع سپاه بر رفاه عمومی باعث شده مردم عادی بار اصلی فقر و کاهش فرصت‌ها را به دوش بکشند.",
+        "tag": "موشکی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Australian Broadcasting Corporation",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlBHNnp2VGZ6UFBfZ2k1Y1pzTVZqRnN5b0ZfUTlsRW90YjRHV1YyNEl5bm5wemdxTG5OMHV3SFVBYlp5ejc5dmhqNVFQbFRXVTlZVm50UW9PN3RRNEotNUd3eHd0aXZuNnU5bnVHdzJyTjgtU2NvVUw3N2NLbG5VdW9fMVhqbXcwVTN1cEtLUXA1Y2swZHlqUC1seWFQVUxiLS1paQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Wed, 11 Feb 2026 19:28:41 GMT",
+        "timestamp": 1770838121.0
+    },
+    {
+        "title_fa": "رژیم: مذاکرات با آمریکا فقط محدود به پرونده هسته‌ای است",
+        "title_en": "Iran insists US negotiations confined to nuclear file",
+        "summary": [
+            "منافع ملی ایران ایجاب می‌کند مذاکره‌ای جامع که به رفع تحریم‌ها، بازگرداندن ایران به مناسبات اقتصادی جهانی و تضمین منافع مردم منتهی شود؛ محدود کردن گفتگوها صرفاً به پرونده هسته‌ای نشان‌دهنده اولویت حفظ قدرت رژیم بر منافع ملی است.",
+            "ادعا به محدود بودن مذاکرات پوششی است برای پنهان‌سازی فساد و فعالیت‌های منطقه‌ای سپاه؛ رژیم از باز شدن موضوعاتی مثل برنامه موشکی، حمایت از گروه‌های نیابتی و شبکه‌های مالی سپاه هراسان است چون آن‌را قابل پیگرد و افشا می‌داند.",
+            "این موضع رژیم باعث تشدید انزوای بین‌المللی و ادامه فشارهای اقتصادی می‌شود؛ نتیجه برای مردم فقری عمیق‌تر، کاهش سرمایه‌گذاری خارجی و تداوم غارت منابع از سوی باندهای وابسته به حکومت خواهد بود."
+        ],
+        "impact": "رژیم با بستن مذاکرات به پرونده هسته‌ای در عمل خواست مردم برای بهبود اقتصاد و آزادی را قربانی حفظ امتیازات سیاسی و جریان‌های فسادآمیز سپاه کرده و رفاه عمومی را به خطر انداخته است.",
+        "tag": "مذاکره",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "شفق نيوز",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDZMSmEzckRFbFNyVTU1Nzc2YTRTNUxBTngwd0Q5SmhNV1NDb25QaXk3SmlKNURVbWxYb2NsYlZ4d25SWEhwb3huRlRGTXhEZ0w3UG5kMWxsZVdDbC1ldXNrYllzTVdxcDlkWlNYZXpHa0J3NkxLNDQxQ05JbHVmeWp5eGhZMkZsbVMwQ1pqNDU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Wed, 11 Feb 2026 19:08:35 GMT",
+        "timestamp": 1770836915.0
+    },
+    {
         "title_fa": "هشدار رژیم به «جنگ گسترده» در قبال حمله، و محدود نگه داشتن گفتگوهای هسته‌ای به پرونده اتمی",
         "title_en": "Iran Warns of “Widespread War” if Attacked, Keeps Nuclear Talks Limited to Atomic File",
         "summary": [
@@ -1660,39 +1694,5 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYl9Cc1oyZ0luVy1fUWdWeVNyM01abExfeFdwV2FPbWRtRVRlZk1wR1VrQTlLU3hXWmFFN1pVbUZIak9SVXpTODlvRkJXbU1zS01CSGpsUG5YYlZaLTk4eWFrdzN0czY4MFY3WWFTMUZXeU83ZjktZ3prNHYydFQ5bWppRk9KSkVqM1VGSHdDMDBsTEE2dEZYMlVfZ0ZfUktKN0ZVSkN5Rl81U05Q0gGyAUFVX3lxTE9qa0lISUFxeEdNLTI0WjVsaW12MTUxYTVXSWFZLTFpczVkemtfdTZ4WVUwb1BXQTBMN2hHbGUtNzVaOFFneHhQRTBENWRhRjQ3ZmxmcnJmS0dWU0s5OWhfLVRVZndud0k1aTVBUEk4Nl9xNWxBekFDQ0l6ZVZLNDUyZFlJajBoS21wQlVYVWJYX3pNbVRzcmZseTR5Q0UxYjFMYjdxNm1FTWJycktlelU2eEE?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Tue, 10 Feb 2026 07:45:54 GMT",
         "timestamp": 1770709554.0
-    },
-    {
-        "title_fa": "تصاویر ماهواره‌ای: همه ورودی‌های تاسیسات هسته‌ای اصفهان پر شده‌اند",
-        "title_en": "Satellite images show all entrances to Iran’s Isfahan nuclear site have been buried",
-        "summary": [
-            "تصاویر ماهواره‌ای نشان می‌دهد تمامی ورودی‌ها و راه‌های دسترسی به تاسیسات هسته‌ای اصفهان پوشانده یا مسدود شده‌اند.",
-            "گزارش تایمز اسرائیل می‌گوید این اقدام ممکن است به‌عنوان تدابیر حفاظتی در برابر حمله یا تلاش برای پنهان‌سازی فعالیت‌ها تفسیر شود.",
-            "مسدودسازی ورودی‌ها می‌تواند نظارت و دسترسی بازرسان بین‌المللی را پیچیده کرده و ریسک تنش سیاسی و منطقه‌ای را افزایش دهد."
-        ],
-        "impact": "این اقدام می‌تواند قابلیت بازرسی آژانس بین‌المللی انرژی اتمی را کاهش دهد، بی‌اعتمادی را تشدید کند و تنش‌های منطقه‌ای را بالا ببرد.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OamYwS0haekUzSElUaHNJMlBhbnBZNFoyRERKdGV0ZFZ2MGF0ZW9PS0lBVlhJWTNxUTVjQTI1Rkp6cFNyd0FYU2VkaU0ybUF5SkV0VV9BUFBKbXA5SHVfQi1LUW45NlnSAWxBVV95cUxOdzhKaV9sX0otN2tKbmNlS3haZ1NRVTk4YU1LVlNCbXNLd1kyendZVG9ma19ORkd3YWJ3TEo5UGc1UUVvaVZKMFN1YmtUdXZVNGtIc2xHZUY3eTc4LTFCTnhCQVhrdXRQVGRROTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Tue, 10 Feb 2026 07:40:34 GMT",
-        "timestamp": 1770709234.0
-    },
-    {
-        "title_fa": "خطوط قرمز اسرائیل در قبال ایران و غزه چیست؟",
-        "title_en": "What are Israel’s red lines on Iran and Gaza?",
-        "summary": [
-            "نسبت به ایران: تهران نباید به ساخت یا حصولِ توانایی سلاح هسته‌ای، حمله مستقیم یا فرماندهی حملات گسترده از طریق نیابتی‌ها (حشدهای منطقه‌ای) علیه خاک اسرائیل اقدام کند.",
-            "نسبت به غزه: اسرائیل خواستار نابودی یا تضعیف توان نظامی حماس، بازگرداندن گروگان‌ها و تضمین تهدیدنشدن مراکز جمعیتی خود است؛ عبور حملات موشکی یا حفظ فرماندهی حماس، برای تل‌آویو خط قرمز است.",
-            "محدودیت‌ها و ملاحظات: جلوگیری از گسترش جنگ به لبنان و درگیری با حزب‌الله، حفظ حمایت بین‌المللی (به‌ویژه آمریکا)، و اجتناب از تقابل مستقیم با ایران، از موانع مهم در تعیین و اجرای این خطوط قرمز‌اند."
-        ],
-        "impact": "تعیین این خطوط قرمز احتمال تشدید منطقه‌ای و گسترش درگیری را بالا می‌برد و می‌تواند موجب پیچیدگی‌های سیاسی و نظامی برای بازیگران منطقه‌ای و بین‌المللی شود.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXRhVmdLRE1kODZSalhUdUlwMGphMG0ybDNKd21kZlRfRnBUdnhQMi1vc1BYX010Y0VMUjRVNFNsVzZqYmd6TVVZSGdGeWZFdHo1MXJkV0NMLTR4bTlLRmlmSG1nNGZZRXppNG1OdzR2TEtWazEwTjlNaDJkWkFsdHljOTU3V1gxUTc4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Tue, 10 Feb 2026 07:28:53 GMT",
-        "timestamp": 1770708533.0
     }
 ]
