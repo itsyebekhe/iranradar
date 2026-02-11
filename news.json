@@ -1,5 +1,39 @@
 [
     {
+        "title_fa": "ویدئو: برگزاری تجمعات گسترده در ایران به مناسبت سالگرد انقلاب اسلامی",
+        "title_en": "Video: Iran Holds Mass Rallies For Revolution Anniversary",
+        "summary": [
+            "ویدئو نشان می‌دهد تجمعات و مراسم رسمی در شهرهای مختلف ایران به مناسبت سالگرد انقلاب برگزار شده است.",
+            "شرکت‌کنندگان با سر دادن شعارها و حمل پلاکاردها حمایت خود از نظام و دستاوردهای انقلاب را ابراز کردند و مقامات بلندپایه نیز در برخی مراسم حضور داشتند.",
+            "مراسم تحت تدابیر امنیتی مشخص برگزار شد و پیام‌هایی درباره وحدت داخلی و پایداری نظام به مخاطبان داخلی و خارجی ارسال شد."
+        ],
+        "impact": "این تجمعات می‌تواند مشروعیت داخلی حکومت را تقویت کند و به‌عنوان پیامی سیاسی درباره ثبات و انسجام نظام به بازیگران خارجی نیز ارسال شود.",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDdFWVFXUmQ1Wjk5VGFkcXBvUVJlaUpjOGdZb2JJYjY2c2EyZ052WlN6VnI5VXNGNEt1M000cm91X3hfZVJtTEV6RHdSd2NFaDN6RWFzSWhiSlVpWjd1aEI0dmhNYm1fcFctaDUtY0l6NFZUSXpIOWNKcTBoLUJhTjMtRkdJRkd6dk5fMmhXcl9wVV8yZVpxZVZYMFR0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Wed, 11 Feb 2026 17:15:00 GMT",
+        "timestamp": 1770830100.0
+    },
+    {
+        "title_fa": "ویدئو: چرا برنامه هسته‌ای ایران تنها تهدید نیست",
+        "title_en": "Video: Why Iran’s Nuclear Program Isn’t the Only Threat",
+        "summary": [
+            "ویدئو می‌گوید تمرکز صرف بر جنبه هسته‌ای، تصویر کامل از تهدیدات مرتبط با ایران را مخفی می‌کند و تهدیدات دیگری مانند مجموعه موشکی، شبکه‌های نیابتی، ظرفیت‌های سایبری و توانمندی‌های نظامی معمولی را برجسته می‌کند.",
+            "تأثیرات این تهدیدات فراتر از مرزهاست و می‌تواند به تشدید تنش‌های منطقه‌ای، مسابقه تسلیحاتی و پیچیده‌تر شدن دیپلماسی بین‌المللی و فشارهای اقتصادی منجر شود.",
+            "برای مدیریت مؤثر خطرات، ویدئو راه‌حل‌هایی از جمله رویکرد جامع امنیتی، کنترل منطقه‌ای تسلیحات، دیپلماسی چندجانبه و نظارت فنی دقیق‌تر را پیشنهاد می‌کند."
+        ],
+        "impact": "پیام اصلی این ویدئو این است که سیاست‌گذاران باید راهبردی کلی‌تر از صرف تمرکز بر پرونده هسته‌ای اتخاذ کنند تا ریسک‌های امنیتی را به‌طور مؤثر کاهش دهند.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGxFNTJHaGYtWFk4ME5ROUVPZHZtUTRQMDZDTHhRUjR6RFoxdUoycEdmVTZWYURHdjgxaDRyeE91MmVDQ1ZKMXpVY0JOZHBiYXNUSGxoTUUzQUs4eEZST0VfN2VraEpsSHRTMG9jUHF4NHMydEw5SWlKanBwQWI0N3d5TG5CVlQ1TUZIYkJFR1ZGeXVBSFJNMmROR255aF9EY3h5WWtlMEhBNHdEWW52TEhvVEg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Wed, 11 Feb 2026 16:52:30 GMT",
+        "timestamp": 1770828750.0
+    },
+    {
         "title_fa": "Verifying details from Epstein files and AI images spreading in Nancy Guthrie kidnapping",
         "title_en": "Verifying details from Epstein files and AI images spreading in Nancy Guthrie kidnapping",
         "summary": [
@@ -1660,39 +1694,5 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSHJ2bDZMbmtjdjNoVUgxNEdOS2g2SkhVRHp2Q2J5ZjdPb2dnRkxSM1RRVUUzZjlrZWNSbHZ1Vk1NZDJ6MWlQMUdOR1hUVmJXWHN5TXlwQ1RQdklLcl95WnZidmxBQkZqM1E2TmZlQko0V2REQ01SS2lIUXByNkdkWWw1VGRTbTFfV2xtanJZb2VwQW16LVViWjh5ZmtDWVZ1bHNOaUNWUTdNWnZqYW5iRnE1RUpWbEp0c2FRU3NTaXVWSEtWaHZoN3FPaVpZVkk?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Tue, 10 Feb 2026 06:21:28 GMT",
         "timestamp": 1770704488.0
-    },
-    {
-        "title_fa": "جدیدترین تحولات مذاکرات هسته‌ای ایران و آمریکا — ۱۰ فوریه",
-        "title_en": "LATEST UPDATES ON IRAN-U.S. NUCLEAR TALKS / FEB 10",
-        "summary": [
-            "تا تاریخ ۱۰ فوریه، گفتگوهای دیپلماتیک بین ایران و ایالات متحده در خصوص برنامه هسته‌ای ادامه دارد، اما گزارش رسمی درباره رسیدن به توافق نهایی منتشر نشده است.",
-            "طرف‌ها از طریق کانال‌های دیپلماتیک به مذاکرات ادامه می‌دهند و درباره زمان‌بندی دورهای بعدی یا شروط مشخص اعلامیه‌ای در دست نیست.",
-            "نتایج مذاکرات می‌تواند تاثیر مستقیمی بر تحریم‌ها، ثبات منطقه‌ای و بازار انرژی داشته باشد و جامعه بین‌المللی با دقت تحولات را دنبال می‌کند."
-        ],
-        "impact": "نتیجه این مذاکرات می‌تواند جهت‌گیری تحریم‌ها و سطح تنش در خاورمیانه را تعیین کند.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlXzFxZGt3OUI2U1pra3o4ZmVfOURZMzFaenRQY2J5bXRkUTREX3BodGlmOWhGbVhrcXBPV2hXMTRjRldhQUZTMXdteXh3akhDM0t2d25fM1E1bjZraHEtNUFZcTBvYXU1THMybXltYmwwMHdlcHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Tue, 10 Feb 2026 06:03:56 GMT",
-        "timestamp": 1770703436.0
-    },
-    {
-        "title_fa": "ایزاک هرتزوگ: چرا معترضان در استرالیا علیه ایران تظاهرات نمی‌کنند؟",
-        "title_en": "Israeli President Isaac Herzog has questioned why protesters against his visit to Australia don’t “demonstrate against Iran”.",
-        "summary": [
-            "ایزاک هرتزوگ، رئیس‌جمهور اسرائیل، از معترضان به سفرش به استرالیا پرسیده است که چرا علیه ایران اعتراض نمی‌کنند.",
-            "این اظهارنظر در صفحه فیسبوک منتشر شده و بازتاب‌های مختلفی در شبکه‌های اجتماعی داشته است.",
-            "اظهارات هرتزوگ می‌تواند بحث‌ها درباره محور اعتراضات و جهت‌گیری انتقادات در جوامع محلی و بین‌المللی را تشدید کند."
-        ],
-        "impact": "این اظهارنظر ممکن است به تشدید تنش‌های سیاسی و جهت‌دهی مجدد مباحث عمومی درباره اعتراضات و سیاست خارجی منجر شود.",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVkhvVWFlSFg3Zm5ScWczUm5DTGl6dW9rWGwtSW5hRjBDTnhxdVQ0MHZWdEVNZ1dUZWdNcV9sWlUxTEtheFZNeFdGQk8wUTc4Q1J5TlJGRGVJdmNuTWgwbDM3emZua3BxY1UwQXU5UGFvMmpwY2lqVUJEWVBfb3RrQkxjSktEeEphNjhaQWZnRUpwVGpfbG9wN1dLMEpVRDdGemxSdFMyV0pLQnFwbTVQUkRSa2JkWDJpYlZHbVk5NUF6UWpBRzNkSGYwaHNXZ0pSdzhGdFVoVmloaHMzUE9v?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Tue, 10 Feb 2026 05:57:32 GMT",
-        "timestamp": 1770703052.0
     }
 ]
