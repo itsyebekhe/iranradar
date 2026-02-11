@@ -1,5 +1,39 @@
 [
     {
+        "title_fa": "ایران برای دور بعدی گفت‌وگوها با آمریکا آماده می‌شود",
+        "title_en": "Iran prepares for next talks with US",
+        "summary": [
+            "مقامات ایرانی اعلام کرده‌اند که برای مذاکرات آینده با آمریکا آماده می‌شوند.",
+            "جزییات زمان و دستورکار مذاکرات هنوز مشخص نیست، اما تمرکز احتمالی بر مسائل هسته‌ای و تحریم‌ها خواهد بود.",
+            "این آمادگی می‌تواند نشانه‌ای از تمایل دو طرف به کاهش تنش‌ها باشد."
+        ],
+        "impact": "این روند می‌تواند مسیر تحولات منطقه‌ای و مذاکرات هسته‌ای را تحت‌تأثیر قرار داده و زمینه‌ای برای تغییر در سیاست تحریم‌ها فراهم کند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.15,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HMXcybEh5Q0pUNGUwUE9vM3RIZFZKOU1kVmU1cXgzQ19OUDA0UnFpV0YyTzgwU1Z2V1NZS3pab0gzNW9GTnNoaHJ5WWx3MlROVWhKeUV0U2c4X09LMUJGRlVrTlBXYV9GZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Wed, 11 Feb 2026 12:29:40 GMT",
+        "timestamp": 1770812980.0
+    },
+    {
+        "title_fa": "انتظار می‌رود نتانیاهو در دیدار کاخ سفید درباره دیپلماسی ایران از ترامپ فشار بیاورد",
+        "title_en": "Netanyahu expected to press Trump over Iran diplomacy during White House visit",
+        "summary": [
+            "نتانیاهو احتمالاً از ترامپ می‌خواهد مواضع سخت‌تری نسبت به هرگونه توافق یا تعامل دیپلماتیک با ایران اتخاذ کند.",
+            "او ممکن است تضمین‌ها و حمایت‌های سیاسی و امنیتی بیشتری از آمریکا برای مقابله با تهران بخواهد.",
+            "دیدار می‌تواند بر مسیر مذاکرات هسته‌ای، روابط واشنگتن-تل‌آویو و وضعیت امنیتی منطقه تأثیر بگذارد."
+        ],
+        "impact": "این دیدار می‌تواند سیاست آمریکا در قبال ایران را تحت‌تأثیر قرار داده و به تشدید تنش‌ها و پیچیدگی بیشتر روند دیپلماتیک منطقه‌ای منجر شود.",
+        "tag": "ایران",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUZkSUZodWY3Q2RpRVpjU184V2tpbWJvNWM3bmk5ZWNNU1Nxd2QtVDBUV2dGd0p4TTExQlJfU2hjSVVramtOZ1RUUEZaaGRQWlRKM0k0MXAwRVNsYURQNm91b2k0VlRURTRvRnhueUlvejZGb3VXTHRFVXBPbjNGUTgwYklJcUp0NmhpRWltSnhGbjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Wed, 11 Feb 2026 11:51:09 GMT",
+        "timestamp": 1770810669.0
+    },
+    {
         "title_fa": "۵ نکته برای دانستن پیش از دیدار ترامپ و نتانیاهو",
         "title_en": "5 things to know ahead of the Trump-Netanyahu meeting",
         "summary": [
@@ -1662,39 +1696,5 @@
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93SG9mcXpsMmJJN3lwR2EzWFNIWXY4MkJiaWNIU2REbmhxRXRtZEZ0ZTdkNnUyOHptcmMwUEQxX3ZMdw?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Mon, 09 Feb 2026 22:34:43 GMT",
         "timestamp": 1770676483.0
-    },
-    {
-        "title_fa": "تیم حقیقت‌یاب: آیا ایران در حال بازسازی تأسیسات هسته‌ای است؟",
-        "title_en": "Fact Check Team: Is Iran rebuilding their nuclear sites?",
-        "summary": [
-            "ادعا: گمانه‌زنی‌هایی مطرح شده که ایران در حال بازسازی یا بازتوانی گسترده تأسیسات هسته‌ای خود است.",
-            "شواهد موجود: تصاویر ماهواره‌ای و گزارش‌های رسانه‌ای مواردی از تعمیرات و توسعه موضعی را نشان می‌دهند اما هیچ شواهد مستقل و تأییدشده‌ای از بازسازی گسترده همه سایت‌ها وجود ندارد؛ آژانس بین‌المللی انرژی اتمی همچنان نظارت و گزارش‌دهی می‌کند.",
-            "نتیجه‌گیری: وضعیت فعلی نیازمند بررسی مستمر و مدارک بیشتر است؛ ادعاها تا زمان ارائه شواهد قطعی قابل‌تأیید نیستند و برخی گزارش‌ها ممکن است اغراق یا برداشت نادرست باشند."
-        ],
-        "impact": "در صورت اثبات بازسازی گسترده، این موضوع می‌تواند مذاکرات هسته‌ای، تحریم‌ها و تنش‌های منطقه‌ای را تشدید کند.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "WJLA",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGZpMXBBWnJZa212Ylo0RmxBbWNqVGg2Z2Z2NXlfNkhEQ1FGQXRHbmlIR3M3VEc3Z1JJNGhlZjJHVWdpRVhsVS1BRUZjMkNtcWNDdkhPQ2ZmZUdkbTlaNnZhMDhlOGVEOG4wanFobzNfUHU1LW9QWjdOb3JhS1BudUNKZjlnaWV5VUdQWmVKemphazFwaFR3ZDNGcDBDeW5SbEoxSHFTTnBXTGxkUW5rV2VGNUJrSjhaaXRiYk56c2JvclVOVUxuOEdHSTF6V3dq?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Mon, 09 Feb 2026 22:28:13 GMT",
-        "timestamp": 1770676093.0
-    },
-    {
-        "title_fa": "تیم بررسی واقعیت: آیا ایران در حال بازسازی سایت‌های هسته‌ای خود است؟",
-        "title_en": "Fact Check Team: Is Iran rebuilding their nuclear sites?",
-        "summary": [
-            "ادعا: در شبکه‌ها و برخی گزارش‌ها مطرح شده که ایران در حال «بازسازی کامل» یا از صفر بازسازیِ سایت‌های هسته‌ای خود است.",
-            "شواهد: تصاویر ماهواره‌ای و گزارش‌های آژانس بین‌المللی انرژی اتمی نشان‌دهنده تعمیرات، توسعه یا ساخت بخش‌هایی در سایت‌هایی مانند نطنز و فردو و افزایش ظرفیت غنی‌سازی است؛ اما این شواهد بازسازی همه‌جانبه و سریِ همه سایت‌ها را ثابت نمی‌کنند.",
-            "نتیجه فکت‌چک: بخشی از ادعا — تعمیرات و توسعه و بازگشت فعالیت‌ها — تأیید شد، اما برچسب «بازسازی کامل و همگانی» اغراق‌آمیز است و شواهد قطعی از یک بازسازی پنهانی و سراسری وجود ندارد؛ نظارت محدود آژانس باعث ابهام باقی می‌ماند."
-        ],
-        "impact": "این موضوع می‌تواند تنش‌های منطقه‌ای و مذاکرات دیپلماتیک را تشدید کند زیرا هم افزایش فعالیت هسته‌ای و هم ابهامات نظارتی بر اعتماد بین‌المللی تأثیر منفی دارد.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "thenationaldesk.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTEk2ME5rLVVqZ2NSd1ctTHNKR0s1c3c2Q09FRzlhSE96czFFQ1lWZ1pKc3FjOEtXNXZkVGlFQVAtMGhXSHl4NW1kTXE5OEJVeFQxSzhVQTZfZFVyS2g2Z3NmY18wejBkR2tCaURudGc5Mklud2NXRG1xM252azdsOWlFUWFjNnpKUXBYQTk1aWVrNjM1M3FTVzhqdVBIcnJXelpuajlUZWJFek8zUVdNTlo3dV8tekJYRWI0SThDY2pYZFhvNERKMHBMbUdLUy1xTUhrM2tPSjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Mon, 09 Feb 2026 22:23:24 GMT",
-        "timestamp": 1770675804.0
     }
 ]
