@@ -477,10 +477,14 @@ class IranNewsRadar:
 
     def run(self):
         logger.info(">>> Radar Started...")
-        with open(CONFIG['FILES']['MARKET'], 'w') as f: json.dump(self.fetch_market_rates(), f)
+        
+        # Update Market Data
+        with open(CONFIG['FILES']['MARKET'], 'w') as f: 
+            json.dump(self.fetch_market_rates(), f)
 
         manual_url = os.environ.get('MANUAL_URL')
         
+        # --- 1. FETCHING ---
         if manual_url and manual_url.strip():
             logger.info(f"!!! MANUAL MODE: {manual_url} !!!")
             results = self.fetch_manual_url(manual_url)
@@ -489,72 +493,82 @@ class IranNewsRadar:
             results = self.get_combined_news()
             unique_batch_results = []
             seen_batch_titles = set()
+            
+            # Filter against EXISTING history (Loaded from news.json)
             for item in results:
                 t = item.get('title', '').rsplit(' - ', 1)[0]
                 norm_t = self._normalize_text(t)
                 
+                # Check if exists in history
                 if norm_t in self.seen_titles: continue
                 if item.get('url') in self.seen_urls: continue
+                
+                # Check if duplicate within current batch
                 if norm_t in seen_batch_titles: continue
+                
+                # Check fuzzy match against history
                 if self._is_duplicate_fuzzy(t, self.existing_news): continue
 
                 seen_batch_titles.add(norm_t)
                 unique_batch_results.append(item)
 
-        logger.info(f"Total Fetched: {len(results)} | To Process: {len(unique_batch_results)}")
+        logger.info(f"Total Fetched: {len(results)} | Unique New Items: {len(unique_batch_results)}")
 
-        new_items = []
+        # --- 2. PROCESSING ONLY NEW ITEMS ---
+        new_processed_items = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIG['MAX_WORKERS']) as exc:
             futures = {exc.submit(self.process_item, i): i for i in unique_batch_results}
             for fut in concurrent.futures.as_completed(futures):
                 res = fut.result()
                 if res:
-                    new_items.append(res)
+                    new_processed_items.append(res)
+                    # Add to 'seen' immediately to prevent dupes if code loops unexpectedly
                     self.seen_titles.add(self._normalize_text(res['title_en']))
-                    self.seen_urls.add(res['url'])
 
-        if new_items:
-            # 1. SAVE ALL NEWS TO JSON (For the Website)
-            # We combine existing news with ALL new items, regardless of urgency
-            all_news_to_save = self.existing_news + new_items
+        # --- 3. HANDLING ---
+        if new_processed_items:
+            # A. Prepare Telegram List (STRICTLY from new_processed_items)
+            telegram_items = []
+            min_urgency = CONFIG['MIN_TELEGRAM_URGENCY']
+            
+            for item in new_processed_items:
+                urgency = item.get('urgency', 0)
+                tag = str(item.get('tag', '')).lower()
+                is_conflict = any(w in tag for w in ['war', 'conflict', 'military', 'strike', 'attack'])
+                
+                # Logic: High Urgency OR (Medium Urgency + Conflict Topic)
+                if urgency >= min_urgency:
+                    telegram_items.append(item)
+                elif urgency >= 6 and is_conflict:
+                    telegram_items.append(item)
+
+            # B. Send to Telegram
+            if telegram_items:
+                # Sort by urgency descending
+                telegram_items.sort(key=lambda x: x.get('urgency', 0), reverse=True)
+                logger.info(f"Sending {len(telegram_items)} NEW items to Telegram.")
+                self.send_digest_to_telegram(telegram_items)
+            else:
+                logger.info(">>> New items processed, but none met urgency criteria.")
+
+            # C. Save to Database (Merge New + Old)
+            # We put new items at the top
+            all_news_to_save = new_processed_items + self.existing_news
+            
+            # Sort by timestamp to keep file organized
             all_news_to_save.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-            all_news_to_save = all_news_to_save[:150] # Keep last 150 items for JSON
+            
+            # Keep file size manageable (keep last 200)
+            all_news_to_save = all_news_to_save[:200]
             
             try:
                 with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
                     json.dump(all_news_to_save, f, indent=4, ensure_ascii=False)
-                logger.info(">>> DB Saved (All items).")
+                logger.info(">>> news.json updated.")
             except Exception as e:
                 logger.error(f"Save Failed: {e}")
-
-            # 2. FILTER NEWS FOR TELEGRAM
-            # Only send high urgency items
-            telegram_items = []
-            min_urgency = CONFIG['MIN_TELEGRAM_URGENCY']
-            
-            for item in new_items:
-                urgency = item.get('urgency', 0)
-                tag = str(item.get('tag', '')).lower()
-                
-                # Rule: Send if urgency is high OR if it's very specific conflict news
-                is_conflict_related = any(w in tag for w in ['war', 'conflict', 'military', 'protest', 'strike'])
-                
-                if urgency >= min_urgency:
-                    telegram_items.append(item)
-                elif urgency >= 6 and is_conflict_related:
-                    # Allow slightly lower urgency if it's explicitly about conflict
-                    telegram_items.append(item)
-
-            if telegram_items:
-                telegram_items.sort(key=lambda x: x.get('urgency', 0), reverse=True)
-                logger.info(f"Sending {len(telegram_items)} important items to Telegram.")
-                self.send_digest_to_telegram(telegram_items)
-            else:
-                logger.info(">>> New items found, but none met urgency criteria for Telegram.")
-            
-            logger.info(">>> Done.")
         else:
-            logger.info(">>> No unique news.")
+            logger.info(">>> No unique news found in this run.")
 
 if __name__ == "__main__":
     IranNewsRadar().run()
