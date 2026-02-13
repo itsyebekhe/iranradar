@@ -1,5 +1,39 @@
 [
     {
+        "title_fa": "ترامپ قرار است در نشست «Board of Peace» درباره کمک مالی و اعزام نیرو به غزه اعلام کند، مقام‌ها می‌گویند",
+        "title_en": "Trump to announce Gaza funding, troops at Board of Peace meeting, officials say",
+        "summary": [
+            "مقام‌ها گزارش داده‌اند که دونالد ترامپ در نشست «Board of Peace» قصد دارد بسته‌ای شامل کمک مالی برای غزه و احتمالاً اعزام نیرو را اعلام کند.",
+            "اعلام رسمی کمک و هرگونه حضور نظامی آمریکا مرتبط با غزه می‌تواند به تشدید تنش‌ها در منطقه و واکنش‌های سیاسی و امنیتی در پی داشته باشد.",
+            "برای جمهوری اسلامی این اقدام فشار منطقه‌ای و بین‌المللی بیشتری ایجاد می‌کند و می‌تواند موقعیت داخلی رژیم را تضعیف کند و به جنبش مردم برای تغییر کمک نماید."
+        ],
+        "impact": "این تصمیم می‌تواند تشدید درگیری منطقه‌ای را افزایش داده و همزمان به تضعیف سیاسی و اقتصادی رژیم ایران کمک کند.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": 0.5,
+        "source": "Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNkxlZFRjMHNpYlBQTld3Y2M5Z1BxQkJxaW9IdHI1bTF0a21SLVo3X2tNRWRRa3RJbGpRQ09lNUc2MVhsUmdvRE5iTjBKd3VZc2VYbUxTYi1KZERybkJSVzVoS09zajdPZnRLZDQ3NDdvZEJMTVY1azlqY0p4R3RsdldiNlRRT2VhY3R4bVN0UWU2TUp1MHRza3ZOYWgwWDk2WTZLQ2YtWFBWNVlWc2JGRm1BNmx2X2txMTI0UkpTZk52UG9MS2ZvREpnQkVhQ0hXVWZKcl81eGlzaTF2ZlFaT180Q2FDX0tvXzRJZDNqTm9tMlRPRC1QSWkwU2k0bTRVcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1770950220.0
+    },
+    {
+        "title_fa": "نفت برای هفته‌ای نزولی قرار گرفت چون ریسک‌های مرتبط با ایران کاهش یافته و نگرانی از مازاد عرضه وجود دارد",
+        "title_en": "Oil set for weekly drop as Iran risks recede, oversupply concerns",
+        "summary": [
+            "ریسک‌های مرتبط با ایران کاهش یافته و در نتیجه پریمیوم ریسک قیمت نفت پایین آمده است.",
+            "نگرانی‌های مربوط به مازاد عرضه جهانی (ذخایر بالا و عرضه قوی) فشار نزولی بر قیمت‌ها را تشدید کرده‌اند.",
+            "معامله‌گران به سیگنال‌های عرضه/تقاضا و کاهش تنش‌ها در منطقه واکنش نشان داده و این عوامل باعث پیش‌بینی یک هفته کاهشی شده‌اند."
+        ],
+        "impact": "کاهش قیمت نفت می‌تواند درآمدهای ارزی دولت را تحت فشار بگذارد و توان مالی رژیم برای حفظ ساختارهای سرکوب و هزینه‌های داخلی را تضعیف کند.",
+        "tag": "نفت",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2hQRXRDU0tSbnJUTjZpMWFtZlplNEJEclJWSHBxZkVKWTN0ZDRZZHlaV0dIZUZzaFBvN2tqUGU3OWY1eVRBZWJCT181N0l4V05BeUVMakRic3ROY0h1Ulo4dG1CMXZKSWVKcjB5VV9TVGU1NE9QYVJLZFhaQjBMeW9HOG9pdWR0eUxxSk1TMDJsT21KQ2o5c3VJNDRGSGVMa1BhNjhsWllObW5QSWhzdjcyX2J0d05OVUVZbGwwZkM5WGQyS3BvMFFMUnk2bUlDTjExNlhHcnc5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1770949759.0
+    },
+    {
         "title_fa": "ترامپ علاقه‌مندی به توافق با ایران را نشان داد",
         "title_en": "Trump signals interest in Iran deal",
         "summary": [
@@ -2433,38 +2467,5 @@
         "url": "https://www.moneycontrol.com/world/understanding-the-us-iran-nuclear-standoff-diplomacy-threats-and-regional-stakes-article-13826317.html",
         "image": "https://www.bing.com/th?id=OVFT.Ip4rlQSBX8jS_wOuyFA6ey",
         "timestamp": 1768082567.0
-    },
-    {
-        "title_fa": "ترامپ احتمال مداخله در ایران را مطرح کرد",
-        "title_en": "Trump floats possible intervention in Iran",
-        "summary": [
-            "بیانیهٔ ترامپ دوپهلو است: از یک سو اعلام کرده مایل به پیشرفت نظامی در ایران نیست، اما هم‌زمان احتمال مداخله را مطرح کرده که ابهام و فشار راهبردی ایجاد می‌کند.",
-            "پیامدها برای منافع ملی ایران: رژیم حاکم این تهدید را برای بسیج ملی و توجیه سرکوب داخلی بهره‌برداری خواهد کرد، تنش منطقه‌ای و نقش بازیگران نیابتی افزایش می‌یابد و فعالان و اپوزیسیون در داخل با انگ هم‌دستی با دشمن مواجه خواهند شد.",
-            "اقدامات پیشنهادی برای اپوزیسیون ملی‌گرا: فاصله‌گیری شفاف از هرگونه مداخله نظامی خارجی، تمرکز بر راهکارهای غیرنظامی و دیپلماتیک و درخواست تحریم‌های هدفمند علیه نهادهای سرکوبگر، و تقویت آمادگی مدنی و حفاظت از فعالان و نهادهای جامعهٔ مدنی."
-        ],
-        "impact": "این اظهارات می‌توانند روایت تهدید خارجی را تقویت کنند، به تشدید سرکوب داخلی و بی‌ثباتی منطقه‌ای بینجامند و بنابراین منافع ملی و حاکمیت ایران را به خطر اندازند.",
-        "tag": "حاکمیت",
-        "urgency": 8,
-        "source": "BIG on MSN",
-        "url": "https://www.msn.com/en-au/politics/international-relations/trump-floats-possible-intervention-in-iran/ar-AA1WdeJ8?ocid=BingNewsVerp",
-        "image": "https://www.bing.com/th?id=OVFT.mNRbhK3ZJsXX0Ddq1G6Q_S",
-        "timestamp": 1767708859.0
-    },
-    {
-        "title_fa": "حملات آمریکا به سومالی و تغییر توازن اسرائیل در شاخ آفریقا",
-        "title_en": "As U.S. Bombs Somalia, Israel Shakes Status Quo on Horn of Africa",
-        "summary": [
-            "خبر: عنوان گزارش حاکی از بمباران‌های آمریکا در سومالی هم‌زمان با اقدامات اسرائیل است که وضع موجود در شاخ آفریقا را دگرگون می‌کند.",
-            "نقشهٔ همراه گزارش مناطق کلیدی را نشان می‌دهد: سومالی و سومالی‌لَند با شهرهای هرگیزه و موگادیشو و کشورهای همسایه مانند اریتره، جیبوتی، اتیوپی، کنیا، سودان، یمن و سواحل دریای سرخ و خلیج عدن.",
-            "تحلیل: تشدید تحرکات نظامی و دیپلماتیک در این منطقه توازن‌های منطقه‌ای و مسیرهای دریایی را دستخوش تغییر می‌کند و می‌تواند به‌طور غیرمستقیم نفوذ منطقه‌ای رژیم تهران را تضعیف کرده و فضای سیاسی را برای پیشروی مردم ایران به سوی آزادی بازتر سازد."
-        ],
-        "impact": "این همگرایی نظامی-دیپلماتیک در شاخ آفریقا ممکن است فشارهای بیرونی بر رژیم تهران را افزایش دهد و به‌طور غیرمستقیم فضای سیاسی داخل ایران را برای اپوزیسیون بازتر کند.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/12/world/africa/israel-somaliland-mideast-trump.html",
-        "image": "https://www.bing.com/th?id=OVFT.zLyeEnc34Q6oxNGL_-fHUy",
-        "timestamp": 1767554777.0
     }
 ]
