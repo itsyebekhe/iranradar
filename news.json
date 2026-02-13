@@ -1,5 +1,56 @@
 [
     {
+        "title_fa": "دیدار زلنسکی با ولیعهد پیشین ایران رضا پهلوی",
+        "title_en": "Ukraine's Zelensky Meets With Iran’s Ex-crown Prince Reza Pahlavi",
+        "summary": [
+            "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، با رضا پهلوی، ولیعهد پیشین ایران، دیدار کرد.",
+            "این دیدار به‌عنوان نشانه‌ای از ارتقای تصویر بین‌المللی اپوزیسیون خارج‌نشین ایران تفسیر می‌شود و حمایت سیاسی ضمنی از صدای مخالفان جمهوری اسلامی تلقی می‌گردد.",
+            "احتمال دارد این ملاقات به‌عنوان یک ضربه حیثیتی برای رژیم تهران عمل کند و انرژی سیاسی و توجه دیاسپورای ایرانی و گروه‌های اپوزیسیون را افزایش دهد."
+        ],
+        "impact": "این دیدار به‌طور نمادین مشروعیت بین‌المللی رضا پهلوی را تقویت و حیثیت جمهوری اسلامی را تضعیف می‌کند.",
+        "tag": "اپوزیسیون",
+        "urgency": 3,
+        "sentiment": 0.6,
+        "source": "i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZWR6RXo2WklzV0Z2OVNqYUlHU3dyZGEwdDJLT1Y2MDhNNDBMcjk4aEJYQlZtc3FkdTZyRVpiWFhPZ2tIVGlwa2FzSUxpWWVlSmIxR3lJMHZPLXFabjlvTzd5N25SVzdSNWlJME9JcldmOHNIZkVtUDNQV0tFa3VFeHVNekVqZkN3UzhFQWZTQ01CVlJGZG1RMGRvWV9JT1FwNGhfMDhtV3pvRGlaMWxZQUt6NnIxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771016781.0
+    },
+    {
+        "title_fa": "ایران آخرین برگ خود را در منطقه بازی می‌کند",
+        "title_en": "Iran Plays Its Last Card in the Region",
+        "summary": [
+            "تیتر نشان می‌دهد تهران به یک مانور راهبردی در منطقه متوسل شده؛ متن کامل خبر در اختیار نیست، بنابراین برداشت‌ها باید محتاطانه باقی بمانند.",
+            "چنین تلاشی معمولاً می‌تواند شامل ابزارهای دیپلماتیک، فشار نیابتی یا اقدام نظامی محدود باشد و به‌عنوان علامتی از تزلزل یا تلاش برای جبران ضعف‌های داخلی تفسیر شود.",
+            "پیامدهای محتمل شامل تشدید تنش‌های منطقه‌ای، افزایش فشار بین‌المللی و فرصتی برای اعمال تحریم‌ها یا منزوی‌تر شدن رژیم است که می‌تواند فضای سیاسی داخلی را متاثر کند."
+        ],
+        "impact": "اگر این واقعاً «آخرین برگ» رژیم باشد، نشان‌دهنده ضعف است و می‌تواند پنجره‌ای برای تحرک بیشتر مردم و اپوزیسیون ملی فراهم کند.",
+        "tag": "منطقه‌ای",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "الحرة",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fa2d2T3gtS2JUeGU0aGFURHA1WlBuLURzNTZSbGdaREltSDh6UXBWNTlzRHdfdzEzR2hGMWhwUkZwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771015126.0
+    },
+    {
+        "title_fa": "مذاکرات آمریکا و ایران: آیا حملات اجتناب‌ناپذیر است؟",
+        "title_en": "US-Iran talks: Are strikes inevitable?",
+        "summary": [
+            "عنوان خبر به بررسی گفت‌وگوهای میان آمریکا و ایران و این پرسش می‌پردازد که آیا این مسیر به برخوردهای نظامی منجر خواهد شد.",
+            "افزایش احتمال حملات یا تشدید نظامی می‌تواند ثبات منطقه را به خطر اندازد و هزینه‌های سیاسی و اقتصادی بر دوش حکومت ایران بیفزاید.",
+            "هرگونه تشدید خارجی می‌تواند به تضعیف اقتدار رژیم و گشودن فضای سیاسی داخلی کمک کند؛ فرصتی که مردم و اپوزیسیون می‌توانند برای پیشبرد مطالبه‌های آزادی‌خواهانه بهره‌برداری کنند."
+        ],
+        "impact": "احتمال افزایش درگیری با آمریکا می‌تواند قدرت سرکوب رژیم را تضعیف کند و فضای سیاسی داخلی را برای تحرکات مردمی بازتر سازد.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": 0.5,
+        "source": "GZERO Media",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXlGM1dmRnhDVEhGWEJvenRORTgwQ0JGUWI3ajljbDFkTHplRjBZb002VFVLY0VKLVAtNWNfVFRobWV2V2x5RjRKbldzaXdBZjBodm5MN1JKdm5ITzFEcEoyRGZPUFlZUk9VVnZVSXN1SkJXZFRwX2ZRbXhLcXhmajZsMNIBhAFBVV95cUxNZlVTVGxxYmtwWlZ4ZnhzX3hzcld0Y2ZjZFNCS0tTVkx4cllFQUJxdGVVU0Z0XzNsRUhIYWVibUZGV1NpYTlERFREaFRKYUotenl3TGQ0a0h4aWVVd1VFWDh5MWJOdXFPdWtjUXl3QTd6S0hVc2k1RGxEclE3WXV1elpFazk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771014375.0
+    },
+    {
         "title_fa": "انتخاب ترامپ: آیا گفتگو با ایران به ثبات منطقه می‌انجامد یا مطابق خواست‌های اسرائیل رفتار خواهد کرد؟",
         "title_en": "Trump's Choice: Will Iran Talks Lead to Regional Stability or Follow Israel's Demands?",
         "summary": [
@@ -3266,56 +3317,5 @@
         "url": "https://www.msn.com/en-us/news/world/iran-s-war-plan-is-working-and-america-can-t-stop-it/vi-AA1U2Ffs?ocid=BingNewsVerp",
         "image": "https://www.bing.com/th?id=OVFT.TlEHE7Ahh7SndnoiQwoegy",
         "timestamp": 1766482098.0
-    },
-    {
-        "title_fa": "آشنایی با بلاگر FPL که در جام جهانی T20 برای اسکاتلند توپ می‌زند",
-        "title_en": "Meet the FPL blogger bowling at the T20 World Cup",
-        "summary": [
-            "برد کوری، بولر 27 ساله اسکاتلند، در بازی‌های افتتاحیه جام جهانی T20 آمارهای 2-23 مقابل ویست ایندیز و 1-12 مقابل ایتالیا را ثبت کرد و احتمالاً مقابل انگلیس بولینگ آغازین خواهد داشت.",
-            "او در فضای مجازی با نام «FPL Schofield» به عنوان یک متخصص فانتزی فوتبال شناخته می‌شود؛ سابقاً تا رده 30 جهانی بالا رفته و هزاران دنبال‌کننده دارد و حتی هم‌تیمی‌ها از او درخواست مشاوره می‌کنند.",
-            "کوری تحصیل‌کرده روان‌شناسی ورزش است، برادرش اسکات نیز بولر است و او از مشکل تفاوت زمانی بازی‌ها در هند با برنامه‌های لیگ برتر و مدیریت استراتژی چیپ‌های فانتزی گلایه دارد."
-        ],
-        "impact": "این پرونده نشان می‌دهد ورزشکاران مدرن با هویت‌های آنلاین می‌توانند هم در میدان ورزشی و هم در فضای مجازی تأثیرگذار باشند و جنبه انسانی و تجاری مسابقات را برجسته سازند.",
-        "tag": "کریکت",
-        "urgency": 2,
-        "sentiment": 0.5,
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/cricket/articles/c1mjlj7n9zdo",
-        "image": "",
-        "timestamp": 1766303756.0
-    },
-    {
-        "title_fa": "بزرگ‌ترین ناو جنگی جهان به سمت آب‌های ایران می‌آید: USS Gerald R. Ford راهی دریای عرب شد",
-        "title_en": "Biggest warship in earth heading to Iran: USS Gerald R. Ford sails towards Arabian Sea after Maduro mission",
-        "summary": [
-            "ناو هواپیمابر اتمی USS Gerald R. Ford از کارائیب به منطقه خاورمیانه منتقل شد و قرار است در دریای عرب به USS Abraham Lincoln بپیوندد؛ گروه ضربت همراه شامل پنج ناوشکن موشک‌انداز و بیش از ۹۰ جنگندهٔ بالگردی/پنهان‌کار گزارش شده است.",
-            "خدمهٔ فورد روز ۱۳ فوریه از اعزام جدید مطلع شدند؛ بازگشت ناو به پایگاه و برنامه تعمیرات آن به‌تعویق افتاده و انتظار می‌رود تا اواسط تا اواخر ماه مه به خانه بازنگردد.",
-            "این تقویت نظامی، همراه با هشدار اخیر ترامپ درباره «نتیجهٔ بسیار دردناک» در صورت عدم توافق، فشار و انزوای بین‌المللی بر رژیم جمهوری اسلامی را افزایش می‌دهد و می‌تواند فضای سیاسی را برای تضعیف حکومت و تقویت جنبش‌های اعتراضی داخلی بازتر کند."
-        ],
-        "impact": "فرستادن بزرگ‌ترین ناو جنگی جهان به آب‌های خلیج فارس/دریای عرب فشار نظامی-سیاسی بر جمهوری اسلامی را بالا می‌برد و می‌تواند به کاهش اقتدار رژیم و فرصت‌آفرینی برای مردم منجر شود.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": 0.5,
-        "source": "The Week",
-        "url": "https://www.theweek.in/news/middle-east/2026/02/13/biggest-warship-in-earth-heading-to-iran-uss-gerald-r-ford-sails-towards-arabian-sea-after-maduro-mission.html",
-        "image": "",
-        "timestamp": 1766222898.0
-    },
-    {
-        "title_fa": "تأسیسات هسته‌ای فردو همواره کانون نگرانی بین‌المللی بوده است",
-        "title_en": "Iran's Fordo nuclear facility has long been a focus of international concern",
-        "summary": [
-            "به‌روزرسانی: رئیس‌جمهور ترامپ اعلام کرده است که آمریکا شنبه 21 ژوئن حملاتی علیه سه تأسیسات هسته‌ای ایران، از جمله فردو، انجام داده است.",
-            "فردو به‌خاطر دفن بودن در دل کوه و اتهامات درباره تلاش‌های مخفی برای پیشبرد قابلیت تسلیحاتی، برای ناظران بین‌المللی حساس است؛ در عین حال شکاف میان ارزیابی‌های اطلاعاتی آمریکا (اظهار عدم باور به تلاش برای ساخت سلاح) و ادعاهای نظامی اسرائیل مشهود است.",
-            "حملات نظامی مستقیم به تأسیسات حساس، توان فنی و اهرم بین‌المللی رژیم را هدف می‌گیرد و آشکار شدن تضاد اطلاعاتی و فشار خارجی می‌تواند مشروعیت و کنترل داخلی حکومت را تضعیف کند، هرچند خطر تشدید تنش منطقه‌ای و سرکوب داخلی نیز افزایش می‌یابد."
-        ],
-        "impact": "این حملات، در کنار افشای تناقض‌های اطلاعاتی، رژیم را در موضع ضعف قرار می‌دهد و در عین حفظ ریسک‌های امنیتی، فضای سیاسی را برای مقاومت مردم و اپوزیسیون ملی‌گرا بازتر می‌سازد.",
-        "tag": "هسته‌ای",
-        "urgency": 10,
-        "sentiment": 0.6,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/israel-iran-war-fordo-nuclear-site/",
-        "image": null,
-        "timestamp": 1750511400.0
     }
 ]
