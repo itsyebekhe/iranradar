@@ -1,5 +1,22 @@
 [
     {
+        "title_fa": "ایران، روسیه و چین برنامه هسته‌ای تهران را بررسی کردند",
+        "title_en": "Iran, Russia, China Discuss Tehran's Nuclear Program",
+        "summary": [
+            "ایران، روسیه و چین در نشستی مشترک درباره برنامه هسته‌ای تهران گفت‌وگو کردند.",
+            "حضور روسیه و چین نشان‌دهنده شبکه‌ای از حمایت بین‌المللی برای رژیم است که می‌تواند به تداوم برنامه هسته‌ای و تقویت توان سرکوب داخلی کمک کند.",
+            "این گفت‌وگوها می‌تواند دیپلماسی غربی و تلاش‌های فشار بین‌المللی را پیچیده‌تر کند و برای اپوزیسیون و معترضان داخلی هشدار باشد."
+        ],
+        "impact": "نشست بیانگر تقویت حمایت خارجی از رژیم است که می‌تواند به پیشبرد برنامه هسته‌ای و استمرار سرکوب داخلی بدون پاسخگویی منجر شود.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": -0.7,
+        "source": "Caspian Post",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEk5LUZsU2ZsamM3T2tKLU0wSkNVWnYzcGFtOTgyUGZuOEhobFNqaEhEQWZsRXc3SHk5ajVpY3drQ0pnQUNrQkxKMVBCN2pUbURkSWZoZGNhMnQxa2REcXdwczJDNmx6dWtiRHFLTHphNkZDT0ozdEJDME5aa01lVkJtQjM5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771059220.0
+    },
+    {
         "title_fa": "سیاست خارجی ایالات متحده (گاردین)",
         "title_en": "US foreign policy",
         "summary": [
@@ -3303,21 +3320,5 @@
         "url": "https://www.cbsnews.com/news/iran-offers-protesters-families-leniency-in-exchange-for-public-loyalty/",
         "image": "https://www.bing.com/th?id=OVFT.5BUZmu4w3B4HZsxAMbPDty",
         "timestamp": 1770400508.0
-    },
-    {
-        "title_fa": "ویدیوی تبلیغاتی ساختگی ایران حمله به یواس‌اس آبراهام لینکلن را نشان می‌دهد",
-        "title_en": "Chilling Iran propaganda video shows attack on USS Abraham Lincoln",
-        "summary": [
-            "ویدئویی تولیدشده با هوش مصنوعی که در شبکه‌های اجتماعی منتشر شده، صحنه‌های حمله نیروهای ایران به کشتی‌های آمریکایی از جمله یواس‌اس آبراهام لینکلن را به تصویر می‌کشد.",
-            "این نوع پروپاگاندا ریسک تشدید تنش‌های خارجی، بهانه‌جویی برای واکنش‌های نظامی یا تحریمی واشنگتن و تضعیف منافع راهبردی ایران را افزایش می‌دهد و اعتماد بین‌المللی را بیشتر فرسایش می‌دهد.",
-            "توصیه راهبردی: دولت‌های مخالف و نهادهای مدنی باید نسخه‌برداری و منشأ ویدیو را افشا کنند، سیاست شفاف اطلاع‌رسانی اتخاذ شود، از تشدید اقدامات تحریک‌آمیز خودداری و هم‌زمان بر دیپلماسی منطقه‌ای و تقویت دفاع واقعی تمرکز شود."
-        ],
-        "impact": "این ویدیو می‌تواند موجب افزایش تنش‌های بین‌المللی، بهانه‌جویی علیه ایران و آسیب جدی به منافع ملی و دیپلماسی کشور شود.",
-        "tag": "تبلیغات",
-        "urgency": 8,
-        "source": "WION on MSN",
-        "url": "https://www.msn.com/en-in/news/world/chilling-iran-propaganda-video-shows-attack-on-uss-abraham-lincoln/ar-AA1WbOIf?ocid=BingNewsVerp",
-        "image": "",
-        "timestamp": 1770387259.0
     }
 ]
