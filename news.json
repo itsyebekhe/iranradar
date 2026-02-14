@@ -1,5 +1,22 @@
 [
     {
+        "title_fa": "ترامپ هنوز به ایران حمله نکرده؛ لابد این نظرسنجی‌ها را می‌خواند",
+        "title_en": "Trump hasn't bombed Iran yet. He must be reading these polls.",
+        "summary": [
+            "مقاله اشاره می‌کند که تاکنون دولت ترامپ حمله نظامی مستقیم به ایران انجام نداده و ظاهراً نتایج نظرسنجی‌ها در تصمیم‌گیری برای اقدام نظامی موثر بوده‌اند.",
+            "با وجود خودداری فعلی از حمله، خطر تنش و احتمال اقدام نظامی در آینده همچنان وجود دارد و هر تغییر در محاسبات سیاسی یا اطلاعاتی می‌تواند وضعیت را سریعاً دگرگون کند.",
+            "عدم حمله فوری و تأثیر نظرسنجی‌ها بر احتیاط واشنگتن می‌تواند به تضعیف اهرم‌های قدرت رژیم در داخل ایران کمک کند و فضای سیاسی‌ای فراهم آورد که به نفع مقاومت و مطالبات مردمی باشد."
+        ],
+        "impact": "احتیاطِ فعلی آمریکا می‌تواند فرصت سیاسی برای تشدید اعتراضات داخلی و تضعیف مشروعیت رژیم فراهم کند.",
+        "tag": "آمریکا",
+        "urgency": 9,
+        "sentiment": 0.6,
+        "source": "Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMzNNVUxYQUxzYWw2WG4wOFRWbjRoNW9lVUZMcGtrcWVsM1RLR2FNYlpkczhfWmo4c3pVSGphNWRuTmtjeS1jSzVJUHlyM2NIRHRHaDdrZ0Jhc1lFa3BEOWxRWGg5Nm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771063991.0
+    },
+    {
         "title_fa": "مسئول حزب‌الله: ایران به‌خاطر ممانعت از طرح «اسرائیل بزرگ» دشمنی آمریکا و اسرائیل را جذب کرده است",
         "title_en": "Iran drawing US-Israeli enmity because it blocks ‘Greater Israel’ scheme: Hezbollah official",
         "summary": [
@@ -66,6 +83,23 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEk5LUZsU2ZsamM3T2tKLU0wSkNVWnYzcGFtOTgyUGZuOEhobFNqaEhEQWZsRXc3SHk5ajVpY3drQ0pnQUNrQkxKMVBCN2pUbURkSWZoZGNhMnQxa2REcXdwczJDNmx6dWtiRHFLTHphNkZDT0ozdEJDME5aa01lVkJtQjM5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771059220.0
+    },
+    {
+        "title_fa": "سری‌لانکا و بنگلادش پیروزی انقلاب اسلامی را تبریک گفتند",
+        "title_en": "Sri Lanka, Bangladesh felicitate Iran on Islamic Rev. anniv.",
+        "summary": [
+            "خبرگزاری مهر گزارش می‌دهد که وزیران خارجهٔ سری‌لانکا و بنگلادش در پیام‌هایی جداگانه به عباس عراقچی، چهلم و هفتمین سالگرد پیروزی انقلاب اسلامی ایران را تبریک گفته و بر ارتقای روابط دوجانبه تاکید کرده‌اند.",
+            "این نوع پیام‌های تبریک، بیشتر یک عرف دیپلماتیک و علامت تمایل به روابط عملی (تجاری، انرژی و مهاجران) هستند تا تایید صریح رویه‌ها یا سیاست‌های داخلی جمهوری اسلامی؛ پوشش گستردهٔ رسانهٔ دولتی اما هدفش نمایش چهره‌ای از مشروعیت و همراهی بین‌المللی است.",
+            "در شرایطی که رژیم برای بهره‌برداری از مناسبت‌های نمادین جهت تقویت اقتدار داخلی تلاش می‌کند، چنین پیام‌هایی اثر عملی محدود و نمادین دارند و لزوماً نشانهٔ حمایت از سیاست‌های داخلی یا ممانعت از انزوای تهران نیستند."
+        ],
+        "impact": "اثر واقعی این تبریک‌ها محدود و نمادین است؛ رژیم تلاش می‌کند با برجسته‌سازی استقبال‌های دیپلماتیک، تصویری از مشروعیت بین‌المللی بسازد اما این تصویر تغییری در فشارها و مشکلات داخلی ایجاد نمی‌کند.",
+        "tag": "تبلیغات",
+        "urgency": 1,
+        "sentiment": -0.5,
+        "source": "Mehr News Agency",
+        "url": "https://en.mehrnews.com/news/241773/Sri-Lanka-Bangladesh-felicitate-Iran-on-Islamic-Rev-anniv",
+        "image": "https://media.mehrnews.com/d/2026/02/14/4/5904305.jpg?ts=1771057602428",
+        "timestamp": 1771059060.0
     },
     {
         "title_fa": "سیاست خارجی ایالات متحده (گاردین)",
@@ -3287,38 +3321,5 @@
         "url": "https://en.mehrnews.com/news/241746/Iran-Bahrain-FMs-hold-call-to-discuss-ties-nuclear-talks",
         "image": "",
         "timestamp": 1770629313.0
-    },
-    {
-        "title_fa": "ایران چهره‌های برجسته سیاسی را بازداشت کرد؛ گسترش سرکوب اعتراضات",
-        "title_en": "Iran Detains Prominent Political Figures, Expanding Crackdown on Dissent",
-        "summary": [
-            "نهادهای امنیتی جمهوری اسلامی چندین مقام و فعال سیاسی از جریان اصلاح‌طلب را بازداشت کرده‌اند.",
-            "این دستگیری‌ها پس از موج بازداشت‌های گسترده و به‌کارگیری رشته‌ای از تاکتیک‌های سرکوب صورت گرفته‌اند تا از بروز اعتراضات ضدحکومتی بیشتر جلوگیری شود.",
-            "تشدید سرکوب نشان‌دهنده فشار فزاینده بر اپوزیسیون است اما می‌تواند خشم عمومی را تقویت و عزم جامعه مدنی برای مقاومت را افزایش دهد."
-        ],
-        "impact": "موج جدید بازداشت‌ها ضعف سیاسی رژیم در مدیریت بحران‌های داخلی را برجسته می‌کند و احتمالاً به تشدید نارضایتی و پایداری اعتراضات منجر خواهد شد.",
-        "tag": "سرکوب",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/09/world/europe/iran-detains-prominent-opposition-figures-expanding-crackdown-on-dissent.html",
-        "image": "http://www.bing.com/th?id=OVFT.jm5juLPyr6lgo-eFUlDBMC&pid=News",
-        "timestamp": 1770622740.0
-    },
-    {
-        "title_fa": "ماشین نظارت دیجیتال ایران تقریباً تکمیل شده است",
-        "title_en": "Iran’s Digital Surveillance Machine Is Almost Complete",
-        "summary": [
-            "رژیم طی ۱۵ سال با ایجاد شبکه ملی اطلاعات (NIN)، فیلتراسیون، ساعات دیجیتال و خاموشی‌های گسترده ابزارهای فناورانه و سیستمی کنترل اتصال و جریان اطلاعات را تقویت کرده است.",
-            "خاموشی اخیر که از ۸ ژانویه آغاز شد نشان داد علی‌رغم بلوغ فنی، اجرای سرکوب اینترنتی امسال آشفته و واکنشی بوده و حتی NIN برای چند روز از کار افتاد — نشانه‌ای از اضطراب در هرم تصمیم‌گیری رژیم.",
-            "قابلیت قطع انتخابی یا محدودسازی دسترسی همراه با امکانات نظارتی پیشرفته، تهدیدی جدی برای آزادی‌های مدنی، اقتصاد دیجیتال و انسجام ملی است و ریسک سوءاستفاده در سرکوب اعتراضات و جاسوسی داخلی را افزایش می‌دهد."
-        ],
-        "impact": "تکمیل ماشین نظارتی به‌عنوان تهدیدی بلندمدت برای منافع ملی عمل می‌کند، چون آزادی، نوآوری اقتصادی و انسجام اجتماعی را تضعیف می‌کند و رژیم را به راهبردهای سرکوب‌گرایانه‌ای سوق می‌دهد که قدرت ملی و مشروعیت کشور را فرسایش می‌دهد.",
-        "tag": "نظارت",
-        "urgency": 9,
-        "source": "Wired",
-        "url": "https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/",
-        "image": "http://www.bing.com/th?id=OVFT.TIgyeCN0I46B70dzxHdssy&pid=News",
-        "timestamp": 1770607140.0
     }
 ]
