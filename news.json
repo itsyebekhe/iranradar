@@ -1,5 +1,56 @@
 [
     {
+        "title_fa": "حزب‌الله: ایران مانع تحقق طرح «اسرائیل بزرگ» است",
+        "title_en": "Iran main barrier to materialization of 'Greater Israel' plot",
+        "summary": [
+            "شیخ علی داموش از رهبران حزب‌الله مدعی شده است که خصومت آمریکا و رژیم صهیونیستی با ایران به‌خاطر هویت «اسلامی‌ـ‌انقلابی» آن است و ایران خط اصلی در مقابل پروژه موسوم به «اسرائیل بزرگ» محسوب می‌شود.",
+            "این گفته‌ها از سوی یک متحد شبه‌نظامیِ نزدیک به تهران منتشر شده و نقش تبلیغاتی دارد: تلاش برای تقویت مشروعیت منطقه‌ای جمهوری اسلامی و توجیه شبکه‌های نیابتی؛ ادعای «تنها مانع» بودن ایران گزاره‌ای اغراق‌شده و سیاسی است که واقعیت‌های پیچیده منطقه را ساده‌سازی می‌کند.",
+            "در شرایط مذاکرات غیرمستقیم هسته‌ای و افزایش تهدیدهای نظامی آمریکا، چنین شعارهایی هم می‌تواند تنش‌ها را تشدید کند و هم به‌عنوان ابزاری برای منحرف‌سازی افکار عمومی از بحران‌های اقتصادی و ناتوانی‌های داخلی رژیم به‌کار رود؛ فشار خارجی در نهایت می‌تواند آسیب‌پذیری نظام را آشکار و برای مخالفان داخلی فرصت‌هایی ایجاد کند."
+        ],
+        "impact": "این اظهارات تبلیغاتی به‌طور موقتی روایت قدرت منطقه‌ای رژیم را تقویت می‌کند اما هم‌زمان ضعف ساختاری و آسیب‌پذیری جمهوری اسلامی در برابر تهدیدها و تحریم‌ها را برجسته کرده و می‌تواند موقعیتی برای مخالفان داخلی فراهم آورد.",
+        "tag": "تبلیغات",
+        "urgency": 3,
+        "sentiment": -0.7,
+        "source": "Mehr News Agency",
+        "url": "https://en.mehrnews.com/news/241796/Iran-main-barrier-to-materialization-of-Greater-Israel-plot",
+        "image": "https://media.mehrnews.com/d/2026/02/14/4/5904962.jpg?ts=1771092734182",
+        "timestamp": 1771093980.0
+    },
+    {
+        "title_fa": "وزیر خارجه ایران: اروپا در مذاکرات هسته‌ای جای خود را به «دوستان مؤثر» منطقه‌ای تهران داده است",
+        "title_en": "Iranian FM says Europe replaced by Tehran's \"effective\" regional friends in nuclear talks",
+        "summary": [
+            "محمدعلی خطیب/وزیر خارجه ایران اعلام کرده که بازیگران اروپایی در گفت‌وگوهای هسته‌ای جای خود را به «دوستان مؤثر» منطقه‌ای تهران داده‌اند.",
+            "اظهارنظر رسمی نامی از این کشورها یا سازوکار جدید نبرده و بیشتر به پیام سیاسی تغییر اولویت‌های دیپلماتیک تهران اشاره دارد تا جزئیات فنی مذاکرات.",
+            "این ادعا هم به عنوان نمایش نفوذ منطقه‌ای حکومت و هم علامتی از فاصله‌گیری از میانجی‌گری یا نقش اروپا در پرونده هسته‌ای قابل تفسیر است."
+        ],
+        "impact": "تغییر اعلام‌شده در طرف‌های مذاکره می‌تواند روند و ساختار گفت‌وگوهای هسته‌ای را پیچیده کند و شانس احیای سازوکارهای مبتنی بر حضور اروپایی‌ها را کاهش دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "Xinhua",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03U1FzZl9POEdXQTVmb0dTTTRDX2dVYmNxbktyWmkwLUZIVWZoYmhqblFNNTlrVEZCSklUNDJ5WXpEQk5CS1A4aVpGUmE2VEtSaV82UUVxNEVBUHg1d01IcDFpbDZoV1cwakhTb0lEbmRxaWRzVFJWQ1F2NU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771093575.0
+    },
+    {
+        "title_fa": "اسرائیل، ایران و هوش مصنوعی محور کنوانسیون NRB خواهند بود",
+        "title_en": "Israel, Iran, and AI set to dominate NRB convention",
+        "summary": [
+            "کنوانسیون NRB امسال عمدتاً بر سه موضوع اسرائیل، ایران و پیامدهای هوش مصنوعی در رسانه‌ها متمرکز خواهد بود.",
+            "موضوع ایران در دستور کار قرار دارد و احتمالاً مباحثی درباره سیاست آمریکا نسبت به تهران و پیامدهای ژئوپلیتیکی مطرح خواهد شد.",
+            "تمرکز روی هوش مصنوعی نشان‌دهنده نگرانی‌ها و فرصت‌های فناوری برای رسانه‌ها، اطلاع‌رسانی و جنگ‌های اطلاعاتی است."
+        ],
+        "impact": "این کنفرانس می‌تواند نگرش مخاطبان و شبکه‌های حمایتی در آمریکا را نسبت به ایران شکل دهد و به افزایش فشار سیاسی و دیپلماتیک بر رژیم منجر شود.",
+        "tag": "همایش",
+        "urgency": 3,
+        "sentiment": 0.35,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrRkhTT0h6WDEtV3p0bFJZYmNSdTZoM0V2MUVLLUJPX3Q5STcxM2QtX19hdHpsUXFjODVPQTVJaGp1S2hrMWppREx3bE81RFFFTndlMl9Vb3JWUXFlUnBWWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771091802.0
+    },
+    {
         "title_fa": "تقابل ایران و آمریکا در حالی که دیاسپورا در خارج درخواست اقدام می‌کند",
         "title_en": "Iran, US spar as diaspora organises rallies abroad calling for action",
         "summary": [
@@ -797,6 +848,23 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11SHZtWjIzMld1WEZYa1dfemYxeU5DckpEQlFBVFRLSXdvSGZzZENhck9zdnNWM19SM3plNUNYcmlmN1F3b2RmNmhKcW4yMW9YdEdLbjFBUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771008313.0
+    },
+    {
+        "title_fa": "نخست‌وزیر دانمارک: خواست ترامپ برای گرینلند همچنان «یکسان» است با وجود گفتگوها",
+        "title_en": "Danish PM says Trump's desire over Greenland still 'the same' despite ongoing talks",
+        "summary": [
+            "متّه فردریکسن در کنفرانس امنیتی مونیخ گفت دونالد ترامپ هنوز «خیلی جدی» درباره خرید یا کنترل گرینلند است؛ دانمارک بر حفظ حاکمیت ملی و اراده مردم گرینلند مبنی بر نخواستن شهروندی آمریکایی تأکید کرد.",
+            "نخست‌وزیر گرینلند و دیگر مقام‌ها رفتار ترامپ را «عجیب» و تهدیدآمیز خواندند اما گفتند کانال‌های دیپلماتیک باز شده و گام‌هایی در جهت کاهش تنش برداشته شده؛ اعضای اروپایی و ناتو هشدار دادند تهدید یک متحد به متحد دیگر به اتحاد آسیب می‌زند.",
+            "در مباحث آرکتیک تهدیدات روسیه و چین نیز مطرح شد — دو کشوری که ما آن‌ها را شریکان رژیم ایران در سرکوب می‌دانیم — و تأکید شد ناتو باید امنیت منطقه را تضمین کند تا سایر بازیگران نتوانند خلأ را پر کنند."
+        ],
+        "impact": "افزایش رقابت آمریکا برای قلمروهای استراتژیک و واکنش متحدان ناتو شکاف‌ها در نظم بین‌المللی را برجسته می‌کند؛ وضعیتی که می‌تواند به نفع فشار بین‌المللی بر جمهوری اسلامی و تضعیف مشروعیت آن تمام شود.",
+        "tag": "گرینلند",
+        "urgency": 2,
+        "sentiment": 0.25,
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/live/cnv6j9j190rt",
+        "image": "",
+        "timestamp": 1771007731.0
     },
     {
         "title_fa": "نظر: اقدام علیه ایران می‌تواند بازی جهانی را تغییر دهد",
@@ -3259,69 +3327,5 @@
         "url": "https://www.israelnationalnews.com/news/422373",
         "image": "https://www.bing.com/th?id=OVFT.NAFZQrDzH5leZxazGv3lBS",
         "timestamp": 1770795516.0
-    },
-    {
-        "title_fa": "آیا حضور یو‌اس‌اس آبراهام لینکولن نزدیک تهران مذاکرات هسته‌ای آمریکا و ایران را مختل می‌کند؟",
-        "title_en": "Can USS Abraham Lincoln’s presence near Tehran hinder US–Iran nuclear talks?",
-        "summary": [
-            "استقرار ناو هواپیمابر یو‌اس‌اس آبراهام لینکولن در آب‌های نزدیک به تهران نگرانی‌هایی درباره افزایش تنش نظامی و تأثیر منفی بر فضای مذاکرات هسته‌ای ایجاد کرده است.",
-            "ایالات متحده حضور نظامی را به‌عنوان اقدام بازدارنده و تضمین امنیت خطوط کشتیرانی توصیف می‌کند؛ در مقابل چنین تحرکاتی می‌تواند اعتماد لازم برای انعطاف دیپلماتیک میان طرفین را تضعیف کند.",
-            "تأثیر نهایی به واکنش تهران، پیام‌رسانی دیپلماتیک دو طرف و امکان مدیریت بحران از طریق کانال‌های سیاسی بستگی دارد؛ اگر مدیریت نشود، می‌تواند پیش‌شرط‌های یک توافق را دشوارتر کند."
-        ],
-        "impact": "این حضور احتمالاً فضای مذاکرات را تیره می‌کند و می‌تواند شانس دستیابی به توافق هسته‌ای را کاهش دهد مگر اینکه تنش‌ها به‌سرعت از طریق دیپلماسی کاهش یابند.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "WION",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjU5Y05kSl9tWC1rYVJPQWF1aXVGQVJRSDFCMnhwVUNjb2lBYUE0SGpob19vdVduUllNRWxlWFZkYmw2MUpFWllrSlZTTWRPZ3E0NWk2SGpVQkc5aEc2RlNKcXVFblpNYzVoVW42OGVsMk1YSnU0SHl5aHA2dGV0TmdJbVlKeVVNbWZ3ajFHZkJRdWlZY1ZSRm0wU2lMNnlrOW96WGdmU0lQaXZiYTV4N0hray1VZUFFRXlsQw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 07:26:00 GMT",
-        "timestamp": 1770794760.0
-    },
-    {
-        "title_fa": "Iran displays wreckage of Israeli drones downed during 12-day war - photo",
-        "title_en": "Iran displays wreckage of Israeli drones downed during 12-day war - photo",
-        "summary": [
-            "تحلیل در دسترس نیست"
-        ],
-        "impact": "بررسی نشده",
-        "tag": "News",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Caliber.Az",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkhCLVBJMWNSUXZua0JjanNRS1VZLS1RdktHUG9vR3dQU1FhQTNra01HcndEUGFyaEVWOHRzcHRROWJuOFlDaXQyZ1lXczNuY25PTWlzTVNQLV9UNVZySExaTEl4T3VOWHBkYlBJc0pob1pDZTNXRVpoVWZQeFdDSUowNDhKajF1bS1Hd2QtQ19NNEhaazFv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 07:15:41 GMT",
-        "timestamp": 1770794141.0
-    },
-    {
-        "title_fa": "چهار دهه بعد، انقلاب ایران همچنان یک ملت را شکل می‌دهد",
-        "title_en": "Four Decades On, Iran's Revolution Still Shapes a Nation",
-        "summary": [
-            "روایت مقاله انقلاب ۱۳۵۷ را به‌صورت یک موفقیت یک‌دست و مشروع نشان می‌دهد در حالی که از سرکوب سیاسی، نقض حقوق بشر، محدودیت‌های آزادی مردم (از جمله زنان و اقلیت‌ها) و استفاده مستمر از ابزارهای امنیتی برای تضمین وفاداری سخنی به میان نمی‌آورد؛ رژه‌های موشکی و تجمعات نمادین عملکرد بازدارنده/نظمیِ رژیم را توجیه می‌کنند، نه نشانگر همبستگی واقعی اجتماعی.",
-            "دستاوردهای فناورانه و خودکفایی نظامی که در متن برجسته شده‌اند تا حدی واقعی‌اند اما اغراق‌شده و از زمینهٔ تحریم‌ها، تخصیص‌های انتخابی بودجه، اقتصاد سیاسی رانتی و فرار مغزها جدا شده‌اند؛ این روایت شکست‌های اقتصادی، فساد ساختاری و افت معیشت شهروندان را پاک‌سازی می‌کند.",
-            "اتهام‌زنی به «رسانهٔ غربی» و قالب‌سازی ضدغربی به عنوان ابزارِ توجیهی به کار رفته تا انتقاد داخلی و بین‌المللی را نادیده بگیرد: هدف پنهان تقویت مشروعیت ولایت فقیه، توجیه هزینه‌های تسلیحاتی و مداخلات منطقه‌ای و منحرف کردن فشار برای اصلاحات عمیق داخلی است."
-        ],
-        "impact": "این گزارشِ تبلیغاتی برای حفظ مشروعیت رژیم و توجیه گرایش‌های نظامی و ایدئولوژیک، منافع ملی ایران را ضرر می‌زند چون اصلاحات اقتصادی، کاهش انزواء بین‌المللی و بهبود حقوق شهروندی را که برای رفاه و ثبات بلندمدت ضروری‌اند، به حاشیه می‌راند.",
-        "tag": "propaganda",
-        "urgency": 8,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241625/Four-Decades-On-Iran-s-Revolution-Still-Shapes-a-Nation",
-        "timestamp": 1770791340.0
-    },
-    {
-        "title_fa": "زنده: نتانیاهو در دیدار با ترامپ در کاخ سفید خواستار اتخاذ مواضع سخت‌تر درباره موشک‌های بالستیک ایران شد",
-        "title_en": "Live: Netanyahu to push Trump to take hard line on Iran's ballistic missiles in White House talks",
-        "summary": [
-            "نخست‌وزیر اسرائیل در ملاقات با رئیس‌جمهور آمریکا فشار خواهد آورد تا سیاست سخت‌تری در قبال برنامه موشکی بالستیک ایران اتخاذ شود.",
-            "محور مذاکرات احتمالاً شامل پیشنهاداتی برای تشدید تحریم‌ها، اقدامات بازدارنده و هماهنگی امنیتی مشترک است.",
-            "این دیدار می‌تواند بر همکاری‌های راهبردی آمریکا و اسرائیل و نیز سطح تنش در خاورمیانه تأثیر بگذارد."
-        ],
-        "impact": "دیدار ممکن است به تشدید فشارهای دیپلماتیک و تحریمی علیه ایران و افزایش احتمال بالا گرفتن تنش‌های منطقه‌ای منجر شود.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGdxSkJjZEJpajNHZnFQc2lLVWdDcmREbmkyY0R6NnJxSWZjMnp5UGRURmRybW9BQkoxSFpHLWw1Q0tnVy1IakFiSDJNeDA2R2lpTDItN1NUd09rSW04by1CVXNtN29FNFdUdk9ZeDVhQk5xTnhKWFVZRHJ6eGVkY29CMjZNaUVSa21xbEZ4Q2RuUlY5SmlvRm1XZWFmMkdubGVhLTB3NjJ2ZzJSd3VxWkJnNkxXMUg1eWx3NjNYVm9ocTZGdnAxSVZFbFhuVHhfazFFeTBmbTcwWUpPU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 06:19:46 GMT",
-        "timestamp": 1770790786.0
     }
 ]
