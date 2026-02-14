@@ -1,5 +1,39 @@
 [
     {
+        "title_fa": "تهران میزبان نوزدهمین کمیسیون مشترک اقتصادی ایران و روسیه",
+        "title_en": "Tehran to host 19th Iran-Russia Joint Economic Commission",
+        "summary": [
+            "محوّله رسمی خبر: نشست سه‌روزه (۱۶ تا ۱۸ فوریه) برای بررسی پروژه‌های اولویت‌دار در تجارت، انرژی، حمل‌ونقل، مالی و بانکی، انرژی هسته‌ای «صلح‌آمیز» و بهداشت برگزار می‌شود و مقام‌ها خوشبینانه از گسترش همکاری سخن گفته‌اند — خط رسانه‌ای دولتی برای نشان‌دادن کارآمدی و گسترش نفوذ بین‌المللی رژیم.",
+            "واقعیت پنهان: توافق‌های اعلامی غالباً به نفع نهادها و شرکت‌های وابسته به رهبری و آقازاده‌هاست و شفافیت عملی پایین است؛ تمرکز روی همکاری‌های مالی، بانکی و حمل‌ونقل می‌تواند سازوکارهایی برای دورزدن تحریم‌ها فراهم کند و در نتیجه منابع بیشتری به‌سوی حفظ ساختار سرکوب سوق یابد.",
+            "نقش روسیه: حضور و مشارکت فعال روسیه به‌عنوان شریک کلیدی، نه فقط تقویت اقتصادی رژیم بلکه تقویت پوشش سیاسی و همکاری‌هایی است که فرصت‌های تکنولوژیک و مالی برای تداوم سیاست‌های داخلی سرکوب‌گرانه و مقاومت در برابر فشارهای بین‌المللی ایجاد می‌کند، در حالی که مردم عادی از نتایج ملموس ناامید خواهند ماند."
+        ],
+        "impact": "این نشست با تقویت پیوندهای اقتصادی-سیاسی با روسیه دستِ حکومت را برای ادامه سرکوب و فرار از فشارهای بین‌المللی تقویت می‌کند، در حالی که منافع واقعی برای مردم نامشخص است.",
+        "tag": "سرکوب",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "Mehr News Agency",
+        "url": "https://en.mehrnews.com/news/241790/Tehran-to-host-19th-Iran-Russia-Joint-Economic-Commission",
+        "image": null,
+        "timestamp": 1771086660.0
+    },
+    {
+        "title_fa": "۴۷ سال پس از انقلاب ایران، واشنگتن هنوز استراتژی ندارد",
+        "title_en": "47 years after Iran’s revolution, Washington still has no strategy",
+        "summary": [
+            "مقاله The Hill تأکید می‌کند که پس از ۴۷ سال از انقلاب، ایالات متحده فاقد یک راهبرد منسجم و بلندمدت در قبال ایران است.",
+            "به گفته مطلب، نبود یک سیاست روشن موجب ناهماهنگی دیپلماتیک و خلأهای امنیتی شده که تهران می‌تواند از آن بهره ببرد.",
+            "این خلأ راهبردی همچنین توانایی واشنگتن را برای حمایت مؤثر از شرکای منطقه‌ای و جریان‌های دموکراتیک داخل ایران تضعیف کرده است."
+        ],
+        "impact": "نبود استراتژی شفاف از سوی واشنگتن به تهران اجازه می‌دهد خلأهای دیپلماتیک و امنیتی را پر کند و فرصت‌های حمایت از دموکراسی در ایران را کاهش دهد.",
+        "tag": "استراتژی",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczRFRl9kUFJFMXJsUkRKZDdhNFpEcWZCdlozN2JyNGdWS1JkNkxQSFk0cXBzaGswUUlXck1sR3RzR3FXeHNrWDN1dU1jdjlyaXdQR1h1dllyQzZuei1wdi04Rm5ZNXZkVGI1a0dLNTlyZk8wUHF2emxQVDVDd3B1ekxhWnPSAYoBQVVfeXFMT3VZeF9KbWFFd3BQLXAtMnBseExrZEZabFpJRVlpRWEtNDZwSWJPYzVydXdpeGo2aExmVmpWSDJnLTFFRF9ZRkowZHJpVVJvVGplVUdxeEFNREEtU2hxbmFTNDd4ZU44ZXBuMmEzOXNrT1Ezb3hfcktKdHdJY1EtTlhTZXlnMFlDY0tB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771084800.0
+    },
+    {
         "title_fa": "پسر آخرین شاه ایران خواستار مداخله نظامی آمریکا در ایران شد",
         "title_en": "Son of Iran's last shah urges US military intervention in Iran",
         "summary": [
@@ -2480,6 +2514,23 @@
         "timestamp": 1770827721.0
     },
     {
+        "title_fa": "نیروهای ضدحماس می‌گویند تونل‌های گروه تروریستی را در غزه منهدم می‌کنند",
+        "title_en": "Anti-Hamas militia says it is destroying terror group’s tunnels in Gaza",
+        "summary": [
+            "گروه شبه‌نظامی «نیروهای مردمی» که ضدحماس معرفی شده، در عکسی منتشرشده توسط رهبرشان در 12 فوریه 2026 کنار ورودی تونلی در جنوب غزه دیده می‌شوند و ادعا شده تونل را منهدم کرده‌اند.",
+            "خبر در قالب پوشش زنده تایمز آو اسرائیل از جنگ غزه منتشر شده؛ اطلاعات مستقل و تأییدشده درباره میزان تخریب، کشته‌ها یا جزئیات عملیاتی تاکنون گزارش نشده است.",
+            "از منظر نظامی، تونل‌ها برای توان لجستیکی و تحرک حماس حیاتی‌اند؛ اگر ادعاها تأیید شود، ضربه‌ای به ظرفیت‌های زمینی حماس خواهد بود اما خطر افزایش آوارگی و خسارت برای غیرنظامیان در جنوب غزه وجود دارد."
+        ],
+        "impact": "در کوتاه‌مدت، تأیید تخریب تونل‌ها می‌تواند توان عملیاتی حماس را کاهش دهد، اما همزمان تبعات انسانی و جابجایی غیرنظامیان در جنوب غزه را تشدید خواهد کرد.",
+        "tag": "غزه",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog-february-14-2026/",
+        "image": "",
+        "timestamp": 1770827669.0
+    },
+    {
         "title_fa": "فعالان: شمار کشته‌شدگان سرکوب اعتراضات در ایران دست‌کم ۷۰۰۲ نفر شد",
         "title_en": "Deaths in Iran's crackdown on protests reach at least 7,000, activists say",
         "summary": [
@@ -3272,56 +3323,5 @@
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd2ozd1p2cERCZHhEMEVDRjJ4MGNoYk1ER1BRNVdQV1pTNVh1S3hsOGRvbUZhMGZnOG5tY0FaeHpCR0x5S1JwWHcxZUVRb3lFOXN4eWZkZDNOQXcwQlBCbFZkRjY0ZDBrY1VQa0FDUVBYVnptZXpYY0NNTzFJaG90bU9JVXJNQ3N2eDZVWFBnZHNmMFloWFhqOXh2STVmVl9WSm90REZUaTlGWjhjVlRKbk9Fal9aaFEySGRKeVdoUDhFRzVlLUlCVjVZcWV5WnZrb29F0gHYAUFVX3lxTE1HamduZU80ZWN6NDltT19yVnE2TEF0QXY0LU5qNi1YVjYtQXBCeDBfTmpPalZOVFZmU0J4WU9laHRtV0t6NnZsUEdBeG9TQXBabUdxTElRY1F2RXNDNE9YRVo2TktJYVVCdDk3WnZzZzVzMWhQR2NKVFhROU8zZ2tvQ3U2RlcycFpaeEhyYXZJY3JhOXFYUnIwUGdsQWZBdk1mV2I1bUw0R1NHV09aU1lRMVB5bWd3aUJlc25HakZnczlKQUg3M29uQlZ6U0l3WFJ3OXBkdmFWaA?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 05:13:00 GMT",
         "timestamp": 1770786780.0
-    },
-    {
-        "title_fa": "اسرائیل موضع «غیرقابل مصالحه» در برابر تهدیدهای ایران را اعلام می‌کند",
-        "title_en": "Israel to present ‘uncompromising position’ on Iranian threats",
-        "summary": [
-            "اسرائیل اعلام کرده که موضعی سخت و غیرقابل انعطاف نسبت به تهدیدهای ایران اتخاذ خواهد کرد.",
-            "این اقدام در چارچوب افزایش تنش‌ها و نگرانی از فعالیت‌های منطقه‌ای ایران قرار دارد.",
-            "اعلام موضع قاطع می‌تواند به تشدید تنش‌ها و واکنش‌های دیپلماتیک یا نظامی منجر شود."
-        ],
-        "impact": "اعلام موضع سخت اسرائیل احتمالاً باعث تشدید تنش‌های منطقه‌ای، افزایش احتمال برخوردهای نظامی یا فشار دیپلماتیک و جلب واکنش بازیگران بین‌المللی خواهد شد.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSmNpaFkyOHpISHRYamFmUG55V2ZBa2ZHWFR1bmkwMUk5Q1N3VTE3RUdFSVM1RUNfZjRSNzlULU1vOGVVblVPeHg2a0NfX3dLd3A3cmVPVjhfcGd6N2RMWkc0WG55RV8xbFY5Q0dyVm1Qb1FPdkNTR2oxRFdfLUVKdWJrNVRSM3lq?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 05:12:34 GMT",
-        "timestamp": 1770786754.0
-    },
-    {
-        "title_fa": "تنش‌های آمریکا-ایران به‌روزرسانی زنده: اسرائیل امیدوار است گفت‌وگو با آمریکا «امپراتوری شر» تهران را تضعیف کند",
-        "title_en": "US-Iran tensions live updates: Israel hopes talks with US can undermine Tehran's 'empire of evil' | World News",
-        "summary": [
-            "اسرائیل امیدوار است مذاکرات واشنگتن با متحدانش بتواند نفوذ منطقه‌ای و شبکه‌های تهران را تضعیف کند.",
-            "رویارویی‌ها و تنش‌ها میان آمریکا و ایران ادامه دارد و تحولات دیپلماتیک می‌تواند تعادل نیرو در خاورمیانه را تغییر دهد.",
-            "افزایش فشار دیپلماتیک و احتمال پیامدهای نظامی می‌تواند امنیت منطقه و مسیرهای انرژی را تحت‌تأثیر قرار دهد."
-        ],
-        "impact": "این تحولات می‌تواند تنش‌های منطقه‌ای را تشدید و مسیر دیپلماسی و امنیت انرژی را به‌طور قابل‌توجهی تحت‌تأثیر قرار دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Hindustan Times",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPd2NTOS1FWEEtenluRzRBRDM5UFJTaVhicmRYTU9VZTFmZnVEV2x2WmVjN3ZwNXZvQmo2Z0NBNXRvSTZkODdHWHVGb3hZbzBDNWJUcTlocTdlYXZ6a0JuZGF3UnBabXN2Vm5qUy1hcHhweEZUOEctQmFDNDlTUUFtUFZMQmFpd3J2emhRVDBMS05hNXM0NG5ha2NPYjFFdWdYVk9nN3FDSV9ESGd4Mm54b3daRmdRaUszZHBULWNrdXRjME9TZXR3aFNHR1l0bU9hT3FLZ0V3UUY5bFM5NEd4czJSbkFmRUdLMnl0d0dTbFM3Tk1lLTAzYVhSaXUxaU93aEp5M1dwbjFldnPSAZACQVVfeXFMTkU4S3BvVWw5VHBDbS1hSlk1eWctM2FMVk9KNTFBTlJlaGhQUmlhQ002Q1VmWjdjcTRKMVowR3JvYV9EdGdoYkM5amZXX3FrTXZZSjNFT25mQ1AyQmNaU1ZxWWF2Y0xjM1ZjTjlUTkI5Nm5jSWRINWJUQVlOdUZZb2xjRFRGSlZyTExuVU1IeElDZUpwTkptNG4tbEZfaUtVTHplencyWkNldWhOZTlnTDdRLXAtbHFRbmY2d2FQTjZFdG81YVVDY0tkaGQtcklBTUx0b3VnU2tOZFg2WEpyMTdYOGFaMzlVUXZncnQ2eVdqbUJ5UC16VmFZMWpCcnQ4bnlzLVItZ2RRdDg0V0E1dHo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 05:11:43 GMT",
-        "timestamp": 1770786703.0
-    },
-    {
-        "title_fa": "نتانیاهو در دیدار کاخ سفید خواستار گسترش مذاکرات درباره ایران شد؛ ترامپ: تهران به دنبال توافق است",
-        "title_en": "Netanyahu to urge expanded Iran talks during White House meeting as Trump says Tehran wants a deal",
-        "summary": [
-            "بنیامین نتانیاهو در دیدار با رئیس‌جمهور آمریکا در کاخ سفید از واشینگتن خواست مذاکرات درباره برنامه هسته‌ای و فعالیت‌های منطقه‌ای ایران را گسترش دهد.",
-            "دونالد ترامپ گفت که تهران خواهان دستیابی به یک توافق است؛ اظهارنظری که می‌تواند نشانه‌ای از تمایل ایران به مذاکره یا آمادگی برای مصالحه باشد.",
-            "این دیدار می‌تواند نشان‌دهنده تلاش اسرائیل برای تاثیرگذاری بر سیاست آمریکا در قبال ایران و افزایش احتمال مطرح‌شدن شروط سخت‌تر یا فشارهای بیشتر در هر توافق آینده باشد."
-        ],
-        "impact": "این دیدار می‌تواند جهت‌گیری سیاست آمریکا نسبت به ایران را تغییر داده و بر شانس توافق هسته‌ای و ثبات منطقه‌ای تاثیر بگذارد.",
-        "tag": "ایران",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "News4JAX",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWs2Q2RWUTZXOF9vZW9qMnJ0ZHRUaWJOSDZBY0t0bG9hdXVCVDFwRGtva2xBMVdZRHB5cWgxaGkyT09rc0NXUnZ4ZGJpMXVwNmludUZ5YnotNWpqZ2otNEw1X2ZvT3MzeHVxWHJmNHE0Y1hfdFJOcHhKZUMzekdKRTJpeGlNUXFENjRROU0wOHd2RlZoZW14TzhoWHQwUFJ3MzFwZUh2eXRMRm42cTQ2cDBhb0pCemFfdXJYNHVTek95Q2NHdzVUS1Z3Ry14VU12UFRXbkpZZkhNdTlUMmJr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 05:02:09 GMT",
-        "timestamp": 1770786129.0
     }
 ]
