@@ -1,5 +1,22 @@
 [
     {
+        "title_fa": "پسر آخرین شاه ایران خواستار مداخله نظامی آمریکا در ایران شد",
+        "title_en": "Son of Iran's last shah urges US military intervention in Iran",
+        "summary": [
+            "پسر آخرین شاه ایران در بیانیه‌ای از آمریکا خواسته تا به‌صورت نظامی وارد ایران شود.",
+            "این درخواست می‌تواند فشار بین‌المللی بر رژیم را افزایش داده و مشروعیت داخلی آن را تضعیف کند و در نتیجه مسیر آزادی را تقویت نماید.",
+            "همزمان رژیم احتمالاً از این اظهارات برای برچسب‌زنی مخالفان به وابستگی به بیگانگان و توجیه سرکوب گسترده‌تر استفاده خواهد کرد."
+        ],
+        "impact": "این اظهارات می‌تواند به‌صورت همزمان به تضعیف رژیم و افزایش فشار خارجی کمک کند اما در عین حال بهانه‌ای برای تشدید سرکوب داخلی فراهم سازد.",
+        "tag": "مداخله",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44RjJ0OFg2bDB0VDBmbmpHWVVtUTBmYkwxZTlCMFc1M1lXWUZfOXVWc0ZzX2RjbjQ3cUUxdktDVGF5MXNEUUltTjV5bWF6Q1UyN29CNEtwd3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771082514.0
+    },
+    {
         "title_fa": "وزارت خارجه: فشار سیاسی نمی‌تواند حق «غیرقابل سلب» غنی‌سازی ایران را تضعیف کند",
         "title_en": "Political pressure cannot undermine Iran’s ‘inalienable’ enrichment right: Foreign Ministry",
         "summary": [
@@ -3306,22 +3323,5 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWs2Q2RWUTZXOF9vZW9qMnJ0ZHRUaWJOSDZBY0t0bG9hdXVCVDFwRGtva2xBMVdZRHB5cWgxaGkyT09rc0NXUnZ4ZGJpMXVwNmludUZ5YnotNWpqZ2otNEw1X2ZvT3MzeHVxWHJmNHE0Y1hfdFJOcHhKZUMzekdKRTJpeGlNUXFENjRROU0wOHd2RlZoZW14TzhoWHQwUFJ3MzFwZUh2eXRMRm42cTQ2cDBhb0pCemFfdXJYNHVTek95Q2NHdzVUS1Z3Ry14VU12UFRXbkpZZkhNdTlUMmJr?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 05:02:09 GMT",
         "timestamp": 1770786129.0
-    },
-    {
-        "title_fa": "ترکیه هشدار داد: در صورت دستیابی ایران به قابلیت تسلیحاتی هسته‌ای، مسابقه تسلیحاتی آغاز می‌شود",
-        "title_en": "Turkey warns of nuclear arms race if Iran gets weapon capability",
-        "summary": [
-            "آنکارا هشدار داده که اگر ایران به توانایی ساخت سلاح هسته‌ای برسد، منطقه با خطر آغاز یک مسابقه تسلیحاتی هسته‌ای روبه‌رو خواهد شد.",
-            "این بیانیه نگرانی‌های امنیتی منطقه‌ای و احتمال افزایش اقدامات تلافی‌جویانه یا تسلیحاتی توسط کشورهای همسایه را برجسته می‌کند.",
-            "منبع خبر بنیاد دفاع از دموکراسی‌ها است که نشان‌دهنده توجه بین‌المللی و پیامدهای دیپلماتیک احتمالی این هشدار است."
-        ],
-        "impact": "این هشدار می‌تواند تنش‌ها را تشدید کرده، فشار دیپلماتیک و تحریم‌ها علیه ایران را افزایش دهد و تلاش‌های جلوگیری از تکثیر هسته‌ای در منطقه را تسریع کند.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnhKa2t1UVpQUEJsMW9mWnhDbkJDb3FpeXVFc19Wa212OWdCUVlFX2otQVZsel9IaXhNNmNsSlZ0blpkM1NXTDI2cUtGcU0yTWZmdVR4UXVPa1RoVEpRWEItZGxySERkQkMwcnI3OUVpc19va2ZmdmVzODdnRFRvbm9sUEZWY2NTel9MNWIyM3BPWDdCM0lZb1NaWkVjdWhyaXUtMUxWRU9Uc1BM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 04:31:49 GMT",
-        "timestamp": 1770784309.0
     }
 ]
