@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ایران: مذاکرات هسته‌ای بعدی با آمریکا در ژنو برگزار می‌شود؛ تهران خواستار تمرکز بر تحریم‌ها",
+        "title_en": "Iran Says Next Nuclear Talks With US Set for Geneva as Tehran Demands Sanctions Focus",
+        "summary": [
+            "تهران اعلام کرده جلسه بعدی مذاکرات هسته‌ای با آمریکا در ژنو برگزار خواهد شد.",
+            "ایران تأکید کرده که محوریت مذاکرات باید بر مسئله تحریم‌ها باشد و خواستار پرداختن جدی به این موضوع شده است.",
+            "این موضع‌گیری نشانگر فشار اقتصادی ناشی از تحریم‌ها است و می‌تواند ضعف رژیم را نشان دهد و اهرمی برای تقویت مطالبات مردم باشد."
+        ],
+        "impact": "تمرکز تهران بر تحریم‌ها نشانه آسیب‌پذیری اقتصادی رژیم است و می‌تواند اهرمی برای تقویت مطالبات و مقاومت مدنی در داخل کشور باشد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Media Line",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0JhQmRUaUc1YnBTQ0EwOEw5a3hBb1pTcUZENW82SjFjaWMyZ1Nfak9SbUVOVEZBT1ozamY4VVJuMjdubDVFOUM2c2dwYTEwSWU0ZF9NS1ZLS3FlcG9hSGlrOGUxTXlQSWU5NnNMN2QyMUlNYzd2c0JCRk9faUN1M25Sd0YzZ3JmWG4ycG5CUkQwSEJSMmhFSGRCM0xvcU1wUjdvY3ZKMFVkRzBQZzZsc29MM05IM09DX25OUXlrRXMtem5OcG5FbURn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0JhQmRUaUc1YnBTQ0EwOEw5a3hBb1pTcUZENW82SjFjaWMyZ1Nfak9SbUVOVEZBT1ozamY4VVJuMjdubDVFOUM2c2dwYTEwSWU0ZF9NS1ZLS3FlcG9hSGlrOGUxTXlQSWU5NnNMN2QyMUlNYzd2c0JCRk9faUN1M25Sd0YzZ3JmWG4ycG5CUkQwSEJSMmhFSGRCM0xvcU1wUjdvY3ZKMFVkRzBQZzZsc29MM05IM09DX25OUXlrRXMtem5OcG5FbURn",
+        "image": null,
+        "timestamp": 1771163502.0
+    },
+    {
+        "title_fa": "ایران از رویه ترامپ در مذاکرات هسته‌ای پیروی می‌کند",
+        "title_en": "Iran copies Trump’s strategy in nuclear talks",
+        "summary": [
+            "تیتر جروزالم پست ادعا می‌کند که ایران در مذاکرات هسته‌ای تاکتیک‌هایی مشابه استراتژی مذاکره‌ای دونالد ترامپ را به‌کار گرفته، از جمله مواضع سخت و تلاش برای فشار حداکثری بر طرف مقابل.",
+            "این گرایش نشان‌دهنده ضعف راهبردی و اتکای رژیم به مانورهای تهاجمی در دیپلماسی است که می‌تواند اعتبار بین‌المللی و اهرم‌های چانه‌زنی ایران را تضعیف کند.",
+            "برای اپوزیسیون و مردم ایران، چنین رفتارهای نمایشی فرصتی برای برجسته‌سازی ناکارآمدی حکومتی و تقویت فشارهای داخلی و بین‌المللی به‌منظور تغییر سیاسی فراهم می‌کند."
+        ],
+        "impact": "تقلید از «استراتژی ترامپ» در مذاکرات، نشانه‌ای از شکست راهبردی رژیم است که می‌تواند عملکرد بین‌المللی آن را تضعیف کرده و راه را برای افزایش فشارهای داخلی و خواست تغییر باز کند.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UbUM1b01iTXRNT0FFRUJZZXpqbDlVNkZodUNDUGlrY2ptVnFscXltaTlncDYxX1BEa01DSWFMd0RzNnhjLW1WMWlVT3FHbjJ0ZkpQMkI3RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UbUM1b01iTXRNT0FFRUJZZXpqbDlVNkZodUNDUGlrY2ptVnFscXltaTlncDYxX1BEa01DSWFMd0RzNnhjLW1WMWlVT3FHbjJ0ZkpQMkI3RQ",
+        "image": null,
+        "timestamp": 1771160400.0
+    },
+    {
         "title_fa": "ترامپ و نتانیاهو بر افزایش فشار علیه ایران توافق دارند اما بر سر هدف نهایی اختلاف دارند",
         "title_en": "Trump and Netanyahu align on Iran pressure but split on endgame",
         "summary": [
@@ -34,6 +70,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVm95c2Z6V2J5QjNJTzdwZm9FdFRKd19QVFliNmZLTjhNeC14LWFWVzktNnNfaWEzMjF3czRucE9MNUQ0eEdSVFpXQ3l2dU1KUHYyQndzZnJpSEpJRFRmaEFFRUI4MktOMEZTN1dSS05NVE5ZbTdycGFUZHpDS3JNM3hZR2FwZ3djclJXU09SWFZXbWh2bnhNQlhhZ2lWbkV4RjRueFUxX1k5RGVnaVdqV1FnVHlwMzlDemNRQXRVWERCaEZFRlVCN2Utdw",
         "image": null,
         "timestamp": 1771157001.0
+    },
+    {
+        "title_fa": "ژنرال بازنشسته ارتش پیش‌بینی می‌کند اقدام نظامی مهیب آمریکا علیه ایران در صورت دستور ترامپ",
+        "title_en": "Retired Army general predicts ‘formidable’ US military action against Iran if Trump pulls trigger",
+        "summary": [
+            "یک ژنرال بازنشسته ارتش آمریکا هشدار داده که در صورت صادر شدن دستور از سوی ترامپ، نیروهای آمریکایی قادر به انجام «اقدام نظامی مهیب» علیه ایران خواهند بود.",
+            "این اظهارنظر نشان‌دهنده افزایش ریسک تشدید سریع تنش‌ها و احتمال تقابل نظامی مستقیم میان آمریکا و ایران است.",
+            "برای اپوزیسیون و مردم ایران، تهدید به اقدام نظامی آمریکا می‌تواند فشار خارجی بر رژیم را افزایش دهد و مسیرهای تضعیف حکومت را هموارتر کند، هرچند همراه با خطرات انسانی و منطقه‌ای قابل توجه است."
+        ],
+        "impact": "اعلام این احتمال توسط یک مقام نظامی بازنشسته احتمال افزایش فشار خارجی بر رژیم و تقویت جسارت معترضان را بالا می‌برد، اما همزمان خطر شعله‌ور شدن درگیری‌های گسترده و تلفات را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": 0.5,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0x3QVREMmxaQXQxcU4zX0w0dmFPcW5JVnZaUHR1Tkdfa2ZJWld3bURXbUlhYjJPSjhJLW45SlBqZXUwck1RaEZkdmY2UmVYSUVwT1pJUk1SSkkyVTBhQW50V2VUcjZ6LUdmYU9TQmNGRjlGUGpiUXhjeXdYLUZGdtIBhgFBVV95cUxNRXdhbDNjejNFMG9fTXlRdS1HbUp2MDFoNlhFdjRUd2d5VjVjZUVDd3dqalZHai1fNzFvaDVESFR3ZWZSR1hfeWpTSlZhclNIekJubjFjVU5zSmwxSGpyaVlXTlBiTFdKbHVrMGIyTHY5aEtya2xuMFF1bmY5dFpWS1o4dDhFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0x3QVREMmxaQXQxcU4zX0w0dmFPcW5JVnZaUHR1Tkdfa2ZJWld3bURXbUlhYjJPSjhJLW45SlBqZXUwck1RaEZkdmY2UmVYSUVwT1pJUk1SSkkyVTBhQW50V2VUcjZ6LUdmYU9TQmNGRjlGUGpiUXhjeXdYLUZGdtIBhgFBVV95cUxNRXdhbDNjejNFMG9fTXlRdS1HbUp2MDFoNlhFdjRUd2d5VjVjZUVDd3dqalZHai1fNzFvaDVESFR3ZWZSR1hfeWpTSlZhclNIekJubjFjVU5zSmwxSGpyaVlXTlBiTFdKbHVrMGIyTHY5aEtya2xuMFF1bmY5dFpWS1o4dDhFdw",
+        "image": null,
+        "timestamp": 1771156800.0
     },
     {
         "title_fa": "آیا USS Abraham Lincoln و Gerald R. Ford در حال آماده‌سازی برای درگیری‌اند یا تقویت اهرم مذاکرات هسته‌ای آمریکا با ایران؟",
