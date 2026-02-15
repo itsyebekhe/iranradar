@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "رسانه‌های دولتی ایران گزارش دادند وزیر خارجه در مذاکرات غیرمستقیم با آمریکا شرکت خواهد کرد",
+        "title_en": "Iran’s state media reports foreign minister will attend indirect talks with the U.S.",
+        "summary": [
+            "رسانه‌های رسمی ایران اعلام کردند وزیر خارجه این کشور در جلسات غیرمستقیم با نمایندگان آمریکا حضور خواهد داشت.",
+            "اصطلاح «غیرمستقیم» نشان می‌دهد دیدارها به‌صورت میانجی‌محور یا از طریق واسطه برگزار می‌شود و دیدار رودررو میان مقامات عالی دو طرف پیش‌بینی نشده است.",
+            "این اقدام سیاسی می‌تواند نشانه‌ای از تمایل تهران به کاهش فشار خارجی یا کسب امتیاز دیپلماتیک باشد و برای رژیم داخلی نیز پیام سیاسی داشته باشد."
+        ],
+        "impact": "حضور وزیر خارجه در مذاکرات غیرمستقیم با آمریکا می‌تواند فرصتی برای آشکار شدن شکاف‌ها و تضعیف بیشتر مشروعیت رژیم باشد و در عین حال دستاویزی برای حکومت جهت توجیه امتیازدهی به خارج فراهم کند.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": 0.25,
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFE3Ynh4c29PNVltMFZzYm5menZVaUl1NzQ5N3ljMmhxaHNXVEdMX1Z3cEdmOXdIME1GXzloM0E4QW5NWWVnZWRnU3hKaDlrVWZTU184VExWbnF1Y0xTNGlQNnpjb3JKUkl4V3A2aV91c1E0Z2lVdFJaTXIyZVlWbVByU196RTBTU05pajBZVWYyeklXWlRZa0U2Nk1TUGxycWJscy1DZW41ekFBbndWU1NTV3BqSnBM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFE3Ynh4c29PNVltMFZzYm5menZVaUl1NzQ5N3ljMmhxaHNXVEdMX1Z3cEdmOXdIME1GXzloM0E4QW5NWWVnZWRnU3hKaDlrVWZTU184VExWbnF1Y0xTNGlQNnpjb3JKUkl4V3A2aV91c1E0Z2lVdFJaTXIyZVlWbVByU196RTBTU05pajBZVWYyeklXWlRZa0U2Nk1TUGxycWJscy1DZW41ekFBbndWU1NTV3BqSnBM",
+        "image": null,
+        "timestamp": 1771182893.0
+    },
+    {
         "title_fa": "ترامپ به نتانیاهو گفته از حملات اسرائیل به برنامه موشک‌های بالستیک ایران حمایت می‌کند، منابع می‌گویند",
         "title_en": "Trump told Netanyahu he would support Israeli strikes on Iran's ballistic missile program, sources say",
         "summary": [
