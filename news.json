@@ -18,6 +18,24 @@
         "timestamp": 1771157660.0
     },
     {
+        "title_fa": "ایران اعلام کرد در صورت رفع تحریم‌های آمریکا آماده مصالحه هسته‌ای است",
+        "title_en": "Iran says ready for nuclear compromise if US sanctions lifted",
+        "summary": [
+            "خبر رسمی: تهران اعلام کرده در صورتی که تحریم‌های آمریکا برداشته شود، آماده مصالحه در پرونده هسته‌ای است.",
+            "این شرط نشان‌دهنده تأثیر فشار تحریم‌ها بر وضعیت اقتصادی و سیاسی رژیم و کاهش توانایی حکومت برای مقابلهٔ کامل است.",
+            "برای اپوزیسیون و جامعه مدنی این موقعیت می‌تواند فرصت مناسبی برای تشدید فشار بین‌المللی و داخلی جهت پیگیری مطالبات آزادی‌خواهانه باشد، هرچند باید نسبت به استفاده تاکتیکی رژیم از رفع تحریم‌ها هشدار داد."
+        ],
+        "impact": "این موضع می‌تواند تضعیف رژیم را برجسته کرده و درهای فشار دیپلماتیک و مطالبات داخلی را برای پیشبرد خواسته‌های مردم بازتر کند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "Le Monde.fr",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVm95c2Z6V2J5QjNJTzdwZm9FdFRKd19QVFliNmZLTjhNeC14LWFWVzktNnNfaWEzMjF3czRucE9MNUQ0eEdSVFpXQ3l2dU1KUHYyQndzZnJpSEpJRFRmaEFFRUI4MktOMEZTN1dSS05NVE5ZbTdycGFUZHpDS3JNM3hZR2FwZ3djclJXU09SWFZXbWh2bnhNQlhhZ2lWbkV4RjRueFUxX1k5RGVnaVdqV1FnVHlwMzlDemNRQXRVWERCaEZFRlVCN2Utdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVm95c2Z6V2J5QjNJTzdwZm9FdFRKd19QVFliNmZLTjhNeC14LWFWVzktNnNfaWEzMjF3czRucE9MNUQ0eEdSVFpXQ3l2dU1KUHYyQndzZnJpSEpJRFRmaEFFRUI4MktOMEZTN1dSS05NVE5ZbTdycGFUZHpDS3JNM3hZR2FwZ3djclJXU09SWFZXbWh2bnhNQlhhZ2lWbkV4RjRueFUxX1k5RGVnaVdqV1FnVHlwMzlDemNRQXRVWERCaEZFRlVCN2Utdw",
+        "image": null,
+        "timestamp": 1771157001.0
+    },
+    {
         "title_fa": "آیا USS Abraham Lincoln و Gerald R. Ford در حال آماده‌سازی برای درگیری‌اند یا تقویت اهرم مذاکرات هسته‌ای آمریکا با ایران؟",
         "title_en": "Are USS Abraham Lincoln & Gerald R. Ford preparing for conflict or strengthening US’ nuclear talks leverage with Iran?",
         "summary": [
@@ -268,6 +286,24 @@
         "clean_url": "https://nypost.com/2026/02/14/world-news/irans-exiled-crown-prince-urges-us-military-action-with-regime-on-brink-of-collapse",
         "image": "https://nypost.com/wp-content/uploads/sites/2/2026/02/121290972.jpg?quality=75&strip=all&w=1200",
         "timestamp": 1771132995.46403
+    },
+    {
+        "title_fa": "ایران از طرح قراردادهای انرژی، معدن و خرید هواپیما در مذاکرات با آمریکا خبر داد",
+        "title_en": "Iran says potential energy, mining and aircraft deals on table in talks with US",
+        "summary": [
+            "مقام ارشد وزارت خارجه ایران اعلام کرده که در گفت‌وگوهای جدید با آمریکا حوزه‌های نفت و گاز مشترک، سرمایه‌گذاری‌های معدنی و حتی خرید هواپیما به عنوان موضوعات سودده و سریع‌الاثر مطرح است.",
+            "مذاکرات تازه بین تهران و واشنگتن ادامه دارد و گزارش شده هیئت آمریکایی شامل استیو ویتکوف و جرد کاشنر برای دیدار در ژنو اعزام می‌شوند؛ طرف ایرانی این دیدار را تأیید کرده است.",
+            "هم‌زمان آمریکا ناو هواپیمابر دومی را به منطقه فرستاده و هشدار داده برای احتمال عملیات نظامی پایدار آماده است؛ زمینه‌ای که با بازگشت تحریم‌های سنگین پس از خروج آمریکا از برجام در ۲۰۱۸ همراه است و تهران هم تهدید به انتقام کرده است."
+        ],
+        "impact": "ترکیب مذاکرات اقتصادی-دیپلماتیک و فشار نظامی و تحریمی آمریکا می‌تواند مشروعیت و توان کنترل رژیم را تضعیف کرده و فضای بیشتری برای فشارهای داخلی و مطالبات مردم در مسیر آزادی فراهم کند.",
+        "tag": "مذاکرات",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-says-potential-energy-mining-121837602.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-says-potential-energy-mining-121837602.html",
+        "image": null,
+        "timestamp": 1771130400.0
     },
     {
         "title_fa": "خاورمیانه و شمال آفریقا",
