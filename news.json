@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "زنده - تکرار شعارها در ایران پس از تجمعات گسترده دیاسپورا در جهان",
+        "title_en": "Live - Overnight chants in Iran follow mass diaspora rallies in global show of support",
+        "summary": [
+            "اعضای دیاسپورا ایرانی در شهرهای مختلف جهان تجمعات گسترده‌ای برگزار کردند و همبستگی بین‌المللی با اعتراضات داخل کشور را نشان دادند.",
+            "در پی این تجمعات، در ایران در طول شب صداهای شعار و اعتراض مجدداً شنیده شد که نشان‌دهنده استمرار جنبش و مقاومت مردمی است.",
+            "همبستگی خارجی موجب افزایش روحیه معترضان داخل کشور و ایجاد فشار روانی بر رژیم شده، هرچند خطر سرکوب و بازداشت همچنان وجود دارد."
+        ],
+        "impact": "این هماهنگی میان دیاسپورا و اعتراضات خیابانی نشانه‌ای از تزلزل بیشتر اقتدار رژیم و تقویت مقاومت مردمی است.",
+        "tag": "تظاهرات",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyanZZOHh2cDBDTWl5Y1ppOUY2R3c2aV9CN2UyOFJtX3RDX0J0N0U0cC1MUFpfOEtJVWNmN2NXZGlHdTdUOThwM01mWm1LeEJVRGFQSGZscjY1SFpKLUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyanZZOHh2cDBDTWl5Y1ppOUY2R3c2aV9CN2UyOFJtX3RDX0J0N0U0cC1MUFpfOEtJVWNmN2NXZGlHdTdUOThwM01mWm1LeEJVRGFQSGZscjY1SFpKLUE",
+        "image": null,
+        "timestamp": 1771164857.0
+    },
+    {
         "title_fa": "ایران: مذاکرات هسته‌ای بعدی با آمریکا در ژنو برگزار می‌شود؛ تهران خواستار تمرکز بر تحریم‌ها",
         "title_en": "Iran Says Next Nuclear Talks With US Set for Geneva as Tehran Demands Sanctions Focus",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0JhQmRUaUc1YnBTQ0EwOEw5a3hBb1pTcUZENW82SjFjaWMyZ1Nfak9SbUVOVEZBT1ozamY4VVJuMjdubDVFOUM2c2dwYTEwSWU0ZF9NS1ZLS3FlcG9hSGlrOGUxTXlQSWU5NnNMN2QyMUlNYzd2c0JCRk9faUN1M25Sd0YzZ3JmWG4ycG5CUkQwSEJSMmhFSGRCM0xvcU1wUjdvY3ZKMFVkRzBQZzZsc29MM05IM09DX25OUXlrRXMtem5OcG5FbURn",
         "image": null,
         "timestamp": 1771163502.0
+    },
+    {
+        "title_fa": "صدها هزار نفر در سراسر جهان در اعتراضات مرتبط با ایران شرکت کردند",
+        "title_en": "Hundreds of thousands join Iran protests around the world",
+        "summary": [
+            "صدها هزار نفر در شهرهای مختلف جهان تجمع کردند تا از اعتراضات داخلی ایران حمایت کنند و پیام همبستگی بفرستند.",
+            "این حرکت پراکندهٔ جهانی نشان‌دهنده پشتیبانی گسترده جامعهٔ ایرانیان در خارج و توجه عمومی بین‌المللی به خواسته‌های معترضان است.",
+            "تظاهرات بین‌المللی نمادی از ناکارآمدی رژیم در خاموش‌کردن صدای مردم و تقویت روحیهٔ مقاومت در داخل کشور است."
+        ],
+        "impact": "افزایش همبستگی جهانی علیه رژیم می‌تواند فشار سیاسی و رسانه‌ای را بالا ببرد و به تقویت ارادهٔ معترضان داخل ایران کمک کند.",
+        "tag": "اعتراضات",
+        "urgency": 6,
+        "sentiment": 0.75,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRWk1SXg5UXJSdDlWVUdDMnAtMnpCQXZoRHFuVy1hczNTSDczdjE3ZURZUnN4MnBJUF9fU21CbkpjRmJYUHRYMEh5WnBxOHJ0Q3AwaFBJMnQtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRWk1SXg5UXJSdDlWVUdDMnAtMnpCQXZoRHFuVy1hczNTSDczdjE3ZURZUnN4MnBJUF9fU21CbkpjRmJYUHRYMEh5WnBxOHJ0Q3AwaFBJMnQtZw",
+        "image": null,
+        "timestamp": 1771162526.0
     },
     {
         "title_fa": "ایران از رویه ترامپ در مذاکرات هسته‌ای پیروی می‌کند",
@@ -270,6 +306,42 @@
         "timestamp": 1771139510.0
     },
     {
+        "title_fa": "تجدید فهرست سیاه FATF برای ایران و فشار بیشتر بر نهادهای مالی و رمزارزها",
+        "title_en": "Iran seeks to get out of FATF blacklist amid domestic political divisions",
+        "summary": [
+            "گروه اقدام مالی (FATF) بار دیگر ایران را در فهرست سیاه نگه داشت و دامنه اقدامات را به ارائه‌دهندگان خدمات دارایی‌های مجازی (VASPs) و رمزارزها گسترش داد؛ از جمله توصیه به جلوگیری از ایجاد دفاتر نمایندگی و محدود کردن روابط بانکداری مربوطه.",
+            "واحد اطلاعات مالی وزارت اقتصاد ایران اعلام کرد که با وجود «۲۰ سال مانع‌تراشیِ» مخالفان داخلی، تلاش‌ها برای خروج از فهرست ادامه خواهد یافت؛ موضوعی که شکاف‌ها و اختلافات سیاسی داخلی را برجسته می‌سازد.",
+            "قرار گرفتن ایران در کنار کره‌شمالی و میانمار، نشان‌دهنده انزوای بین‌المللی و تشدید محدودیت‌های مالی است؛ این فشارها توان عملیاتی رژیم را کاهش می‌دهد اما می‌تواند هم‌زمان معیشت مردم و ارسال کمک‌های بشردوستانه را هم در معرض ریسک قرار دهد."
+        ],
+        "impact": "تشدید فهرست سیاه FATF بار سیاسی و مالی بر حکومت را افزایش می‌دهد و در عین تضعیف توان رژیم، زمینه فشارهای بین‌المللی را برای پیش‌برد مطالبات مردم فراهم می‌کند، هرچند خطر آسیب اقتصادی به شهروندان نیز جدی است.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions",
+        "clean_url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions",
+        "image": null,
+        "timestamp": 1771137540.0
+    },
+    {
+        "title_fa": "در تنش‌های آمریکا-ایران، بحث توافق اکنون شامل هواپیما و انرژی هم می‌شود: نکات اصلی",
+        "title_en": "In US-Iran tensions, talk of a deal now includes aircraft, energy: Top points",
+        "summary": [
+            "تهران نشان داده آمادهٔ «امتیازدهی» برای احیای توافق هسته‌ای با آمریکا است و مقام‌های وزارت خارجه می‌گویند توافق جدید باید برای دو طرف منافع اقتصادی سریع به‌همراه داشته باشد.",
+            "موضوعات مذاکرات فراتر از هسته‌ای گزارش شده و شامل نفت و گاز، میدان‌های مشترک، سرمایه‌گذاری‌های معدنی و حتی خرید هواپیما است؛ هیئتی از آمریکا قرار است در ژنو با مقامات ایرانی دیدار کند.",
+            "هم‌زمان دیاسپورای معترض تحت فراخوان رضا پهلوی فعال مانده — در مونیخ حدود ۲۵۰٬۰۰۰ نفر اعتراض کردند — که نشان‌دهندهٔ استمرار فشار خیابانی و ناکارآمدی رژیم در پاسخ به مشکلات اقتصادی است."
+        ],
+        "impact": "گفت‌وگوهای اقتصادی-هسته‌ای ممکن است به رژیم فرصتی برای خرید زمان بدهد، اما باز شدن به بازارهای بین‌المللی همراه با فشار دیاسپورا و اعتراضات داخلی در مجموع مشروعیت حکومت را تضعیف کرده و مسیر تغییر را برای مردم تقویت می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/usiran-tensions-nuclear-deal-talks-geneva-aircraft-energy-reza-pahlavi-munich-rally-101771158911438.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/usiran-tensions-nuclear-deal-talks-geneva-aircraft-energy-reza-pahlavi-munich-rally-101771158911438.html",
+        "image": "http://www.bing.com/th?id=OVFT.RommhtJ7m_ud2sQaphGzQy&pid=News",
+        "timestamp": 1771137120.0
+    },
+    {
         "title_fa": "وزیر: ایران در صورت گفت‌وگوی آمریکا درباره رفع تحریم‌ها آماده مصالحه در توافق هسته‌ای است",
         "title_en": "Iran open to nuclear deal compromises if US discusses lifting sanctions, minister tells BBC",
         "summary": [
@@ -430,6 +502,24 @@
         "clean_url": "https://www.oneindia.com/international/nuclear-negotiations-gain-momentum-as-iran-opens-door-to-compromise-with-sanctions-relief-conditions-011-7999019.html",
         "image": null,
         "timestamp": 1771114140.0
+    },
+    {
+        "title_fa": "نامزد ریاست‌جمهوری عراق برنامه‌ای برای کمک به ترامپ در به چالش کشیدن ایران دارد",
+        "title_en": "This Iraq Presidential Candidate Has a Plan to Help Trump Challenge Iran",
+        "summary": [
+            "سردار عبدالله، نامزد ریاست‌جمهوری عراق، به نیوزویک گفته است که ایران در منطقه تضعیف شده اما این تضعیف تا زمانی که نفوذ ایران در عراق ادامه دارد کامل نیست.",
+            "او اعلام کرده برنامه‌ای دارد که می‌تواند به تلاش‌های دونالد ترامپ برای به چالش کشیدن جمهوری اسلامی کمک کند.",
+            "این موضع نشان‌دهنده تلاش برای استفاده از موقعیت عراق به‌عنوان ابزاری علیه تهران است و می‌تواند نفوذ رژیم را در منطقه کاهش دهد."
+        ],
+        "impact": "این اعلامیه می‌تواند نفوذ منطقه‌ای رژیم را بیشتر تضعیف کند و فشار خارجی را که می‌تواند به تقویت امید و مقاومت داخلی بینجامد افزایش دهد.",
+        "tag": "چالش",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/this-iraq-presidential-candidate-has-a-plan-to-help-trump-challenge-iran-11505408",
+        "clean_url": "https://www.newsweek.com/this-iraq-presidential-candidate-has-a-plan-to-help-trump-challenge-iran-11505408",
+        "image": "http://www.bing.com/th?id=OVFT.p2KtfQfJ_7bdMAkyJbjHKS&pid=News",
+        "timestamp": 1771113600.0
     },
     {
         "title_fa": "تصویرسازی معافیت‌های حریدی در بحبوحه احتمال درگیری ایران-آمریکا-اسرائیل",
