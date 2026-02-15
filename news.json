@@ -324,6 +324,24 @@
         "timestamp": 1771152960.0
     },
     {
+        "title_fa": "فرمانده عالی‌رتبه نظامی ایران تهدید به «جنگ جهانی سوم» کرد؛ تنش‌ها با ترامپ بالا گرفته",
+        "title_en": "Iran's top military commander issues chilling WW3 threat as Trump tensions surge",
+        "summary": [
+            "تیترهای خبری از جمله گزارش MSN/‌Daily Express ادعای «تهدید جنگ جهانی سوم» را برجسته می‌کنند؛ اما چنین لفاظی‌هایی اغلب جنبهٔ تبلیغاتی و پروپاگاندایی دارد و نباید به‌صورت قطعی به‌عنوان آغاز درگیری محسوب شود.",
+            "این اظهارنظر در حالی منتشر شده که مذاکرات هسته‌ای بعد از حدود هشت ماه وقفه، روز ۶ فوریه در عمان از سر گرفته شد — مکالمه‌ای که تاکنون محدود به دیپلماسی بوده و خبری از شروع جنگ نیست.",
+            "سیاست‌های تندرو و نمایش قدرت نظامی بیشتر، رژیم را در منظر بین‌المللی منزوی‌تر می‌کند و از سوی دیگر نشانه‌ای از ضعیف شدن کنترل داخلی است که می‌تواند فرصت‌هایی برای تقویت اپوزیسیون ملی‌گرا و مطالبات آزادی‌خواهانه مردم فراهم کند."
+        ],
+        "impact": "این نوع لفاظی‌ها احتمال تشدید تحریم‌ها و انزوای بین‌المللی رژیم را افزایش می‌دهد و در داخل به تضعیف مشروعیت حکومت و ایجاد فضا برای اپوزیسیون می‌انجامد.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Daily Express US on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-top-military-commander-issues-chilling-ww3-threat-as-trump-tensions-surge/ar-AA1WpDQZ",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-top-military-commander-issues-chilling-ww3-threat-as-trump-tensions-surge/ar-AA1WpDQZ",
+        "image": null,
+        "timestamp": 1771152000.0
+    },
+    {
         "title_fa": "سقوط ایران امنیت اسرائیل و منطقه را تضمین خواهد کرد",
         "title_en": "Iran’s Fall Will Secure Israel and the Region",
         "summary": [
