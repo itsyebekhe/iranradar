@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "نیروی دریایی سپاه در تنگه هرمز مانور دریایی برگزار کرد، یک روز مانده به مذاکرات هسته‌ای با آمریکا",
+        "title_en": "Iran's IRGC Navy launches maritime drill in Strait of Hormuz, one day before US nuclear talks",
+        "summary": [
+            "نیروی دریایی سپاه پاسداران مانوری در تنگه هرمز برگزار کرد.",
+            "زمان‌‌بندی مانور یک روز پیش از آغاز مذاکرات هسته‌ای با آمریکا صورت گرفت.",
+            "این اقدام قابل تفسیر به‌عنوان حرکتی با پیام سیاسی و تلاش احتمالی برای اعمال فشار در آستانه گفت‌وگوها است."
+        ],
+        "impact": "این نمایش نظامی ممکن است تلاش رژیم برای فشار به طرف آمریکایی را نشان دهد، اما هزینه‌های سیاسی و اقتصادی چنین مانورهایی به تضعیف هرچه بیشتر حکومت و تقویت راه مردم ایران به سمت آزادی کمک می‌کند.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kS1lGTklZRk5tQnlaU1JjdGtBdWczWVlZRWNnZ3FTcjIyNE9GNlBBRVBMamhnQkNneHd4TWkzVFRadVR1aVdjRWw4UE5DcDBQZ3hCWEZCV0RhSmE5Z0l4UHI4OEhXNnBCWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kS1lGTklZRk5tQnlaU1JjdGtBdWczWVlZRWNnZ3FTcjIyNE9GNlBBRVBMamhnQkNneHd4TWkzVFRadVR1aVdjRWw4UE5DcDBQZ3hCWEZCV0RhSmE5Z0l4UHI4OEhXNnBCWUE",
+        "image": null,
+        "timestamp": 1771272948.0
+    },
+    {
         "title_fa": "کوشنر و ویتکاف رهبری مذاکرات حساس هسته‌ای آمریکا با ایران را بر عهده دارند",
         "title_en": "Kushner, Witkoff to lead high-stakes U.S. nuclear talks with Iran",
         "summary": [
@@ -232,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVdGT0QzeC1GdjRSdGNaa2xUWGhYdUVlNHk0RHU4ZXBqWjJUNENNTUtxX1V1U1dnM050RDRqeFRpS1IySGU1NlhvTTlpQUhXN05aV2d4eWRYZkF0el85UC1Nc29sdDV6MEV5YnkyaDBweGhmczhtUGQ4cUpFODNWN0tyc0ZKamg2Z3lBQVQtMzI",
         "image": null,
         "timestamp": 1771241946.0
+    },
+    {
+        "title_fa": "صبر و چهرهٔ بی‌احساس: دیپلمات زیرک ایران آماده روبه‌رویی با آمریکا در مذاکرات هسته‌ای",
+        "title_en": "The patience and the poker face: Iran’s wily diplomat set to face the US in nuclear talks",
+        "summary": [
+            "مذاکرات در ژنو فرصتی برای جلوگیری از جنگ منطقه‌ای است و هر دو طرف باید امتیاز دهند و سبک‌های متفاوت چانه‌زنی را با هم هماهنگ کنند.",
+            "عباس عراقچی با نزدیک به ۱۵ سال تجربه در مذاکرات هسته‌ای و نویسندهٔ کتابی دربارهٔ فنون مذاکره، رویکرد «بازاری» و صبورانه‌ای دارد و پیش از هر گام، با طیف قدرت از جمله علی خامنه‌ای مشورت می‌کند.",
+            "تقابل سبک عراقچی با نمایندهٔ متمرکز و تک‌مأموری آمریکا نشان‌دهندهٔ فشار خارجی بر رژیم و البته آسیب‌پذیری درون‌حاکمیتی است؛ خود روند مذاکره می‌تواند شکاف‌ها و اهرم‌های فشار جدیدی علیه رژیم ایجاد کند."
+        ],
+        "impact": "اگر این مذاکرات با امتیازدهی همراه شود، می‌تواند تمرکز قدرت رژیم را تضعیف کرده و فضای سیاسی را برای مطالبات مردم و مسیر آزادی بازتر کند.",
+        "tag": "مذاکرات",
+        "urgency": 9,
+        "sentiment": 0.3,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/feb/16/the-patience-and-the-poker-face-irans-wily-diplomat-set-to-face-the-us-in-nuclear-talks",
+        "clean_url": "https://www.theguardian.com/world/2026/feb/16/the-patience-and-the-poker-face-irans-wily-diplomat-set-to-face-the-us-in-nuclear-talks",
+        "image": null,
+        "timestamp": 1771240200.0
     },
     {
         "title_fa": "عراقچی با رئیس آژانس در ژنو دیدار کرد؛ پیش از مذاکرات هسته‌ای با آمریکا",
