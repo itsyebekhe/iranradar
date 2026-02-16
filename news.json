@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "خشم عمومی پس از سرکوب در ایران شعله‌ور می‌شود، در حالی که ترامپ فشار را افزایش می‌دهد",
+        "title_en": "Popular anger burns in Iran after crackdown, as Trump turns up pressure",
+        "summary": [
+            "پس از سرکوب حکومت، خشم و نارضایتی عمومی در ایران تشدید شده است.",
+            "دونالد ترامپ فشار خارجی را افزایش داده که به معنی تشدید تحریم‌ها و انزوای بین‌المللی رژیم است.",
+            "ترکیب ناآرامی‌های داخلی و فشار بیرونی می‌تواند اختیارات رژیم را تضعیف کند و معترضان را جسورتر سازد."
+        ],
+        "impact": "هم‌افزایی سرکوب داخلی و فشار خارجی شانس تضعیف حکومت را بالا برده و مسیر مردم برای کسب آزادی را تقویت می‌کند.",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnMtbDViczVGRkd3cm5pT04zclh4emVpaXh5c3JEaFVRVk5IYjFYcC1VcGJBc1M2RWQtUnBDY1VPSGt2QWJlTWN4aUFiRUFzandEaG9oanB6dnN0cEw0eEZKbUlSNS1LbHYzQm1jSFJncGdiUEVhUnZ2NThuQTY4Rk5VMGxjQl9LQy1NMEVDX01ZZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnMtbDViczVGRkd3cm5pT04zclh4emVpaXh5c3JEaFVRVk5IYjFYcC1VcGJBc1M2RWQtUnBDY1VPSGt2QWJlTWN4aUFiRUFzandEaG9oanB6dnN0cEw0eEZKbUlSNS1LbHYzQm1jSFJncGdiUEVhUnZ2NThuQTY4Rk5VMGxjQl9LQy1NMEVDX01ZZw",
+        "image": null,
+        "timestamp": 1771266292.0
+    },
+    {
         "title_fa": "نیروی دریایی ایران رزمایش‌هایی را پیش از مذاکرات هسته‌ای برگزار کرد",
         "title_en": "Iranian navy launches military exercises ahead of nuclear talks",
         "summary": [
