@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "انتظارات از سخنرانی سالانه دونالد ترامپ درباره وضعیت کشور",
+        "title_en": "Expectations Of The United State President Donald Trump State Of The Union Address",
+        "summary": [
+            "مؤسسه تحقیقاتی غنایی Kudus Research and Advocacy Center گزارشی منتشر کرده و انتظارات از سخنرانی وضعیت کشور رئیس‌جمهور ترامپ در ۲۴ فوریه ۲۰۲۶ را بررسی کرده و حتی یک متن فرضی از سخنرانی ارائه داده است.",
+            "متن فرضی و تحلیل‌ها بر دستاوردهای ادعایی داخلی تأکید دارند: رشد اقتصادی، اصلاحات دولتی و صرفه‌جویی (از جمله اشاره به «One Big Beautiful Bill»، دائمی‌سازی کاهش‌های مالیاتی ۲۰۱۷، «Trump Accounts» و ادعای صرفه‌جویی حدود ۲ میلیارد دلار در بودجه IT سرویس درآمد داخلی).",
+            "نتیجه‌گیری گزارش این است که هدف اصلی سخنرانی تثبیت روایت «قول دادم، عمل کردم» و معرفی اولویت‌های سیاسی و اقتصادی آینده است؛ اثرگذاری نهایی بر سیاست خارجی و برنامه‌های اجرایی بستگی به جزئیات سیاست‌های اعلام‌شده خواهد داشت."
+        ],
+        "impact": "سخنرانی می‌تواند جهت‌گیری‌های داخلی و خارجی دولت آمریکا در سال پیش‌رو را مشخص کند و برای بازیگران منطقه‌ای و بین‌المللی اهمیت خبری و تحلیلی خواهد داشت.",
+        "tag": "آمریکا",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Modern Ghana",
+        "url": "https://www.modernghana.com/news/1471833/expectations-of-the-united-state-president-donald.html",
+        "clean_url": "https://www.modernghana.com/news/1471833/expectations-of-the-united-state-president-donald.html",
+        "image": "https://cdn.modernghana.com/images/content/213202693606-wbrevihuto-213202691349-president-donald-trump-1270511220.jpg",
+        "timestamp": 1771242660.0
+    },
+    {
+        "title_fa": "آمریکا و ایران مذاکرات هسته‌ای را از سر می‌گیرند؛ اسرائیل گزینه حمله را مطرح می‌کند",
+        "title_en": "US and Iran to resume nuclear talks as Israel presses strike option - Straight Arrow News",
+        "summary": [
+            "آمریکا و ایران تصمیم گرفته‌اند مذاکرات هسته‌ای را از سر بگیرند که نشانه‌ای از بازگشت مسیر دیپلماتیک بین دو طرف است.",
+            "همزمان اسرائیل گزینه نظامی را مطرح می‌کند و فشار بر ایران را از منظر تهدید به عملیات نظامی افزایش می‌دهد.",
+            "ترکیب دیپلماسی فعال و تهدید نظامی، ریسک‌های منطقه‌ای را بالا می‌برد و می‌تواند بر توازن داخلی قدرت در ایران تاثیر گذاشته و فضای فشار بر رژیم را تغییر دهد."
+        ],
+        "impact": "این هم‌زمانی دیپلماسی و فشار نظامی، موقعیتی ایجاد می‌کند که می‌تواند انسجام و مشروعیت رژیم را تضعیف کرده و فرصت‌های بیشتری برای مردم و نیروهای مخالف باز کند.",
+        "tag": "مذاکرات",
+        "urgency": 9,
+        "sentiment": 0.6,
+        "source": "Straight Arrow News - SAN",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVdGT0QzeC1GdjRSdGNaa2xUWGhYdUVlNHk0RHU4ZXBqWjJUNENNTUtxX1V1U1dnM050RDRqeFRpS1IySGU1NlhvTTlpQUhXN05aV2d4eWRYZkF0el85UC1Nc29sdDV6MEV5YnkyaDBweGhmczhtUGQ4cUpFODNWN0tyc0ZKamg2Z3lBQVQtMzI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVdGT0QzeC1GdjRSdGNaa2xUWGhYdUVlNHk0RHU4ZXBqWjJUNENNTUtxX1V1U1dnM050RDRqeFRpS1IySGU1NlhvTTlpQUhXN05aV2d4eWRYZkF0el85UC1Nc29sdDV6MEV5YnkyaDBweGhmczhtUGQ4cUpFODNWN0tyc0ZKamg2Z3lBQVQtMzI",
+        "image": null,
+        "timestamp": 1771241946.0
+    },
+    {
         "title_fa": "عراقچی با رئیس آژانس در ژنو دیدار کرد؛ پیش از مذاکرات هسته‌ای با آمریکا",
         "title_en": "Iran’s Araghchi meets IAEA chief in Geneva ahead of nuclear talks with US",
         "summary": [
