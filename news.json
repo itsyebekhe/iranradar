@@ -162,6 +162,24 @@
         "timestamp": 1771294260.0
     },
     {
+        "title_fa": "ترامپ هشدار جدی به ایران پیش از مذاکرات حساس هسته‌ای صادر کرد",
+        "title_en": "Trump Issues Stark Warning to Iran Ahead of High-Stakes Nuclear Talks",
+        "summary": [
+            "کاخ سفید می‌گوید هدفش امضای توافق با تهران است، اما همزمان به اقدام نظامی در صورت عدم دستیابی به توافق اشاره کرده است.",
+            "هشدار ترامپ فشار بین‌المللی بر رژیم را افزایش می‌دهد و می‌تواند موقعیت سیاسی و امنیتی حکومت را تضعیف کند.",
+            "این فشار خارجی می‌تواند شرایط را برای تقویت مطالبات سیاسی و مدنی در داخل کشور مساعد کند و راه را برای پیشروی مردم به سوی آزادی هموار سازد."
+        ],
+        "impact": "تهدید به اقدام نظامی از سوی آمریکا، در صورت ناتوانی در رسیدن به توافق، می‌تواند اقتدار بین‌المللی و داخلی رژیم را کاهش دهد و فضای سیاسی را به نفع مطالبات مردمی تغییر دهد.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": 0.7,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-issues-warning-iran-high-stakes-nuclear-talks-11532833",
+        "clean_url": "https://www.newsweek.com/trump-issues-warning-iran-high-stakes-nuclear-talks-11532833",
+        "image": "http://www.bing.com/th?id=OVFT.CYig-Sr18G3Kg1qmUfMbPy&pid=News",
+        "timestamp": 1771293540.0
+    },
+    {
         "title_fa": "ترامپ: ایران «عواقب» نداشتن توافق هسته‌ای با آمریکا را نمی‌خواهد",
         "title_en": "Trump says Iran \"doesn't want the consequences\" of not making a nuclear deal with the U.S.",
         "summary": [
@@ -5139,22 +5157,5 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbm5FTzRseTF0SGsxVk9HUXdqaGlyNW1yRmtVNTBFdG5rSmlMUkp1NURFY2w2empQUkNMa0R5MWhkYzJZNU95ZENvSU1CWHlZZDNWbFgxRUlyRFpYaWtDc3BZZEF4RERSNEtXYkVMR3JVSnZzam12dWp5REdLUHdWQlU3UnU0X3RFQV9EdDExdFFPdWlEanhqWXJ0Z0l4dXpKM2duZGl0MzZQd2RXT3R4alBCRmVUUWJZODhtSg?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 10:04:45 GMT",
         "timestamp": 1770804285.0
-    },
-    {
-        "title_fa": "رئیس‌جمهور ایران: آماده پذیرش بازرسان هسته‌ای پیش از گفت‌وگوی ترامپ و نتانیاهو",
-        "title_en": "Iran's President Says Open For Nuclear Inspectors Ahead Of Trump-Netanyahu Talks",
-        "summary": [
-            "رئیس‌جمهور ایران اعلام کرده که تهران آماده پذیرش بازرسان هسته‌ای است.",
-            "این اعلام موضع هم‌زمان با نزدیک شدن به گفت‌وگوهای دونالد ترامپ و بنیامین نتانیاهو صورت گرفته است.",
-            "اظهارنظر ایران می‌تواند بر فضای دیپلماتیک پیرامون برنامه هسته‌ای و تنش‌های منطقه‌ای تأثیر بگذارد."
-        ],
-        "impact": "این موضع ممکن است فضای مذاکرات بین‌المللی درباره برنامه هسته‌ای ایران را بازتر کند و بر استراتژی‌های آمریکا و اسرائیل تاثیر بگذارد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.15,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeW96RmNDTk5ORHoyMmZoOFJ3MG1YT00wLUZOTEFFdE9Xc0xFX1FRM29qbjJhUC1sWVNaSzBkSFNpbEhtQUFJd3d3ZlNFdE1YT0JfbHZTYzhob1l3dC1XbmZ6OFI1VWlkNE9TUEdYbGIzaWI3RHBzTFRndUZfSnZRQUVjdnZpRmwteDFB0gGOAUFVX3lxTE9sUUIyNGx0cm1QdDNjVV96ZHZuRDZDVTJKMWJiMjdydlZXc3UxYUpkMmhiS25vY2RVN3llaGx4Sm5acnNUNjR0Tkl0THJOUjNOSkRVdE1UWmh6WmxXYWdzMTV1cDV1dmlPWlhORXphQ1h2RkZ4Z211eEp1X0RJdllqM3ZZZUh1Y0EyNTBpeWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 10:03:29 GMT",
-        "timestamp": 1770804209.0
     }
 ]
