@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران هم‌زمان با آغاز دور جدید مذاکرات هسته‌ای موشک‌هایی به تنگه هرمز شلیک کرد",
+        "title_en": "Iran fires missiles into the Strait of Hormuz as a new round of nuclear talks begins",
+        "summary": [
+            "تهدید نظامی: تهران موشک‌هایی به سمت تنگه هرمز شلیک کرد — اقدامی که امنیت کشتیرانی و ثبات منطقه را به مخاطره می‌اندازد و هم‌زمان مذاکرات هسته‌ای را تحت‌الشعاع قرار می‌دهد.",
+            "پوشش رسانه‌ای و انگیزه‌ها: این نمایش قدرت احتمالاً تلاشی حساب‌شده برای افزایش اهرم فشار در میز مذاکره و تقویت روایت‌های ملی‌گرایانه رژیم است؛ هرگونه پمپاژ پیام «دفاعی» از سوی رسانه‌های حکومتی مصداق پروپاگاندا برای منحرف کردن افکار عمومی از مشکلات داخلی است.",
+            "پیامدها برای داخل و خارج: چنین لفاظی و عملیات‌های نظامی احتمالاً به منزوی‌تر شدن بین‌المللی، افزایش فشارهای اقتصادی و تحریمی منجر می‌شود — فشارهایی که بار اصلی آن را مردم خواهند برد اما در عین حال مشروعیت رژیم را تضعیف و بستر مقاومت اجتماعی را تقویت می‌کند."
+        ],
+        "impact": "این اقدام نظامی ریسک درگیری مستقیم و تحریم‌های جدید را بالا می‌برد و در نهایت با افزایش هزینه‌های روزمره برای شهروندان، مشروعیت رژیم را تضعیف کرده و مسیر اعتراضات و خواست تغییر را تقویت می‌کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-us-nuclear-talks-iaea-dbed41b78ce2ddabc8a04349e72abeba",
+        "clean_url": "https://apnews.com/article/iran-us-nuclear-talks-iaea-dbed41b78ce2ddabc8a04349e72abeba",
+        "image": "https://dims.apnews.com/dims4/default/73c0551/2147483647/strip/true/crop/3200x2132+0+85/resize/980x653!/quality/90/?url=https://assets.apnews.com/03/9a/6f1c6cd261a46c891761bca3a91d/8710b09f9aa5488eab6317f99f7511da",
+        "timestamp": 1771323780.0
+    },
+    {
         "title_fa": "مذاکرات هسته‌ای آمریکا و ایران قرار است در ژنو آغاز شود",
         "title_en": "Nuclear talks between US and Iran set to begin in Geneva",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXBXTGVpWTZRbHdWSGdKTmU0UXdLQXc1TjBVNm10ZWZmR19pbkJoYWgzMjB4SUcwVnJJeGxxa2ZBNXNDeEFoRDRodWtBNGdLS0dVWExxME91M3N3X2J3SUtpb3BkMUkwelRWRTBjTG5HY1NGQ0MxdmRIanRYVFB3WlIwVTBCcEdjNlhRd3lPTDJmcjhfZHVkVEZwT1RvWXlLNy1MX1dUS0N1WU5VRy0yYw",
         "image": null,
         "timestamp": 1771299120.0
+    },
+    {
+        "title_fa": "ایران و آمریکا گفت‌وگوهای تازه‌ای در ژنو را آغاز کردند",
+        "title_en": "Iran, United States hold new talks in Geneva",
+        "summary": [
+            "مذاکرات جدید ایران و ایالات متحده در ژنو آغاز شد؛ این دور با میانجی‌گری عمان برگزار شده و دونالد ترامپ هشدار داد در صورت عدم دستیابی به توافق عواقبی در پی خواهد داشت.",
+            "اطلاعات جزئی از محتوای نشست‌ها گزارش نشده اما رسانه‌ها از تلاش برای بررسی راه‌های کاهش تنش خبر داده‌اند و فضای دیپلماتیک تحت فشار واشنگتن قرار گرفته است.",
+            "این گفت‌وگوها به‌عنوان عاملی که فشار خارجی بر رژیم را افزایش می‌دهد قابل تفسیر است و می‌تواند شکاف‌های حکومتی را برجسته کرده و در نهایت مسیر آزادی مردم را تسهیل کند."
+        ],
+        "impact": "افزایش فشار دیپلماتیک و تهدید به پیامدهای جدی از سوی آمریکا می‌تواند انسجام رژیم را تضعیف کرده و فضای بیشتری برای مطالبات داخلی و حرکت‌های اعتراضی فراهم آورد.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/02/iran-united-states-hold-new-talks-geneva",
+        "clean_url": "https://www.al-monitor.com/originals/2026/02/iran-united-states-hold-new-talks-geneva",
+        "image": null,
+        "timestamp": 1771294260.0
     },
     {
         "title_fa": "ترامپ: ایران «عواقب» نداشتن توافق هسته‌ای با آمریکا را نمی‌خواهد",
@@ -5120,37 +5156,5 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeW96RmNDTk5ORHoyMmZoOFJ3MG1YT00wLUZOTEFFdE9Xc0xFX1FRM29qbjJhUC1sWVNaSzBkSFNpbEhtQUFJd3d3ZlNFdE1YT0JfbHZTYzhob1l3dC1XbmZ6OFI1VWlkNE9TUEdYbGIzaWI3RHBzTFRndUZfSnZRQUVjdnZpRmwteDFB0gGOAUFVX3lxTE9sUUIyNGx0cm1QdDNjVV96ZHZuRDZDVTJKMWJiMjdydlZXc3UxYUpkMmhiS25vY2RVN3llaGx4Sm5acnNUNjR0Tkl0THJOUjNOSkRVdE1UWmh6WmxXYWdzMTV1cDV1dmlPWlhORXphQ1h2RkZ4Z211eEp1X0RJdllqM3ZZZUh1Y0EyNTBpeWc?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 10:03:29 GMT",
         "timestamp": 1770804209.0
-    },
-    {
-        "title_fa": "پزشکیان در سالگرد انقلاب ۱۳۵۷ خواستار وحدت شد",
-        "title_en": "Pezeshkian calls for unity as Iran marks 1979 Revolution anniversary",
-        "summary": [
-            "پزشکیان در مراسم گرامی‌داشت سالگرد انقلاب ۱۳۵۷ از مردم و جناح‌ها خواست برای حفظ انسجام ملی متحد شوند.",
-            "او بر ضرورت پرهیز از اختلافات جناحی و تمرکز بر منافع ملی، امنیت و ثبات اقتصادی تأکید کرد.",
-            "این اظهارات در روزی که یاد انقلاب ۱۹۷۹ گرامی داشته می‌شود، می‌تواند بر فضای سیاسی و گفت‌وگوهای داخلی اثر بگذارد."
-        ],
-        "impact": "فراخوان برای وحدت ممکن است به کاهش تنش‌های داخلی و تغییر جهت گفت‌وگوی سیاسی در ماه‌های پیش‌رو کمک کند.",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjItRFBTa2tWUDRFUEE3UU9ZQXRHdkZQaHhlMWc3b090dWdseXB1RU8talplWDJJYkhYNE9Zc0lBeXFsRnprY3ZNaWo3SnlOSVpHUlRNTE9zd25ZdnA3QjdIbUZUS05kMXpXQ3V0cmI2MGd3dnctOXBlME13TDZjUk5VZGVxV1JiVDhTYmJQZTBwMXFNQVdHRllNLTNsM2Z3RmprZUxqajYwWjMycEHSAbMBQVVfeXFMT25uN2JkN2NfN2F3Qk1IZl9wQi1hc1NQUFNyUUY1Y2dBaWtUZEdCbHJ4Y0xfQTViNXczVEhkbTRMQ3dSd2VWODQ3cnFDbktGZXZkUjZMSEY0R0V4U2RDN2VVVjFic1BLeXRMNmM5U1dfdjYtcnJITENTTGs0cjBZanFFem51enVaWFpULVJFel9JNHF6VVNzcW43aFFucGpJbnJVWGVzcl9LRnRVU1ZVcVUzdG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 09:51:03 GMT",
-        "timestamp": 1770803463.0
-    },
-    {
-        "title_fa": "وزیر دفاع: به تهدیدها با قدرتی بی‌سابقه پاسخ می‌دهیم",
-        "title_en": "Iran to respond to threats with unmatched force",
-        "summary": [
-            "ادعای «پاسخ با قدرتی که دشمنان تصورش را هم نمی‌کنند» عمومی و مبهم است و فاقد مشخصات عملیاتی یا آستانهٔ وضع حمله است؛ بیشتر نمایش بازدارندگی رسانه‌ای است تا اعلام یک راهبرد نظامی ملموس.",
-            "بیان آن در آئین‌های 22 بهمن هدف داخلی دارد: همسان‌سازی مشروعیت سیاسی با قدرت نظامی برای سرکوب نارضایتی، توجیه افزایش بودجهٔ دفاعی و تقویت انسجام رژیم در برابر ضعف‌های اقتصادی و دیپلماتیک.",
-            "پیام برای بازیگران خارجی و نیابتی حساب‌شده اما خطرناک است — می‌تواند مانع اقدام فوری شود اما احتمال محاسبهٔ نادرست، تشدید تحریم‌ها و تشدید حضور نظامی رقبای منطقه‌ای/فرامنطقه‌ای را افزایش می‌دهد و در بلندمدت به منافع ملی ایران آسیب می‌زند."
-        ],
-        "impact": "این لحن تند ممکن است بازدارندگی کوتاه‌مدت ایجاد کند اما در مجموع ثبات منطقه را کاهش می‌دهد و منافع ملی ایران را از طریق افزایش خطر تشدید نظامی، هزینه‌های اقتصادی و انزوای دیپلماتیک تضعیف می‌کند.",
-        "tag": "propaganda",
-        "urgency": 7,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241647/Iran-to-respond-to-threats-with-unmatched-force",
-        "timestamp": 1770802260.0
     }
 ]
