@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "وزیر امور خارجه ایران: در مذاکرات هسته‌ای با آمریکا در ژنو پیشرفت حاصل شد",
+        "title_en": "Iran foreign minister says progress made in nuclear talks with US in Geneva",
+        "summary": [
+            "وزیر امور خارجه ایران اعلام کرد که در ژنو طرفین به درکی درباره «اصول راهنما» برای حل مناقشه هسته‌ای رسیده‌اند.",
+            "بیانیه نشان‌دهنده پیشرفتی مرحله‌ای در مذاکرات دیپلماتیک است، اما خبر کوتاه است و جزییات فنی یا جدول زمانی ارائه نشده‌اند.",
+            "مسائل کلیدی همچون رفع تحریم‌ها، مکانیزم نظارت و زمان‌بندی اجرای تعهدات هنوز باز هستند و نیاز به توافق‌های عملی دارند."
+        ],
+        "impact": "این پیشرفت می‌تواند مسیر را برای کاهش تنش‌ها و بازشدن امکان توافق جامع هموار کند، اما تا حصول توافق نهایی فاصله قابل توجهی باقی است.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/iran-foreign-minister-says-progress-made-in-nuclear-talks-with-us-in-geneva/ar-AA1WwPGU",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-foreign-minister-says-progress-made-in-nuclear-talks-with-us-in-geneva/ar-AA1WwPGU",
+        "image": "https://www.reuters.com/resizer/v2/H4D6WHK2PVLETO47YBJ5IRZ3XI.jpg?auth=3a911bd604395a1dcb88fa3f7751cfbba5ba3d999594b3901ce2e9c2883c6de3&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1771344942.0
+    },
+    {
+        "title_fa": "وزیر خارجه: آمریکا و ایران در مذاکرات ژنو «پیشرفت خوبی» داشته‌اند",
+        "title_en": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
+        "summary": [
+            "وزیر خارجه گزارش داد که آمریکا و ایران در مذاکرات ژنو «پیشرفت خوبی» داشته‌اند.",
+            "جزئیات و دامنهٔ موضوعات مطرح‌شده تا کنون اعلام نشده؛ اما توصیفِ «پیشرفت» نشان‌دهنده یک حرکت دیپلماتیک ملموس بین دو طرف است.",
+            "اگر این روند ادامه یابد و به نتایج عملی منتهی شود، می‌تواند انزوای بین‌المللی رژیم را کاهش دهد و پایه‌های قدرت آن را تضعیف کرده و فرصت‌های سیاسی بیشتری برای مطالبات آزادی‌خواهانهٔ مردم فراهم آورد."
+        ],
+        "impact": "این پیشرفت دیپلماتیک می‌تواند انزوای رژیم را کم کند و به تضعیف بنیهٔ اقتدار آن کمک کند، که در نهایت می‌تواند فضای بیشتری برای خواست‌های آزادی‌خواهانهٔ مردم ایجاد نماید.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHbXVSVkNOd3pVU3NSSHJEU1lDVTZjVE4yX19VZUlUam1MTnBQd3lPMXNuMEdsVUtLb2N2ZlpaZ0MwYmkxOEZxUi1NMXVXbDBSUENpZDNFcWM0WkxCbG10aEZxZ0sxV2stMjBmWHR5SVF2emxDODY5cFY0Q1lqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHbXVSVkNOd3pVU3NSSHJEU1lDVTZjVE4yX19VZUlUam1MTnBQd3lPMXNuMEdsVUtLb2N2ZlpaZ0MwYmkxOEZxUi1NMXVXbDBSUENpZDNFcWM0WkxCbG10aEZxZ0sxV2stMjBmWHR5SVF2emxDODY5cFY0Q1lqdw",
+        "image": null,
+        "timestamp": 1771341839.0
+    },
+    {
+        "title_fa": "ایران گفت‌وگوها با آمریکا را «سازنده‌تر» خواند؛ تهدید ترامپ همچنان مطرح است",
+        "title_en": "Iran calls talks with U.S. \"more constructive\" as Trump's threat looms",
+        "summary": [
+            "علیرغم تبادل تهدید و هشدار میان تهران و واشینگتن، مذاکره‌کنندگان پشت میز نشستند تا از تبدیل تنش‌ها به جنگ جلوگیری کنند.",
+            "ایران اعلام کرد «اکنون راه روشن‌تری پیش‌رو داریم» و مذاکرات را سازنده‌تر توصیف کرد که نشان‌دهنده تلاش رژیم برای کاهش فشار خارجی است.",
+            "تهدیدات ترامپ همچنان به قوت خود باقی است؛ هرگونه عقب‌نشینی یا توافق موقت رژیم را در معرض انتقاد داخلی قرار می‌دهد و می‌تواند ضعف سیاسی آن را آشکار و فرصت‌هایی برای جنبش‌های آزادی‌خواه فراهم کند."
+        ],
+        "impact": "این مذاکرات هرچند از رویارویی نظامی فوری جلوگیری می‌کند، اما رژیم تهران را در موضع ضعف قرار می‌دهد و فضای سیاسی را برای تقویت مطالبات مردمی و فشار بر حاکمیت بازتر می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 9,
+        "sentiment": 0.2,
+        "source": "CBS News",
+        "url": "https://www.msn.com/en-us/news/world/iran-calls-talks-with-us-more-constructive-as-trumps-threat-looms/ar-AA1WwaAh",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-calls-talks-with-us-more-constructive-as-trumps-threat-looms/ar-AA1WwaAh",
+        "image": null,
+        "timestamp": 1771340627.0
+    },
+    {
         "title_fa": "ایران می‌گوید در مذاکرات هسته‌ای پیشرفت شده؛ رهبر انقلاب به ترامپ درباره تقویت نظامی هشدار داد",
         "title_en": "Iran says progress made in nuclear talks as supreme leader warns Trump over military buildup",
         "summary": [
@@ -90,6 +144,24 @@
         "timestamp": 1771323780.0
     },
     {
+        "title_fa": "ایران و آمریکا در مذاکرات ژنو بر «اصول راهنما» توافق کردند، وزیر خارجه می‌گوید",
+        "title_en": "Iran, US agree on 'guiding principles' in Geneva talks, minister says",
+        "summary": [
+            "عباس عراقچی گفت طرفین در ژنو بر «یک مجموعه اصول راهنما» برای ادامه مذاکرات هسته‌ای به توافق کلی رسیده‌اند؛ جلسه بیش از سه ساعت در نمایندگی دائم عمان برگزار شد و او فضای گفت‌وگو را سازنده توصیف کرد و تأکید کرد روند تنظیم توافق زمان‌بر است و تاریخ جدیدی تعیین نشده است.",
+            "نماینده‌های آمریکایی در ژنو شامل فرستاده ویژه استیو ویتهکوف و جارد کوشنر حضور داشتند. تهران اعلام کرده حاضر است برنامه هسته‌ای غیرنظامی‌اش را در ازای لغو تحریم‌ها محدود کند اما درباره موشک‌ها و حمایت از گروه‌های منطقه‌ای مذاکره نخواهد کرد.",
+            "مذاکرات در ادامهِ تشدید تنش‌ها میان واشنگتن و تهران جریان دارد؛ پس از سرکوب اعتراضات ژانویه — که رسانه‌ها از کشته‌شدن هزاران نفر گزارش دادند — ترامپ گفته به طور غیرمستقیم در روند دخالت خواهد داشت و عمان میانجی بوده است."
+        ],
+        "impact": "این دور مذاکرات می‌تواند هم فشار تحریم‌ها را کاهش دهد و هم ضعف و تزلزل رژیم را آشکارتر کند و در نتیجه به تضعیف حلقه قدرت و تقویت مطالبات آزادی‌خواهانه مردم کمک کند.",
+        "tag": "مذاکره",
+        "urgency": 8,
+        "sentiment": 0.45,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-us-agree-guiding-principles-161338492.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-us-agree-guiding-principles-161338492.html",
+        "image": "http://www.bing.com/th?id=OVFT.kWfQSqQino1HDcb-HMbqMi&pid=News",
+        "timestamp": 1771317060.0
+    },
+    {
         "title_fa": "مذاکرات هسته‌ای آمریکا و ایران قرار است در ژنو آغاز شود",
         "title_en": "Nuclear talks between US and Iran set to begin in Geneva",
         "summary": [
@@ -108,6 +180,24 @@
         "timestamp": 1771315800.0
     },
     {
+        "title_fa": "ایران و آمریکا به «اصول راهنما» برای توافق هسته‌ای رسیدند، تهران می‌گوید",
+        "title_en": "Iran and US agree ‘guiding principles’ of nuclear deal, Tehran says",
+        "summary": [
+            "عباس عراقچی اعلام کرد در دور دوم مذاکرات در ژنو بر «مجموعه‌ای از اصول راهنما» برای پیش‌برد تدوین یک توافق احتمالی به اجماع رسیده‌اند، اما تأکید کرد این موضوع به معنی دست‌یابی سریع به توافق نهایی نیست و جزئیات اعلام نشده است.",
+            "دولت ترامپ خواستار گسترش مذاکرات به موضوع برنامه موشکی ایران و نحوه برخورد با معترضان داخلی شده است؛ تهران این موارد را خارج از دستور کار می‌داند و کاخ سفید تاکنون واکنشی رسمی نشان نداده است.",
+            "مذاکرات پس از گفت‌وگوهای غیرمستقیم در عمان ادامه یافت؛ همزمان آیت‌الله خامنه‌ای با لحن تند به تهدیدهای نظامی آمریکا پاسخ داد و اظهاراتی تهدیدآمیز علیه ناوهای آمریکایی مطرح کرد."
+        ],
+        "impact": "این پیشرفت مبهم دیپلماتیک می‌تواند اهرمی بین‌المللی علیه رژیم باشد و فشار برای پاسخگویی به سرکوب‌های داخلی و محدودسازی توان نظامی ـ موشکی حکومتی را افزایش دهد.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/02/17/us-news/iran-and-us-agree-guiding-principles-of-nuclear-deal-tehran-says/",
+        "clean_url": "https://nypost.com/2026/02/17/us-news/iran-and-us-agree-guiding-principles-of-nuclear-deal-tehran-says",
+        "image": null,
+        "timestamp": 1771311720.0
+    },
+    {
         "title_fa": "ضربات نیمه‌شب: بازسازی هسته‌ای ایران به‌عنوان راه بقا برای رژیم",
         "title_en": "Post Midnight Hammer Strikes: Iran’s Nuclear Reconstitution as Regime Survival",
         "summary": [
@@ -124,6 +214,24 @@
         "clean_url": "https://nationalinterest.org/blog/energy-world/post-midnight-hammer-strikes-irans-nuclear-reconstitution-as-regime-survival",
         "image": null,
         "timestamp": 1771310940.0
+    },
+    {
+        "title_fa": "ایران از «توافق کلی» در مذاکرات هسته‌ای با آمریکا استقبال کرد",
+        "title_en": "Iran Hails ‘General Agreement’ in US Nuclear Talks",
+        "summary": [
+            "ایران اعلام کرد در مذاکرات هسته‌ای غیرمستقیم با آمریکا در ژنو به یک «توافق کلی» دست یافته است.",
+            "مذاکرات به‌صورت غیرمستقیم بین تهران و واشینگتن برگزار شد، در حالی که دونالد ترامپ تهدید به حملات نظامی در صورت عدم حصول توافق کرده بود.",
+            "وجود تهدید نظامی و فشار خارجی موقعیت رژیم را آسیب‌پذیر نشان می‌دهد و می‌تواند به تضعیف قبضه قدرت حاکم و تقویت مطالبات مردمی منجر شود."
+        ],
+        "impact": "این تحولات می‌تواند موقعیت بین‌المللی و داخلی رژیم را تحت فشار قرار دهد و فضای سیاسی را برای پیشبرد خواست‌های آزادی‌طلبانه مردم بازتر کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": 0.4,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-us-nuclear-talks-trump-strikes-war-11535311",
+        "clean_url": "https://www.newsweek.com/iran-us-nuclear-talks-trump-strikes-war-11535311",
+        "image": null,
+        "timestamp": 1771310700.0
     },
     {
         "title_fa": "دور دوم مذاکرات هسته‌ای ایران و آمریکا در ژنو آغاز می‌شود (پوشش زنده)",
@@ -5074,107 +5182,5 @@
         "source": "Mehr News Agency",
         "url": "https://en.mehrnews.com/news/241699/Pashinyan-congratulates-Iran-on-anniversary-of-revolution",
         "timestamp": 1770826920.0
-    },
-    {
-        "title_fa": "دیدار ترامپ و نتانیاهو؛ دیپلماسی هسته‌ای آمریکا و ایران در صدر دستورکار",
-        "title_en": "Trump meets Netanyahu, with US-Iran nuclear diplomacy topping agenda",
-        "summary": [
-            "دونالد ترامپ با بنیامین نتانیاهو دیدار کرد.",
-            "محور اصلی گفت‌وگوها دیپلماسی هسته‌ای میان آمریکا و ایران و هماهنگی مواضع دو طرف بود.",
-            "این ملاقات می‌تواند بر سیاست‌های تحریمی، اقدامات امنیتی منطقه‌ای و رایزنی‌های آتی واشنگتن و تل‌آویو تأثیر بگذارد."
-        ],
-        "impact": "نتایج این دیدار ممکن است مسیر مذاکرات هسته‌ای با ایران و سطح هماهنگی آمریکا و اسرائیل در مواجهه با تهران را تغییر دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "Al Arabiya English",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGhDOWRWMXl3azM1VTZmVkhPeVc1aC1jOTR6MmJCVHZ2OXVZN2JkM0ZMRm45YUVOOWlyRXNsdTZJSDdzLUozYlRrcVU4VGdJMjc2bW51NzRQTnJWMmZ5WTcyQ0NkSXprM1lnRXJnRWJULXowXzZaaFprTVZZNm1DUEs5Z05oTjdSVjk2Wi01eXdBa1BzZWwzVHNuNVdpUkdXOG9WY29fSi1RdFNI0gGyAUFVX3lxTE9DaXRodkN4Q3d4dFBsYVZ6dG95dXlmX3dUbEltR0VBdTRHaFJ0M1hsenM4UmlvaHJkbjNqRXR2QmJ1M1J2Q1lpWlFySThqeFdXUkRGWkZreWRXNHlxbDVfZDJlbUxGUEQ0Tk0zYkM0aHRENjBrYlNxVFY1bUJZRlBzTG1CMzlicWxZRFdoR1FxS3g2WFJOMGlLNUFjel9XZjNpaWJlb1Iza3doNk9IUkwyS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 16:09:00 GMT",
-        "timestamp": 1770826140.0
-    },
-    {
-        "title_fa": "بنیامین نتانیاهو پیش از مذاکرات هسته‌ای آمریکا و ایران با دونالد ترامپ دیدار می‌کند",
-        "title_en": "Benjamin Netanyahu to meet Donald Trump ahead of US-Iran nuclear talks",
-        "summary": [
-            "نخست‌وزیر اسرائیل، بنیامین نتانیاهو، قرار است با دونالد ترامپ دیدار کند؛ زمان این دیدار پیش از برگزاری مذاکرات میان آمریکا و ایران درباره برنامه هسته‌ای تهران است.",
-            "انتظار می‌رود هدف این دیدار هماهنگی مواضع و فشار برای اتخاذ رویکردی سخت‌تر علیه ایران و جلوگیری یا محدودسازی احیای احتمالی توافق هسته‌ای باشد.",
-            "این دیدار می‌تواند بر جهت‌گیری مذاکرات، روابط آمریکا و اسرائیل و واکنش‌های منطقه‌ای و بین‌المللی تأثیر گذاشته و فضای سیاسی پیرامون پرونده هسته‌ای ایران را تحت تأثیر قرار دهد."
-        ],
-        "impact": "این ملاقات می‌تواند لحن و جهت‌گیری مذاکرات آمریکا با ایران را سخت‌تر کند و احتمالاً بر تصمیم‌گیری‌های دپلوماتیک و امنیتی منطقه‌ای تأثیر بگذارد.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5md2RMSVVSUjBNYzdWNE5hNFpObnhFWTBHYW5CWUh5U0d4VldYTkdCUFV0TzVNdEU3WmR1Z0FiSVRMM3luWjlBa0VHbF9HSjBxdkJDMXVseWdhLTlOMTRhYUF4ejNGVWdGNDBWdU9vSlpnT291Umc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 15:31:26 GMT",
-        "timestamp": 1770823886.0
-    },
-    {
-        "title_fa": "دیدار نتانیاهو با ترامپ؛ اسرائیل به دنبال اثرگذاری بر مذاکرات با ایران",
-        "title_en": "Netanyahu to meet Trump as Israel seeks to shape Iran talks",
-        "summary": [
-            "بنیامین نتانیاهو با دونالد ترامپ دیدار خواهد کرد تا مواضع و نگرانی‌های اسرائیل درباره مذاکرات مربوط به ایران را مطرح کند.",
-            "اسرائیل تلاش می‌کند جهت‌گیری آمریکا در موضوع هسته‌ای و رفتار منطقه‌ای ایران را شکل دهد و از منافع امنیتی خود دفاع کند.",
-            "این دیدار ممکن است بر روند دیپلماسی بین‌المللی و ثبات منطقه‌ای تاثیر بگذارد و احتمال تغییر در سیاست‌ها یا تشدید تنش‌ها را افزایش دهد."
-        ],
-        "impact": "دیدار می‌تواند جهت سیاست آمریکا نسبت به ایران را تغییر دهد و پیامدهای قابل‌توجهی برای امنیت منطقه و فرآیند مذاکرات بین‌المللی داشته باشد.",
-        "tag": "سیاست",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "AL-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelRVQ0pNSnprOVJaNjZZanRmc3VNM0J3U3RHU21SUHpORHBua05famhLRUNocjV0ZWRDOFFVUUNGMV96Q2d0a3BLVGJTN21mTmRSWGdVYkxDTTY2VV9Fc1lNNExmMkVZVlVVeU1sdlpxdENfMlFaNTJPcFJGWUtJT05HVFR0bHJNd2FZVTlJUTNGYTRPTEdYc3Bfaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 15:29:00 GMT",
-        "timestamp": 1770823740.0
-    },
-    {
-        "title_fa": "مذاکرات ایران: آنچه تا کنون پس از یک هفته دیپلماسی منطقه‌ای می‌دانیم",
-        "title_en": "Iran Talks: What We Know So Far After a Week of Regional Diplomacy",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد در طول یک هفته گذشته نشست‌ها و گفت‌وگوهای دیپلماتیک میان ایران و چند بازیگر منطقه‌ای برگزار شده است، با تمرکز بر کاهش تنش و بازگشت به کانال‌های ارتباطی.",
-            "اهداف اعلام‌شده شامل کاهش تنش‌های نظامی، تبادل احتمالی زندانیان و ایجاد سازوکارهایی برای ثبات منطقه‌ای بوده؛ با این حال توافق نهایی و جامع هنوز حاصل نشده است.",
-            "پیشرفت‌ها محدود و مرحله‌ای گزارش می‌شود و طرف‌ها بر ضرورت ادامه مذاکرات و نظارت بر اجرای هرگونه توافق احتمالی تأکید دارند."
-        ],
-        "impact": "نتایج این دور مذاکرات می‌تواند جهت‌گیری امنیتی و سیاسی منطقه را تغییر دهد و پیامدهایی برای ثبات انرژی و مبادلات اقتصادی میان کشورها داشته باشد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Palestine Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWJRc2xYbGlqRjFNVGxmeTRlRER3Y0thVFcyRFpXbEd0QVdqTUlnRUw1ejFCY01fZ2M5QTNoanVQQWZmWnM5SkZKdHpta01aSHhLNllPMzJCZENLUEplem1RQm1JdVhXdzBub05FcFpkVXhtdU15Q21LSnlnbXFTRVJ3YkRlangyWEZKSzJPVzlYbW95cHVQVUtnUnliU0dRcGJr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 15:23:00 GMT",
-        "timestamp": 1770823380.0
-    },
-    {
-        "title_fa": "رئیس‌جمهور ایران انکار کرد که به دنبال سلاح هسته‌ای است و پس از اعتراضات گسترده از «شرم» سخن گفت",
-        "title_en": "Iran’s president denies it seeks nuclear weapon and admits ‘shame’ after mass protests",
-        "summary": [
-            "رئیس‌جمهور ایران اعلام کرده که کشور به دنبال ساخت سلاح هسته‌ای نیست.",
-            "او پس از اعتراضات گسترده مردمی از احساس «شرم» درباره اوضاع سخن گفت که نشان‌دهنده فشار اجتماعی بر دولت است.",
-            "این اظهارات در بحبوحه اعتراضات خیابانی مطرح شده و می‌تواند تبعات داخلی و بین‌المللی برای سیاست هسته‌ای و مشروعیت حکومت داشته باشد."
-        ],
-        "impact": "اظهارات رئیس‌جمهور ممکن است تا حدی فشار داخلی را کاهش دهد اما تردیدها و نگرانی‌های بین‌المللی درباره برنامه هسته‌ای و اعتبار حکومت را برطرف نخواهد کرد.",
-        "tag": "اعتراضات",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXRPQ3B5Mjl2ZjNRQ3laLWNXSVdaaXZUTVZmblRTXzh5ZlBocjJ3Vk5IQjF4Nm0ybGhCLXlzUXZRdXl6cDJwSGR1QXFwcFNNQXNPR2lHdkFnbnhtQ21DSThQRWttekFxWm9FWjZUaG1TT0llbWg4N0xxTkFRRXNMTEZfM185THBQVW5janFucXNydU9EZEtZckJTU3FjQ1hGbGpOWjg2cHVtMEJIZWxpRlFza28tZ1VmWXFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 15:22:00 GMT",
-        "timestamp": 1770823320.0
-    },
-    {
-        "title_fa": "دیدار نتانیاهو با ترامپ در حالی که مذاکرات با ایران ادامه دارد",
-        "title_en": "Israel's Netanyahu to meet with Trump as negotiations continue with Iran",
-        "summary": [
-            "نخست‌وزیر اسرائیل، بنیامین نتانیاهو، قرار است با دونالد ترامپ ملاقات کند.",
-            "این دیدار هم‌زمان با ادامه مذاکرات بین‌المللی درباره ایران انجام می‌شود.",
-            "جلسه احتمالاً بر سیاست‌های منطقه‌ای، امنیت اسرائیل و موضع آمریکا نسبت به توافق با ایران متمرکز خواهد بود."
-        ],
-        "impact": "این دیدار می‌تواند روند مذاکرات با ایران را تحت تأثیر قرار داده و تنش‌ها یا مواضع سخت‌تری در منطقه ایجاد کند.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "KVII",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcy1JQ1JRSmtlSWpfUjBfWkIwXzlGX1NkWVQ4SEo3OTlJS1pIOHdUeEtyQVp3Ynh5b3E0QnFTUnZrS0JCRnZZeXlvRXZQTU0xOVhmWkQ2OXY2R1hNaXFSWTQtUzRpZk51clYtSXJHRWJYMTQyNUlrRnhKekZOMjNjQWliaGxCQlZSVmlRSEFtRTNmVkFvQmxSVG5TRmNZTEo3RUM2R1JIVmpiVG5uTjJLLW1VZXotU1NQaEFsRmN5VkpUc0pKN3JVc3hiSzBjVnRXeVJoY0diTm9RNzItemxmNFBrRklZdkVhb1dHbGowNUt1eU9QWDBOaUQxU1h6OVJLb1FMMDBqWkVBYjZMRE9vSElaRU9DZ2Z5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 14:42:27 GMT",
-        "timestamp": 1770820947.0
     }
 ]
