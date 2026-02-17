@@ -108,6 +108,24 @@
         "timestamp": 1771310186.0
     },
     {
+        "title_fa": "ایران در تنگه هرمز موشک‌های زنده شلیک کرد؛ مذاکرات هسته‌ای با آمریکا از سر گرفته شد و تنش‌ها در گلوگاه نفتی جهانی افزایش یافت",
+        "title_en": "Iran vs US Latest News LIVE Updates: Iran Fires Live Missiles in Strait of Hormuz as Nuclear Talks Resume, Tensions Surge at Global Oil Chokepoint",
+        "summary": [
+            "نیروهای ایرانی در تنگه هرمز موشک‌های زنده شلیک کردند؛ منطقه‌ای کلیدی برای عبور نفت و تجارت جهانی که هر نشانه‌ای از تشدید نظامی ریسک‌های اقتصادی و امنیتی بالایی دارد.",
+            "دور دوم مذاکرات هسته‌ای میان ایران و آمریکا با میانجیگری عمان برگزار و روز سه‌شنبه به پایان رسید؛ این نشست همزمان با اقدام نظامی تهران انجام شد.",
+            "خامنه‌ای در جریان مذاکرات اعلام کرد که آمریکا «نخواهد توانست» تهران را نابود کند؛ ترکیب رجزخوانی و عملیات نظامی نشان‌دهنده ریسک‌پذیری و بی‌ثباتی راهبردی رژیم است و موقعیت داخلی‌اش را تضعیف می‌کند."
+        ],
+        "impact": "تشدید هم‌زمان رفتار نظامی و دیپلماتیک ریسک برخورد مستقیم و آسیب به اقتصاد نفتی را بالا می‌برد و در عین حال مشروعیت رژیم را کاهش داده و فضا را برای مطالبات مردمی و فرصت‌های سیاسی بازتر می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/iran-united-states-donald-trump-vs-ali-khamenei-latest-news-on-war-article-153630505",
+        "clean_url": "https://www.timesnownews.com/world/iran-united-states-donald-trump-vs-ali-khamenei-latest-news-on-war-article-153630505",
+        "image": "http://www.bing.com/th?id=OVFT.rc_570j3IGWNA74eh05Uui&pid=News",
+        "timestamp": 1771309680.0
+    },
+    {
         "title_fa": "دور دوم مذاکرات پراهمیت میان آمریکا و ایران امروز در ژنو برگزار می‌شود",
         "title_en": "Second round of high-stakes talks between US, Iran to be held in Geneva today",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KclZyZ2RLVlhNcWptX3ZZTDE4WktzUkFsZjZHVzk3bE9Rd2xDMEZMUG9nUWZSdEpxZXBocXBIQkNNdS1VUVd5bS04OTJjVU1ybzJxVWMzQ2xXQ0o4T3hRNGpiV0p2NjjSAWxBVV95cUxQSlJZRk1iTkJBMHdmTmxoLXlYT0hwUnZscmVzRzhBQUNrTTNqUm9UdElCd0tXWnJoQVM5NlRfclJrVW85bmxiZjI1bUdwcEcxcURzQnotTTJod0dDbUpFa3BFVjl4QkdCeW9Bekk",
         "image": null,
         "timestamp": 1771308147.0
+    },
+    {
+        "title_fa": "از سرگیری مذاکرات آمریکا و ایران در سایه رو به افزایش تهدید نظامی ترامپ",
+        "title_en": "US.-Iran talks resume under growing shadow of Trump's military threat",
+        "summary": [
+            "مذاکره‌کنندگان ایالات متحده و ایران برای جلوگیری از جنگ بار دیگر پشت میز نشستند، هرچند هدف از دیدار روشن‌تر شدن راه‌های دیپلماتیک است.",
+            "همزمان، تبادل تهدیدها و هشدارها ادامه دارد و تهدید نظامی آشکار از سوی ترامپ سایه سنگینی بر روند مذاکرات انداخته است.",
+            "این هم‌زمانی گفت‌وگوها و تهدیدها ضعف داخلی رژیم را نمایان می‌سازد و می‌تواند امکان‌های سیاسی جدیدی را برای مخالفان ملی و خواست‌های مردمی فراهم کند."
+        ],
+        "impact": "تهدید نظامی آمریکا در حالی که مذاکرات جریان دارد، فشار بر حاکمیت را افزایش داده و می‌تواند دریچه‌های سیاسی برای اپوزیسیون و مطالبات مردم بازتر کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/us-iran-talks-resume-under-growing-shadow-of-trump-s-military-threat/ar-AA1WwaAh",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-iran-talks-resume-under-growing-shadow-of-trump-s-military-threat/ar-AA1WwaAh",
+        "image": "http://www.bing.com/th?id=OVFT.X6HAIe1mjAuD2ylKT1Rq9y&pid=News",
+        "timestamp": 1771307784.0
     },
     {
         "title_fa": "بخش‌هایی از تنگه هرمز در حین مذاکرات هسته‌ای با آمریکا بسته می‌شود",
@@ -5138,39 +5174,5 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFp1NTN2XzB0UkFHZEg5Y0NoQ3k2YVdTek5TUVp5bVdxUXh4amVnNldSQXptVThkZk92MFpNR0FOY09tSHNDN1lybDhIQkdVTUJkOF9acUNzSXNTeWR5ZXRaNzNDVW5JSDNIaHpYNnl2am9TamtUd05tZE9mQ2MyMmgyNWNlNXg1cXhMc1B1TE5mQXp4RjM5YWZGVmFqMi0xMk1FbUUxbnBFZw?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 13:27:09 GMT",
         "timestamp": 1770816429.0
-    },
-    {
-        "title_fa": "نتانیاهو در دیدار با کاخ سفید خواستار گسترش مذاکرات با ایران خواهد شد",
-        "title_en": "Netanyahu to urge expanded Iran talks during White House meeting",
-        "summary": [
-            "نخست‌وزیر اسرائیل در دیدار با مقامات کاخ سفید از آمریکا می‌خواهد مذاکرات درباره ایران را فراتر برده و موضوعات امنیتی منطقه‌ای و برنامه هسته‌ای را شامل کند.",
-            "درخواست گسترش مذاکرات ممکن است شامل هماهنگی بر سر تحریم‌ها، فشار دیپلماتیک و گزینه‌های نظامی بالقوه علیه تهران باشد.",
-            "این دیدار می‌تواند بر مسیر دیپلماسی آمریکا با ایران و ثبات منطقه‌ای تأثیر گذاشته و نشان‌دهنده همراهی اسرائیل با نگرانی‌های امنیتی خود باشد."
-        ],
-        "impact": "این دیدار می‌تواند سیاست آمریکا نسبت به ایران را تغییر داده و احتمال افزایش فشارها یا تنش‌ها در منطقه را تقویت کند.",
-        "tag": "ایران",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "KCRA",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3ZQUnE4REpzMUJ0RnU3dzVjM3U5ZXNGTUkySlVLQmhQRC00dF96bmthYkNEN0R0VWNvWVBnR2xjb2lhSEFvQk4zRjdhOW9iMlM1V0JBZy1zQ1lMOFdBUTdHWXltdEc3SFJ2c2FVT19iX2NvUVVjWklsb2dVUF9pM0M3S00?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 13:26:00 GMT",
-        "timestamp": 1770816360.0
-    },
-    {
-        "title_fa": "زنده: ایران و فلسطین محور دیدار نتانیاهو و ترامپ در کاخ سفید",
-        "title_en": "LIVE: Iran, Palestine to headline Netanyahu-Trump White House meeting",
-        "summary": [
-            "دیدار در کاخ سفید با تمرکز بر مسائل مربوط به ایران و فلسطین برگزار می‌شود.",
-            "انتظار می‌رود سیاست‌های آمریکا در قبال منطقه، امنیت و راهبردهای دیپلماتیک بررسی شوند.",
-            "نتایج این نشست می‌تواند بر روند صلح فلسطینی-اسرائیلی و تنش‌ها با ایران تاثیر بگذارد."
-        ],
-        "impact": "این نشست می‌تواند جهت‌گیری سیاست خارجی آمریکا در خاورمیانه را تعیین کرده و تبعات امنیتی و دیپلماتیک گسترده‌ای برای طرف‌های درگیر داشته باشد.",
-        "tag": "خاورمیانه",
-        "urgency": 8,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVo0YWhGRUNIUG9wY0x3S2FkUE41V2VTYlVONEYxalpYSHNBdFpJbjV4dWxBOTNJRWJvTnk4R0FkMmJ2VTdIX0kyVDV5UWEwSkRpTjhpd0tzU0x3aU56azJudE5DY2FRVmJlcERiX0tlclRncnhKOE9lVHRBX0NtR3VDQUEtOU1LblBLMC04SDFiWDY3Ykk1Wm8tTjBIU0N6Rm1wSnd4NGszdjlsLUR3eUtjaV85R0dZYnJV0gHAAUFVX3lxTE1LLXRneTdlOTFkcnVmVTExM1NyeTNyTml0a1dOc2lZa0VBQW5WRVpNOHVnd1c4eG1oak01T2drNlNZdjdEQWMxU2pkcnY4LXJEZG44RlNOTjJfNUZNZm5JMnI4WnMtckJDaFZhVTFLZTdUMTdGLTR0ZGxYNUc4Rk9VWHFjWlJvTWRiemdBUGNvSmpUM09jSFBIODZOMUhpbzZwcUlybTIyMVFaOFE3U1lzQmdQdHRBTXZhNmsxNEFvZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 13:18:06 GMT",
-        "timestamp": 1770815886.0
     }
 ]
