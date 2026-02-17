@@ -126,6 +126,24 @@
         "timestamp": 1771283460.0
     },
     {
+        "title_fa": "بازی لبه‌تیغ در خلیج فارس: مانورهای هرمز پیام تهران به آمریکا",
+        "title_en": "Brinkmanship at sea: How Iran's Hormuz drills are a message to the US",
+        "summary": [
+            "سپاه پاسداران مانور «کنترل هوشمند تنگه هرمز» را با شلیک زنده، شناورهای تندرو، پهپادهای دریایی و سامانه‌های موشکی ضدکشتی برگزار کرد و این اقدام چند ساعت پیش از ازسرگیری مذاکرات هسته‌ای ایران و آمریکا انجام شد؛ پیامی آشکار درباره توانایی مختل‌سازی جریان نفت جهانی.",
+            "انتخاب محل مانورها — تنگه‌ای که حدود ۲۰ درصد نفت جهان از آن می‌گذرد — هدفمند بود تا اهرم فشار تهران در مذاکرات افزایش یابد و هشدار ضمنی به بالا بردن هزینه‌های هرگونه برخورد نظامی بدهد، هرچند که احتمال محاسبه اشتباه و تشدید بحران منطقه‌ای را بالا می‌برد.",
+            "این نوع لبه‌گریزی دیپلماتیک ممکن است در کوتاه‌مدت قدرت چانه‌زنی رژیم را افزایش دهد، ولی همان‌طور واقع‌گرا، چنین نمایش‌هایی ریسک تحریم‌ها، شوک‌های قیمتی و تضعیف مشروعیت داخلی را بالا می‌برد و می‌تواند فضای بیش‌تری برای تلاش‌های مردمی به‌منظور تغییر فراهم آورد."
+        ],
+        "impact": "مانورها پیام قدرت‌نمایی برای میز مذاکره می‌فرستند اما هم‌زمان اقتصاد و مشروعیت رژیم را در معرض ضربه و خطای راهبردی قرار می‌دهند که می‌تواند راه را برای فشار داخلی و مطالبات مردم بازتر کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Week",
+        "url": "https://www.theweek.in/news/middle-east/2026/02/17/brinkmanship-at-sea-how-irans-hormuz-drills-are-a-message-to-the-us.html",
+        "clean_url": "https://www.theweek.in/news/middle-east/2026/02/17/brinkmanship-at-sea-how-irans-hormuz-drills-are-a-message-to-the-us.html",
+        "image": "http://www.bing.com/th?id=OVFT.ikiKXHRo_OVeg6Dz4ZWXai&pid=News",
+        "timestamp": 1771280160.0
+    },
+    {
         "title_fa": "هاکابی: آمریکا و اسرائیل «کاملاً هم‌راستا» در قبال ایران‌اند؛ هشدار داد دیپلماسی ممکن است جنگ را دفع نکند",
         "title_en": "Huckabee says US and Israel 'absolutely aligned' on Iran, warns diplomacy may not avert war",
         "summary": [
@@ -5127,22 +5145,5 @@
         "source": "Mehr News Agency",
         "url": "https://en.mehrnews.com/news/241643/All-foreign-conspiracies-against-Iran-failed-Hezbollah",
         "timestamp": 1770800640.0
-    },
-    {
-        "title_fa": "چرا نتانیاهو می‌خواهد در شکل‌دادن به یک توافق ترامپ با ایران سهم داشته باشد",
-        "title_en": "Why Netanyahu Wants His Say in Shaping a Trump Deal for Iran",
-        "summary": [
-            "نتانیاهو به دنبال تأثیرگذاری بر محتوای هر توافق احتمالی آمریکا با ایران است تا تضمین‌های سخت‌تری درباره توان هسته‌ای و موشکی تهران و مکانیزم‌های بازرسی دریافت کند.",
-            "این موضع هم ریشه‌های امنیتی دارد (حفاظت از منافع راهبردی اسرائیل در منطقه) و هم سیاسی (تقویت موقعیت داخلی و نقش بین‌المللی او در برابر رأی‌دهندگان و حامیان).",
-            "مداخلات او می‌تواند برای فشار بر دولت ترامپ جهت حذف یا اصلاح بخشی از امتیازات به ایران و همچنین افزایش رقابت و چانه‌زنی میان واشنگتن و تل‌آویو منجر شود."
-        ],
-        "impact": "مداخله نتانیاهو می‌تواند مذاکرات آمریکا با ایران را پیچیده‌تر کند، شروط سخت‌گیرانه‌تری را تحمیل نماید و به تشدید تنش یا چانه‌زنی شدیدتر میان واشنگتن و تل‌آویو بینجامد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYlFqempkcVpGTUFITGVjbFJoZ3dhR0FvclRicFNnQ0lKY3ZTai05UE1lcnZMeGdYbkJldGNxMkZHbmdpSHo0eVBNZDZqM19TX0hwSWJSa1l2Q21SYm1JYzBCZWdIOFQ1eGEzYTI5WjgwY1FvenRfT0pZa3RKUzZDZHVuS3Q1NHV6UWJ1MllNNE02UTN3YTQ0LUV3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 09:00:00 GMT",
-        "timestamp": 1770800400.0
     }
 ]
