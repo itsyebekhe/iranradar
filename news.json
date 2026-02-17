@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران می‌گوید در مذاکرات هسته‌ای پیشرفت شده؛ رهبر انقلاب به ترامپ درباره تقویت نظامی هشدار داد",
+        "title_en": "Iran says progress made in nuclear talks as supreme leader warns Trump over military buildup",
+        "summary": [
+            "تهران اعلام کرده در مذاکرات هسته‌ای پیشرفت‌هایی حاصل شده و طرف‌های مرتبط درباره برخی مسائل به حرکت رو به جلو اشاره کرده‌اند.",
+            "رهبر عالی نظام به‌طور مستقیم به ترامپ درباره «تقویت نظامی» هشدار داده و لحن مقتدرانه‌ای برای بازداشتن هرگونه اقدام تحریک‌آمیز اتخاذ کرده است.",
+            "ترکیب ادعاهای دیپلماتیک و لفاظی‌های تهدیدآمیز نشان می‌دهد رژیم همزمان در تلاش است وجهه بین‌المللی خود را بهبود دهد و با بازی ملی‌گرایانه حمایت داخلی را حفظ کند — اما همین تنش‌ها می‌تواند پایه‌های قدرت رژیم را آسیب‌پذیر کند."
+        ],
+        "impact": "تنش با آمریکا و تحولات پیرامون مذاکرات، رژیم را در موضعی ناپایدار قرار می‌دهد و می‌تواند فضای بیشتری برای فشار بین‌المللی و پیشروی مطالبات آزادی‌خواهانه مردم فراهم آورد.",
+        "tag": "تنش",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmhmTDI5TjE3QUV0c3VwY29JdzI1OTdiVnIzV0o0Yy03RGVhSWtUSllsaEdxU0RUWkUzbW54eFgwNWl4R0pCY21FcDAzWHM0SEFRa05Eb0JaRXZpUDA4U2gxd2IycG9qTDhTaUlIUmxMc3dfUUJPalNSNlktQU5tTmFJWm9oQk1WRGwxd1ZlSk5ETzE5bTNoR2hzZGxzclhzbVN6bUpnbXNKeC15?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmhmTDI5TjE3QUV0c3VwY29JdzI1OTdiVnIzV0o0Yy03RGVhSWtUSllsaEdxU0RUWkUzbW54eFgwNWl4R0pCY21FcDAzWHM0SEFRa05Eb0JaRXZpUDA4U2gxd2IycG9qTDhTaUlIUmxMc3dfUUJPalNSNlktQU5tTmFJWm9oQk1WRGwxd1ZlSk5ETzE5bTNoR2hzZGxzclhzbVN6bUpnbXNKeC15",
+        "image": null,
+        "timestamp": 1771336200.0
+    },
+    {
         "title_fa": "ایران تنگه هرمز را موقتا بست همزمان با برگزاری دور تازه مذاکرات غیرمستقیم با آمریکا",
         "title_en": "Iran temporarily closed the Strait of Hormuz as it held latest round of indirect talks with US",
         "summary": [
@@ -88,6 +106,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2tXRTFDNEU4YnRsblFuZ01UaFNCWVpUT1JUWEZJa2JHZUFFMGQ1NWxqZXJUV29yMFNWZFYxbGUzX20zckpKVEdzbGdvWXdkaG5Ic2hkem9sOTFFeW9wb0JBdGJyX043TGRiTlBOWTRhY3FfMkpUMFl0Zy1VMDNLLTdhQ28ydw",
         "image": null,
         "timestamp": 1771315800.0
+    },
+    {
+        "title_fa": "ضربات نیمه‌شب: بازسازی هسته‌ای ایران به‌عنوان راه بقا برای رژیم",
+        "title_en": "Post Midnight Hammer Strikes: Iran’s Nuclear Reconstitution as Regime Survival",
+        "summary": [
+            "نویسندگان مقاله استدلال می‌کنند که بازسازی برنامه هسته‌ای ایران پاسخی بقاطلبانه به «حملات/ضربات نیمه‌شب» و فشارهای خارجی است که هدف آن حفظ اقتدار رژیم است.",
+            "افزایش ظرفیت هسته‌ای احتمال تشدید تقابل با آمریکا/غرب و موج جدیدی از تحریم‌ها و اقدامات امنیتی را افزایش می‌دهد؛ این فشارهای بین‌المللی و هزینه‌های سیاسی داخلی مشروعیت رژیم را تضعیف می‌کند و فضای سیاسی را برای مقاومت و مطالبات آزادی‌خواهانه مردم بازتر می‌سازد.",
+            "در عین حال شتاب گرفتن برنامه هسته‌ای ریسک تصاعد نظامی منطقه‌ای و بهانه‌گیری برای حملات پیشدستانه را بیشتر می‌کند و ممکن است رژیم را به سرکوب داخلی شدیدتر و اقدامات امنیتی وادارد — اما همین فشارها می‌توانند به افزایش بسیج و نارضایتی عمومی بینجامند."
+        ],
+        "impact": "بازسازی هسته‌ای به‌عنوان واکنشی بقاطلبانه، به‌طور همزمان رژیم را در سطح بین‌المللی منزوی‌تر و در داخل تضعیف می‌کند و فرصت‌های سیاسی برای مخالفان و مطالبات مردمی را افزایش می‌دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The National Interest",
+        "url": "https://nationalinterest.org/blog/energy-world/post-midnight-hammer-strikes-irans-nuclear-reconstitution-as-regime-survival",
+        "clean_url": "https://nationalinterest.org/blog/energy-world/post-midnight-hammer-strikes-irans-nuclear-reconstitution-as-regime-survival",
+        "image": null,
+        "timestamp": 1771310940.0
     },
     {
         "title_fa": "دور دوم مذاکرات هسته‌ای ایران و آمریکا در ژنو آغاز می‌شود (پوشش زنده)",
@@ -5140,39 +5176,5 @@
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcy1JQ1JRSmtlSWpfUjBfWkIwXzlGX1NkWVQ4SEo3OTlJS1pIOHdUeEtyQVp3Ynh5b3E0QnFTUnZrS0JCRnZZeXlvRXZQTU0xOVhmWkQ2OXY2R1hNaXFSWTQtUzRpZk51clYtSXJHRWJYMTQyNUlrRnhKekZOMjNjQWliaGxCQlZSVmlRSEFtRTNmVkFvQmxSVG5TRmNZTEo3RUM2R1JIVmpiVG5uTjJLLW1VZXotU1NQaEFsRmN5VkpUc0pKN3JVc3hiSzBjVnRXeVJoY0diTm9RNzItemxmNFBrRklZdkVhb1dHbGowNUt1eU9QWDBOaUQxU1h6OVJLb1FMMDBqWkVBYjZMRE9vSElaRU9DZ2Z5?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 14:42:27 GMT",
         "timestamp": 1770820947.0
-    },
-    {
-        "title_fa": "بروزرسانی زنده: دیدار ترامپ با نتانیاهو درباره روابط با ایران هم‌زمان با جنجال پرونده‌های اپستاین",
-        "title_en": "Live updates: Trump to meet with Netanyahu to discuss Iran relations as uproar grows over Epstein files | CNN Politics",
-        "summary": [
-            "ترامپ برنامه‌ریزی کرده تا با نتانیاهو دیدار و درباره جهت‌گیری سیاست آمریکا نسبت به ایران گفت‌وگو کند.",
-            "هم‌زمان انتشار و واکنش‌ها به پرونده‌های اپستاین خشم عمومی و فشار سیاسی بر ترامپ را تشدید کرده است.",
-            "دیدار می‌تواند هماهنگی آمریکا و اسرائیل در برابر ایران را تحت‌تأثیر قرار دهد و تبعات داخلی سیاسی در ایالات متحده داشته باشد."
-        ],
-        "impact": "این دیدار می‌تواند جهت‌گیری سیاست آمریکا نسبت به ایران را تغییر دهد و هم‌زمان جنجال پرونده‌های اپستاین فشار سیاسی بر ترامپ را افزایش دهد.",
-        "tag": "سیاست",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzWlVvZnNfRHhyOEZ5R1pLUFY3OEFILTdBeVNXaEFIN3ZmY0psYThGcHYtREthZnFNREg5eVctbVVqZmFhcGpma1lPVW1PcEpFaEJtS1VrUjBWUGFtNGxjMjZMZFU4Y3FMU0R0ZzdvcGp2LXl1M1duSkVQdm1BZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 13:47:00 GMT",
-        "timestamp": 1770817620.0
-    },
-    {
-        "title_fa": "ایران مذاکرات گسترده با آمریکا را رد کرد؛ ترامپ احتمال اعزام دومین ناو هواپیمابر را مطرح کرد",
-        "title_en": "Iran rules out broader U.S. talks as Trump hints at sending 2nd carrier",
-        "summary": [
-            "ایران اعلام کرده که حاضر به مذاکرات گسترده با ایالات متحده نیست.",
-            "رئیس‌جمهور آمریکا، دونالد ترامپ، اشاره کرده که ممکن است دومین ناو هواپیمابر به منطقه اعزام شود.",
-            "ترکیب این مواضع نشانه افزایش تنش و تشدید حضور نظامی و سیاسی در منطقه است."
-        ],
-        "impact": "این تحرکات می‌تواند باعث تشدید حضور نظامی آمریکا در خاورمیانه و افزایش خطر برخورد مستقیم یا اشتباه محاسباتی شود.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFp1NTN2XzB0UkFHZEg5Y0NoQ3k2YVdTek5TUVp5bVdxUXh4amVnNldSQXptVThkZk92MFpNR0FOY09tSHNDN1lybDhIQkdVTUJkOF9acUNzSXNTeWR5ZXRaNzNDVW5JSDNIaHpYNnl2am9TamtUd05tZE9mQ2MyMmgyNWNlNXg1cXhMc1B1TE5mQXp4RjM5YWZGVmFqMi0xMk1FbUUxbnBFZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 13:27:09 GMT",
-        "timestamp": 1770816429.0
     }
 ]
