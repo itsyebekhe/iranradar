@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "خامنه‌ای لحن تند علیه آمریکا را حفظ می‌کند؛ همزمان دیپلمات ارشد تهران از پیشرفت در مذاکرات هسته‌ای خبر می‌دهد",
+        "title_en": "Iran's Khamenei maintains tough rhetoric with US despite nuclear talks",
+        "summary": [
+            "دیپلمات ارشد تهران می‌گوید برخی «اصول راهنما» در مذاکرات هسته‌ای مورد توافق قرار گرفته و نشانه‌هایی از پیشرفت وجود دارد.",
+            "با این حال رهبر معظم رویه‌ای تند و هشدارآمیز نسبت به آمریکا اتخاذ کرده که پیام‌های تیم مذاکره‌کننده را نقض و تضعیف می‌کند.",
+            "این شکاف در گفتار حکومتی اعتبار رژیم را کاهش می‌دهد و می‌تواند فرصت‌هایی برای تقویت فشارهای داخلی و امیدبخشی به معترضان فراهم کند."
+        ],
+        "impact": "تضاد علنی بین لحن رهبر و پیام تیم مذاکره‌کننده، اهرم حکومت را تضعیف کرده و در کوتاه‌مدت به نفع مخالفان و جنبش‌های اعتراضی تمام می‌شود.",
+        "tag": "شکاف",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks/ar-AA1WxelU",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks/ar-AA1WxelU",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WxbMv.img?w=2496&h=1664&m=4&q=93",
+        "timestamp": 1771346950.0
+    },
+    {
         "title_fa": "وزیر امور خارجه ایران: در مذاکرات هسته‌ای با آمریکا در ژنو پیشرفت حاصل شد",
         "title_en": "Iran foreign minister says progress made in nuclear talks with US in Geneva",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-foreign-minister-says-progress-made-in-nuclear-talks-with-us-in-geneva/ar-AA1WwPGU",
         "image": "https://www.reuters.com/resizer/v2/H4D6WHK2PVLETO47YBJ5IRZ3XI.jpg?auth=3a911bd604395a1dcb88fa3f7751cfbba5ba3d999594b3901ce2e9c2883c6de3&height=1005&width=1920&quality=80&smart=true",
         "timestamp": 1771344942.0
+    },
+    {
+        "title_fa": "افزایش حملات ارتش اسرائیل به حزب‌الله در آستانه احتمال جنگ با ایران",
+        "title_en": "IDF ramps up strikes on Hezbollah as war with Iran looms",
+        "summary": [
+            "ارتش اسرائیل حملاتش به مواضع حزب‌الله را تشدید کرده و تنش‌ها در مرزهای شمالی افزایش یافته است.",
+            "این تشدید نظامی خطر گسترش درگیری به سوی برخورد مستقیم با ایران را بالا برده و فضای امنیتی و سیاسی منطقه را متشنج می‌کند.",
+            "برای مردم ایران و نیروهای اپوزیسیون، این بحران می‌تواند ضعف‌های حکومتی—از فشارهای اقتصادی تا فرسایش توان نظامی و مشروعیت سیاسی—را عیان کند و دریچه‌ای برای پیشبرد خواست آزادی و تغییرات دموکراتیک باز کند."
+        ],
+        "impact": "تشدید حملات می‌تواند اقتدار رژیم را تضعیف کند و فرصت سیاسی و اجتماعی برای تقویت جنبش‌های داخلی حمایت‌کننده از تغییر فراهم آورد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": 0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Tnh1VC02anViaHBDT2lSOVRvcmNFSVFRaC1KWW9lSnFiamZSWFd0eExJb1UwUnBCQ0g4Q2dsSGVaMlZ6bVBZS3h0Vm9CM0hWVnBiV1hpTkFBc25oanI3LUhGM0JSR2tWU09HN3dn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Tnh1VC02anViaHBDT2lSOVRvcmNFSVFRaC1KWW9lSnFiamZSWFd0eExJb1UwUnBCQ0g4Q2dsSGVaMlZ6bVBZS3h0Vm9CM0hWVnBiV1hpTkFBc25oanI3LUhGM0JSR2tWU09HN3dn",
+        "image": null,
+        "timestamp": 1771344367.0
     },
     {
         "title_fa": "وزیر خارجه: آمریکا و ایران در مذاکرات ژنو «پیشرفت خوبی» داشته‌اند",
@@ -5150,37 +5186,5 @@
         "url": "https://www.timesofisrael.com/liveblog-february-14-2026/",
         "image": "",
         "timestamp": 1770827669.0
-    },
-    {
-        "title_fa": "نتانیاهو وارد واشنگتن شد تا ترامپ را تحت فشار قرار دهد؛ همزمان با ازسرگیری گفت‌وگوهای ایران و آمریکا",
-        "title_en": "Netanyahu arrives in Washington to press Trump as Iran–US talks resume",
-        "summary": [
-            "بنیامین نتانیاهو برای دیدار با دونالد ترامپ وارد واشنگتن شده تا دولت آمریکا را علیه هرگونه توافق احتمالی با ایران تحت فشار قرار دهد.",
-            "این دیدار هم‌زمان با آغاز مجدد مذاکرات میان ایران و آمریکا (و احتمالا دیگر قدرت‌های جهانی) برای احیای برجام برگزار می‌شود.",
-            "سفر نتانیاهو می‌تواند بر تصمیم‌گیری‌های کاخ سفید تأثیر گذاشته و احتمال تشدید تنش‌ها در منطقه را افزایش دهد."
-        ],
-        "impact": "این ملاقات می‌تواند موضع آمریکا را سخت‌تر کند و شانس احیای توافق هسته‌ای با ایران را کاهش دهد.",
-        "tag": "سیاست",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Tehran Times",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWY4VGIyR0NYRFZFc2VnY2c4amV6UHZ3MFZiZHVDRFZsc2M1M0RaSkVGSXJRWEczeE9CMy00azhPeEJUYm85bm0teExLNWN6U0RQUVVJcjRJbHRUeTUyTEFXWWF5S21YTlpybEpDUTBqS2lxOVNyLU9fY2ZzdmVMdER0MlFQeU56THVUN193QTNxX1RvczdtQV9UYzdsUk5uZXZWdDln?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 16:24:28 GMT",
-        "timestamp": 1770827068.0
-    },
-    {
-        "title_fa": "پاشینیان پیروزی انقلاب را به ایران تبریک گفت — تبریک نمادین، نه تضمین همکاری راهبردی",
-        "title_en": "Pashinyan congratulates Iran on anniversary of revolution",
-        "summary": [
-            "این گزارش دولتی یک پیام تشریفاتی را به‌عنوان نشانه «روابط راهبردی» برجسته می‌کند؛ تبریک رسمی پاشینیان نمادی از ادب دیپلماتیک و ملاحظه‌کاری ژئواکونومیک است، نه دلیل مستند بر تحکیم فوری یا توافق‌های راهبردی عمیق.",
-            "نشر همزمان شمار زیادی پیام تبریک خارجی در رسانه‌های حکومتی ایران بخشی از عملیات تصویرسازی است: مقامات تلاش می‌کنند با نشان دادن «پشتیبانی بین‌المللی» مشروعیت داخلی و خارجی رژیم را تقویت کنند و بحران‌های اقتصادی و حقوق‌بشری را مخفی کنند.",
-            "منافع ارمنستان اغلب عمل‌گرایانه و امنیتی‌اند (حفظ مسیرهای ترانزیت، انرژی و تعادل در برابر فشارهای آذربایجان و روسیه) — پاشینیان بیشتر دنبال محافظت از منافع ملی و اجتناب از تنش مرزی است تا اعلام هم‌پیمانی ایدئولوژیک با تهران."
-        ],
-        "impact": "پیام تبریک اثر فوری و عملی بر سیاست‌های منطقه‌ای ندارد اما از نظر تبلیغاتی و برای تضمین مسیرهای اقتصادی و امنیتی بین تهران و ایروان ارزشمند است.",
-        "tag": "propaganda",
-        "urgency": 4,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241699/Pashinyan-congratulates-Iran-on-anniversary-of-revolution",
-        "timestamp": 1770826920.0
     }
 ]
