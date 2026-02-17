@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "آمریکا و ایران برای مذاکرات هسته‌ای حساس در ژنو آماده می‌شوند؛ تهدید جنگ مطرح است",
+        "title_en": "US and Iran set for high-stakes nuclear talks in Geneva as threat of war looms",
+        "summary": [
+            "آمریکا و ایران در آستانه مذاکرات هسته‌ای پرمخاطره در ژنو قرار دارند که هدف آن کاهش تنش‌ها و جلوگیری از تشدید نظامی است.",
+            "ابراز وجود تهدید جنگ نشان می‌دهد که احتمال درگیری مستقیم واقعی است و پیامدهای منطقه‌ای و بین‌المللی سنگینی دارد.",
+            "این دیپلماسی هم می‌تواند خطر درگیری را کاهش دهد و هم با افزایش فشار بین‌المللی، اقتدار رژیم را تضعیف کند و فضای امید و مقاومت مردم را تقویت نماید."
+        ],
+        "impact": "مذاکرات ژنو می‌توانند هم از فروپاشی مستقیم امنیتی جلوگیری کنند و هم با تحت فشار گذاشتن رژیم، راه را برای تقویت مطالبات مردمی و تضعیف پایه‌های اقتدار حکومت باز کنند.",
+        "tag": "مذاکرات",
+        "urgency": 9,
+        "sentiment": 0.6,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWE1UlNhcko3WGRlb254RHV1OEZydExSVDlFclhQZHd5SUMySHgxV25GZXNNQVQwQmNUMDhQQ0lOZGYtcmtyOEhYWmYxdTd4eTA0VWI2NDBHNmxyOWxUaWJManBPQ3k3Skstd1hPd1NVRFFnVEFaQ01fcHN6dDZmUFZjV01pdS1PQThKemN0dFBucnlfWlZhaThOYVdGUkhCdTdTQmo5dEpGWkNjazE4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWE1UlNhcko3WGRlb254RHV1OEZydExSVDlFclhQZHd5SUMySHgxV25GZXNNQVQwQmNUMDhQQ0lOZGYtcmtyOEhYWmYxdTd4eTA0VWI2NDBHNmxyOWxUaWJManBPQ3k3Skstd1hPd1NVRFFnVEFaQ01fcHN6dDZmUFZjV01pdS1PQThKemN0dFBucnlfWlZhaThOYVdGUkhCdTdTQmo5dEpGWkNjazE4",
+        "image": null,
+        "timestamp": 1771304580.0
+    },
+    {
+        "title_fa": "آماده‌باش آمریکا و ایران برای آغاز مذاکرات هسته‌ای در میان افزایش تنش‌ها؛ ترامپ تهدید به حمله کرد",
+        "title_en": "U.S. and Iran Gear Up for Nuclear Talks Amid Rising Tensions",
+        "summary": [
+            "مذاکرات هسته‌ای بین آمریکا و ایران در حال تدارک است اما فضا به‌خاطر افزایش تنش‌ها و هشدارهای نظامی متشنج شده است.",
+            "پرزیدنت ترامپ از ایران خواسته فوراً به توافق برسد و هشدار داده در صورت عدم حصول توافق احتمال اقدام نظامی از سوی آمریکا وجود دارد.",
+            "این فشار خارجی می‌تواند ناتوانی رژیم ولایت‌فقیه در تضمین امنیت و ثبات را برجسته کند و به‌عنوان فرصتی برای تقویت جنبش‌های آزادی‌خواهی مردم و تضعیف پایه‌های اقتدار داخلی عمل کند."
+        ],
+        "impact": "تهدید صریح آمریکا فشار بین‌المللی را بر رژیم افزایش می‌دهد و احتمالاً توان سرکوب و مشروعیت داخلی حکومت را تضعیف کرده و فضای سیاسی را برای مطالبات مردم بازتر می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": 0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/17/us/politics/us-and-iran-gear-up-for-nuclear-talks-amid-rising-tensions.html",
+        "clean_url": "https://www.nytimes.com/2026/02/17/us/politics/us-and-iran-gear-up-for-nuclear-talks-amid-rising-tensions.html",
+        "image": null,
+        "timestamp": 1771304460.0
+    },
+    {
         "title_fa": "«غیرقابل مذاکره»: ایران از کاهش برنامه هسته‌ای امتناع کرد",
         "title_en": "“Non-Negotiable”: Iran Declines To Cut Back Nuclear Program",
         "summary": [
@@ -124,6 +160,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3V0QnAzSWNEZTBtbFBVYW0xNWNqcnVkOFFLVVVJVDN2M1BFa2RyT1lPcVlCQjRtNnMtd0xCYm1pYTJFLUd5OVBSV1l3aWV3RjVpMEZ5YUlRNnhYcUlGTF9yWThuVXZhYmRzYThuQ1lhUV8yX0F6TGJEVG8zYWVjS0tkc1JQdHdXSnVpLXdrckZtYVNLZmVqSlFKR05GTjhxN1k1V1FFWkg5cEU1aHc5M0F4M3QyNTRqSlJyaU1BREtmbzYzMERGUktoVkg5UXVSeHVaQmhkTHJwN3AwbXRrbmxWWGp6YVBkRGQyd3BIYVh4dWExamxSZ25hMXNpSlplbjZB",
         "image": null,
         "timestamp": 1771278959.0
+    },
+    {
+        "title_fa": "در ایران، مراسم چهلم جان‌باختگان اعتراضات توانایی سرکوب دولت را می‌سنجد",
+        "title_en": "In Iran, Slain Protesters’ Memorials Will Test State Crackdown",
+        "summary": [
+            "این هفته مراسم یادبود چهلم برای معترضان کشته‌شده برگزار می‌شود و این تجمعات یادمانی عملاً توانایی مقام‌ها برای مهار و محدودسازی اعتراضات را به چالش می‌کشد.",
+            "با وجود احتمال اعمال محدودیت‌های امنیتی و تلاش برای جلوگیری از تجمعات، برگزاری این مراسم نشانه‌ای از پایداری، همبستگی و ادامه خواست‌های مردمی است.",
+            "نتیجهٔ این مراسم می‌تواند معیاری فوری برای سنجش زنده‌بودن جنبش اعتراضی و میزان ضعف دستگاه سرکوب در کنترل عرصهٔ عمومی باشد."
+        ],
+        "impact": "اگر این چهلم‌ها به شکل گسترده‌ای برگزار شوند، به تضعیف توان سرکوب نظام و تقویت روحیه مقاومت و وحدت مردم در مسیر خواست‌های آزادی‌بخش منجر خواهد شد.",
+        "tag": "اعتراضات",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
+        "clean_url": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
+        "image": null,
+        "timestamp": 1771275660.0
     },
     {
         "title_fa": "نیروی دریایی سپاه در تنگه هرمز مانور دریایی برگزار کرد، یک روز مانده به مذاکرات هسته‌ای با آمریکا",
@@ -5090,52 +5144,5 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYlFqempkcVpGTUFITGVjbFJoZ3dhR0FvclRicFNnQ0lKY3ZTai05UE1lcnZMeGdYbkJldGNxMkZHbmdpSHo0eVBNZDZqM19TX0hwSWJSa1l2Q21SYm1JYzBCZWdIOFQ1eGEzYTI5WjgwY1FvenRfT0pZa3RKUzZDZHVuS3Q1NHV6UWJ1MllNNE02UTN3YTQ0LUV3?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 09:00:00 GMT",
         "timestamp": 1770800400.0
-    },
-    {
-        "title_fa": "سفر لاریجانی به قطر برای گفتگوها",
-        "title_en": "Iran's Larijani in Qatar for talks",
-        "summary": [
-            "خبر رسمی مهر بدون ارایه جزئیات عملیاتی یا توافقات ملموس، این دیدار را «گرم و برای تقویت روابط» معرفی می‌کند — ادعایی تبلیغی که جای بررسی دارد.",
-            "نیّت‌های پنهان احتمالی شامل استفاده از دوحه به‌عنوان کانال میانجی‌گری (از جمله ارتباطات با حماس)، تضمین خطوط حمایتی و لجستیکی برای متحدان منطقه‌ای، و کسب امتیازهای اقتصادی یا سیاسی به‌صورت گام‌به‌گام است.",
-            "هدف داخلی این پوشش رسانه‌ای تقویت تصویر دولت در آستانه مناسبت‌های ملی و ارسال سیگنال بازدارنده به اسرائیل و آمریکا است؛ پیام رسمی «تعامل دیپلماتیک» ممکن است پوششی برای اقدامات تهاجمی یا سیاسی دیگر باشد."
-        ],
-        "impact": "سفر لاریجانی به دوحه — اگر واقعاً شامل هماهنگی با حماس یا استفاده از کانال‌های قطری برای مذاکرات پشت‌پرده باشد — می‌تواند توان پرنفوذ ایران در منطقه را افزایش داده و تنش‌ها را تشدید کند، در حالی که رسانه‌های حکومتی آن را به‌صورت نمادین و بدون شفافیت گزارش می‌کنند.",
-        "tag": "چانه‌زنی",
-        "urgency": 7,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241637/Iran-s-Larijani-in-Qatar-for-talks",
-        "timestamp": 1770800040.0
-    },
-    {
-        "title_fa": "پزشکیان بر تاب‌آوری ایران در برابر فشارهای خارجی تأکید کرد",
-        "title_en": "Pezeshkian highlights Iran's endurance amid foreign pressure",
-        "summary": [
-            "گزارش بازتولید روایت رسمی است: تأکید بر «فشار خارجی» و ستایش فرماندهان (سلیمانی، باقری، سلامی) برای مشروعیت‌بخشی به ساختار امنیتی و منحرف‌کردن افکار عمومی از ناکارآمدی‌های اقتصادی و اجتماعی.",
-            "اشاره به حمایت کشورهای منطقه و شکستِ «نقشه‌های آمریکا و اسرائیل» تا حد زیادی سیاسی‌سازی دیپلماسی است؛ هدفِ آشکار کسب مشروعیت بین‌المللی و کاهش انزوا بدون تعهد به اصلاحات ملموس داخلی است.",
-            "فراخوان به «وحدت ملی» و هشدار درباره توطئه‌ها ابزار سرکوب سیاسی است؛ با برچسب‌زدن مخالفان به «عامل خارجی» فضای مدنی تضعیف شده و سرکوب تضمین می‌شود."
-        ],
-        "impact": "این روایت به نفع منافع ملی نیست: با اولویت دادن به بقا و مشروعیت رژیم به‌جای اصلاحات و پاسخگویی، احتمال تشدید نارضایتی عمومی و تضعیف سرمایه اجتماعی افزایش می‌یابد.",
-        "tag": "تبلیغات",
-        "urgency": 7,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241635/Pezeshkian-highlights-Iran-s-endurance-amid-foreign-pressure",
-        "timestamp": 1770798900.0
-    },
-    {
-        "title_fa": "توافق هسته‌ای آمریکا و ایران ممکن است اسرائیل را در معرض تهدید نیابتی‌ها قرار دهد",
-        "title_en": "US–Iran nuclear deal could leave Israel exposed to proxies",
-        "summary": [
-            "احتمال رفع یا کاهش فشارها علیه ایران می‌تواند منابع سیاسی و مالی تهران را افزایش دهد و به حمایت از گروه‌های نیابتی منطقه‌ای کمک کند.",
-            "اسرائیل نگران تقویت نفوذ گروه‌هایی مانند حزب‌الله، شبه‌نظامیان عراقی و حوثی‌ها است که می‌توانند تهدیدات امنیتی و حملات نیابتی را تشدید کنند.",
-            "دیپلماسی جدید آمریکا با ایران ممکن است عدم‌قطعیت امنیتی در خاورمیانه را افزایش دهد و نیاز به تضمین‌ها یا بازنگری راهبردی از سوی متحدان منطقه‌ای را به وجود آورد."
-        ],
-        "impact": "این توافق می‌تواند فشار راهبردی و ریسک‌های امنیتی برای اسرائیل را افزایش داده و منجر به تشدید تنش‌ها و اقدامات تلافی‌جویانه در منطقه شود.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.45,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5eTh4S0dNUE5ySlh4d2J1bV9IVDFYVnE0WmtUcHBPeGY0Rl9TcW9rc1B2d29BOERSZkNUQXlYcDVXQkMxWXN2bGh2SFozSzljejlQT3JBOUN5YUNpOUs0UGVod19EU0c1b1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 08:08:28 GMT",
-        "timestamp": 1770797308.0
     }
 ]
