@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "ایران تنگه هرمز را موقتا بست همزمان با برگزاری دور تازه مذاکرات غیرمستقیم با آمریکا",
+        "title_en": "Iran temporarily closed the Strait of Hormuz as it held latest round of indirect talks with US",
+        "summary": [
+            "ایران به‌طور موقت تنگه حیاتی هرمز را بست — اقدامی که گذرگاه کلیدی نفت و کشتیرانی جهانی را تحت تأثیر قرار می‌دهد.",
+            "بسته شدن تنگه هم‌زمان با دور جدید مذاکرات غیرمستقیم با آمریکا رخ داد و به‌عنوان ابزاری برای اعمال فشار و کسب امتیاز در مذاکرات تفسیر می‌شود.",
+            "این اقدام ریسک تشدید تنش با آمریکا و اختلال در بازار انرژی را افزایش می‌دهد و بازتاب استیصال و ترفندهای رژیم برای حفظ قدرت داخلی است."
+        ],
+        "impact": "بسته شدن تنگه هرمز فشار بین‌المللی و خطرات نظامی را بالا می‌برد اما در عین حال ضعف و تزلزل رژیم را برجسته می‌کند و می‌تواند موجب افزایش فشارهای داخلی و بین‌المللی برای تغییر شود.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjZ0NVhNYkR4SmZKR0RBdzFlQjNzTV9kOVBwcmJaRWNTSzBfNnVBbVRMak1Hc3pVY0M0S3RmUHgxa1VocE50UGRweTFhdVJwU3JiV2ZfS2N4SmFjMUJpMDU3cXVUQkdyT3Q1bm9WV1NiY1FWZFQ0eEkyWVh1clZ6OUE2WXRmMzNXNzlzOE5ERQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjZ0NVhNYkR4SmZKR0RBdzFlQjNzTV9kOVBwcmJaRWNTSzBfNnVBbVRMak1Hc3pVY0M0S3RmUHgxa1VocE50UGRweTFhdVJwU3JiV2ZfS2N4SmFjMUJpMDU3cXVUQkdyT3Q1bm9WV1NiY1FWZFQ0eEkyWVh1clZ6OUE2WXRmMzNXNzlzOE5ERQ",
+        "image": null,
+        "timestamp": 1771334700.0
+    },
+    {
+        "title_fa": "دور دوم مذاکرات هسته‌ای ایران و آمریکا در ژنو آغاز شد",
+        "title_en": "Second round of Iran-US nuclear talks open in Geneva",
+        "summary": [
+            "دور دوم مذاکرات بین ایران و ایالات متحده در شهر ژنو آغاز شد.",
+            "موضوع اعلام‌شدهٔ این جلسه مرتبط با پرونده هسته‌ای است.",
+            "این دومین دور از گفت‌وگوهاست و نشان‌دهندهٔ ادامهٔ روند دیپلماتیک میان تهران و واشنگتن می‌باشد."
+        ],
+        "impact": "این مذاکرات می‌توانند یا راهی برای کاهش تنش دیپلماتیک باز کنند یا صرفاً به رژیم زمان و مشروعیت بدهند؛ در حال حاضر نتایج ملموسی روشن نیست.",
+        "tag": "مذاکرات",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeVVPd2FjLTRNZVI3R3RVTnRtc2pYcWQyMkxuRTVJV1JMeGVIZGRkQXJMeHA0Tkh5YlhlWWJnVko2WWJPYlM2WWZ3UDVFbXpOQlpJVkE4dllQdklnUWE3RjJDMV9YZGFQU0QwTFMwWmtGMkd2eW5xMkxxLWVPaUMyeGRILVZ2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeVVPd2FjLTRNZVI3R3RVTnRtc2pYcWQyMkxuRTVJV1JMeGVIZGRkQXJMeHA0Tkh5YlhlWWJnVko2WWJPYlM2WWZ3UDVFbXpOQlpJVkE4dllQdklnUWE3RjJDMV9YZGFQU0QwTFMwWmtGMkd2eW5xMkxxLWVPaUMyeGRILVZ2dw",
+        "image": null,
+        "timestamp": 1771333500.0
+    },
+    {
+        "title_fa": "آمریکا و ایران مذاکرات هسته‌ای را از سر می‌گیرند در حالی که تقویت نظامی سنگینی جریان دارد",
+        "title_en": "U.S. and Iran resume nuclear talks amid heavy military buildup",
+        "summary": [
+            "نمایندگان آمریکایی استیو ویتکوف و جارد کوشنر هدایت تیم مذاکره‌کننده را برعهده دارند و در جریان از سرگیری مذاکرات هسته‌ای حضور دارند.",
+            "این فرستادگان هم‌زمان مسئول پیگیری موضوعات مرتبط با روسیه-اوکراین نیز هستند و ممکن است بین محل‌های مذاکرات جابه‌جا شوند که لایه‌های ژئوپلیتیکی اضافه می‌کند.",
+            "بازگشت به میز مذاکرات در شرایط تقویت نظامی سنگین هم فرصت‌هایی برای فشار دیپلماتیک فراهم می‌کند و هم خطر تشدید تنش را بالا می‌برد؛ ذکر روسیه نیز نقش هم‌پیمانان منطقه‌ای رژیم را برجسته می‌سازد."
+        ],
+        "impact": "از منظر عملی، از سرگیری مذاکرات همراه با فشار دیپلماتیک و حضور بازیگران ژئوپلیتیک می‌تواند اقتدار رژیم را تضعیف کند و درهای بیشتری برای فشار بین‌المللی و حمایت از خواست‌های مردم برای آزادی بگشاید.",
+        "tag": "مذاکرات",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-resume-nuclear-talks-amid-heavy-military-buildup/ar-AA1WvCYN",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-resume-nuclear-talks-amid-heavy-military-buildup/ar-AA1WvCYN",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YKNBLZKTOUC5PYZ33XMK3GLXIQ.JPG&w=1440",
+        "timestamp": 1771329412.0
+    },
+    {
         "title_fa": "ایران هم‌زمان با آغاز دور جدید مذاکرات هسته‌ای موشک‌هایی به تنگه هرمز شلیک کرد",
         "title_en": "Iran fires missiles into the Strait of Hormuz as a new round of nuclear talks begins",
         "summary": [
@@ -72,6 +126,42 @@
         "timestamp": 1771308147.0
     },
     {
+        "title_fa": "بخش‌هایی از تنگه هرمز در حین مذاکرات هسته‌ای با آمریکا بسته می‌شود",
+        "title_en": "Iran to shut parts of Strait of Hormuz as it holds nuclear talks with US",
+        "summary": [
+            "صداوسیمای ایران گزارش داد بخش‌هایی از تنگه هرمز برای چند ساعت به‌عنوان «احتیاطات امنیتی» در جریان مانورهای سپاه بسته خواهد شد، همزمان با دور دوم مذاکرات هسته‌ای در ژنو.",
+            "آمریکا نیروهای رزمی به منطقه اعزام کرده و ترامپ گزینه «تغییر رژیم» را مطرح کرده؛ نمایندگان آمریکایی (از جمله استیو ویتکاف و جارد کوشنر) و ایرانی (عباس عراقچی) در ژنو درباره مسائل هسته‌ای و رفع تحریم‌ها گفتگو کردند و طرف ایرانی از فقدان اعتماد متقابل و پیچیدگی موضوعات خبر داد.",
+            "ترکیب فشار دیپلماتیک و نمایش نظامی موقعیت بین‌المللی و داخلی رژیم را تضعیف می‌کند و در عین حال اهرم فشاری فراهم می‌آورد که می‌تواند در جهت تسریع خواست‌های مردم و اپوزیسیون برای کاهش سرکوب و تغییر سیاسی به‌کار رود."
+        ],
+        "impact": "این همگرایی فشار نظامی و سیاسی، فضای مانور رژیم را محدود و اهرمی برای تسریع مطالبات مردم و اپوزیسیون در مسیر آزادی فراهم می‌آورد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": 0.5,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/us-iran-set-high-stakes-050320679.html",
+        "clean_url": "https://www.aol.com/articles/us-iran-set-high-stakes-050320679.html",
+        "image": "http://www.bing.com/th?id=OVFT.YAPlg7iShrAFgSrbJWETcS&pid=News",
+        "timestamp": 1771307460.0
+    },
+    {
+        "title_fa": "روز پرشتاب دیپلماسی؛ آمریکا در ژنو درباره ایران و اوکراین گفت‌وگو می‌کند",
+        "title_en": "Whirlwind day of diplomacy as US holds talks on Iran and Ukraine in Geneva",
+        "summary": [
+            "در ژنو نماینده ویژه آمریکا استیو ویتکوف و جارد کوشنر با مقام‌های ایرانی دیدار کردند؛ مقام‌های ایرانی اعلام کرده‌اند هیأت امشب به تهران بازمی‌گردد و دور جدید مذاکرات غیرمستقیم دنبال شد.",
+            "ایران بخش‌هایی از تنگه هرمز را موقتاً به‌دلیل رزمایش‌های نیروی دریایی سپاه بست؛ رسانه‌های رسمی گفتند مانورها برای شبیه‌سازی «تهدیدات دریایی واقعی» و رعایت پروتکل‌های ایمنی چند ساعت طول خواهد کشید، هم‌زمان با افزایش حضور نظامی آمریکا در منطقه.",
+            "همزمان در ژنو گفتگوهای مربوط به اوکراین جریان داشت و اوکراین از حمله گسترده به زیرساخت‌های انرژی‌اش توسط روسیه پیش از مذاکرات خبر داد؛ حضور روسیه در اخبار دیپلماتیک، یادآور نقش بازیگران بین‌المللی در فضای امنیتی است که رژیم تهران از روابط منطقه‌ای و جهانی‌اش بهره می‌برد. "
+        ],
+        "impact": "از منظر مخالفان داخلی، مذاکرات غیرمستقیم و نمایش نظامی همزمان فشارهای بین‌المللی را بر رژیم افزایش می‌دهد و می‌تواند فضای سیاسی را برای گشودن مسیر به سوی آزادی و تضعیف کنترل رژیم کمی بازتر کند.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/politics/live-news/trump-administration-iran-talks-02-17-26",
+        "clean_url": "https://edition.cnn.com/politics/live-news/trump-administration-iran-talks-02-17-26",
+        "image": null,
+        "timestamp": 1771306080.0
+    },
+    {
         "title_fa": "آمریکا و ایران برای مذاکرات هسته‌ای حساس در ژنو آماده می‌شوند؛ تهدید جنگ مطرح است",
         "title_en": "US and Iran set for high-stakes nuclear talks in Geneva as threat of war looms",
         "summary": [
@@ -108,6 +198,60 @@
         "timestamp": 1771304460.0
     },
     {
+        "title_fa": "خامنه‌ای: ناوهای جنگی ترامپ قابل غرق شدن‌اند؛ هشدار همزمان با مذاکرات هسته‌ای در ژنو",
+        "title_en": "Iran's supreme leader warns Trump warships can be sunk as nuclear talks held in Geneva",
+        "summary": [
+            "آیت‌الله علی خامنه‌ای در اظهارنظری تند گفت «قوی‌ترین ارتش جهان گاهی چنان سیلی می‌خورد که دیگر قادر به برخاستن نیست» و به‌طور ضمنی ناوهای جنگی آمریکا را هدف قرار داد، اظهار نظر او همزمان با برگزاری مذاکرات هسته‌ای در ژنو انجام شد.",
+            "این لحن تهدیدآمیز می‌تواند تلاش‌های دیپلماتیک برای کاهش تنش را تضعیف کند و خطر تشدید تقابل نظامی با آمریکا را بالا ببرد، امری که ریسک بروز رویارویی‌های مستقیم یا پیامدهای امنیتی بلندمدت را افزایش می‌دهد.",
+            "در داخل ایران چنین رجزخوانی‌هایی علامت تزلزل و نمایش قدرت از سوی رژیم است؛ این رفتار می‌تواند اعتبار بین‌المللی حکومت را کاهش داده و به‌عنوان فرصتی برای تقویت صدای مخالفت‌ها و امید به تغییر نزد مردم عمل کند."
+        ],
+        "impact": "تهدید علنی مقابل آمریکا، به‌جای افزایش امنیت، احتمالاً موقعیت بین‌المللی رژیم را تضعیف و فضای داخلی را برای انتقاد و مطالبات آزادی‌خواهانه بازتر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/us-iran-hold-high-stakes-nuclear-talks-geneva-threat-war-looms-rcna259304",
+        "clean_url": "https://www.nbcnews.com/world/iran/us-iran-hold-high-stakes-nuclear-talks-geneva-threat-war-looms-rcna259304",
+        "image": null,
+        "timestamp": 1771303380.0
+    },
+    {
+        "title_fa": "ایران تنگه هرمز را موقتا برای رزمایش تیراندازی زنده بست؛ دور جدید مذاکرات هسته‌ای با آمریکا آغاز شد",
+        "title_en": "Iran temporarily closing Strait of Hormuz for live fire drills as nuclear talks with US begin",
+        "summary": [
+            "ایران برای چند ساعت تنگه هرمز را به‌خاطر رزمایش تیراندازی زنده بست؛ رسانه‌های شبه‌دولتی از پرتاب موشک و اصابت به اهداف در این تنگه خبر دادند.",
+            "این اقدام هم‌زمان با آغاز دور جدید مذاکرات غیرمستقیم ایران و آمریکا در ژنو درباره برنامه هسته‌ای بود؛ گزارش‌ها می‌گویند مذاکرات تنها روی موضوع هسته‌ای متمرکز بود و به سرکوب اعتراضات داخلی اشاره نمی‌شود.",
+            "بستن مسیر دریایی و نمایش نظامی اقدامی پرخطر است که می‌تواند تشدید درگیری‌ها را به‌همراه داشته باشد و احتمالاً برای منحرف‌سازی افکار عمومی از فشارها و اعتراضات داخلی به‌کار رود."
+        ],
+        "impact": "این نمایش نظامی ریسک‌زا رژیم را در صحنه بین‌المللی منفعل‌تر و در داخل آسیب‌پذیرتر می‌کند و فرصت‌هایی برای افزایش فشار بین‌المللی و تداوم مقاومت مردمی ایجاد می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Morning Call",
+        "url": "https://www.mcall.com/2026/02/17/iran-temporarily-closing-strait-of-hormuz-for-live-fire-drills-as-nuclear-talks-with-us-begin/",
+        "clean_url": "https://www.mcall.com/2026/02/17/iran-temporarily-closing-strait-of-hormuz-for-live-fire-drills-as-nuclear-talks-with-us-begin",
+        "image": null,
+        "timestamp": 1771303140.0
+    },
+    {
+        "title_fa": "رویکرد دوگانه ایران در مقابل ترامپ: امتیازدهی و رجزخوانی",
+        "title_en": "Iran’s two-pronged approach to Trump: Concessions and saber rattling",
+        "summary": [
+            "تهران پیشنهاد توقف موقتی غنی‌سازی و بسته‌های تجاری را برای تشویق به توافق هسته‌ای مطرح می‌کند تا فشار اقتصادی و تحریم‌ها را کاهش دهد.",
+            "همزمان، نیروهای نظامی ایران نمایش قدرت در آبراه حیاتی (مثلاً تنگه) را افزایش می‌دهند تا در موضع دفاعی و بازدارنده مقابل آمریکا و متحدانش سیگنال بفرستند.",
+            "این دوگانه—فرصت دادن اقتصادی در کنار نمایش نظامی—نشان می‌دهد رژیم تلاش می‌کند هم امتیاز بدهد و هم ضعف خود را با نمایش قدرت پنهان کند، امری که می‌تواند شکاف‌های داخلی و بین‌المللی را عمیق‌تر کند."
+        ],
+        "impact": "این تاکتیک دوگانه نشانه تزلزل است و می‌تواند به تقویت موقعیت مردم و جامعه بین‌المللی برای فشار بر رژیم و پیش‌برد خواست‌های آزادی‌خواهانه کمک کند.",
+        "tag": "راهبرد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-two-pronged-approach-to-trump-concessions-and-saber-rattling/ar-AA1WvHrm",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-two-pronged-approach-to-trump-concessions-and-saber-rattling/ar-AA1WvHrm",
+        "image": null,
+        "timestamp": 1771302780.0
+    },
+    {
         "title_fa": "«غیرقابل مذاکره»: ایران از کاهش برنامه هسته‌ای امتناع کرد",
         "title_en": "“Non-Negotiable”: Iran Declines To Cut Back Nuclear Program",
         "summary": [
@@ -124,6 +268,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUZlU3l6MHRxNC1Ha082V0FaVTVhOFQ3TGR2Yk0wOXJSXzR4eGlDMTQtWlZqdmJsZFNPQXJ0bXNGSnVRV0R5T0d6M1AxNUFsdzFhc1p1YV9nYngtb09PbHZOSDdzNHA1RXFVMW0zX0IzRjdtOXpKalVsVnBDN0NvYzdZR0JSYWJGUGZ1aA",
         "image": null,
         "timestamp": 1771300762.0
+    },
+    {
+        "title_fa": "ایران بخشی از تنگه هرمز را موقتاً بست؛ هم‌زمان مذاکرات آمریکا و ایران در ژنو جریان دارد",
+        "title_en": "Iran partially closes Strait of Hormuz, a vital oil chokepoint, as U.S. talks get underway",
+        "summary": [
+            "رسانه‌های دولتی ایران گزارش دادند تنگه هرمز به‌صورت جزئی و موقت به‌خاطر «اقدامات احتیاطی امنیتی» و مانور دریایی سپاه به نام «کنترل هوشمند تنگه هرمز» بسته شده است؛ هدف اعلام‌شده تقویت آمادگی عملیاتی و بازدارندگی است.",
+            "تنگه هرمز یکی از مهم‌ترین گلوگاه‌های نفتی جهان است (حدود ۱۳ میلیون بشکه در روز در ۲۰۲۵، نزدیک به ۳۱٪ جریان‌های نفتی دریایی)، و اقدام موقت تهران موجب افزایش اندک قیمت نفت و واکنش نزدیک ناظرین بازار شد.",
+            "بسته شدن تنگه در حالی رخ می‌دهد که مذاکرات هسته‌ای با آمریکا در ژنو در جریان است — نمایش نظامی رژیم برای بازدارندگی می‌تواند کوتاه‌مدت پیام قدرت بدهد اما در میان‌مدت فشارهای بین‌المللی و اقتصادی را تشدید کرده و در نهایت پایه‌های قدرت داخلی رژیم را تضعیف می‌کند."
+        ],
+        "impact": "اقدام نظامی و بستن موقت تنگه تنش منطقه‌ای و هزینه‌های اقتصادی را بالا می‌برد و در مجموع به تضعیف جایگاه رژیم و گشایش فرصت‌های بیشتر برای جنبش‌های اعتراضی داخلی کمک می‌کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html",
+        "clean_url": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html",
+        "image": "http://www.bing.com/th?id=OVFT.2mDosU9IOcnLomfjFR1gvy&pid=News",
+        "timestamp": 1771299120.0
     },
     {
         "title_fa": "ترامپ پیش از مذاکرات هسته‌ای ژنو ایران را به «پیامد» تهدید کرد",
@@ -5010,154 +5172,5 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVo0YWhGRUNIUG9wY0x3S2FkUE41V2VTYlVONEYxalpYSHNBdFpJbjV4dWxBOTNJRWJvTnk4R0FkMmJ2VTdIX0kyVDV5UWEwSkRpTjhpd0tzU0x3aU56azJudE5DY2FRVmJlcERiX0tlclRncnhKOE9lVHRBX0NtR3VDQUEtOU1LblBLMC04SDFiWDY3Ykk1Wm8tTjBIU0N6Rm1wSnd4NGszdjlsLUR3eUtjaV85R0dZYnJV0gHAAUFVX3lxTE1LLXRneTdlOTFkcnVmVTExM1NyeTNyTml0a1dOc2lZa0VBQW5WRVpNOHVnd1c4eG1oak01T2drNlNZdjdEQWMxU2pkcnY4LXJEZG44RlNOTjJfNUZNZm5JMnI4WnMtckJDaFZhVTFLZTdUMTdGLTR0ZGxYNUc4Rk9VWHFjWlJvTWRiemdBUGNvSmpUM09jSFBIODZOMUhpbzZwcUlybTIyMVFaOFE3U1lzQmdQdHRBTXZhNmsxNEFvZw?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 13:18:06 GMT",
         "timestamp": 1770815886.0
-    },
-    {
-        "title_fa": "هند روز ملی ایران و سالگرد انقلاب اسلامی را تبریک گفت",
-        "title_en": "India felicitates Iran on Islamic Revolution anniversary",
-        "summary": [
-            "وزیر امور خارجه هند، سوبراهمانیام جایشنکار، با انتشار پیامی در شبکه X سالگرد ۴۷مین پیروزی انقلاب اسلامی ایران را به دولت و مردم ایران تبریک گفت — اقدامی معمول در دیپلماسی بین‌المللی و نه لزوماً تایید ایدئولوژیک رژیم.",
-            "خبرگزاری مهر این و پیام‌های مشابه چین، ترکیه، ارمنستان و برخی کشورهای منطقه را برجسته کرده تا وانمود کند تهران از مشروعیت و حمایت بین‌المللی گسترده‌ای برخوردار است؛ ولی اغلب این پیام‌ها رفتارهای دیپلماتیک عادی‌اند، نه ائتلاف استراتژیک یا همسویی ایدئولوژیک.",
-            "تبریک رسمی هند بیش از هر چیز نشان‌دهنده منافع عملی نیودلهی (دسترسی به انرژی، تجارت و بندر چابهار، ثبات منطقه‌ای در جنوب آسیا و موازنه با پاکستان/غرب) است؛ ایران این نوع پیام‌های معمول را برای تقویت مشروعیت داخلی و کاهش حس انزواء بین‌المللی بزرگ‌نمایی می‌کند."
-        ],
-        "impact": "فایده اصلی برای تهران تبلیغاتی و داخلی است؛ در سطح عملی روابط راهبردی تغییر قابل‌توجهی ایجاد نمی‌کند و نمایانگر محاسبهٔ منطقی هند است، نه حمایت ایدئولوژیک از رژیم.",
-        "tag": "legitimacy",
-        "urgency": 3,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241674/India-felicitates-Iran-on-Islamic-Revolution-anniversary",
-        "timestamp": 1770815580.0
-    },
-    {
-        "title_fa": "وانس به ایران هشدار داد: «اگر توافق هسته‌ای حاصل نشود، گزینه دیگری روی میز است»",
-        "title_en": "Vance warns Iran that 'another option on the table' if nuclear deal not reached",
-        "summary": [
-            "وانس، مقام آمریکایی، به ایران هشدار داده که در صورت عدم دستیابی به توافق هسته‌ای، «گزینه دیگری» قابل اجرا خواهد بود.",
-            "این اظهارات نشان‌دهنده افزایش فشار دیپلماتیک و احتمال تمهیدات جایگزین (از جمله تحریم‌ها یا دیگر اقدامات فشار) در صورت شکست مذاکرات است.",
-            "پاسخ ایران و واکنش بازیگران بین‌المللی نقش تعیین‌کننده‌ای در جهت‌گیری آینده مذاکرات و سطح تنش‌ها خواهد داشت."
-        ],
-        "impact": "این هشدار می‌تواند مذاکرات را پیچیده‌تر کند، احتمال تشدید تنش‌های دیپلماتیک را افزایش دهد و گزینه‌های فشار علیه ایران را تقویت کند.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Fox News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFBiUnpIMUhISmtVN3BJM3Q0M3UwZDZOSklPeUFOZ0lYRGVpTmt2dW5JQnZRT3VmWXNBOVhDM2V4dkZTeGdObHhKZWZmVTFwNFVjY0o1TjNyNTdEUjNzQkVuRk41ZFBNS20yaWQ1YllRWnQ1MkI1QnNDeG11QnZBdlBJZVVfNm5vVkcwc2lPcXNOaTZrYndJcVNVVdIBoAFBVV95cUxOTDU5VDFRR2NjUmJjb0hqT0pxaVczbGN1eFYzTUZ5am5mWk84OGJ3c0pKX3QzQWRod01XT0M5SmozbWZJeWNXQVhBdEJCSTVqWnprTEpXZWV1VW9nUGVsZ1ozTkpEN2V0UmVDUGR3cHFOYzhZZGtabGxWcWR5T1BGdm8zNTlfZ0hrMU1kSmlqZk5ZMU1CeGxrRW42dlNINDdy?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 13:06:31 GMT",
-        "timestamp": 1770815191.0
-    },
-    {
-        "title_fa": "ایران برای دور بعدی گفت‌وگوها با آمریکا آماده می‌شود",
-        "title_en": "Iran prepares for next talks with US",
-        "summary": [
-            "مقامات ایرانی اعلام کرده‌اند که برای مذاکرات آینده با آمریکا آماده می‌شوند.",
-            "جزییات زمان و دستورکار مذاکرات هنوز مشخص نیست، اما تمرکز احتمالی بر مسائل هسته‌ای و تحریم‌ها خواهد بود.",
-            "این آمادگی می‌تواند نشانه‌ای از تمایل دو طرف به کاهش تنش‌ها باشد."
-        ],
-        "impact": "این روند می‌تواند مسیر تحولات منطقه‌ای و مذاکرات هسته‌ای را تحت‌تأثیر قرار داده و زمینه‌ای برای تغییر در سیاست تحریم‌ها فراهم کند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.15,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HMXcybEh5Q0pUNGUwUE9vM3RIZFZKOU1kVmU1cXgzQ19OUDA0UnFpV0YyTzgwU1Z2V1NZS3pab0gzNW9GTnNoaHJ5WWx3MlROVWhKeUV0U2c4X09LMUJGRlVrTlBXYV9GZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 12:29:40 GMT",
-        "timestamp": 1770812980.0
-    },
-    {
-        "title_fa": "پادشاه و ولیعهد عربستان پیروزی انقلاب اسلامی ایران را تبریک گفتند",
-        "title_en": "King Salman, MBS extend congratulations to Iran",
-        "summary": [
-            "خبرگزاری دولتی مهر گزارش می‌دهد ملک سلمان و محمد بن سلمان به مناسبت سالگرد انقلاب اسلامی به رئیس‌جمهور پیام تبریک فرستاده‌اند؛ منبع دولتی و متن پیام‌ها جزئیات محدودی ارائه می‌کند و امکان اغراق در بازتاب وجود دارد.",
-            "چنین پیام‌هایی معمولاً تشریفاتی و بخشی از روند آرام‌سازی روابط ریاض–تهران (پس از آشتی ۲۰۲۳) است و تبریک رسمی لزوماً به معنای پذیرش یا تأیید داخلی سیاست‌ها و سازوکارهای رژیم ایران نیست.",
-            "آجندای پنهان: حکومت ایران این خبر را برای مشروعیت‌بخشی داخلی و منحرف‌کردن افکار عمومی به‌کار می‌گیرد؛ عربستان پیام را برای تأمین منافع اقتصادی و امنیتی، کاهش تنش‌های منطقه‌ای و کسب اهرم فشار بر سیاست‌های منطقه‌ای تهران می‌فرستد."
-        ],
-        "impact": "این تبریک‌ها عمدتاً نمادین‌اند اما می‌توانند توسط حکومت ایران به‌عنوان ابزار تبلیغاتی برای تقلیل نارضایتی‌های داخلی و نشان دادن «رخداد بین‌المللی» استفاده شوند، در حالی که ریاض از آنها برای پیشبرد منافع راهبردی و ایجاد اهرم فشار روی تهران بهره‌برداری می‌کند.",
-        "tag": "تبلیغات",
-        "urgency": 6,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241670/King-Salman-MBS-extend-congratulations-to-Iran",
-        "timestamp": 1770812400.0
-    },
-    {
-        "title_fa": "انتظار می‌رود نتانیاهو در دیدار کاخ سفید درباره دیپلماسی ایران از ترامپ فشار بیاورد",
-        "title_en": "Netanyahu expected to press Trump over Iran diplomacy during White House visit",
-        "summary": [
-            "نتانیاهو احتمالاً از ترامپ می‌خواهد مواضع سخت‌تری نسبت به هرگونه توافق یا تعامل دیپلماتیک با ایران اتخاذ کند.",
-            "او ممکن است تضمین‌ها و حمایت‌های سیاسی و امنیتی بیشتری از آمریکا برای مقابله با تهران بخواهد.",
-            "دیدار می‌تواند بر مسیر مذاکرات هسته‌ای، روابط واشنگتن-تل‌آویو و وضعیت امنیتی منطقه تأثیر بگذارد."
-        ],
-        "impact": "این دیدار می‌تواند سیاست آمریکا در قبال ایران را تحت‌تأثیر قرار داده و به تشدید تنش‌ها و پیچیدگی بیشتر روند دیپلماتیک منطقه‌ای منجر شود.",
-        "tag": "ایران",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUZkSUZodWY3Q2RpRVpjU184V2tpbWJvNWM3bmk5ZWNNU1Nxd2QtVDBUV2dGd0p4TTExQlJfU2hjSVVramtOZ1RUUEZaaGRQWlRKM0k0MXAwRVNsYURQNm91b2k0VlRURTRvRnhueUlvejZGb3VXTHRFVXBPbjNGUTgwYklJcUp0NmhpRWltSnhGbjg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 11:51:09 GMT",
-        "timestamp": 1770810669.0
-    },
-    {
-        "title_fa": "۵ نکته برای دانستن پیش از دیدار ترامپ و نتانیاهو",
-        "title_en": "5 things to know ahead of the Trump-Netanyahu meeting",
-        "summary": [
-            "ایران: احتمال بحث درباره برنامه هسته‌ای، تحریم‌ها و راهکارهای امنیتی برای مهار نفوذ تهران در منطقه.",
-            "فلسطین و مناطق اشغالی: موضوعاتی مانند الحاق، وضعیت غزه و هماهنگی‌های امنیتی و دیپلماتیک با آمریکا در دستور کار خواهند بود.",
-            "ابعاد داخلی و بین‌المللی: این دیدار می‌تواند برای منافع انتخاباتی، توافق‌های نظامی–امنیتی و پیام به متحدان و رقبای منطقه‌ای مهم باشد."
-        ],
-        "impact": "نتایج این دیدار می‌تواند جهت‌گیری سیاست‌های آمریکا و اسرائیل در قبال ایران و فلسطین را تحت تأثیر قرار داده و به تشدید یا کاهش تنش‌های منطقه‌ای منجر شود.",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "The Forward",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3JJYWlhakZWWlpQOERKRV9NNTNpd096YWJZV05hSWhDOWNpM2QzbEliSGdheTJZZHhZMmhjbENMQVhZQ19NYlJGcEM4ZzNNRVpzdnNFT3hZeDlIOWhXQWc2cUJsYW5sRkRjTnZfZ1YzckI2MnNlb3ZJLUpCZnE0c1FRazVEUUhGSlBQVndGdUM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 11:27:01 GMT",
-        "timestamp": 1770809221.0
-    },
-    {
-        "title_fa": "ایران: قابلیت‌های موشکی ما «قابل مذاکره» نیست؛ اسرائیل از آمریکا خواست موضوع موشکی را در مذاکرات بگنجاند",
-        "title_en": "Iran says its missile capabilities 'nonnegotiable,' as Israel presses for US talks to include issue",
-        "summary": [
-            "اسرائیل از ایالات متحده خواسته در مذاکرات با ایران موضوع توانمندی‌های موشکی تهران را وارد کند و آن‌را یکی از محورهای گفت‌وگو بداند.",
-            "ایران تأکید کرده که قابلیت‌های موشکی کشورش \"قابل مذاکره\" نیست و حاضر به کوتاه آمدن در این حوزه نیست.",
-            "این اختلاف موضع می‌تواند تلاش‌های دیپلماتیک آمریکا برای کاهش تنش‌ها و رسیدن به توافقات منطقه‌ای را پیچیده‌تر کند و ریسک افزایش تنش در خاورمیانه را بالا ببرد."
-        ],
-        "impact": "این موضع‌گیری احتمال افزایش تنش‌های منطقه‌ای و پیچیده‌تر شدن تلاش‌های دیپلماتیک آمریکا برای کاهش تهدیدات را افزایش می‌دهد.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLVoyNXh2WlYwX0x4LTJYVXpsZ0oxbGQxdFUwam5NWlpsZFJjQ0FULWJfRFJ1RktUU0hObWYzaFZtdnBiLU1XZmpWSXZ3UGY2alV6cC1YdVhzRzZLR3ROYS1lOG9tbHM2YmhDQ2RLend0cUNHbHFxaVBDTUo1dm5XQWl0UnFlQzU1WGJpT1J0RHlKWlZwQU1IVm40bXd3MTRLTjRNRFVhanVPZS13WG1mQzJyQ0xCeUR2UVU4T19wNTQ4cE9jVDM3NVI1WXJWSlVqTEFsRVNpdk5NQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 11:26:04 GMT",
-        "timestamp": 1770809164.0
-    },
-    {
-        "title_fa": "ایرانیان چهل‌وهفتمین سالگرد انقلاب اسلامی را با راهپیمایی‌های سراسری گرامی داشتند",
-        "title_en": "Iranians mark 47th Islamic revolution anniversary with nationwide rallies",
-        "summary": [
-            "راه‌پیمایی‌ها و مراسم سراسری در شهرهای مختلف ایران به مناسبت چهل‌وهفتمین سالگرد انقلاب اسلامی برگزار شد.",
-            "این رویداد سالانه نمادی از تداوم مناسبت‌های ملی و حضور عمومی در مراسم‌های مرتبط با انقلاب است.",
-            "مراسم هم شامل تجمعات مردمی و هم برنامه‌های رسمی دولتی بود."
-        ],
-        "impact": "این گردهمایی‌ها بر وحدت ملی و مشروعیت نظام جمهوری اسلامی تاکید می‌کند و پیامی به مخاطبان داخلی و خارجی درباره استمرار قدرت سیاسی ایران می‌فرستد.",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjR5SUh3U3hsaE1vRmF5cUlqSnZ5WllxSl9iSU01RVZ4bTMzdktEM2NUem9Qb1ZvWjNtdGh0MmFOLW1BUmhPcUlHUnpDUHlPZWxtX1ZJNUdPbEg3N3I4b3ZPWlhNUkVRcFpUR21lVmdWd0t5cVFRZzBVT1VFSmRzdDh1T2poa2tmNzBoX1N1VWRIdjA3cndPNjc3VnZBNlRCcDE0TmMtTHBsVXZOU0hRb1hWTFRMQXMy0gG-AUFVX3lxTE5xd1QySlI5Y0ZtOUEzanEyY2ZMNlQ2UHdtMURYY05Vd2VlV3BkQTVfTk12VzFZdHdaM0Y5OTcwTl9Xb3FVS25pYTlCencwU1d0elNCdjlHbmI4eERMMmZDQm9Qa05lRGNLbmpUd3R0RWlRMEx3SmhKX2tNR2JKakFEQ05naXdKQnd3eWJ6bFVlaGRJU0loeEpuODk0TWF3WmZpODJtUWE2NVhWWGFoNTRIYU9Wc2UxQVVWdXh1X0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 10:51:06 GMT",
-        "timestamp": 1770807066.0
-    },
-    {
-        "title_fa": "دیدار ترامپ با نتانیاهو در واشنگتن در بحبوحه تنش‌ها با ایران",
-        "title_en": "Trump to Meet Netanyahu in Washington Amid Tensions With Iran",
-        "summary": [
-            "دونالد ترامپ قرار است با بنیامین نتانیاهو در واشنگتن دیدار کند.",
-            "این دیدار در زمانی برگزار می‌شود که روابط و تنش‌ها با ایران تشدید شده‌اند.",
-            "انتظار می‌رود موضوعات امنیتی منطقه‌ای، سیاست مشترک در برابر ایران و هماهنگی‌های راهبردی محور گفت‌وگوها باشند."
-        ],
-        "impact": "این دیدار می‌تواند راهبردهای آمریکا و اسرائیل نسبت به ایران را تقویت کند و بر ثبات منطقه‌ای و واکنش‌های دیپلماتیک و نظامی تاثیر بگذارد.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2g0M0M1LV9QbzUwb09PNTRyd0s0T3U0cDNYRUplLWRaQnBYUXp1b0l5d09ndXNyTlVhRUwxTXVvRGk4UnNKX2JLYXFtd3o4NDNIajl0UmotOHZUTHJCSHVNS2F4RzcxVEFuOGgtUTBXZVpFQk9IUUtnQkpzbUZNcXhWNnUwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 10:46:27 GMT",
-        "timestamp": 1770806787.0
     }
 ]
