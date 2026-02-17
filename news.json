@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "در بحبوحه تهدید حمله آمریکا، مذاکرات هسته‌ای ایران بدون پیشرفت ادامه یافت",
+        "title_en": "Amid threat of U.S. attack, Iran nuclear talks proceed without breakthrough",
+        "summary": [
+            "مذاکرات هسته‌ای ادامه یافته اما گزارش می‌دهد که هیچ پیشرفتی کلیدی به دست نیامده؛ تهدید صریح به حمله آمریکا فشار دیپلماتیک و نظامی بر میز مذاکره را افزایش داده است.",
+            "افزایش فشار خارجی (تهدید حمله) ساختار اقتدار سیاسی را تحت فشار می‌گذارد و توان مانور دولت در عرصه دیپلماسی و اقتصاد را محدود می‌کند؛ این وضع شانس حصول توافق سریع را کاهش می‌دهد.",
+            "بن‌بست کنونی می‌تواند هزینه‌های اقتصادی و سیاسی داخلی را بالا برده و نارضایتی عمومی را تشدید کند، چرا که راه‌حل سیاسی قابل‌مشاهده‌ای از مذاکرات فعلی بیرون نیامده است."
+        ],
+        "impact": "ترکیب تهدید نظامی آمریکا با عدم دستیابی به توافق، ثبات سیاسی و توان اقتصادی حکومت را تضعیف کرده و گزینه‌های استراتژیک آن را محدود می‌کند.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU5YM3EzYXQtU1h3VEEzTXZ1Zi1Jb0huN3dLTE1abnN2b0xvLTA5MmI5QjhiR1UwVzlqMy1EdmNuNm5vR2p0RDRNMXFXSUhTa1J3b01kd0pkQmI1eWtvZkpjTURFbTdvRTdIWVl6VkU5eGcxT0dZcWFkLXNteTQ2Z2Eyb0xVbjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU5YM3EzYXQtU1h3VEEzTXZ1Zi1Jb0huN3dLTE1abnN2b0xvLTA5MmI5QjhiR1UwVzlqMy1EdmNuNm5vR2p0RDRNMXFXSUhTa1J3b01kd0pkQmI1eWtvZkpjTURFbTdvRTdIWVl6VkU5eGcxT0dZcWFkLXNteTQ2Z2Eyb0xVbjQ",
+        "image": null,
+        "timestamp": 1771356536.0
+    },
+    {
         "title_fa": "مذاکرات هسته‌ای آمریکا و ایران در ژنو — به‌روزرسانی زنده",
         "title_en": "Trump Administration Live Updates: U.S. and Iran Hold Nuclear Talks in Geneva",
         "summary": [
@@ -180,6 +198,24 @@
         "timestamp": 1771329412.0
     },
     {
+        "title_fa": "پناهندگان ایرانی: توافق هسته‌ای جلوی اعدام‌های جاری را نخواهد گرفت",
+        "title_en": "Nuclear deal will not stop ongoing executions, Iran refugees say",
+        "summary": [
+            "پناهندگان حاضر در گزارش می‌گویند که حتی در صورت پیشرفت توافق هسته‌ای، موج اعدام‌ها و سرکوب معترضان ادامه خواهد یافت؛ یک پناهنده ناشناس از «از دست‌دادن امید» پس از تأخیر واکنش آمریکا به کشتار معترضان سخن گفت.",
+            "تمرکز دیپلماتیک روی پرونده هسته‌ای و هرگونه کاهش فشار بین‌المللی می‌تواند به رژیم فضای مالی و سیاسی بدهد بی‌آنکه سازوکارهای قوه‌قضائیه و دستگاه سرکوب داخلی را تضعیف کند؛ این ساختارها همچنان تهدیدی مستقیم علیه معترضان محسوب می‌شوند.",
+            "ادامه اعدام‌ها و بی‌پاسخی به مطالبات معترضان بازتاب شکست مدیریتی و بحران مشروعیت رژیم است و نشان می‌دهد مسائل حقوق‌بشری و نارضایتی عمومی فراتر از مسئله هسته‌ای است."
+        ],
+        "impact": "توافق هسته‌ای بدون الزام‌های حقوق‌بشری می‌تواند به بقای مالی و مشروعیت بین‌المللی رژیم کمک کند در حالی که موج اعدام‌ها و سرکوب‌های داخلی به تضعیف بیش‌تر ثبات اجتماعی و تشدید نارضایتی منجر می‌شود.",
+        "tag": "اعدام‌ها",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/world/nuclear-deal-ongoing-executions-iran-refugees/",
+        "clean_url": "https://www.newsnationnow.com/world/nuclear-deal-ongoing-executions-iran-refugees",
+        "image": null,
+        "timestamp": 1771327500.0
+    },
+    {
         "title_fa": "ایران هم‌زمان با آغاز دور جدید مذاکرات هسته‌ای موشک‌هایی به تنگه هرمز شلیک کرد",
         "title_en": "Iran fires missiles into the Strait of Hormuz as a new round of nuclear talks begins",
         "summary": [
@@ -214,6 +250,24 @@
         "clean_url": "https://www.aol.com/articles/iran-russia-china-stage-show-173647229.html",
         "image": "http://www.bing.com/th?id=OVFT.OEg4QuVZBhaW2CY5bEkdbS&pid=News",
         "timestamp": 1771317360.0
+    },
+    {
+        "title_fa": "افزایش فشار نظامی آمریکا بر ایران همزمان با مذاکرات در ژنو",
+        "title_en": "US increases military pressure on Iran as countries discuss a deal",
+        "summary": [
+            "بخش اعظم گزارش: نیروی دریایی و هوایی آمریکا—including ناو هواپیمابر USS Abraham Lincoln—ترکیبی از تانکرها، جنگنده‌ها و سامانه‌های پدافند هوایی را در خاورمیانه متمرکز کرده و بیش از ۲۵۰ پرواز باربری به اردن، بحرین و عربستان انجام شده؛ ۱۲ فروند F‑15 از ۲۵ ژانویه در پایگاه الموقاف السلتی اردن مستقر هستند. منابع می‌گویند این تحرکات هم برای فشار بر تهران و هم برای حفظ گزینه حمله در صورت شکست مذاکرات است.",
+            "مذاکرات ژنو: عباس آراقچی اعلام کرد «اصول راهنما» برای ادامه مذاکرات توافق شده ولی زمان‌بندی و نگارش متن نهایی بازبینی دشواری خواهد بود؛ همزمان دونالد ترامپ تهدید به اقدام نظامی کرده که نشان‌دهنده ترکیب دیپلماتیک-نظامی دولت آمریکا است.",
+            "پیامدهای ساختاری: این تجمیع نیرو به‌عنوان اهرم فشار، توان مانور سیاسی رژیم را کاهش می‌دهد و اگر تهران ناچار به تخصیص منابع بیشتر به حوزه نظامی شود، فشار بر بودجه و معیشت داخلی افزایش می‌یابد؛ بدون اصلاحِ مدیریت حکومتی، چنین فشاری می‌تواند شکنندگی ساختاری حکومت را تشدید کند."
+        ],
+        "impact": "نتیجه فوری این است که آمریکا با فراهم آوردن گزینه‌های تهاجمی در میدان، ضریب فشار بر رژیم تهران را افزایش داده و فضای مذاکره را زیر سایه تهدید نظامی قرار داده است.",
+        "tag": "فشار",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/us-increases-military-pressure-iran-204641886.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-increases-military-pressure-iran-204641886.html",
+        "image": "http://www.bing.com/th?id=OVFT.UwYGGVubJtXcgoZUHuEURy&pid=News",
+        "timestamp": 1771317240.0
     },
     {
         "title_fa": "ایران و آمریکا در مذاکرات ژنو بر «اصول راهنما» توافق کردند، وزیر خارجه می‌گوید",
@@ -5139,56 +5193,5 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWlA0cFp3Rld4bENZS3BRbk51LUlMekkxcWdjWmtlVVZhMElkdVVYVUtqYjRnczhJTTlTV0NaMktMOHNQM2F2OWtzQ19jRldCLUlEQXFzWjZXNk9nOUZFaUtfS3UzMjU4T0xnck9uOFhiNHRsZDR2ZmFoSjBtWFpnemdEbmFIY1dVdkNIS3pKUVNwYXlBSWV5NTVlV3BWSENERi11aXY1S29pdzU2QnQ5M1lfR3dCUEFWTWdkdXBQNlg5RHM0blE?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 18:16:13 GMT",
         "timestamp": 1770833773.0
-    },
-    {
-        "title_fa": "ایران: بستری پیچیده که خدا در آن کلیسا را رشد می‌دهد",
-        "title_en": "Iran: a complex context where God is growing the Church",
-        "summary": [
-            "رشد کلیسا در ایران در یک بستر اجتماعی و سیاسی پیچیده و محدود ادامه دارد؛ با وجود محدودیت‌های قانونی و فشار بر مذاهب غیررسمی، جامعه‌های مسیحی زیرزمینی و خانه‌کلیساها گسترش می‌یابند.",
-            "عوامل مؤثر شامل گرایش نسل جوان، استفاده از فضای دیجیتال برای ارتباط‌گیری و آموزش دینی، و تبدیل‌های پنهانی مهاجران و شهروندان است که ساختار رسمی کلیسا را تکان می‌دهد.",
-            "این پدیده می‌تواند منجر به تشدید نظارت حکومتی، افزایش تنش‌های اجتماعی-مذهبی و جلب توجه ناظران بین‌المللی به موضوع آزادی‌های دینی شود."
-        ],
-        "impact": "ادامه این روند می‌تواند هم به تعمیق شبکه‌های دینی غیررسمی و هم به افزایش حساسیت و مداخله حکومتی و نگرانی بین‌المللی درباره آزادی دین و مذاهب بیانجامد.",
-        "tag": "مسیحیت",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "www.christiandaily.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ0RQa1RPWG1NS1FpbWlEc25RZnQzYUdKNDJEdDJPRzBHMTAtSGpRN04tYkIyWkhPN2E1UkYxdlJyaEZNTkR5Y29qX0NiX1hiSVZONXlpRy1ielpBM2lXTnA0SnhnaS1zLXRXa3FyRWZvS24xMjBvWG5weGJ3SFNiRklNSVgyUWVxZzB0bllWSk9zNk9L?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 17:35:35 GMT",
-        "timestamp": 1770831335.0
-    },
-    {
-        "title_fa": "ویدئو: برگزاری تجمعات گسترده در ایران به مناسبت سالگرد انقلاب اسلامی",
-        "title_en": "Video: Iran Holds Mass Rallies For Revolution Anniversary",
-        "summary": [
-            "ویدئو نشان می‌دهد تجمعات و مراسم رسمی در شهرهای مختلف ایران به مناسبت سالگرد انقلاب برگزار شده است.",
-            "شرکت‌کنندگان با سر دادن شعارها و حمل پلاکاردها حمایت خود از نظام و دستاوردهای انقلاب را ابراز کردند و مقامات بلندپایه نیز در برخی مراسم حضور داشتند.",
-            "مراسم تحت تدابیر امنیتی مشخص برگزار شد و پیام‌هایی درباره وحدت داخلی و پایداری نظام به مخاطبان داخلی و خارجی ارسال شد."
-        ],
-        "impact": "این تجمعات می‌تواند مشروعیت داخلی حکومت را تقویت کند و به‌عنوان پیامی سیاسی درباره ثبات و انسجام نظام به بازیگران خارجی نیز ارسال شود.",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDdFWVFXUmQ1Wjk5VGFkcXBvUVJlaUpjOGdZb2JJYjY2c2EyZ052WlN6VnI5VXNGNEt1M000cm91X3hfZVJtTEV6RHdSd2NFaDN6RWFzSWhiSlVpWjd1aEI0dmhNYm1fcFctaDUtY0l6NFZUSXpIOWNKcTBoLUJhTjMtRkdJRkd6dk5fMmhXcl9wVV8yZVpxZVZYMFR0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 17:15:00 GMT",
-        "timestamp": 1770830100.0
-    },
-    {
-        "title_fa": "ویدئو: چرا برنامه هسته‌ای ایران تنها تهدید نیست",
-        "title_en": "Video: Why Iran’s Nuclear Program Isn’t the Only Threat",
-        "summary": [
-            "ویدئو می‌گوید تمرکز صرف بر جنبه هسته‌ای، تصویر کامل از تهدیدات مرتبط با ایران را مخفی می‌کند و تهدیدات دیگری مانند مجموعه موشکی، شبکه‌های نیابتی، ظرفیت‌های سایبری و توانمندی‌های نظامی معمولی را برجسته می‌کند.",
-            "تأثیرات این تهدیدات فراتر از مرزهاست و می‌تواند به تشدید تنش‌های منطقه‌ای، مسابقه تسلیحاتی و پیچیده‌تر شدن دیپلماسی بین‌المللی و فشارهای اقتصادی منجر شود.",
-            "برای مدیریت مؤثر خطرات، ویدئو راه‌حل‌هایی از جمله رویکرد جامع امنیتی، کنترل منطقه‌ای تسلیحات، دیپلماسی چندجانبه و نظارت فنی دقیق‌تر را پیشنهاد می‌کند."
-        ],
-        "impact": "پیام اصلی این ویدئو این است که سیاست‌گذاران باید راهبردی کلی‌تر از صرف تمرکز بر پرونده هسته‌ای اتخاذ کنند تا ریسک‌های امنیتی را به‌طور مؤثر کاهش دهند.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGxFNTJHaGYtWFk4ME5ROUVPZHZtUTRQMDZDTHhRUjR6RFoxdUoycEdmVTZWYURHdjgxaDRyeE91MmVDQ1ZKMXpVY0JOZHBiYXNUSGxoTUUzQUs4eEZST0VfN2VraEpsSHRTMG9jUHF4NHMydEw5SWlKanBwQWI0N3d5TG5CVlQ1TUZIYkJFR1ZGeXVBSFJNMmROR255aF9EY3h5WWtlMEhBNHdEWW52TEhvVEg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 16:52:30 GMT",
-        "timestamp": 1770828750.0
     }
 ]
