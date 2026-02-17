@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ترامپ: ایران «عواقب» نداشتن توافق هسته‌ای با آمریکا را نمی‌خواهد",
+        "title_en": "Trump says Iran \"doesn't want the consequences\" of not making a nuclear deal with the U.S.",
+        "summary": [
+            "دونالد ترامپ گفته ایران «نمی‌خواهد عواقب» نرسیدن به توافق هسته‌ای با آمریکا — جمله‌ای که تهدید ضمنی به پیامدهای احتمالی را بازتاب می‌دهد.",
+            "این لحن و فشار لفظی می‌تواند بر فشار بین‌المللی بیفزاید و در پی‌آمد، مشروعیت و انسجام رژیم ولایت‌فقیه را تضعیف کرده و فضای سیاسی را برای اپوزیسیون داخلی بازتر کند.",
+            "با این‌حال این صرفاً یک اظهار نظر سیاسی است نه تغییر قطعی در سیاست اجرایی؛ ممکن است رژیم برای پیش‌گیری یا واکنش، هم به اقدامات تهاجمی و هم به سرکوب داخلی متوسل شود. "
+        ],
+        "impact": "افزایش فشار خارجی که می‌تواند پایه‌های رژیم را تضعیف و فرصت‌های بیشتری برای مقاومت مدنی و تغییر سیاسی در داخل ایجاد کند.",
+        "tag": "فشار",
+        "urgency": 9,
+        "sentiment": 0.6,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3OVhBamN1UU93Sm50ZnJIR2I0R2c3cEMtNG9fR3NrZWR0THJBd200M21aZ1U1QUtiSzNmQnVEejFQVWlwRUJiNmllSEtoSS1ZRG92U2NocDhwaTU5dVdrWjFQS3NwLUNaZkhQMURlcFZiMmlTcmlVeE5yZ2g?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3OVhBamN1UU93Sm50ZnJIR2I0R2c3cEMtNG9fR3NrZWR0THJBd200M21aZ1U1QUtiSzNmQnVEejFQVWlwRUJiNmllSEtoSS1ZRG92U2NocDhwaTU5dVdrWjFQS3NwLUNaZkhQMURlcFZiMmlTcmlVeE5yZ2g",
+        "image": null,
+        "timestamp": 1771289897.0
+    },
+    {
+        "title_fa": "ترامپ می‌گوید به‌طور غیرمستقیم در مذاکرات با ایران دخالت خواهد داشت",
+        "title_en": "Trump says he will be involved indirectly in Iran talks",
+        "summary": [
+            "دونالد ترامپ اعلام کرده که به‌طور غیرمستقیم در مذاکرات مرتبط با ایران دخالت خواهد داشت.",
+            "این موضع نشان‌دهنده ادامه توجه و فشار دیپلماتیک آمریکا است و میدان مانور رژیم تهران را محدود می‌کند.",
+            "برای اپوزیسیون و مردم ایران، دخالت غیرمستقیم آمریکا می‌تواند به تضعیف مشروعیت رژیم و تقویت مسیر مبارزه برای آزادی کمک کند."
+        ],
+        "impact": "این اعلام می‌تواند فشار بین‌المللی بر رژیم را افزایش دهد و فضای مانور سیاسی و بین‌المللی تهران را محدود کند که به نفع جنبش‌های داخلی است.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnZYQkdIc0tZb0lNYVFEbGhSVUw0UmZWbmdfbXhuekhEMDF0UGttZFZWMGo3a3I2dER4Y3o3STlXTE5QY0RFYzN6ODlDWU0zR21za0VZWFBodmg1MHpCdlY5NEIxdnlnRjRBTmZ1MFJ2eXZ2ckY0c3Q1S3YycTR4RFg0TDY1TnBVUjBaa1pyWkZxUy1la1JuZHNyaUVra2RZdW1aMDRtLW1yQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnZYQkdIc0tZb0lNYVFEbGhSVUw0UmZWbmdfbXhuekhEMDF0UGttZFZWMGo3a3I2dER4Y3o3STlXTE5QY0RFYzN6ODlDWU0zR21za0VZWFBodmg1MHpCdlY5NEIxdnlnRjRBTmZ1MFJ2eXZ2ckY0c3Q1S3YycTR4RFg0TDY1TnBVUjBaa1pyWkZxUy1la1JuZHNyaUVra2RZdW1aMDRtLW1yQQ",
+        "image": null,
+        "timestamp": 1771288620.0
+    },
+    {
         "title_fa": "هم‌پیمان ترامپ به تایمز آو اسرائیل: ماندن آیت‌الله در قدرت «پیروزی راهبردی برای ایران» خواهد بود",
         "title_en": "Trump ally to ToI: Ayatollah staying in power would be ‘strategic victory for Iran’",
         "summary": [
