@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران قرار است در ژنو آغاز شود",
+        "title_en": "Nuclear talks between US and Iran set to begin in Geneva",
+        "summary": [
+            "مذاکرات هسته‌ای میان ایالات متحده و جمهوری اسلامی ایران قرار است در ژنو آغاز شود.",
+            "انتظار می‌رود محور گفتگوها پرونده هسته‌ای و پیامدهای مرتبط با تحریم‌ها باشد، هرچند نتیجه و دامنه توافق هنوز نامشخص است.",
+            "این دور گفتگوها برای داخل کشور آزمونی سیاسی است که می‌تواند شکاف میان جناح‌های حاکم را آشکار کند و معادلات فشار بین‌المللی را تغییر دهد."
+        ],
+        "impact": "پیشرفت هرگونه مذاکرات دیپلماتیک می‌تواند موقعیت سیاسی و مشروعیت نظام را تضعیف کند و فضای بیشتری برای خواست‌های آزادی‌خواهانه مردم ایجاد نماید.",
+        "tag": "مذاکرات",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2tXRTFDNEU4YnRsblFuZ01UaFNCWVpUT1JUWEZJa2JHZUFFMGQ1NWxqZXJUV29yMFNWZFYxbGUzX20zckpKVEdzbGdvWXdkaG5Ic2hkem9sOTFFeW9wb0JBdGJyX043TGRiTlBOWTRhY3FfMkpUMFl0Zy1VMDNLLTdhQ28ydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2tXRTFDNEU4YnRsblFuZ01UaFNCWVpUT1JUWEZJa2JHZUFFMGQ1NWxqZXJUV29yMFNWZFYxbGUzX20zckpKVEdzbGdvWXdkaG5Ic2hkem9sOTFFeW9wb0JBdGJyX043TGRiTlBOWTRhY3FfMkpUMFl0Zy1VMDNLLTdhQ28ydw",
+        "image": null,
+        "timestamp": 1771315800.0
+    },
+    {
+        "title_fa": "دور دوم مذاکرات هسته‌ای ایران و آمریکا در ژنو آغاز می‌شود (پوشش زنده)",
+        "title_en": "US-Iran talks live: Second round of nuclear negotiations to begin in Geneva",
+        "summary": [
+            "دور دوم مذاکرات هسته‌ای بین ایران و آمریکا در ژنو آغاز می‌شود و رسانه‌ها پوشش زنده خبر را منتشر می‌کنند.",
+            "این نشست تلاشی برای ادامه گفت‌وگوها درباره جنبه‌های فنی و سیاسی برنامه هسته‌ای است و می‌تواند زمینه‌ساز پیشرفت یا بن‌بست در روند دیپلماتیک شود.",
+            "نتیجه این دور می‌تواند بر فشارهای بین‌المللی، تحریم‌ها و موازنه سیاسی منطقه‌ای تأثیر بگذارد."
+        ],
+        "impact": "نتیجه مذاکرات می‌تواند مسیر دیپلماسی بین‌المللی را تعیین کند و هم کاهش فشارهای خارجی و هم افزایش فشار سیاسی داخلی را برای رژیم به‌همراه داشته باشد.",
+        "tag": "مذاکره",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSk9LSTJzWE5xVVVncFZkWGdHMU9LZ3lMcDhZWUhFMS0xUW5wRUg3eFBZZkx5amFuRHpNaWdpSDRWSGNBU0U5TjB6TF9PSkhzWWJQTnJqYmh6NWdtQjk5QjBVLVlNZHJtTVp4QzZ1UUpfd1dJY3Y2R21jSW1pRmY1ajY1WVNuYWNKN3B2eWlyZzhBazFhTEt5aEdtMm9NdWxaVHprTVNCcnJPZU1w0gGyAUFVX3lxTFBHbU5GQ2dCcFF3c1FKSzJ3NTZvanVFQnhsdlYtYUFEemIzS19iOWtjMjRkOGx5V053ckRucmJGbzUtOTJiV0dzMmtMcUpLSlgzbktLeEJ6blNGdFlTR01mMGs1S2lKZDlLUTVFV3EtUElaU0pzNURxMFNkX3ZObjhXSnl2RTZtRVJqSWZQMVRpcFhwVE1xY0hkbGlhQ3h5cTc0YzlNdHJabjdnbHI5RFY5NEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSk9LSTJzWE5xVVVncFZkWGdHMU9LZ3lMcDhZWUhFMS0xUW5wRUg3eFBZZkx5amFuRHpNaWdpSDRWSGNBU0U5TjB6TF9PSkhzWWJQTnJqYmh6NWdtQjk5QjBVLVlNZHJtTVp4QzZ1UUpfd1dJY3Y2R21jSW1pRmY1ajY1WVNuYWNKN3B2eWlyZzhBazFhTEt5aEdtMm9NdWxaVHprTVNCcnJPZU1w0gGyAUFVX3lxTFBHbU5GQ2dCcFF3c1FKSzJ3NTZvanVFQnhsdlYtYUFEemIzS19iOWtjMjRkOGx5V053ckRucmJGbzUtOTJiV0dzMmtMcUpLSlgzbktLeEJ6blNGdFlTR01mMGs1S2lKZDlLUTVFV3EtUElaU0pzNURxMFNkX3ZObjhXSnl2RTZtRVJqSWZQMVRpcFhwVE1xY0hkbGlhQ3h5cTc0YzlNdHJabjdnbHI5RFY5NEE",
+        "image": null,
+        "timestamp": 1771310186.0
+    },
+    {
         "title_fa": "دور دوم مذاکرات پراهمیت میان آمریکا و ایران امروز در ژنو برگزار می‌شود",
         "title_en": "Second round of high-stakes talks between US, Iran to be held in Geneva today",
         "summary": [
@@ -5116,39 +5152,5 @@
         "source": "Mehr News Agency",
         "url": "https://en.mehrnews.com/news/241647/Iran-to-respond-to-threats-with-unmatched-force",
         "timestamp": 1770802260.0
-    },
-    {
-        "title_fa": "ارتقای سامانه دیوید اسلینگ اسرائیل همزمان با تشدید تنش‌ها با ایران",
-        "title_en": "Israel sharpens air defenses with David’s Sling upgrade as Iran tensions mount",
-        "summary": [
-            "اسرائیل سامانه موشکی دیوید اسلینگ را به‌روزرسانی کرده تا توان رهگیری و مقابله با تهدیدات هوایی و موشکی را افزایش دهد.",
-            "این اقدام در پی افزایش تنش‌ها با ایران و نگرانی از حملات موشکی و پهپادی منطقه‌ای انجام شده است.",
-            "ارتقا می‌تواند بازدارندگی اسرائیل را تقویت کند اما همچنین احتمال رقابت تسلیحاتی و تشدید تنش‌های منطقه‌ای را بالا می‌برد."
-        ],
-        "impact": "این به‌روزرسانی می‌تواند تعادل بازدارندگی در منطقه را تغییر دهد و احتمال برخورد متقابل یا گسترش رقابت تسلیحاتی را افزایش دهد.",
-        "tag": "دفاع",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "CTech",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mTWZYNmVFMHRFU1l3TlNmMExMb2JweU94WjFjSTREcGxNZ0lMSFRiUXNoNS1CRXdFYXB3SzZKbFRpUDgwbFFDMEc3MkFrNjc4bXpYTTdjc0RDdldJNGp5SG9ZUHNQaE5G?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 09:26:00 GMT",
-        "timestamp": 1770801960.0
-    },
-    {
-        "title_fa": "نتانیاهو سفر خود به واشنگتن را جلو می‌اندازد تا ترامپ را برای دفاع از منافع اسرائیل در برابر ایران متقاعد کند",
-        "title_en": "Netanyahu moves up Washington visit to convince Trump to defend Israel’s interests against Iran",
-        "summary": [
-            "نتانیاهو زمان سفر خود به واشنگتن را جلو انداخت تا دیداری با دونالد ترامپ داشته باشد.",
-            "هدف اصلی متقاعد کردن ترامپ برای حمایت فعال‌تر از مواضع امنیتی و منافع اسرائیل در برابر تهدیدات ایران است.",
-            "این اقدام می‌تواند به هماهنگی بیشتر میان واشنگتن و تل‌آویو درباره ایران منجر شود و احتمال افزایش تنش‌های منطقه‌ای را بالا ببرد."
-        ],
-        "impact": "این دیدار شتاب‌زده ممکن است سیاست آمریکا در قبال ایران را جهت‌دار کند و ریسک تشدید تنش‌ها و اقدامات هماهنگ نظامی یا دیپلماتیک در خاورمیانه را افزایش دهد.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "EL PAÍS English",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZzdkNWZtRjZBSUE5UXpmaTRPbEg4ejUyT3p3ckV3OWxqYlJscWF2cGNkNmFVWWp0cFdTMkFXWmREeS14Vm5NbktLUEZlYjNtM3NxcFlBMjd6ZG5PSEZNaFRrRTQ4aUhjUlVjZUxVRS1RbWxJYnZVVThhS1lhY2pMZmdhcEdPdTJVcFVlY00yTDN2QWJtYTlXWlJodHNCREctak5kV1E0akFoZ0lQUTY5R3YwMFJSeGp4NDdTd3NVN2lnb1R5Ri1HTmlhRDVIN3BRTGhpRjlSejVGcHFOemgta2hpRHk5QdIB-gFBVV95cUxORExTSmZSb2ZVV2NtaUVWOVRsQlpnbGk1MHFyTGQ3X3RueVBpTkdFaC1PUEZjcUQwRmhjUlVDMkgtTXREY0RDOW5ic2lMZDZTdDZPNTQwTzVjaXZxQlVPT2gxVmZCMzZXUlZaOWZ0d3BJc1hZRWhDN0ZLMGUzVGdLUWVCYkpza05BQVJBR1ZQUUlMd05YZmZIYTVhVkpwTEc4VHdXczFUWVY1ZmdqZ0lTRWVMNFV4WnI4WnR0aV9LQTFZLUJfNmMxejhub0g3dmF4eFF4SzdYeWZrT0ptcFIxZXFIN0ktOTVYTm1WaTMyMnNLejV2TnRBOGpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 09:25:49 GMT",
-        "timestamp": 1770801949.0
     }
 ]
