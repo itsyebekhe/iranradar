@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اخبار تازه ترامپ: مذاکرات با ایران در وضعیت نامشخص، تأمین بودجه DHS در بن‌بست",
+        "title_en": "Latest Trump news: Iran talks face uncertainty, DHS funding remains at impasse",
+        "summary": [
+            "مذاکراتی که به ایران ارتباط دارد در حالت عدم قطعیت قرار دارد؛ خبر اشاره به پیشرفت مشخص یا توافق نداشته است.",
+            "تصمیم‌گیری درباره بودجه وزارت امنیت داخلی آمریکا (DHS) در بن‌بست مانده و تأمین مالی این نهاد به تعویق افتاده است.",
+            "پیامدهای محتمل: استمرار بی‌نتیجه ماندن مذاکرات می‌تواند به حفظ یا تشدید فشارها و تحریم‌های خارجی منجر شود و بن‌بست بودجه‌ای در واشنگتن کارایی عملیاتی DHS را کاهش دهد."
+        ],
+        "impact": "تداوم عدم‌قطعیت دیپلماتیک در کنار بن‌بست بودجه‌ای داخلی احتمال ادامه فشار خارجی و تشدید ریسک‌های اقتصادی-سیاسی برای ایران را افزایش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoS1hmMUJiWi1DRGFCSmduQ3Q1enJBNExQR052LVg2cmRsVGZ6UVY2RE9hNXNySTUzRW9ZY0JVdjd5N2swYnYxWWRaRTA3R1BvSThENGIxNFMtNENNS2FiTHMyOE82WjFNSi16c3lrRFBGSWxQVzNDZEdMVVhudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoS1hmMUJiWi1DRGFCSmduQ3Q1enJBNExQR052LVg2cmRsVGZ6UVY2RE9hNXNySTUzRW9ZY0JVdjd5N2swYnYxWWRaRTA3R1BvSThENGIxNFMtNENNS2FiTHMyOE82WjFNSi16c3lrRFBGSWxQVzNDZEdMVVhudw",
+        "image": null,
+        "timestamp": 1771453080.0
+    },
+    {
         "title_fa": "این تمرین نیست: آمریکا در آماده‌سازی نظامی گسترده؛ تهدید بمباران ایران افزایش یافته",
         "title_en": "\"This is Not a Dress Rehearsal\": U.S. Engaged in Massive Military Buildup as Threat To Bomb Iran Grows",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOXNNbGFVNnJobEJjSEFqTnBkNkczN3YzdVREcEZaQklxdUs0SEx4WXJOSWJ1SUFCdE9tbHhkajZ4dHdfRjB2eXl3MGd5WUdXUE0tRVFDNkp6RTUwYUY0RGpiNzRMQTUxMU1kYWM0TnpIMS1FMG9aNDdreDhscXJiX3hkVzRtTU1QcnF6TUdGaTlBek1ldHYwSFZnSlg1U20weUR1MDRFZkM2ZGkyblk5OXNGN0JEWFVwanpxblRCbGQtRGFnZ01GYXpPcTlKWUdVQnJ0VGt1SldlcGJwdFZWMExfeGtXOVlnT1JOLUp3",
         "image": null,
         "timestamp": 1771447915.0
+    },
+    {
+        "title_fa": "وضعیتی فوق‌العاده خطرناک: تریتا پارسی هشدار می‌دهد که آمریکا و ایران انگیزه‌های تشدید درگیری دارند",
+        "title_en": "“Extremely Dangerous Situation”: Trita Parsi Warns U.S. & Iran Have Incentives to Escalate Conflict",
+        "summary": [
+            "تریتا پارسی هشدار داده که هر دو طرف—ایالات متحده و ایران—در شرایطی قرار دارند که انگیزه‌هایی برای تشدید تنش دارند و وضعیت را «فوق‌العاده خطرناک» توصیف کرده است.",
+            "فشار خارجی و تحریم‌ها ساختار ثبات رژیم را تضعیف می‌کند؛ چنین فشارهایی می‌تواند هزینه‌های اقتصادی و سیاسی را بالا برده و انگیزه‌هایی برای اقدامات تلافی‌جویانه یا واکنش‌های رادیکال ایجاد کند.",
+            "در غیاب مکانیسم‌های کنترل بحران و با ادامه مشکلات اقتصادی و نارضایتی عمومی، خطر «فرار به جلو» یا اشتباه محاسباتی که به تشدید نظامی منجر شود، به‌طور معناداری افزایش می‌یابد."
+        ],
+        "impact": "این هشدار نشان می‌دهد که فقدان ابزارهای قوی کنترل بحران و کاهش فشارهای مخرب می‌تواند زمینه‌ساز تشدید ناخواسته یا محاسبات خطرناک بین تهران و واشینگتن شود.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Democracy Now!",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2FGbDFOekJadFZNN25ZSW0wb214Z2wteU5oQkJybkNSNlpXWjRUS1BlTTVIOFBFNDVkQzQwWFpOWlNtWmxMWDFIaUg3dVVXaThQb1BpQV9ZWDNkZVpIX1BUYlBLUnRIZUhON0MyWVo5b2FMeFp2TzVjQmE3Yk13c0tOd3Q2TGN2dHlUeEdjdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2FGbDFOekJadFZNN25ZSW0wb214Z2wteU5oQkJybkNSNlpXWjRUS1BlTTVIOFBFNDVkQzQwWFpOWlNtWmxMWDFIaUg3dVVXaThQb1BpQV9ZWDNkZVpIX1BUYlBLUnRIZUhON0MyWVo5b2FMeFp2TzVjQmE3Yk13c0tOd3Q2TGN2dHlUeEdjdw",
+        "image": null,
+        "timestamp": 1771446803.0
     },
     {
         "title_fa": "افزایش قیمت نفت همزمان با ارزیابی معامله‌گران از خطر درگیری آمریکا و ایران پس از مذاکرات",
@@ -252,6 +288,24 @@
         "timestamp": 1771427475.0
     },
     {
+        "title_fa": "ایران برای پرتاب‌های موشکی برنامه‌ریزی‌شده در روز پنج‌شنبه اطلاعیه NOTAM صادر کرد، به‌گفته FAA آمریکا",
+        "title_en": "Iran issues NOTAM over planned rocket launches on Thursday, US FAA says",
+        "summary": [
+            "اداره فدرال هوانوردی آمریکا نشان می‌دهد ایران اطلاعیه NOTAM برای پرتاب‌های راکتی در مناطق گسترده‌ای از جنوب کشور از ساعت ۳:۳۰ تا ۱۳:۳۰ به‌وقت گرینویچ در روز پنج‌شنبه صادر کرده است.",
+            "این اطلاعیه در زمینه رزمایش‌های دریایی اخیر در تنگه هرمز و برنامه رزمایش مشترک دریایی با روسیه صادر می‌شود، همزمان با استقرار ناوهای آمریکایی در منطقه و اظهارنظرهای مقام‌های کاخ سفید و معاون رئیس‌جمهور آمریکا درباره ارزیابی گزینه‌ها علیه تهران.",
+            "تصاویر ماهواره‌ای گزارش‌شده نشان می‌دهد رژیم در حال ساخت حفاظ‌های بتنی، دفن ورودی‌های تونل در سایت‌های حساس و تعمیر پایگاه‌های موشکی است؛ نشانه‌هایی از هزینه‌کرد برای بازسازی و تحکیم تأسیسات پس از ضربات قبلی و تمرکز بر آماده‌سازی نظامی."
+        ],
+        "impact": "این اقدامات نظامی و تحکیمی در کنار فشار و حضور نظامی خارجی، رژیم را در معرض افزایش فشار بین‌المللی و هزینه‌های داخلی قرار می‌دهد و احتمال تصاعد به تقابل نظامی را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-issues-notam-over-planned-222351934.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-issues-notam-over-planned-222351934.html",
+        "image": null,
+        "timestamp": 1771426080.0
+    },
+    {
         "title_fa": "گزارش: حمله آمریکا و اسرائیل به ایران می‌تواند هفته‌ها طول بکشد و تهدیدکننده رژیم باشد",
         "title_en": "US-Israel attack on Iran could last weeks, be regime-threatening: Report",
         "summary": [
@@ -306,6 +360,24 @@
         "timestamp": 1771421586.0
     },
     {
+        "title_fa": "ایران، متهم به حمایت از تروریسم، نایب‌رئیس کمیته منشور سازمان ملل شد",
+        "title_en": "Terror sponsor Iran gets UN leadership overseeing Charter principles",
+        "summary": [
+            "انتخاب ایران به عنوان نایب‌رئیس کمیته منشور سازمان ملل با اعتراض اسرائیل همراه شد که آن را «ابرتناقض اخلاقی» خواند و به نگرانی‌ها درباره وضعیت حقوق بشری در ایران اشاره کرد.",
+            "این انتصاب اعتبار نهادهای بین‌المللی را در موضوع رعایت منشور به چالش می‌کشد و می‌تواند موج جدیدی از انتقادهای دیپلماتیک و سیاسی را علیه رژیم ایجاد کند که ساختار تکیه‌گاه بین‌المللی آن را بیش‌ازپیش تضعیف می‌سازد.",
+            "در مقطع کنونی که پرونده حقوق بشر، مهم‌ترین نقطه‌ضعف بین‌المللی حکومت است، تصدی نقش رسمی در کمیته منشور احتمالاً شکاف مشروعیت داخلی را عمیق‌تر کرده و توان رژیم برای مدیریت مشکلات اقتصادی و نارضایتی اجتماعی را کاهش می‌دهد."
+        ],
+        "impact": "این انتخاب به تضعیف مشروعیت بین‌المللی و افزایش زمینه برای فشارهای سیاسی و حقوقی علیه رژیم منجر می‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/terror-sponsor-iran-gets-un-leadership-overseeing-charter-principles/ar-AA1WCag0",
+        "clean_url": "https://www.msn.com/en-us/news/world/terror-sponsor-iran-gets-un-leadership-overseeing-charter-principles/ar-AA1WCag0",
+        "image": null,
+        "timestamp": 1771421534.0
+    },
+    {
         "title_fa": "احتمال قریب‌الوقوع جنگ میان آمریکا و ایران؛ درگیری‌ای که ممکن است هفته‌ها طول بکشد",
         "title_en": "US-Iran war could be imminent and take weeks, sources warn after latest nuclear talks",
         "summary": [
@@ -322,6 +394,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0d3LUhWeENQU0p4b3BGSkhDYUY1Y05TQ2w4TzhNTXBJY3YyMFJQaG5mYVhnR0Z4MnlrSklMeTEtY3pSTDlLck01NV9tdWp2WXFTTUlLbzBHM0JSNE4yQkhIWlFyU3BlX21ycHM1NG5Qc3dnNjFrei0teGlKV2hpQVY2WjY1TVVZa2NWMmdSWjl2WUo4UGwyX3l3NTJaT1VVNHI0aHZqSmd2bnR0UTVJdVM3cFo4UdIBuwFBVV95cUxQQnBvRnItcGVyRG1mbmZHdW1JenQ4V1JoakhXVUhKbllsVWNkbTJqdXB6Q3ByRDZMWlBkMldGQTBVWkw4N0dEZ1BJZlNjY0M0OUMzam04UWJBcUJNemhZWFkwMk9mT0s5aXhscUtrOWxhTDktVjlZYUdEZU9DYmhOVG54bjhOeDdqdDFBNjlMUkd2NzlZZ29lbkVwQ1IxTzZ5NGlrRnpIbXc3RlV2SlJYQkxqb3Z5RlhLbzJj",
         "image": null,
         "timestamp": 1771420738.0
+    },
+    {
+        "title_fa": "ترامپ جدول زمانی حمله به ایران را بررسی کرد — احتمال اقدام از این شنبه، تصمیم نهایی گرفته نشده است",
+        "title_en": "Trump has discussed timeline for Iran strikes — including as soon as this weekend — but no decision yet",
+        "summary": [
+            "مقامات ارشد امنیت ملی به دونالد ترامپ اطلاع داده‌اند که نیروهای نظامی آماده‌اند برای حمله به ایران حتی از شنبه وارد عمل شوند، اما رئیس‌جمهور هنوز تصمیم نهایی را اتخاذ نکرده و بحث‌ها جاری و متغیر توصیف می‌شوند.",
+            "پنتاگون در آستانه هرگونه عملیات، برخی نیروها را از خاورمیانه به اروپا یا آمریکا منتقل می‌کند؛ ناوگروه یو‌اس‌اس آبراهام لینکلن در منطقه حاضر است و یو‌اس‌اس جرالد فورد در مسیر است؛ منابع همچنین می‌گویند مارکو روبیو حدود دو هفته دیگر با بنیامین نتانیاهو دیدار خواهد کرد.",
+            "کارولین لیویت گفت دیپلماسی گزینه اول ترامپ است و به «عملیات موفق» ماه ژوئن اشاره کرد؛ علی خامنه‌ای تصویری تولیدشده با هوش مصنوعی از فرو رفتن ناو جرالد فورد در بستر دریا منتشر کرده است."
+        ],
+        "impact": "تهدید فوری نظامی و افزایش حضور دریایی در منطقه می‌تواند فشار خارجی و احتمال تحریم‌های شدیدتر را افزایش دهد، هزینه‌های اقتصادی و سیاسی را تشدید کند و در بلندمدت ثبات رژیم را تضعیف نماید.",
+        "tag": "تهاجم",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-possible-timeline-iran-strikes/",
+        "clean_url": "https://www.cbsnews.com/news/trump-possible-timeline-iran-strikes",
+        "image": null,
+        "timestamp": 1771420320.0
     },
     {
         "title_fa": "ثبات منطقه خلیج فارس تحت فشار",
@@ -5211,90 +5301,5 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWE9xdkFaSE4xSUxJVnBxZ0NzT09JNHdSanp1Tk9wcXN4Q2FxTjBIV2F4NHFRemh6aktPbXR4eGY1YW05cWh6cjlEbDROZk55NEx1VkNFSzUtRFRhQ3VtaG9IWjMzWjM3Y0wtaDZlZFF6SVNGTVZYMGtEUHpIUm1MeVF5U29WbFRwcWFpb2FNRWY5SkJFV2FxMFNqOHUzNG9uOTdGZlA2NXYydDFNMTJ4RnROdE5BYkUwVkFGaThmSFlTb1Ay?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1770922516.0
-    },
-    {
-        "title_fa": "تبریک وزیر خارجه اندونزی به «پیروزی انقلاب»؛ مشروعیت‌سازی برای رژیم به قیمت مردم ایران",
-        "title_en": "Indonesia FM congratulates Iran revolution victory anniv.",
-        "summary": [
-            "پیام تبریک رسمی به نام «مردم و دولت ایران» تبلیغی است که رژیم از آن برای تقویت وجهه بین‌المللی و سرپوش‌گذاری بر سرکوب و بحران‌های داخلی بهره می‌برد، نه نمادی از حمایت واقعی مردم معترض.",
-            "تشویق به «تقویت همکاری‌های دوجانبه» معمولاً به نفع نخبگان حکومتی و شبکه‌های غارت منابع و دور زدن تحریم‌ها تمام می‌شود؛ شهروندان ایران از تورم، بیکاری و نقض حقوق پایه‌ای آسیب می‌بینند و از این نوع تعاملات سودی نمی‌برند.",
-            "پشتیبانی سیاسی یا اخذ تبریک از سوی بازیگرانی که با روسیه، چین و کره‌شمالی در تعامل‌اند، عملاً امکان سرکوب داخلی و چرخه‌ی حمایت نظامی-اقتصادی از حکومت را تقویت می‌کند؛ جامعه بین‌الملل باید هرگونه همکاری با تهران را مشروط به رعایت حقوق بشر و پاسخگو کردن حکومت کند."
-        ],
-        "impact": "چنین تبریک‌هایی بلافاصله مشروعیت بین‌المللی می‌بخشند و می‌توانند روند پاسخگویی به نقض حقوق بشر و تلاش برای بازگرداندن حاکمیت ملی به مردم را تضعیف کنند.",
-        "tag": "مشروعیت‌سازی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241737/Indonesia-FM-congratulates-Iran-revolution-victory-anniv",
-        "image": "https://media.mehrnews.com/d/2026/02/12/4/5903365.jpg?ts=1770916591384",
-        "timestamp": 1770920460.0
-    },
-    {
-        "title_fa": "نتانیاهو درباره هرگونه توافق با ایران ابراز «شک» کرد",
-        "title_en": "Netanyahu expresses ‘skepticism’ on any deal with Iran",
-        "summary": [
-            "اظهارات نتانیاهو احتمال حصول توافق هسته‌ای یا کاهش تنش بین ایران و غرب را تضعیف کرده و مسیر مذاکرات را دشوارتر می‌سازد.",
-            "برای مردم ایران پیامد فوری استمرار تحریم‌ها و فشار اقتصادی است؛ در عین حال رژیم می‌تواند از این موضع خارجی به‌عنوان بهانه‌ای برای سرکوب داخلی و تحکیم جناح‌های سخت‌گیر بهره‌برداری کند.",
-            "اپوزیسیون ملی باید کاهش رنج مردم را اولویت دهد اما هرگونه پیگیری دیپلماسی را به تحقق تضمین‌های حقوق بشری و مراحل شفاف انتقال سیاسی مشروط کند تا توافق به مشروعیت‌بخشی رژیم منجر نشود."
-        ],
-        "impact": "این شک و تردید شانس توافق را کاهش می‌دهد و در کوتاه‌مدت فشار اقتصادی بر مردم را تشدید و منافع جناح‌های سرکوبگر حاکم را تقویت می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yT3pRdUNQYkpydGVBM01wZXFBcGZvMmtPMkU4MTQ3WTEzdVg5cmFiMDk4MDh6T2VzMWdOaDJNMlkzQzVFdWNaamZ1N1AwY2VzNUNkbUtSNzU4d0NLR1BPcmQ3RkZLakxRNy1lOHp5c1ZtNjV3NlpQLWZXTThlUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770920200.0
-    },
-    {
-        "title_fa": "وزیران حمل‌ونقل ایران و ازبکستان بر تقویت همکاری‌ها تاکید کردند",
-        "title_en": "Iran, Uzbekistan transport ministers stress boosting ties",
-        "summary": [
-            "در حاشیه نشست وزیران حمل‌ونقل سازمان کنفرانس اسلامی در استانبول وزیر راه و شهرسازی ایران فرزانه صادق با وزیر حمل‌ونقل ازبکستان ایلخوم محکم‌اف دیدار و یادداشت تفاهمی برای تهیه نقشه‌راه همکاری جاده‌ای و حذف «۴۰۰ دلار» عوارض امضا کردند؛ رسانه دولتی رشد ۱۱۷٪ تردد ناوگان ازبکستان به ایران و ۱۸٪ تردد ناوگان ایران به ازبکستان در سال ۲۰۲۵ را گزارش داده است.",
-            "اعداد درصدی اعلام‌شده می‌تواند گمراه‌کننده باشد — افزایش‌های بزرگ درصدی ممکن است از پایه‌های بسیار پایین محاسبه شده باشند و خبر هیچ رقم مطلقی از حجم تجارت، جزئیات عوارض حذف‌شده یا طرف‌های بهره‌مند اعلام نکرده است؛ متن کامل و شفاف یادداشت تفاهم منتشر نشده است.",
-            "در شرایط تحریم، کسری سرمایه‌گذاری در زیرساخت‌ها و بوروکراسی پیچیده، چنین توافقاتی به‌سرعت تبدیل به ابزار تبلیغاتی رژیم برای نشان دادن «دستاورد» و تلاش برای کسب درآمد ترانزیتی می‌شود و تضمینی برای حل مشکلات ساختاری یا بهبود ملموس معیشت مردم نیست."
-        ],
-        "impact": "بدون شفافیت درباره ارقام و اصلاحات ساختاری، این توافق‌ها احتمالاً بیشتر منفعت تبلیغاتی و درآمدزایی کوتاه‌مدت برای رژیم دارد تا کاهش واقعی هزینه‌ها یا بهبود معیشت شهروندان.",
-        "tag": "ترانزیت",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241729/Iran-Uzbekistan-transport-ministers-stress-boosting-ties",
-        "image": "https://media.mehrnews.com/d/2026/02/12/3/5903315.jpg?ts=1770907974780",
-        "timestamp": 1770913380.0
-    },
-    {
-        "title_fa": "چرا موشک‌های بالستیک ایران می‌توانند توازن قوا در غرب آسیا را تغییر دهند",
-        "title_en": "Why Iran's ballistic missiles could shift power balance in West Asia",
-        "summary": [
-            "تقویت زرادخانه بالستیک به رژیم امکان بازدارندگی و فشار منطقه‌ای و تقویت مشروعیت داخلی را می‌دهد، اما این قدرت عمدتاً برای بقا و تثبیت ساختار سرکوبگری حکومت هزینه می‌شود نه ارتقای رفاه مردم.",
-            "گسترش توان موشکی خطر مسابقه تسلیحاتی، برخورد نظامی احتمالی و تشدید تحریم‌ها را افزایش می‌دهد که پیامدهای اقتصادی و انسانی آن متوجه شهروندان ایرانی خواهد شد.",
-            "سرمایه‌گذاری سنگین در برنامه موشکی دیپلماسی سازنده و اصلاحات داخلی را تضعیف می‌کند؛ مردم ایران به امنیت اقتصادی و آزادی سیاسی نیاز دارند، نه نمایش‌های نظامی که بیشتر به تحکیم قدرت حکومتی می‌انجامد."
-        ],
-        "impact": "پیشروی موشکی رژیم ممکن است توازن منطقه‌ای را موقتاً به نفع حکومت تغییر دهد اما در عمل منافع و رفاه مردم ایران را کاهش داده و خطر بروز درگیری و فشارهای اقتصادی را افزایش می‌دهد.",
-        "tag": "موشک",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Federal",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2FfMWxKT0dnNldYajNGVDVxYmJMM295ZldIYXI5d0VWZlhPYmtOTEt2c0JwUXR4eEVIa3gyUEFmNWxBY1IyYldNaXRQcG55bXNrOVZ3c1FnSGJ5NTdTZ0NOV2xhWl9OSW9rN0NzQVktMFJLWEZvSmtKa0FQbDhkb0xvOG5oeWlhTUt5aEZsTV9OTDRxTlJkeWtZcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770912230.0
-    },
-    {
-        "title_fa": "اعلامیه اختصاصی: ورود مخفیانه هزاران ترمینال استارلینک به ایران پس از سرکوب اعتراضات",
-        "title_en": "Exclusive | U.S. Smuggled Thousands of Starlink Terminals Into Iran After Protest Crackdown",
-        "summary": [
-            "ایالات متحده به‌صورت مخفیانه هزاران ترمینال استارلینک به داخل ایران وارد کرده است تا پس از موج سرکوب اعتراضات، دسترسی مردم و رسانه‌های مستقل به اینترنت را تسهیل کند.",
-            "پیامدهای راهبردی: این اقدام توان رژیم در اعمال قطعِ اطلاعات و سانسور را تضعیف و ظرفیت سازماندهی و اطلاع‌رسانی مردم را تقویت می‌کند، اما هم‌زمان خطر شناسایی، بازداشت یا هدف‌گیری کاربران و واکنش سیاسی و تبلیغی رژیمِ سرکوبگر را افزایش می‌دهد؛ همچنین هم‌پیمانان رژیم (روسیه، چین، کره‌شمالی) می‌توانند با تامین فناوری‌های نظارتی و کمک‌های امنیتی، تلاش‌های سرکوب را تقویت کنند.",
-            "توصیه‌ها برای منافع ملی مردم: توزیع محرمانه و امن ترمینال‌ها، آموزش فشرده امنیت دیجیتال برای دریافت‌کنندگان، ایجاد کانال‌های پشتیبان و کدگذاری، مستندسازی نقض حقوق بشر با همکاری دیاسپورا و سازمان‌های حقوق بشری، و برنامه‌ریزی برای کاهش وابستگی طولانی‌مدت به کمک‌های خارجی."
-        ],
-        "impact": "این اقدام می‌تواند در کوتاه‌مدت قدرت اطلاع‌رسانی و سازماندهی مردمی را افزایش دهد اما ریسک موج جدیدی از سرکوب و مجازات گسترده علیه کاربران و فعالان داخلی را نیز به‌همراه دارد.",
-        "tag": "ارتباطات",
-        "urgency": 9,
-        "sentiment": 0.7,
-        "source": "The Wall Street Journal",
-        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQdWFmb0taSzh5YzJtTnUzaTBzZjRWOHRod1NjdU1aNmZ3cHAta0E1T04weDBiTmp2TldlX2x6eFBYd20tVHVDWkt5RHNMMTh6RzY2b1lwTnFfOVBfTTJ5ZTZ5T3pnSTVod0pVSk5DSzR5RGpzNzJkd3R0ZnZZQTlRa2phdk9pSHZCRDI5d2hNdF9YN2g3WXBta0hqVXprUm5aR0VtRll1YWxXbmh2eURNMV9ZUjJ0SEhRaDI4dEhRUXMyMGJZVjVscXo0WlpUN0lSaGVHOGpSZzI2LV9QYnkxVTQtWGdHREozd3luNkZzTDBUYUtVUlRvQ3VfVm5seE9EMDh4YUtRVE5UdlNRQlNqWnoxV2dqVzRaOHhzanppQ2pRM056alZyYU15R1lMM0xQcGN1SGJMellQNjZZSHhoUjVGWUpZcmU1ak9FTjdxUnAxSTVSVVBWMkhXOXR2VGtEazRETV9GZ0pNdE5GRnVBbGhUNl96MXJOUklJZnBtWUpQRHo2QVItSGJNYmtud0w5eVBjS05ZOWZHalFETXBzUk9FTnNQTjh3a0M5VEpsc0dmX21ELUQyMmRZSDljb1VvNC1zLXdLeDU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770912180.0
     }
 ]
