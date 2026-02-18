@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "کاهش قیمت نفت در پی نشانه‌های پیشرفت مذاکرات هسته‌ای میان آمریکا و ایران",
+        "title_en": "Oil Holds Drop as US and Iran Signal Progress in Nuclear Talks",
+        "summary": [
+            "قیمت نفت پایین ماند زیرا بازار به گزارش‌های «نشانه پیشرفت» در مذاکرات هسته‌ای واکنش نشان داده و انتظار افزایش احتمالی عرضه نفت ایران را منعکس می‌کند.",
+            "پیشرفت مذاکرات می‌تواند مسیر کاهش یا برداشتن بخشی از تحریم‌های نفتی را باز کند؛ این امر به‌صورت مشروط می‌تواند درآمدهای ارزی رژیم را بازیابی کند ولی تضمین‌کننده پایداری اقتصادی یا حل ریشه‌ای سوء‌مدیریت نیست.",
+            "برای جامعه داخلی، حتی در صورت بازگشت بخشی از درآمد نفتی، بهبود معیشت فوری نیست: ساختارهای فساد، مدیریت ضعیف و تخصیص نابرابر منابع احتمالاً نارضایتی اجتماعی را پابرجا نگه می‌دارند. "
+        ],
+        "impact": "نشانه‌های پیشرفت در مذاکرات احتمال کاهش فشار خارجی بر رژیم و بازگشت منابع مالی را ایجاد می‌کند، اما این روند به‌تنهایی ثبات سیاسی و ناکارآمدی اقتصادی ساختاری را رفع نخواهد کرد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSENXS0ctUjBHX0R6dUo2dTRDTl9paVRhcUVONXRvb2JybUJpQWExcjYyRTMtZ3Q2bFFSbjhyQXgxcHFHa3EwSzFBYnFmM2lnUVNqZGYwYW9pcGdtNUZWWlh1YW9rZndiN2szOV9BVjZNQlR2UjNHc3Q4TkpfWkM2OHFTckVJZ0x0VVlaWUliVGE5cGMwWWlxSHVRXzJzb2x3T1F6MHFEM0dIalI5VEE3WkpDMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSENXS0ctUjBHX0R6dUo2dTRDTl9paVRhcUVONXRvb2JybUJpQWExcjYyRTMtZ3Q2bFFSbjhyQXgxcHFHa3EwSzFBYnFmM2lnUVNqZGYwYW9pcGdtNUZWWlh1YW9rZndiN2szOV9BVjZNQlR2UjNHc3Q4TkpfWkM2OHFTckVJZ0x0VVlaWUliVGE5cGMwWWlxSHVRXzJzb2x3T1F6MHFEM0dIalI5VEE3WkpDMA",
+        "image": null,
+        "timestamp": 1771392360.0
+    },
+    {
+        "title_fa": "به زبان ترامپ: ایران توافق هسته‌ای را پیروزی «تریلیون دلاری» آمریکا جلوه داد",
+        "title_en": "Speaking Trump’s language: Iran frames nuclear deal as ‘trillion-dollar’ US win",
+        "summary": [
+            "تیتر SCMP می‌گوید جمهوری اسلامی توافق هسته‌ای را به‌عنوان «پیروزی تریلیون دلاری» برای آمریکا قالب‌بندی کرده؛ این روایت تبلیغاتی برای توجیه امتیازات مذاکره‌ای و دستاوردهای اقتصادی ادعاشده به‌کار می‌رود.",
+            "از منظر فشار خارجی و تحریم‌ها: اگر این چارچوب بازتاب واقعی توافق باشد، پذیرشِ مبادله کاهش تحریم‌ها در برابر محدودیت‌های هسته‌ای ممکن است فشار اقتصادی کوتاه‌مدت را کاهش دهد اما ساختار بنیادین ضعف‌های حکمرانی را حل نکرده و توان بقا را به طور ساختاری تضعیف نمی‌کند.",
+            "در سطح داخلی، ارائه توافق به‌عنوان برد بزرگ طرف آمریکایی می‌تواند مشروعیت سیاسی حکومت را کاهش دهد و نارضایتی میان ملی‌گرایان منتقد و لایه‌های اقتصادی آسیب‌پذیر را تشدید کند؛ این تاکتیک پیامدهای سیاسی معکوس خواهد داشت."
+        ],
+        "impact": "روایت «پیروزی تریلیون‌دلاری» ممکن است موقتا فشار اقتصادی را کم کند ولی با افزایش بی‌اعتمادی داخلی، دوام سیاسی حکومت را تضعیف می‌کند.",
+        "tag": "برجام",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWEwOUlmVkVfdVU0TzFaYXJEZjhBRHZqSTVBNFdQQVVSOUg5T3hyMnh0QkRBQi1iWlUyd3JOMzdjajBRUFl3Y3NqQWdGMHJiRGhzMnYtcG5oVGJnaUp6eElrbDJ0MlprTjdjN21meW9tT0FBc1ctUzU4blh6R0VjTF8xNkZUV01VbzNIVkdsNjZBTk9RUi0tVnRMcHpMbW1QcXJTMVM1TUlnN2ZI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWEwOUlmVkVfdVU0TzFaYXJEZjhBRHZqSTVBNFdQQVVSOUg5T3hyMnh0QkRBQi1iWlUyd3JOMzdjajBRUFl3Y3NqQWdGMHJiRGhzMnYtcG5oVGJnaUp6eElrbDJ0MlprTjdjN21meW9tT0FBc1ctUzU4blh6R0VjTF8xNkZUV01VbzNIVkdsNjZBTk9RUi0tVnRMcHpMbW1QcXJTMVM1TUlnN2ZI",
+        "image": null,
+        "timestamp": 1771389434.0
+    },
+    {
         "title_fa": "ایران: «راه روشن‌تری» به توافق هسته‌ای با آمریکا پس از مذاکرات ژنو در سایه تهدیدهای ترامپ",
         "title_en": "Iran says \"clearer path ahead\" to nuclear deal with U.S. after talks in Geneva under shadow of Trump's threats",
         "summary": [
@@ -304,6 +340,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-calls-talks-with-us-more-constructive-as-trumps-threat-looms/ar-AA1WwaAh",
         "image": null,
         "timestamp": 1771340627.0
+    },
+    {
+        "title_fa": "تعلیق مذاکرات ایران-آمریکا؛ خطر پایان صبر ترامپ و افزایش تنش در خلیج",
+        "title_en": "As Iran talks drag on, questions emerge over how long Trump will indulge diplomacy",
+        "summary": [
+            "گفت‌وگوهای غیرمستقیم در ژنو با وساطت عمان به «مجموعه‌ای از اصول راهنما» ختم شد؛ دامنه مباحث (هسته‌ای یا موشکی) نامشخص است و نمایندگان آمریکا از جزئیات بیشتر سخن گفتند—مقدمات مذاکرات ادامه دارد اما نتیجه مشخص نیست.",
+            "هم‌زمان با مذاکرات، ایران مانورهای موشکی کروز و شناور انجام داد که به بستن کوتاه‌مدت تنگه هرمز انجامید؛ این اقدام نه تنها تضعیف امنیت منطقه‌ای را نشان می‌دهد بلکه نشانه نگرانی رژیم و تلاش برای کسب اهرم فشاری در مذاکره است.",
+            "فضای سیاسی آمریکا ناهمگون است: مقام‌های کاخ سفید و متحدان منطقه‌ای (از جمله فشار نخست‌وزیر اسرائیل) هشدار داده‌اند که ترامپ هر زمان دیپلماسی را «به پایان طبیعی» خود برساند، اقدام نظامی را مجاز می‌داند؛ وعده ترامپ برای حمایت از معترضان ایرانی که تقریباً دو ماه قدمت دارد نیز نشان‌دهنده استمرار ناآرامی داخلی است."
+        ],
+        "impact": "مذاکرات فعلی ممکن است به رژیم مدتی تنفس بدهد، اما فشار خارجی همراه با مانورهای نظامی رژیم، ثبات داخلی را بیشتر تضعیف و خطر تقابل نظامی منطقه‌ای را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-talks-drag-questions-emerge-220402782.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-talks-drag-questions-emerge-220402782.html",
+        "image": "http://www.bing.com/th?id=OVFT.j9Tk87XBAtjXHOYef2Hrny&pid=News",
+        "timestamp": 1771339980.0
     },
     {
         "title_fa": "سؤال کلیدی در مذاکرات ایران: ترامپ تا چه‌وقت پنجره دیپلماتیک را باز نگه می‌دارد؟",
@@ -5165,54 +5219,5 @@
         "source": "South China Morning Post",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa21oQWRfUElHOHNPeDZ5SVMtWE9IZURkaDBOVVdrWm9uR0RqUXFGTXNkWlZRYlpxNGptanZSd0R3b0YtYmllWVlKajRSalpKbGlYOGJ0QUI4QXQyaXJwam5fa1dyMUdFOUY1RGg1RkMxTlgwWHN5bmloSmk1QUN3aDJ0dVFHaVFxTm5oSEdpZjgzN0NtWWZzaDN3UEpFYmNHOXRBZ1pfSUFJdl81d055ZklXN0I5VmVRTlZVSUx6Z9IBvwFBVV95cUxQNG1MRm52R1lYMXR2b0xMakVvUnN4R0E3d3dJZk5wanV2NTBmMjBsWHJNTHVnRGoyNFdLUFdvT29xVTZSbERJSk9QeHpaM0lRWms4OEJtQ1piaXM2SDduMGVfVXBCQ3cyREhyTk1Zbm1oby1iTnhfXzFncFhKLTBEbl82RC1Md2UwT21WZTB1c2w3c2lvRnRiU0poQzUyRkZaWXlWNy1GSmFuWnYzWFByU0swU3haNHdfZzRxVmZnSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
         "timestamp": 1770868814.0
-    },
-    {
-        "title_fa": "وزیر خارجه ایران روزنامه اسرائیلی را به‌خاطر گزارش اعدام‌های مخفی گسترده سرزنش کرد",
-        "title_en": "Iran’s FM berates Israeli daily over report of secret mass executions",
-        "summary": [
-            "روزنامه Israel Hayom مدعی شد اطلاعاتی حاکی از تیراندازی یا خفگی هزاران معترض بازداشت‌شده در هفته‌های اخیر وجود دارد.",
-            "عباس عراقچی این روزنامه را «دهان مریم ایدلسون» خواند و گزارش را تبلیغاتی و غیرقابل‌اعتماد خواند، واکنشی که به‌جای پاسخگویی جز تخفیف اتهامات نکرد.",
-            "از منظر منافع ملی و اپوزیسیون ملی، چنین اتهاماتی و تکذیب‌های نمایشی اعتبار بین‌المللی رژیم را تضعیف، بی‌اعتمادی داخلی را تشدید و نیاز به تحقیقات شفاف و پاسخگویی واقعی را فوری‌تر می‌کند."
-        ],
-        "impact": "این ادعاها و واکنش رسمی به جای بررسی شفاف، مشروعیت جمهوری اسلامی را زیر سوال برده و احتمال افزایش فشارهای حقوق‌بشری و تحریم‌های بین‌المللی و همزمان تشدید نارضایتی داخلی را افزایش می‌دهد.",
-        "tag": "سرکوب",
-        "urgency": 9,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-fm-berates-israeli-daily-over-report-of-secret-mass-executions/ar-AA1WcLMF",
-        "image": "http://www.bing.com/th?id=OVFT.JC5gJFYlbNndZKSZvrcugi&pid=News",
-        "timestamp": 1770865810.0
-    },
-    {
-        "title_fa": "ایران می‌گوید در صورت لغو همه تحریم‌ها می‌تواند اورانیوم غنی‌شده را رقیق کند",
-        "title_en": "Iran says it could dilute enriched uranium if all sanctions are lifted",
-        "summary": [
-            "رئیس سازمان انرژی اتمی اعلام کرده ایران حاضر است اورانیوم غنی‌شده تا سطح ۶۰٪ را در مقابل لغو کامل تحریم‌های مالی رقیق کند — نشانه‌ای مستقیم از موضع تهران در مذاکرات با آمریکا.",
-            "گفت‌وگوها از طریق واسطه عمانی برگزار شده و در بستر حضور نیروی دریایی آمریکا، تهدید نظامی و سرکوب خشونت‌آمیز اعتراضات داخلی قرار دارد؛ این عوامل اعتبار بین‌المللی و اهرم فشار رژیم را پیچیده می‌کند.",
-            "تهران بر حفظ «حقوق هسته‌ای» از جمله غنی‌سازی تأکید دارد و مذاکره درباره توانمندی موشکی را رد می‌کند؛ ابهام در مکان و سازوکار نظارت بر اورانیوم و تضمین اجرای لغو تحریم‌ها، ریسک‌های توافق را افزایش می‌دهد."
-        ],
-        "impact": "این موضع می‌تواند فرصت دیپلماتیک و کاهش ریسک نظامی فراهم کند، اما بدون تضمین‌های شفاف، نظارت بین‌المللی و شرط‌گذاری حقوق بشری، لغو تحریم‌ها ممکن است به تثبیت رژیمی که مردم را سرکوب می‌کند کمک کند.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/adviser-irans-supreme-leader-visit-093828626.html",
-        "image": "http://www.bing.com/th?id=OVFT.JH8koY8gKhmPOYj5pNg7RS&pid=News",
-        "timestamp": 1770865560.0
-    },
-    {
-        "title_fa": "بازگشت بیمار سرطانی فلسطینی که دو سال در مصر گیر مانده بود به غزه",
-        "title_en": "Israel-Palestine conflict",
-        "summary": [
-            "مریم، بیمار سرطانی فلسطینی که حدود دو سال در مصر معطل مانده بود، از طریق گذرگاه رفح به غزه بازگشت و خانواده‌اش دوباره گرد هم آمدند.",
-            "این بازگشت نشان‌دهنده هزینه‌های انسانی جنگ و محدودیت‌های عبور و مرور برای بیماران نیازمند درمان است؛ مواردی که دسترسی به مراقبت‌های حیاتی را در سایه درگیری اسرائیل و فلسطین دشوار می‌کند.",
-            "چنین رویدادهای انسانی، علاوه بر جلب همدردی بین‌المللی، فشار و نارضایتی داخلی را نسبت به اولویت‌های منطقه‌ای حکومت افزایش می‌دهد و می‌تواند نقشی در تضعیف پایه‌های مشروعیت رژیم ایفا کند."
-        ],
-        "impact": "بازگشت مریم می‌تواند حساسیت عمومی نسبت به هزینه‌های انسانی درگیری‌های منطقه‌ای را افزایش داده و نارضایتی از سیاست‌های داخلی و خارجی رژیم را تشدید کند.",
-        "tag": "غزه",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/tag/israel-palestine-conflict/",
-        "image": null,
-        "timestamp": 1770857880.0
     }
 ]
