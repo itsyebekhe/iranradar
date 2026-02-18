@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "جی‌دی ونس: ایران خطوط قرمز آمریکا را در مذاکرات هسته‌ای نخواهد پذیرفت",
+        "title_en": "JD Vance: Iran will not accept US red lines in nuclear talks",
+        "summary": [
+            "اظهارنظر جی‌دی ونس (منبع: جروزالم پست)؛ او می‌گوید ایران حاضر به پذیرش «خطوط قرمز» تعیین‌شده توسط آمریکا در مذاکرات هسته‌ای نیست.",
+            "این موضع نشان‌دهنده سخت‌تر شدن فضای مذاکرات و افزایش احتمال طولانی‌شدن گفتگوها و تداوم بن‌بست دیپلماتیک است؛ در کوتاه‌مدت راه‌حل‌های فنی یا سیاسی توافق را پیچیده‌تر می‌کند.",
+            "مقاله به‌طور مستقیم به تأثیرات داخلی یا تحریم‌ها اشاره نکرده؛ با این حال، اگر فشارهای خارجی و تحریم‌ها ادامه یابند، این وضعیت می‌تواند ساختار بقای رژیم را از نظر اقتصادی و سیاسی مشروطاً تضعیف کند—اما شواهد مستقیم در متن گزارش وجود ندارد."
+        ],
+        "impact": "اظهارنظر ونس ریسک پیچیده‌تر شدن روند مذاکرات هسته‌ای را افزایش می‌دهد و احتمال تداوم فشارهای بین‌المللی و بن‌بست سیاسی را بالا می‌برد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRk5GWjh0Ti01cWhwRFZrUTZURlFBMy1EZTRrYWJKdEVKOXNtdXRlUVdod3FFYjg3cVg1S3VwTmdaVFFuMUlKaUd3N3ZOcTc2a0t1aVNlSFh6RXJycmJEZDBGWWpMNWEzTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRk5GWjh0Ti01cWhwRFZrUTZURlFBMy1EZTRrYWJKdEVKOXNtdXRlUVdod3FFYjg3cVg1S3VwTmdaVFFuMUlKaUd3N3ZOcTc2a0t1aVNlSFh6RXJycmJEZDBGWWpMNWEzTFE",
+        "image": null,
+        "timestamp": 1771409826.0
+    },
+    {
+        "title_fa": "ترامپ به آستانه جنگی بزرگ با ایران نزدیک‌تر می‌شود",
+        "title_en": "Trump moves closer to a major war with Iran",
+        "summary": [
+            "تیتر نشان می‌دهد خطر تقابل نظامی مستقیم میان آمریکا و ایران افزایش یافته و حرکت ترامپ وضعیت را به سمت درگیری بزرگ‌تری سوق می‌دهد.",
+            "افزایش احتمال جنگ می‌تواند فشارهای خارجی و تحریم‌ها را تشدید کند و به‌طور ساختاری ثبات سیاسی و اقتصادی رژیم را تضعیف نماید.",
+            "هر تشدید نظامی بالقوه بار اقتصادی و اجتماعی بر مردم را سنگین‌تر می‌کند و احتمال گسترش نارضایتی و اختلالات داخلی را بالا می‌برد."
+        ],
+        "impact": "خطر فوری تشدید جنگ منطقه‌ای که ثبات سیاسی-اقتصادی ایران را تسریعاً فرسایش می‌دهد و فضای استراتژیک را علیه رژیم سخت‌تر می‌کند.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpXeDVxTU1STEhLVG41YkROQTAtZEdPMW40eFdrbmE2LUlFX2l4UXk3Njd4dWk4VndCM3JiS0t2TUN4RHhrdVVxaE9xM29XQ1dnVEdvdl9qSG94OHNOOWx1ZjlMV2N0OGZZX1FBVkFLNDkyaUhadkVlZ25ObkhOV2tjQ3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpXeDVxTU1STEhLVG41YkROQTAtZEdPMW40eFdrbmE2LUlFX2l4UXk3Njd4dWk4VndCM3JiS0t2TUN4RHhrdVVxaE9xM29XQ1dnVEdvdl9qSG94OHNOOWx1ZjlMV2N0OGZZX1FBVkFLNDkyaUhadkVlZ25ObkhOV2tjQ3c",
+        "image": null,
+        "timestamp": 1771408893.0
+    },
+    {
         "title_fa": "جک کین: گزینه محتمل مذاکرات آمریکا با ایران حمله جامع به رژیم است",
         "title_en": "Former US Army vice chief of staff General Jack Keane says the preferred and most likely option out of the US-Iran negotiations is a US “comprehensive attack” on the regime.",
         "summary": [
@@ -106,6 +142,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZT2JmMXdfRG9NODFWTm5nZFpiZWdGZVd5b1R2TjNvVUtFWmVJTWhiVWFIVUxvLWVobTNmUHFwbVgzdnlPdkR0OTZCd2RRQ2pBdVgwMVRCOFdrQ3U1NUstVUpqblVyeUJlLVRaeW1pYUhnWFpoUkxkMWVLZ2LSAYIBQVVfeXFMUGFaYV9zQjF0OElwT1p5Z0ttOXkwQklMcFdIVjF6VENFV3NManBnUHBWbG4tU3ZnVmRacmNOMDZvbXVTWjdCN2JrSDFkUmhQLW9vMENGVG5QSTFYRkxCR2VpQVNNZWJtUUlDTWhkUXBFS04xeDQ1ZTRSSkdRMzhwQmJ4QQ",
         "image": null,
         "timestamp": 1771386535.0
+    },
+    {
+        "title_fa": "مذاکرات ایران-آمریکا با «هماهنگی خامنه‌ای»؛ دور دوم گفت‌وگوها سازنده اما شکننده اعلام شد",
+        "title_en": "US-Iran Tensions Live Updates: Negotiations with US carried out with ‘utmost support, coordination of Khamenei’, says President Pezeshkian",
+        "summary": [
+            "رئیس‌جمهور پزشکیان اعلام کرد مذاکرات با «بالاترین حمایت و هماهنگی خامنه‌ای» انجام شده؛ عباس عراقچی آن را «سازنده» خواند و طرفین قرار گذاشتند روی پیش‌نویس متن یک توافق احتمالی کار کنند.",
+            "معاون رئیس‌جمهور آمریکا جی.دی. ونس هشدار داد ایران هنوز «خطوط قرمز» دونالد ترامپ را نپذیرفته و آمریکا امکان افزایش فشار یا استفاده از «گزینه دیگر» را مطرح کرده است؛ این نشان می‌دهد فشار ایالات متحده عامل مرکزی در فرایند مذاکره باقی مانده است.",
+            "تاکید رئیس‌جمهور بر هماهنگی با خامنه‌ای نمایانگر استمرار تصمیم‌گیری‌های متمرکز و بسته است؛ این ساختار هم انعطاف سیاسی لازم برای تسریع توافق را محدود می‌کند و هم توان رژیم در مدیریت مسائل اقتصادی و اجتماعی را تضعیف می‌کند."
+        ],
+        "impact": "مذاکرات مقدماتی ممکن است موقتاً فضای دیپلماتیک را باز کند اما تأکید بر هماهنگی با خامنه‌ای و پافشاری آمریکا روی خطوط قرمز، ثبات رژیم را شکننده نگه داشته و ریسک تشدید فشارها یا تنش نظامی را حفظ می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/world/iran-us-tensions-live-updates-tehran-washington-donald-trump-10538085/",
+        "clean_url": "https://indianexpress.com/article/world/iran-us-tensions-live-updates-tehran-washington-donald-trump-10538085",
+        "image": "http://www.bing.com/th?id=OVFT.jDqpvtyCsL64ahJkVCYoQS&pid=News",
+        "timestamp": 1771383480.0
     },
     {
         "title_fa": "ایران: «راه روشن‌تری» به توافق هسته‌ای با آمریکا پس از مذاکرات ژنو در سایه تهدیدهای ترامپ",
@@ -5192,50 +5246,5 @@
         "source": "Mehr News Agency",
         "url": "https://en.mehrnews.com/news/241714/Iran-s-trade-exchange-with-Africa-up-66-in-9-months",
         "timestamp": 1770882000.0
-    },
-    {
-        "title_fa": "لاریجانی اسرائیل را متهم به تلاش برای خراب‌کردن مذاکرات آمریکا کرد",
-        "title_en": "Iran’s Larijani accuses Israel of trying to sabotage US negotiations",
-        "summary": [
-            "علی لاریجانی اسرائیل را متهم کرد که در تلاش برای خراب‌کردن مذاکرات ایالات متحده است و این اتهام را به عنوان دلیل مشکلات دیپماتیک مطرح کرد.",
-            "این روایت نشان‌دهنده تکیه حکومت بر مخالف‌نمایی خارجی برای بسیج افکار عمومی و انتقال مسئولیت شکست مذاکرات از خود به بیرون است.",
-            "ادعای علنی علیه اسرائیل می‌تواند موجب افزایش بی‌اعتمادی در کانال‌های پنهان مذاکره با واشنگتن شود و فضای منطقه‌ای را برای حل و فصل دیپلماتیک پیچیده‌تر کند."
-        ],
-        "impact": "این اتهام اگر ادامه یابد، می‌تواند مواضع تهران را سخت‌تر کرده و شانس حل‌وفصل سریع تنش با آمریکا را کاهش دهد و مذاکرات منطقه‌ای را پیچیده‌تر سازد.",
-        "tag": "diplomacy",
-        "urgency": 6,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUZ2VTdNZGdwWnA0R29PVDdUemZpVVFNeGxkTlNpX3liM01vb25rQVMzYTdCbm5TN3hLVjBmQWFIdmJBQnVXV2JZMV95RWNLcElJOVZGVjFEZEFVSk9TMGRjc2tSTTgxUUF0SXU0VEdIaTg3dDlnWThnWHU3Nm91T1pJbnRMZ25SejdvOEVkYWVsZUNCNE5ub2k0Z0FOQjFYeURSREV2LVNNU2450gGyAUFVX3lxTE9mSmZkbWJBTXF4b1FLbkpENzAtemNqcUhMV0hMNmFUMHBGZ1ZISlVlODlhbHp2MlhVV2N0RFFPQ19XdHdNOUo0TmtfZkFqd1N0S05jOTNNN0FkY2pPaHlNNWREM1J1UVdoUGZfRHpheGlMc2hjMzlfSDZEd1dNdWg0X2JVTUxQMEhDNk9kWmVFWWEzQnZ2V09aaWRyeXZZNUJ6amdLT2E3cGFvTlpFQi1jcUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "timestamp": 1770881247.0
-    },
-    {
-        "title_fa": "فیدان: توافق هسته‌ای آمریکا و ایران در دسترس است؛ گسترش دامنه ریسک درگیری را افزایش می‌دهد",
-        "title_en": "US-Iran nuclear deal within reach; wider scope risks conflict: Fidan",
-        "summary": [
-            "هاکان فیدان اعلام کرده که دستیابی به یک توافق هسته‌ای میان آمریکا و ایران ممکن و در دسترس است.",
-            "او هشدار داده که گسترش دامنه مذاکرات به موضوعات منطقه‌ای یا موشکی می‌تواند خطر تنش و درگیری را افزایش دهد.",
-            "برای اپوزیسیون ایران، یک توافق محدود می‌تواند موجب رفع فشارهای اقتصادی و تقویت جایگاه رژیم شود و نیازمند اقدام فوری برای حفظ اهرم‌های فشار است."
-        ],
-        "impact": "یک توافق هسته‌ای محدود احتمالاً به‌سرعت فشارهای بین‌المللی را کاهش داده و توان بقا و تحرک سیاسی رژیم را تقویت می‌کند، در حالی که تلاش برای گسترش مذاکرات می‌تواند منطقه را به سمت تشدید تنش یا حتی درگیری سوق دهد.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "source": "Türkiye Today",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmlCQ0tieU41MzZhN09oSXhzc2o5eUZjdDJyRk1FOWo0YkRFNzVvMk9jaUpUd2d5SjhtVTRkNDBLNHRwQ0ZNT1BrOUliTzlIRnFjdnpuOTd3TUxlR3NSeTZjTUpJRF9IZDFPWkIwOHk2dy1DMTI5VGlwSUFHSFp1dXR6Vk1nUDVKWDNHM1lUSGV3UGVyMFI2R2tsRlg3Y0swcGdFM05kUWlmSXJsYlJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "timestamp": 1770881176.0
-    },
-    {
-        "title_fa": "حقوق، کرامت و عزت ایران غیرقابل معامله است: عراقچی",
-        "title_en": "Iran's rights, dignity, honor 'non-negotiable': Araghchi",
-        "summary": [
-            "Claims of “millions” and a “massive” turnout are state-propaganda tools; Tehran controls media, coerces attendance at official rallies, and uses such events to mask declining domestic legitimacy and suppress dissent.",
-            "Blaming “two nuclear-armed regimes” and an unspecified “massive terrorist operation” externalizes responsibility and manufactures a siege narrative to justify military buildups, proxy actions, and retaliatory postures without independent verification.",
-            "The rhetoric of relying on “our OWN people” and declaring rights “non‑negotiable” hides economic mismanagement and repression, while signalling a maximalist negotiating stance on the nuclear file that makes a realistic, reciprocal deal less likely."
-        ],
-        "impact": "This messaging is meant to consolidate domestic legitimacy and harden Iran’s bargaining position, increasing the likelihood of a diplomatic stalemate and regional escalation.",
-        "tag": "propaganda",
-        "urgency": 7,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241711/Iran-s-rights-dignity-honor-non-negotiable-Araghchi",
-        "timestamp": 1770879540.0
     }
 ]
