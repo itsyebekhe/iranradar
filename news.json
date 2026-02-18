@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "محدودیت‌های یک توافق آمریکا-ایران",
+        "title_en": "The Limits of a U.S.-Iran Deal",
+        "summary": [
+            "مقاله روی محدودیت‌های یک توافق احتمالی بین آمریکا و ایران تمرکز دارد و تأکید می‌کند که توافق به‌تنهایی قادر نیست اثرات ساختاری تحریم‌ها و فشار خارجی را به طور کامل جبران کند.",
+            "کاهش فشار خارجی ممکن است موقتا تنش‌های اقتصادی را تسکین دهد، اما مشکلات بنیادین مدیریت اقتصادی، کسری بودجه و ناکارآمدی حکمرانی را حل نخواهد کرد.",
+            "حتی در صورت انعقاد توافق، فضای سیاسی و اجتماعی ایران همچنان لغزنده خواهد ماند و خطر تداوم نارضایتی عمومی و بحران مشروعیت رژیم پابرجاست."
+        ],
+        "impact": "یک توافق محدود می‌تواند فشار بین‌المللی را تعدیل کند اما به‌تنهایی مانع تضعیف ساختاری و تشدید نارضایتی داخلی در ایران نخواهد شد.",
+        "tag": "توافق",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Gulf International Forum",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybl8tRXNVc3o0aUlQaEd0WWN0ZHpEMTdyTlBsd1A2RFZsVnJYdldrYWo3dVRtcnZVV1B1OExFWjJvUXBhZ3Bkam9IRUh1SllvelZZVzFqcGNqMWRpZXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybl8tRXNVc3o0aUlQaEd0WWN0ZHpEMTdyTlBsd1A2RFZsVnJYdldrYWo3dVRtcnZVV1B1OExFWjJvUXBhZ3Bkam9IRUh1SllvelZZVzFqcGNqMWRpZXc",
+        "image": null,
+        "timestamp": 1771421586.0
+    },
+    {
+        "title_fa": "ثبات منطقه خلیج فارس تحت فشار",
+        "title_en": "The Gulf Regional Stability under Strain",
+        "summary": [
+            "فشار فزاینده آمریکا و موضع مقابله‌جویانه ایران؛ دونالد ترامپ، رئیس‌جمهور آمریکا، ناوگان هواپیمابر یو‌اس‌اس آبراهام لینکلن را به خلیج فارس اعزام کرد و واشنگتن چهار موضوع اصلی—برنامه هسته‌ای، برد و توسعه موشک‌های بالیستیک، حمایت تهران از گروه‌های نیابتی و نحوه برخورد با معترضان—را به‌عنوان محور مذاکرات تعیین کرد.",
+            "ناآرامی‌های داخلی که از دسامبر ۲۰۲۵ با سقوط شتابان ارزش پول ملی آغاز شد، ضعف مدیریت اقتصادی و بحران مشروعیت حکومت را برجسته کرده؛ تهران دخالت خارجی از جمله آمریکا و اسرائیل را متهم می‌کند و در مقابل واشنگتن سرکوب معترضان را محکوم کرده است.",
+            "ایران اعلام آمادگی برای مذاکره درباره پرونده هسته‌ای دارد اما با گسترده‌تر کردن دستور کار—به‌ویژه مسئله موشک‌های بالیستیک—مخالف است؛ در غیاب نیروی هوایی مدرن، موشک‌های بالیستیک به‌عنوان ابزار بازدارنده اصلی باقی مانده که خود پتانسیل تشدید تنش را افزایش می‌دهد."
+        ],
+        "impact": "ترکیب فشار خارجی نظامی-سیاسی و بحران اقتصادی داخلی ثبات منطقه را آسیب‌پذیر کرده و احتمال سرریز تنش به تقابل نظامی یا تشدید بی‌ثباتی داخلی را افزایش می‌دهد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Manohar Parrikar Institute for Defence Studies and Analyses",
+        "url": "https://idsa.in/publisher/issuebrief/the-gulf-regional-stability-under-strain",
+        "clean_url": "https://idsa.in/publisher/issuebrief/the-gulf-regional-stability-under-strain",
+        "image": null,
+        "timestamp": 1771418040.0
+    },
+    {
         "title_fa": "وینس: ترامپ ابزارهای زیادی برای متوقف کردن ایران هسته‌ای دارد",
         "title_en": "Vance: Trump has ‘many tools’ to stop nuclear Iran",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByOWo4dDlpb3h3UXZDMVpXbFpGTjAwMTZWVldJMUlYalNQUlJtUnpGaUo0U0ZzaDNIRVBVZzBMeVJMLUsxNl80M3FEeG55c2VmcHp4UmluRVVHSTlIZWtEbVd0eHpqM19taXR6QllsS1ZGMnBQbjVN",
         "image": null,
         "timestamp": 1771413476.0
+    },
+    {
+        "title_fa": "گزارش: عملیات گسترده چندهفته‌ای آمریکا و اسرائیل علیه ایران ممکن است قریب‌الوقوع باشد",
+        "title_en": "Major, weeks-long US-Israel operation against Iran could be imminent — report",
+        "summary": [
+            "گزارش حاکی از آن است که یک عملیات نظامی بزرگ مشترک آمریکا و اسرائیل که ممکن است هفته‌ها به طول انجامد، در آستانه اجرا قرار دارد؛ تحقق آن سطح تقابل مستقیم را به‌طور چشمگیر افزایش می‌دهد.",
+            "یک عملیات طولانی‌مدت این‌چنینی ساختار استراتژیک رژیم را هدف می‌گیرد؛ افزایش فشار خارجی و خسارت به زیرساخت‌ها می‌تواند تضعیف ساختاری ثبات سیاسی و تنگنای مالی بلندمدت را شتاب دهد.",
+            "در عرصه داخلی، تشدید تهدیدهای نظامی و اقتصادی می‌تواند اختلال‌های بیشتر در بازارها و خدمات عمومی را رقم بزند و ضعف مدیریت حکومتی را برجسته کند؛ این وضعیت فضای نارضایتی و بی‌ثباتی را تقویت می‌کند."
+        ],
+        "impact": "احتمال اجرای چنین عملیاتی ریسک تشدید تقابل مستقیم، ضربه به توانمندی‌های اقتصادی-نظامی رژیم و افزایش شتاب بی‌ثباتی داخلی را به‌شدت بالا می‌برد.",
+        "tag": "درگیری",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUh5MUZnRi1zaDQxdEVJaldWZ0Z3RTdzdWp1czRyTko2aFZQd0dZRkpKSTFLMk8wODRzX2VRdVNneFdGSFg5Uk9rd2QxYS11eGJHZWlyNXcteXhxbGlZTDdFZU5tRmlBdHU1WUxUWGhBZ09CdWRWalRlNXk5T2JfZzgzMjFxTG95bDF6ZWdqUXZHbEhlN093SlFyUm51LVdwYTlqbHdIS2tCZW1MUGFNMHB1NDNoRUlOY2x5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUh5MUZnRi1zaDQxdEVJaldWZ0Z3RTdzdWp1czRyTko2aFZQd0dZRkpKSTFLMk8wODRzX2VRdVNneFdGSFg5Uk9rd2QxYS11eGJHZWlyNXcteXhxbGlZTDdFZU5tRmlBdHU1WUxUWGhBZ09CdWRWalRlNXk5T2JfZzgzMjFxTG95bDF6ZWdqUXZHbEhlN093SlFyUm51LVdwYTlqbHdIS2tCZW1MUGFNMHB1NDNoRUlOY2x5QQ",
+        "image": null,
+        "timestamp": 1771412813.0
     },
     {
         "title_fa": "«قبل از پرواز یک‌بار دیگر فکر کنید»: کارشناس هشدار می‌دهد که پس از گفتگوهای ژنو احتمال درگیری با ایران «بسیار نزدیک‌تر» شده است",
@@ -5207,53 +5261,5 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42cnlZTERILXV2bGxBTEo1VUtUS083WXprdEs4WERWRW1LRHhFbVpUOWNXdU5DM2JqdjVmSmV2U1Q1TTZMVzdReDMzM1RwWkFPclJwVy1BTE1iUkJ6dE9YN05FRzFBcVFHQ1E?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1770893382.0
-    },
-    {
-        "title_fa": "اقدامات تقویت دفاعی در نزدیکی سایت هسته‌ای کلیدی ایران در تصویر ماهواره‌ای ثبت شد",
-        "title_en": "Work to bolster defences near key Iran nuclear site captured in satellite image",
-        "summary": [
-            "تصاویر ماهواره‌ای نشان می‌دهد کارهایی برای تحکیم تدابیر دفاعی در اطراف یک تاسیسات هسته‌ای مهم ایران در حال انجام است.",
-            "به نظر می‌رسد این اقدام پاسخی به تهدیدات خارجی و تلاش برای محافظت از تجهیزات و نیروی انسانی است، اما ماهیت و مقیاس تحکیم‌ها نامشخص است.",
-            "نظامی‌سازی یا تحکیم سایت‌های هسته‌ای می‌تواند خطر هدف‌گیری، تشدید تنش با اسرائیل و غرب و توجیه اقدامات تهاجمی را افزایش دهد و هزینه‌های غیرضروری برای ملت به همراه دارد."
-        ],
-        "impact": "تحکیم دفاعی سایت هسته‌ای منافع ملی ایران را تهدید می‌کند زیرا احتمال حمله یا مداخله خارجی، افزایش تحریم‌ها و تضعیف جایگاه بین‌المللی کشور را بالا می‌برد.",
-        "tag": "تحکیم",
-        "urgency": 8,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xVld0OXV2R21TOWdJOGtkX2ZFZG9uaEFkODJGODVyQ3BXUmlhVXBLQWxXM0Z4MU1iRTB2VEFtYW1hRDUtZlZ5YVJOczFFUGZ6U1p5Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770892889.0
-    },
-    {
-        "title_fa": "ادعای تبلیغاتی: «پیوند دولت و ملت» در خیابان‌ها؟",
-        "title_en": "Iran's streets scene of bonds between nation and govt.",
-        "summary": [
-            "خبر رسمی ادعا می‌کند راهپیمایی ۲۲ بهمن نمایش پیوند ناگسستنی مردم و حکومت بود؛ این را نمی‌توان بی‌واسطه پذیرفت — گزارش‌ها و تجربیات گذشته نشان می‌دهد حضورهای حکومتی اغلب با بسیج سازمان‌یافته، فشار بر کارکنان و دانش‌آموزان و مدیریت رسانه‌ای همراه است و نه نشانه‌ای از رضایت آزاد و فراگیر مردم.",
-            "اهداف پنهان این پیام‌رسانی تبلیغاتی شامل بازسازی مشروعیت فرسوده داخل، ایجاد اهرم در مذاکرات خارجی و منحرف‌سازی افکار عمومی از بحران‌های اقتصادی و سیاسی است؛ نمایشی از «وحدت» که بیشتر برای مصرف داخلی و بین‌المللی طراحی شده تا حل مسائل واقعی کشور.",
-            "برای منافع ملی، تکیه بر چنین نمایش‌هایی خطرناک است: سرپوش گذاشتن بر مشکلات اقتصادی و مطالبات دمکراتیک، هدررفت سرمایه سیاسی و مالی، و افزایش بی‌اعتمادی اجتماعی که در بلندمدت ثبات و امنیت ملی را تضعیف می‌کند."
-        ],
-        "impact": "این روایت تبلیغاتی به منافع ملی آسیب می‌زند چون مشروعیت واقعی را مخدوش می‌کند و باعث می‌شود بحران‌های اقتصادی و سیاسی که نیازمند راه‌حل‌های اساسی‌اند، به تعویق بیفتند.",
-        "tag": "تبلیغات",
-        "urgency": 8,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241709/Iran-s-streets-scene-of-bonds-between-nation-and-govt",
-        "image": null,
-        "timestamp": 1770891840.0
-    },
-    {
-        "title_fa": "ویدئو از لاهور: بزرگ‌نمایی حمایت‌ها و انگیزه‌های تبلیغاتی جمهوری اسلامی",
-        "title_en": "VIDEO: People in Pakistan declare support for Iran Leader",
-        "summary": [
-            "این ویدئو صرفاً نماهایی از یک راهپیمایی محلی را نشان می‌دهد و هیچ دلیلی بر نمایندگی افکار عمومی گسترده در پاکستان ارائه نمی‌دهد؛ احتمالاً حاضرین توسط گروه‌های مذهبی و شبکه‌های سازمان‌یافته گرد هم آورده شده‌اند، نه بازتاب یک اجماع ملی.",
-            "هدف پنهان گزارش چنین رویدادی تقویت مشروعیت داخلی رژیم و نمایش نفوذ منطقه‌ای به‌عنوان اهرمی برای فشار دیپلماتیک و روانی علیه رقبا (از جمله اسرائیل و رقبای منطقه‌ای) است؛ این تصویرسازی برای مهار نارضایتی‌های داخلی و ارسال پیام به مخاطبان خارجی به‌کار می‌رود.",
-            "این نوع عملیات نمادین برای منافع ملی ایران پرریسک است: می‌تواند تنش‌های فرقه‌ای در پاکستان را تشدید کند، روابط اقتصادی و دیپلماتیک با اسلام‌آباد و متحدان منطقه‌ای را به مخاطره اندازد و به‌جای نفوذ پایدار، به افزایش هزینه‌های امنیتی و سیاسی منجر شود؛ راهبرد واقع‌بینانه‌تر تمرکز بر دیپلماسی اقتصادی و تعامل غیرمذهبی با همسایگان است."
-        ],
-        "impact": "پخش و بزرگ‌نمایی چنین تصاویر تبلیغاتی می‌تواند به عنوان توجیهی برای تشدید عملیات منطقه‌ای یا فشار دیپلماتیک به کار رود و در بلندمدت به تضعیف منافع و ثبات ایران بینجامد.",
-        "tag": "تبلیغات",
-        "urgency": 6,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241722/VIDEO-People-in-Pakistan-declare-support-for-Iran-Leader",
-        "image": null,
-        "timestamp": 1770891480.0
     }
 ]
