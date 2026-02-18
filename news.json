@@ -54,6 +54,24 @@
         "timestamp": 1771447915.0
     },
     {
+        "title_fa": "افزایش قیمت نفت همزمان با ارزیابی معامله‌گران از خطر درگیری آمریکا و ایران پس از مذاکرات",
+        "title_en": "Oil Rises as Traders Weigh Risk of US-Iran Conflict After Talks",
+        "summary": [
+            "قیمت نفت افزایش یافته زیرا معامله‌گران پس از مذاکرات اخیر احتمال بروز درگیری نظامی بین آمریکا و ایران را محتمل می‌دانند.",
+            "این افزایش نشان‌دهنده افزوده شدن پریمیوم ریسک عرضه به بازار است و باعث نوسان قیمت‌ها و واکنش سریع سرمایه‌گذاران در بازار انرژی شد.",
+            "در سطح داخلی، حتی اگر قیمت‌های بالاتر نفت درآمدهای کوتاه‌مدت را افزایش دهد، این شوک‌های خارجی قادر به جبران سوءمدیریت ساختاری و ضعف‌های اقتصادی رژیم نیستند و تشدید فشار خارجی می‌تواند شرایط سیاسی-اقتصادی را پیچیده‌تر کند."
+        ],
+        "impact": "افزایش ریسک ژئوپلیتیک قیمت نفت را بالا برده و اگر تنش‌ها تشدید شود، فشار خارجی و نوسانات درآمد نفتی می‌توانند ثبات سیاسی و اقتصادی ایران را بیشتر تضعیف کنند.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Hb05ORmdSVXRObUxsajhkSlJUbm4wbF9UeDlpQTJHRF96OWZaLXNVQ3hVVGV0X3pzYmRmb1kwR05odGVWOU9uaVVkanhPTkJTbzhVSm9BX2tHek1SQ3NvREd3djdzSS1oSll0akJfZjIyejI5LU93?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Hb05ORmdSVXRObUxsajhkSlJUbm4wbF9UeDlpQTJHRF96OWZaLXNVQ3hVVGV0X3pzYmRmb1kwR05odGVWOU9uaVVkanhPTkJTbzhVSm9BX2tHek1SQ3NvREd3djdzSS1oSll0akJfZjIyejI5LU93",
+        "image": null,
+        "timestamp": 1771446627.0
+    },
+    {
         "title_fa": "خامنه‌ای: ایران از سلاح کوتاه نمی‌آید؛ کابینه اسرائیل تشکیل جلسه داد؛ آمریکا دارایی‌ها را منتقل می‌کند",
         "title_en": "Khamenei: Iran won’t give up arms; Israel cabinet meets; US moves assets TV7 Israel News 18 Feb.",
         "summary": [
@@ -412,6 +430,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpXeDVxTU1STEhLVG41YkROQTAtZEdPMW40eFdrbmE2LUlFX2l4UXk3Njd4dWk4VndCM3JiS0t2TUN4RHhrdVVxaE9xM29XQ1dnVEdvdl9qSG94OHNOOWx1ZjlMV2N0OGZZX1FBVkFLNDkyaUhadkVlZ25ObkhOV2tjQ3c",
         "image": null,
         "timestamp": 1771408893.0
+    },
+    {
+        "title_fa": "تحویل Mi-28 و Su-35 روسیه ارتش فرسوده ایران را احیا نخواهد کرد",
+        "title_en": "Russian Mi-28s And Su-35s Won’t Revitalize Iran’s Dilapidated Military",
+        "summary": [
+            "گزارش می‌گوید تحویل گسترده و به‌موقع هلی‌کوپترهای Mi-28 و جنگنده‌های Su-35 از روسیه برای بازگرداندن فروپاشی خودساخته نیروی مسلح ایران خیلی کم و دیر است.",
+            "روسیه به‌عنوان تسهیل‌گر استراتژیک بقای رژیم با فروش تسلیحات فرصت‌زایی تاکتیکی می‌کند، اما این کمک‌ها قادر به جبران ضعف‌های ساختاری و پایدار نگه داشتن توان رزمی نیستند.",
+            "فرسودگی «خودساخته» ارتش نشانه ناکارآمدی مدیریتی در تخصیص منابع، کوتاهی در نگهداری و زنجیره تدارکات و ضعف در بازسازی توان ملی است که زمینه افزایش نارضایتی عمومی و تضعیف ثبات داخلی را فراهم می‌کند."
+        ],
+        "impact": "تحویل سلاح روسی تنها مرهمی کوتاه‌مدت است و نه تنها توان عملیاتی را بازیابی نمی‌کند بلکه آسیب‌پذیری داخلی و فشارهای سیاسی-اقتصادی بر رژیم را افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/pauliddon/2026/02/18/russian-mi-28s-and-su-35s-wont-revitalize-irans-dilapidated-military/",
+        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/02/18/russian-mi-28s-and-su-35s-wont-revitalize-irans-dilapidated-military",
+        "image": "http://www.bing.com/th?id=OVFT.DyTlqqpLTWuNIHkDaNrPkC&pid=News",
+        "timestamp": 1771406940.0
     },
     {
         "title_fa": "ایران و روسیه مانور دریایی در خلیج عمان و شمال اقیانوس هند برگزار می‌کنند",
@@ -5260,39 +5296,5 @@
         "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQdWFmb0taSzh5YzJtTnUzaTBzZjRWOHRod1NjdU1aNmZ3cHAta0E1T04weDBiTmp2TldlX2x6eFBYd20tVHVDWkt5RHNMMTh6RzY2b1lwTnFfOVBfTTJ5ZTZ5T3pnSTVod0pVSk5DSzR5RGpzNzJkd3R0ZnZZQTlRa2phdk9pSHZCRDI5d2hNdF9YN2g3WXBta0hqVXprUm5aR0VtRll1YWxXbmh2eURNMV9ZUjJ0SEhRaDI4dEhRUXMyMGJZVjVscXo0WlpUN0lSaGVHOGpSZzI2LV9QYnkxVTQtWGdHREozd3luNkZzTDBUYUtVUlRvQ3VfVm5seE9EMDh4YUtRVE5UdlNRQlNqWnoxV2dqVzRaOHhzanppQ2pRM056alZyYU15R1lMM0xQcGN1SGJMellQNjZZSHhoUjVGWUpZcmU1ak9FTjdxUnAxSTVSVVBWMkhXOXR2VGtEazRETV9GZ0pNdE5GRnVBbGhUNl96MXJOUklJZnBtWUpQRHo2QVItSGJNYmtud0w5eVBjS05ZOWZHalFETXBzUk9FTnNQTjh3a0M5VEpsc0dmX21ELUQyMmRZSDljb1VvNC1zLXdLeDU?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1770912180.0
-    },
-    {
-        "title_fa": "خشم بین‌المللی از انتخاب ایران به‌عنوان نایب‌رئیس کمیسیون سازمان ملل برای توسعه اجتماعی",
-        "title_en": "Uproar after Iran named vice-chair of UN body promoting democracy, women’s rights",
-        "summary": [
-            "ایران بدون هیچ‌گونه مخالفتی به‌عنوان نایب‌رئیس کمیسیون توسعه اجتماعی سازمان ملل انتخاب شد؛ مدافعان حقوق‌بشر این تصمیم را نفاق و تناقضی آشکار با ماموریت کمیسیون دانستند.",
-            "این انتصاب در حالی انجام شد که سازمان ملل به‌دلیل بی‌عملی نسبت به سرکوب خشونت‌آمیز اعتراض‌های دی و بهمن ۲۰۲۵/۲۰۲۶ در ایران و پیام تبریک دبیرکل به مناسبت سالگرد انقلاب مورد انتقاد قرار گرفته است.",
-            "اپوزیسیون و معترضان ایرانی این تصمیم را نمادی از ادامه ناکامی جامعه بین‌الملل در پیگیری پاسخ‌گویی رژیم می‌دانند و از آن برای برجسته‌سازی نقض گسترده حقوق زنان و آزادی‌های مدنی استفاده خواهند کرد."
-        ],
-        "impact": "این انتخاب اعتبار سازمان ملل را نزد افکار عمومی معترض ایران کاهش می‌دهد و خلأ بین‌المللی در مطالبه مسئولیت‌پذیری رژیم را برجسته می‌سازد.",
-        "tag": "بی‌اعتباری",
-        "urgency": 4,
-        "sentiment": -0.7,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/uproar-iran-named-vice-chair-212113885.html",
-        "image": null,
-        "timestamp": 1770909660.0
-    },
-    {
-        "title_fa": "آیا ایران در برنامه موشکی برای یک توافق کوتاه می‌آید؟",
-        "title_en": "Will Iran Budge On Missile Program For A Deal?",
-        "summary": [
-            "برنامه موشکیِ رژیم ابزاری برای مشروعیت‌نمایی منطقه‌ای و سرکوب داخلی است و کاهش آن صرفاً به سود مردم نخواهد بود مگر همراه با تضمین‌های شفاف و برگشت منافع.",
-            "روسیه، چین و کره‌شمالی با تأمین فناوری، پوشش سیاسی و بازار برای نفت و سلاح به بقای این برنامه و غارت منابع کشور برای تقویت دستگاه سرکوب کمک می‌کنند و باید به‌عنوان همدستان رژیم نگریسته شوند.",
-            "منافع ملی مردم ایران ایجاب می‌کند که هر توافق درباره موشک شامل نظارت بین‌المللی، الزام به شفافیت مالی و تعهد به باز‌سرمایه‌گذاری درآمدها در سلامت، آموزش و معیشت شهروندان باشد."
-        ],
-        "impact": "اگر توافق فقط منافع سیاسی و اقتصادی رژیم را تضمین کند، منابع مردم صرف قدرت‌نمایی و سرکوب خواهد شد و وضعیت اقتصادی-امنیتی شهروندان بدتر می‌شود.",
-        "tag": "موشک",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1ZVZ1JjTXFoemJ5dmZjUTBPWmprd0FfaU9ocG54WjZHdG14ZWFEQk9KMk93ZDhwN19SVHQwVEtqcWlxbFVKYlJhQW1VRDdfUGlfbzNIbUl5Rk5WZjFNTzc4Y01FZEZFQlZ5cGVvWEdfdDRhY3dpengwbUl4Rk9Zb01SUHBpSUo4SlJF0gGOAUFVX3lxTE9wNUlHYzlVWmdEbHhQb2RPcFB6em5qYXRjOGNaUWFDbkdZRUdBTlljbldpcmlBNlNzZEEwWFZpamNTUm1uTWxnUWxPMWFnYXFyZy1uT1FqeGYwZm5UaW5kTDRPVXVqYU5TYlNoYWNsb3lDOFZZVGJtX1MzUUhwLWNBNkJSeFB4dlR2NkRYbVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770909199.0
     }
 ]
