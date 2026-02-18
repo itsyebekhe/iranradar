@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "وینس: ترامپ ابزارهای زیادی برای متوقف کردن ایران هسته‌ای دارد",
+        "title_en": "Vance: Trump has ‘many tools’ to stop nuclear Iran",
+        "summary": [
+            "اظهارنظر وینس بر این ادعا تأکید می‌کند که ترامپ «ابزارهای متعدد» برای مقابله با برنامه هسته‌ای ایران دارد؛ این سخن نشان‌دهنده امکان به‌کارگیری فشارهای اقتصادی، دیپلماتیک و احتمالا اقدامات فراتر از دیپلماسی است.",
+            "تشدید فشارهای اعلامی می‌تواند ساختار اقتصادی آسیب‌پذیر ایران را بیشتر تضعیف کند و هزینه‌های مدیریتی و معیشتی را بالا ببرد؛ این فشارها به‌صورت بالقوه ثبات سیاسی را هدف قرار می‌دهند.",
+            "در صورت اجرای عملی این ابزارها، ضعف‌های ساختاری حکومت در اداره اقتصاد و امنیت داخلی برجسته می‌شوند و ظرفیتی برای افزایش نارضایتی عمومی فراهم می‌آورند؛ اما سطح و ماهیت اقدامات باید از منابع موثق تأیید شود."
+        ],
+        "impact": "این موضع‌گیری احتمال تشدید فشارهای اقتصادی و سیاسی آمریکا علیه ایران را افزایش می‌دهد و می‌تواند به تضعیف بیشتر ثبات داخلی رژیم منجر شود.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "JNS.org",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByOWo4dDlpb3h3UXZDMVpXbFpGTjAwMTZWVldJMUlYalNQUlJtUnpGaUo0U0ZzaDNIRVBVZzBMeVJMLUsxNl80M3FEeG55c2VmcHp4UmluRVVHSTlIZWtEbVd0eHpqM19taXR6QllsS1ZGMnBQbjVN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByOWo4dDlpb3h3UXZDMVpXbFpGTjAwMTZWVldJMUlYalNQUlJtUnpGaUo0U0ZzaDNIRVBVZzBMeVJMLUsxNl80M3FEeG55c2VmcHp4UmluRVVHSTlIZWtEbVd0eHpqM19taXR6QllsS1ZGMnBQbjVN",
+        "image": null,
+        "timestamp": 1771413476.0
+    },
+    {
+        "title_fa": "«قبل از پرواز یک‌بار دیگر فکر کنید»: کارشناس هشدار می‌دهد که پس از گفتگوهای ژنو احتمال درگیری با ایران «بسیار نزدیک‌تر» شده است",
+        "title_en": "'I would think twice about flying': Iran conflict 'much closer' post Geneva talks, expert warns",
+        "summary": [
+            "یک کارشناس در گزارش جی‌پست هشدار داده که درپی گفتگوهای ژنو خطر وقوع درگیری با ایران به‌مراتب نزدیک‌تر شده است.",
+            "او به‌طور خاص ریسک امنیتی خطوط هوایی و ایمنی پروازها را برجسته کرده و گفته است مسافران باید «دوبار فکر کنند» قبل از سوار شدن به هواپیما.",
+            "متن خبر رابطه علّی مستقیم یا شواهد مفصل درباره عوامل مؤثر را ارائه نمی‌دهد؛ هشدارها بیشتر بر افزایش احتمال تنش منطقه‌ای مبتنی‌اند."
+        ],
+        "impact": "هشدار کارشناس می‌تواند ظرف کوتاه‌مدت به افزایش احتیاط در حمل‌ونقل هوایی و تقویت نگرانی‌ها درباره تشدید تنش‌های منطقه‌ای منجر شود.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZVlnTlJPaVFUMXNnckk4LVlqUUdJaW12U3ZjRU1QTFgweklXTERjVHZlQzhkUlBVWXRlY2lVVkt6VkZIdkxXSEp2MDEwLWZSWTZiX3RPVWVpSGF2WnBRYjhTdFBKbzE3X3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZVlnTlJPaVFUMXNnckk4LVlqUUdJaW12U3ZjRU1QTFgweklXTERjVHZlQzhkUlBVWXRlY2lVVkt6VkZIdkxXSEp2MDEwLWZSWTZiX3RPVWVpSGF2WnBRYjhTdFBKbzE3X3c",
+        "image": null,
+        "timestamp": 1771411558.0
+    },
+    {
         "title_fa": "جی‌دی ونس: ایران خطوط قرمز آمریکا را در مذاکرات هسته‌ای نخواهد پذیرفت",
         "title_en": "JD Vance: Iran will not accept US red lines in nuclear talks",
         "summary": [
@@ -34,6 +70,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpXeDVxTU1STEhLVG41YkROQTAtZEdPMW40eFdrbmE2LUlFX2l4UXk3Njd4dWk4VndCM3JiS0t2TUN4RHhrdVVxaE9xM29XQ1dnVEdvdl9qSG94OHNOOWx1ZjlMV2N0OGZZX1FBVkFLNDkyaUhadkVlZ25ObkhOV2tjQ3c",
         "image": null,
         "timestamp": 1771408893.0
+    },
+    {
+        "title_fa": "ایران و روسیه مانور دریایی در خلیج عمان و شمال اقیانوس هند برگزار می‌کنند",
+        "title_en": "Iran and Russia to conduct navy drill in Gulf of Oman and northern Indian Ocean",
+        "summary": [
+            "طبق گزارش، ایران و روسیه قرار است مانور دریایی مشترک در خلیج عمان و قسمت شمالی اقیانوس هند برگزار کنند.",
+            "حضور روسیه به‌عنوان تأمین‌کننده و هم‌پیمان راهبردی تفسیر می‌شود؛ چنین همکاری‌هایی ابزار تهران برای کاهش انزوای بین‌المللی و نمایش قابلیت‌های نظامی فراتر از تنگه هرمز است.",
+            "صرف منابع و توجه به نمایش نظامی در شرایط تحریم و بحران اقتصادی نشانه سوءمدیریت است و می‌تواند نارضایتی عمومی را افزایش دهد؛ مانورها قادر به رفع آسیب‌های ساختاری تحریم‌ها نیستند."
+        ],
+        "impact": "این مانور با اتکا به پشتیبانی روسیه پیامی سیاسی-نظامی به دنبال دارد اما توان کاستن از فشار تحریم‌ها و مشکلات اقتصادی داخلی را ندارد و ممکن است نارضایتی داخلی را تشدید کند.",
+        "tag": "روسیه",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzFGWjJhbjJnR1lRUUxGcmhFV0s0ckNkMUx0b0V0dUVlYjRfczl2N0lzOVZVaDRZTGxicWFZOWVPS0wyZ2QyNW1wZWxEMkZGcUV2c0tlVk1pRlNwRkcxZ2h3NWVWU2VfUmttRDBTMktmT0hTUktRV1lXekNscll5WS0xUGZxalNVZUROeEw1bkVUYVdLNUtPNUlHNGJYNzdpaURKOWV5WU13VWVJdldyd0RIYlJPeVJ5M1dUS1F5U3hJQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzFGWjJhbjJnR1lRUUxGcmhFV0s0ckNkMUx0b0V0dUVlYjRfczl2N0lzOVZVaDRZTGxicWFZOWVPS0wyZ2QyNW1wZWxEMkZGcUV2c0tlVk1pRlNwRkcxZ2h3NWVWU2VfUmttRDBTMktmT0hTUktRV1lXekNscll5WS0xUGZxalNVZUROeEw1bkVUYVdLNUtPNUlHNGJYNzdpaURKOWV5WU13VWVJdldyd0RIYlJPeVJ5M1dUS1F5U3hJQQ",
+        "image": null,
+        "timestamp": 1771405263.0
     },
     {
         "title_fa": "جک کین: گزینه محتمل مذاکرات آمریکا با ایران حمله جامع به رژیم است",
@@ -142,6 +196,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZT2JmMXdfRG9NODFWTm5nZFpiZWdGZVd5b1R2TjNvVUtFWmVJTWhiVWFIVUxvLWVobTNmUHFwbVgzdnlPdkR0OTZCd2RRQ2pBdVgwMVRCOFdrQ3U1NUstVUpqblVyeUJlLVRaeW1pYUhnWFpoUkxkMWVLZ2LSAYIBQVVfeXFMUGFaYV9zQjF0OElwT1p5Z0ttOXkwQklMcFdIVjF6VENFV3NManBnUHBWbG4tU3ZnVmRacmNOMDZvbXVTWjdCN2JrSDFkUmhQLW9vMENGVG5QSTFYRkxCR2VpQVNNZWJtUUlDTWhkUXBFS04xeDQ1ZTRSSkdRMzhwQmJ4QQ",
         "image": null,
         "timestamp": 1771386535.0
+    },
+    {
+        "title_fa": "ادعای وزیر خارجه عمان: «پیشرفت خوب» در دور دوم مذاکرات هسته‌ای ایران و آمریکا",
+        "title_en": "Iran, US made 'good progress' in second round of nuclear talks",
+        "summary": [
+            "وزیر خارجه عمان گفت در دور دوم مذاکرات هسته‌ای در ژنو بین ایران و آمریکا پیشرفت «خوبی» حاصل شده؛ گزارش رسمی دیگر جزئیات بیشتری ارائه نمی‌دهد.",
+            "هرگونه پیشرفت دیپلماتیک که به کاهش فشار تحریمی بینجامد، می‌تواند به‌طور ساختاری توان بقای سیاسی رژیم را تقویت کند؛ کاهش فشار اقتصادی احتمالاً اثر مستقیم بر ثبات داخلی خواهد داشت.",
+            "بدون داده‌های تکمیلی نمیتوان تأثیر دقیق داخلی را ارزیابی کرد؛ با این وجود سابقه سوءمدیریت اقتصادی و نارضایتی عمومی نشان می‌دهد هر بهبود اقتصادی محتمل است موقتی باشد و رژیم از آن برای محکم‌تر کردن موقعیت سیاسی خود بهره‌برداری کند."
+        ],
+        "impact": "پیشرفت گزارش‌شده می‌تواند مسیر کاهش تحریم‌ها و تقویت موقت ثبات اقتصادی-سیاسی رژیم را باز کند، اما شواهد فعلی ناکافی و زمینه‌های نارضایتی ساختاری پابرجاست.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/iran-us-made-good-progress-second-round-nuclear-talks",
+        "clean_url": "https://www.newarab.com/news/iran-us-made-good-progress-second-round-nuclear-talks",
+        "image": "http://www.bing.com/th?id=OVFT.lI7GWYuOhP9dtb0eX_49wy&pid=News",
+        "timestamp": 1771386180.0
     },
     {
         "title_fa": "مذاکرات ایران-آمریکا با «هماهنگی خامنه‌ای»؛ دور دوم گفت‌وگوها سازنده اما شکننده اعلام شد",
@@ -5183,68 +5255,5 @@
         "url": "https://en.mehrnews.com/news/241722/VIDEO-People-in-Pakistan-declare-support-for-Iran-Leader",
         "image": null,
         "timestamp": 1770891480.0
-    },
-    {
-        "title_fa": "گزارش‌ها: پنتاگون سلاح لیزری به گمرک و حفاظت مرزی آمریکا داد که تعطیلی فضای هوایی ال‌پاسو را موجب شد",
-        "title_en": "Pentagon reportedly gave Customs and Border Protection laser weapon that triggered El Paso airspace shutdown – as it happened",
-        "summary": [
-            "گزارش‌ها حاکی است پنتاگون سلاح لیزری را به سازمان گمرک و حفاظت مرزی آمریکا (CBP) تحویل داده که ظاهراً موجب تعطیلی موقت فضای هوایی ال‌پاسو شد.",
-            "این رخداد نشان‌دهنده انتقال فناوری نظامی به نهادهای انتظامی داخلی و کمبود شفافیت و رویه‌های کنترلی است؛ پیامدها شامل مخاطرات ایمنی پروازی و نگرانی‌های حقوق بشری است.",
-            "برای ایران این حادثه هشدار است: عادی‌سازی استفاده داخلی از سلاح‌های پیشرفته می‌تواند مقررات کنترل صادرات فناوری را تضعیف کرده و رقابت ژئوپلیتیکی و انتشار فناوری‌های حساس را تشدید کند."
-        ],
-        "impact": "برای منافع ملی ایران این موضوع اهمیت بالایی دارد چون تضعیف هنجارهای کنترل فناوری و گسترش استفاده داخلی از سلاح‌های پیشرفته می‌تواند به تسریع انتشار فناوری‌های حساس، افزایش رقابت جهانی و فشار بر سیاست‌های صادراتی منجر شود.",
-        "tag": "لیزر",
-        "urgency": 6,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdks2cTRYTy13Z0ZJY0l3SGVDUFlFdHpMMDNXcVJsSDJ1dFItTzEwMjJkMmY4cVZYems1dG9jZ0hxU0pObFdBd01aY25fTzJvMjVORThET1pDWGtKN3l3ZFFkZHNjR3E5OF9sbEVQT09IaWotN3RrSUgwZzN6WkdpSTlEZlV1LTRTVHBJTl9JRjgwbWtCVl9wZUMwVGhDY21rQjF5U1B0OHhOR0hPWHU0UWh2R2N5T2NBaklBeUdhWGt5X3pMeEhYNktMbFFJM0xqMWRMdnU2d0tscm9sUkF2ckh3dWFDc3dKUXJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770889326.0
-    },
-    {
-        "title_fa": "امیدها برای پیشرفت در مذاکرات هسته‌ای ایران و آمریکا",
-        "title_en": "Hopes of Iran-US breakthrough in nuclear talks",
-        "summary": [
-            "ابراز خوش‌بینی نسبت به امکان «پیشرفت» در مذاکرات، اما جزئیات عملی و شروط دوطرف همچنان مبهم و محل اختلاف است.",
-            "موانع ساختاری شامل اختلاف بر سر زمان‌بندی، سطح نظارت آژانس، مکانیسم لغو تحریم‌ها و فشار سیاست داخلی آمریکا و بازیگران منطقه‌ای می‌تواند روند را کند کند.",
-            "برای جریان‌های ملی‌گرا و مخالف رژیم: هر توافق سریع با لغو تحریم‌ها می‌تواند منابع مالی و مشروعیت سیاسی به رژیم بدهد و ریسک تشدید سرکوب را افزایش دهد، در عین حال فرصت محدودی برای پیگیری حقوق‌بشر و فشارهای بین‌المللی ایجاد می‌کند."
-        ],
-        "impact": "توافق احتمالی می‌تواند به‌سرعت بخش‌هایی از تحریم‌ها را کاهش دهد و منابع مالی و ظرفیت سرکوب رژیم را افزایش دهد که برای اپوزیسیون داخلی و خارج کشور تهدیدی جدی است.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "source": "The New Arab",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HdWxZV1MtVFpuM0N2U1lISmlNOTJ1RGtoRTdJUjVXLXJpMnp5TXNWZzVlWG9zWk02V2RWenNIazVacHJGUDZMXzZiQ0pNUkZBNndReUFYd2ZUOUhPckFBcWh3OUh1cUk1U3RQX2wzZVM1aWV3YkZ3ZNIBfkFVX3lxTE1fYWQ3SEF1ZmpXYUQxMTRzblM1dzBTdVdpWXVJNEg5azRkSHZkcWo4UkdYOUNJZEp5bGI3a3o2dy1EOHk3MHlMaEh0UG9iYnNXb2x4aktuVWUyV19USkh4SjZuZFZSdkRKNGtJU3FZbkxDMzlwTm5DcmxUT3g4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770886783.0
-    },
-    {
-        "title_fa": "ادعای «حق غنی‌سازی»؛ پوششی برای فرار از پاسخگویی و افزایش ریسک امنیتی",
-        "title_en": "Iran has right to enrich uranium as NPT member",
-        "summary": [
-            "خبر برگزیده در قالب پیروزی دیپلماتیک، گزارهٔ نادرستی را پنهان می‌کند: بله، NPT و آژانس به غنی‌سازی «صلح‌آمیز» حق می‌دهند، اما این حق مشروط به نظارت فراگیر، رعایت تعهدات پادمانی و تضمین عدم انحراف مواد به مصارف نظامی است — گزارهٔ خبر از این شروط کلیدی چشم‌پوشی می‌کند.",
-            "اهداف پنهان گزارش دولتی: 1) مصادرهٔ اظهارنظر گِروسی برای مشروعیت بخشیدن به برنامهٔ هسته‌ای، 2) انتقال تقصیر حملات و پیامدها به طرف خارجی (آمریکا/اسرائیل/آژانس) و 3) توجیه قانونی کردن موانع نظارتی با تأکید بر قانون مجلس و اختیار شورای عالی امنیت ملی تا دسترسی بازرسان را محدود کند.",
-            "تحلیل منافع ملی و توصیه راهبردی: تداوم غنی‌سازی بدون شفافیت و محدودیت‌های قابل تایید بین‌المللی، منافع ملی را تضعیف می‌کند — راه بهتر، بازگشت به مذاکرات برای محدودیت‌های قابل راستی‌آزمایی، تضمین دسترسی آژانس به سایت‌های آسیب‌دیده، کاهش ذخایر با غنای بالا و سیاست دفاعی و دیپلماتیک برای کاهش احتمال حمله است."
-        ],
-        "impact": "ترویج این روایت‌ها می‌تواند موجب افزایش تنش منطقه‌ای، تقویت بهانه‌های بین‌المللی برای تحریم یا حمله نظامی و کاهش امکان به‌دست‌آوردن امتیازات اقتصادی و حقوقی برای ایران شود.",
-        "tag": "تبلیغات",
-        "urgency": 8,
-        "source": "en.mehrnews",
-        "url": "https://en.mehrnews.com/news/241721/Iran-has-right-to-enrich-uranium-as-NPT-member",
-        "image": null,
-        "timestamp": 1770885420.0
-    },
-    {
-        "title_fa": "رشد ۶۶٪ تجارت ایران با آفریقا — روایت رسمی زیر ذره‌بین",
-        "title_en": "Iran's trade exchange with Africa up 66% in 9 months",
-        "summary": [
-            "آمار گمراه‌کننده: اعلام «رشد ۶۶٪» بدون ارائه شرح پایه مقایسه، تجزیه صادرات/واردات/بازصادرات یا سهم هر کشور است؛ رقم کل ۹۴۰ میلیون دلار در ۹ ماه برای ۳۹ کشور در سطح کلان ناچیز است و ممکن است ناشی از پایه پایین سال قبل یا ثبت مجدد کالاها باشد.",
-            "اهداف سیاسی و تبلیغاتی: این گزارش ابزار تبلیغاتی رژیم برای نشان‌دادن «پیروزی اقتصادی»، ایجاد خوراک رسانه‌ای پیش از نشست‌ها و تحکیم مشروعیت داخلی است — در واقعیت، تلاش برای منحرف‌کردن توجه از تورم، بیکاری و کاهش قدرت خرید مردم است.",
-            "پیامدهای ژئواکونومی و امنیتی: تمرکز بر آفریقا می‌تواند بخشی از راهبرد دورزدن تحریم‌ها (معاملات تهاتری، قراردادهای فاقد شفافیت، دخالت نهادهای نظامی/بنیادها) باشد که ریسک وابستگی سیاسی، فساد و تحریم‌های ثانویه را افزایش می‌دهد."
-        ],
-        "impact": "اثر اقتصادی واقعی محدود و نمادین است، اما پیامد سیاسی و خطر استفاده از مسیرهای آفریقایی برای دورزدن تحریم‌ها قابل توجه است.",
-        "tag": "تبلیغات",
-        "urgency": 5,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241714/Iran-s-trade-exchange-with-Africa-up-66-in-9-months",
-        "timestamp": 1770882000.0
     }
 ]
