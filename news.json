@@ -180,6 +180,24 @@
         "timestamp": 1771344367.0
     },
     {
+        "title_fa": "بستن تنگه هرمز توسط سپاه برای اولین‌بار از دهه ۱۹۸۰",
+        "title_en": "Iran closes Strait of Hormuz for first time since 1980s",
+        "summary": [
+            "سپاه بخش‌هایی از تنگه هرمز را برای مانورهای شلیک زنده بست؛ تصاویر پخش‌شده، پرتاب موشک کروز را نشان می‌دهد و این نخستین اقدام از این نوع از دهه ۱۹۸۰ است، هم‌زمان با تقویت حضور نظامی آمریکا (گروه ضربتی ناوهای هواپیمابر USS Abraham Lincoln و USS Gerald R Ford).",
+            "مذاکرات ژنو نتایج کامل نداشت؛ عباس عراقچی، وزیر امور خارجه معرفی‌شده در گزارش، گفت ایران ظرف دو هفته با پیشنهادهای جزئی‌تر بازخواهد گشت؛ اقدام نظامی در تنگه به‌وضوح تلاشی برای افزایش اهرم فشار در برابر درخواست‌های رفع تحریم‌هاست. ",
+            "بستن تنگه سیگنالی از اولویت‌دادن به نمایش نیروی نظامی به‌جای اصلاحات اقتصادی و دیپلماتیک است؛ این رفتار ریسک برخورد مستقیم با آمریکا و شوک به جریان تجارت نفت (حدود ۲۱ درصدِ سوخت جهان از این مسیر) را بالا می‌برد و ضعف مدیریتی رژیم را برجسته می‌کند."
+        ],
+        "impact": "اقدام سپاه، ثبات منطقه‌ای و موقعیت چانه‌زنی تهران را تضعیف می‌کند و احتمال تقابل نظامی با واشنگتن و تشدید فشارهای اقتصادی را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-join-iran-talks-indirectly-103806369.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-join-iran-talks-indirectly-103806369.html",
+        "image": "http://www.bing.com/th?id=OVFT.CqgXYX7jlzkunZzIarGnti&pid=News",
+        "timestamp": 1771342140.0
+    },
+    {
         "title_fa": "وزیر خارجه: آمریکا و ایران در مذاکرات ژنو «پیشرفت خوبی» داشته‌اند",
         "title_en": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
         "summary": [
@@ -5186,22 +5204,5 @@
         "source": "Bing News",
         "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=698d83921630484aa94dfb2a60cb7204&url=https%3a%2f%2fwww.wsws.org%2fen%2farticles%2f2026%2f02%2f12%2fwali-f12.html&c=17650569600593829879&mkt=en-us",
         "timestamp": 1770848220.0
-    },
-    {
-        "title_fa": "ترامپ در آستانه تقویت رژیم ایران — با وجود فشار نتانیاهو",
-        "title_en": "Trump is poised to reinforce Iran’s regime — despite Netanyahu’s pressure",
-        "summary": [
-            "تقویت احتمالی رژیم از سوی ترامپ به معنای بازگرداندن مشروعیت و منابع اقتصادی به نهادهای فاسدِ داخل ایران (به‌ویژه سپاه پاسداران) است؛ این منابع نه به مردم که صرف پروژه‌های نظامی، شبکه‌های نیابتی و غارت عمومی خواهند شد.",
-            "نادیده‌گرفتن فشار نتانیاهو خطر تضعیفِ اهرم‌های بین‌المللی علیه رژیم را دارد: رژیم با بهره‌گیری از هرگونه تعامل می‌تواند انزوای سیاسی خود را کاهش دهد در حالی که سرکوب داخلی و صادرات تروریسم را ادامه می‌دهد.",
-            "منافع ملی ایران ایجاب می‌کند هر نوع نزدیکی خارجی مشروط به پایان سرکوب داخلی، قطع حمایت از تروریسم منطقه‌ای و شفاف‌سازی اقتصادی باشد؛ مخالفان ملی باید برای جلوگیری از انتقال ثروت عمومی به مافیای حکومتی متحد شوند."
-        ],
-        "impact": "تقویت رژیم به قیمت ملت ایران تمام می‌شود: سرکوب ادامه می‌یابد، فساد و فقر تشدید می‌شود و منابع ملی در خدمت سپاه و آقازاده‌ها قرار می‌گیرد.",
-        "tag": "هشدار",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Forward",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RZVk5TkFPWFJ5ODRuVmFKeXYwOVFVcldzOGlBUnpvclYxS0gxaXpOTkJIYzhZU1V2ZThYOFN2eXJSNkhQYXVtUXVFZVlDM0RHY1MxeXFJRlBiX3ZWYkt0UTVibWRTWVR0djNWRXF2aUhCRTRlYmtrWmR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 22:14:01 GMT",
-        "timestamp": 1770848041.0
     }
 ]
