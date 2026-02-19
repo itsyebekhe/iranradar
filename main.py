@@ -434,8 +434,8 @@ class IranNewsRadar:
             market_text = f"💵 <b>دلار:</b> {mkt.get('usd')} | 🛢 <b>نفت:</b> {mkt.get('oil')}"
         except: market_text = ""
 
-        # 2. Setup Proxies as Text
-        proxies = self.fetch_best_proxies()
+        # 2. Setup Proxies as Text (Limited to 6 to save text space)
+        proxies = self.fetch_best_proxies()[:4] 
         proxy_text = ""
         if proxies:
             proxy_text = "\n\n🌐 <b>پروکسی‌های فعال تلگرام:</b>\n"
@@ -448,7 +448,7 @@ class IranNewsRadar:
                 tg_url = p.get('tg_url', '#')
                 proxy_items.append(f"🛡 <a href='{tg_url}'>{proxy_name}</a> ({latency}ms)")
             
-            # Group by 2 per line to save vertical space
+            # Group by 2 per line
             for i in range(0, len(proxy_items), 2):
                 proxy_text += " | ".join(proxy_items[i:i+2]) + "\n"
 
@@ -458,8 +458,10 @@ class IranNewsRadar:
         # 4. Find the best image for the Telegram Link Preview
         preview_url = ""
         for item in items:
-            if item.get('image'):
-                preview_url = item.get('image')
+            img = item.get('image', '')
+            # Ensure we don't accidentally embed a massive Base64 data string
+            if img and isinstance(img, str) and not img.startswith('data:'):
+                preview_url = img
                 break
         if not preview_url and items:
             preview_url = items[0].get('url', '')
@@ -483,7 +485,7 @@ class IranNewsRadar:
             url = item.get('url', '')
             source = html.escape(str(item.get('source', 'Unknown')))
             
-            is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'presstv', 'mehr'])
+            is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
             if is_regime: source += " (رسانه حکومتی 🚫)"
 
             urgency = item.get('urgency', 3)
@@ -521,15 +523,19 @@ class IranNewsRadar:
         messages_to_send = []
         current_msg = header + headlines_text + "\n➖➖➖➖➖➖➖➖➖➖\n📝 <b>تحلیل و بررسی:</b>\n\n"
 
-        for block in analysis_blocks:
-            # We account for the length of proxy_text and tags_text so they don't break the limit
-            if len(current_msg) + len(block) + len(tags_text) + len(proxy_text) + len(footer) > 3900:
+        for i, block in enumerate(analysis_blocks):
+            # FIXED LOGIC: Only calculate proxy text weight if we are on the very last block
+            is_last_block = (i == len(analysis_blocks) - 1)
+            suffix_len = len(tags_text) + len(proxy_text) + len(footer) if is_last_block else len(footer)
+
+            # Max Telegram limit is 4096. 4000 is a safe threshold.
+            if len(current_msg) + len(block) + suffix_len > 4000:
                 messages_to_send.append(current_msg + footer)
                 current_msg = f"📝 <b>ادامه تحلیل و بررسی:</b>\n\n" + block
             else:
                 current_msg += block
 
-        # Add tags and proxies to the very last message chunk
+        # Add tags and proxies safely to the final chunk
         current_msg += tags_text + proxy_text
         messages_to_send.append(current_msg + footer)
 
