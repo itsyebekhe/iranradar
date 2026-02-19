@@ -41,10 +41,10 @@ CONFIG = {
 }
 
 PROXY_NAMES = [
-    "Kourosh", "Dariush", "Kaveh", "Rostam", "Arash", "Siavash", "Babak", 
-    "Khashayar", "Sorena", "Ariobarzan", "Mithra", "Anahita", "Faridun", 
-    "Jamshid", "Zal", "Bahram", "Shapur", "Artaban", "Pirooz", "Maziar",
-    "Tahmineh", "Gordafarid", "Cassandan", "Atusa", "Roxana", "Mandana"
+    "کوروش", "داریوش", "کاوه", "رستم", "آرش", "سیاوش", "بابک", 
+    "خشایار", "سورنا", "آریوبرزن", "میترا", "آناهیتا", "فریدون", 
+    "جمشید", "زال", "بهرام", "شاپور", "آرتابان", "پیروز", "مازیار",
+    "تهمینه", "گردآفرید", "سهراب", "آتوسا", "رکسانا", "ماندانا"
 ]
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -434,39 +434,36 @@ class IranNewsRadar:
             market_text = f"💵 <b>دلار:</b> {mkt.get('usd')} | 🛢 <b>نفت:</b> {mkt.get('oil')}"
         except: market_text = ""
 
-        # 2. Setup Proxies Keyboard
+        # 2. Setup Proxies as Text
         proxies = self.fetch_best_proxies()
-        reply_markup = None
+        proxy_text = ""
         if proxies:
-            keyboard = []
-            row = []
+            proxy_text = "\n\n🌐 <b>پروکسی‌های فعال تلگرام:</b>\n"
             names_pool = random.sample(PROXY_NAMES, min(len(proxies), len(PROXY_NAMES)))
+            proxy_items = []
+            
             for i, p in enumerate(proxies):
                 proxy_name = names_pool[i]
                 latency = p.get('latency', '?')
-                btn_text = f"🛡 {proxy_name} ({latency}ms)"
-                row.append({"text": btn_text, "url": p['tg_url']})
-                if len(row) == 1:
-                    keyboard.append(row)
-                    row = []
-            if row: keyboard.append(row)
-            reply_markup = {"inline_keyboard": keyboard}
+                tg_url = p.get('tg_url', '#')
+                proxy_items.append(f"🛡 <a href='{tg_url}'>{proxy_name}</a> ({latency}ms)")
+            
+            # Group by 2 per line to save vertical space
+            for i in range(0, len(proxy_items), 2):
+                proxy_text += " | ".join(proxy_items[i:i+2]) + "\n"
 
-        # 3. Sort items by urgency so the most important is first
+        # 3. Sort items by urgency
         items.sort(key=lambda x: x['urgency'], reverse=True)
 
         # 4. Find the best image for the Telegram Link Preview
-        # We loop through sorted items to find the first one with an image
         preview_url = ""
         for item in items:
             if item.get('image'):
                 preview_url = item.get('image')
                 break
-        # Fallback to the first item's URL if no images exist at all
         if not preview_url and items:
             preview_url = items[0].get('url', '')
 
-        # Hidden zero-width character to force Telegram to use this specific image/link for the preview
         hidden_preview = f"<a href='{preview_url}'>&#8205;</a>" if preview_url else ""
 
         # 5. Time & Headers
@@ -476,7 +473,6 @@ class IranNewsRadar:
         header = f"{hidden_preview}🚨 <b>رادار اخبار مهم ایران</b> | ⏱ {ir_time}\n{market_text}\n➖➖➖➖➖➖➖➖➖➖\n\n"
         footer = "\n🆔 @RasadAIOfficial\n📊 <a href='https://itsyebekhe.github.io/rasadai/'>مشاهده اخبار بیشتر در سایت</a>"
 
-        # Helper to convert English numbers to Farsi numbers
         def to_farsi_num(num):
             return str(num).translate(str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹'))
 
@@ -487,7 +483,7 @@ class IranNewsRadar:
             url = item.get('url', '')
             source = html.escape(str(item.get('source', 'Unknown')))
             
-            is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
+            is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'presstv', 'mehr'])
             if is_regime: source += " (رسانه حکومتی 🚫)"
 
             urgency = item.get('urgency', 3)
@@ -508,7 +504,6 @@ class IranNewsRadar:
             if isinstance(summary_raw, str): summary_raw = [summary_raw]
             safe_summary = "\n".join([f"▪️ {html.escape(str(s))}" for s in summary_raw])
             
-            # Collect unique tags
             tag = str(item.get('tag', 'General')).replace(' ', '_')
             all_tags.add(f"#{html.escape(tag)}")
 
@@ -522,36 +517,33 @@ class IranNewsRadar:
 
         tags_text = " ".join(all_tags) + "\n"
 
-        # --- PART C: Message Chunking (Telegram Length Limits) ---
+        # --- PART C: Message Chunking ---
         messages_to_send = []
         current_msg = header + headlines_text + "\n➖➖➖➖➖➖➖➖➖➖\n📝 <b>تحلیل و بررسی:</b>\n\n"
 
         for block in analysis_blocks:
-            if len(current_msg) + len(block) + len(tags_text) + len(footer) > 3900:
+            # We account for the length of proxy_text and tags_text so they don't break the limit
+            if len(current_msg) + len(block) + len(tags_text) + len(proxy_text) + len(footer) > 3900:
                 messages_to_send.append(current_msg + footer)
                 current_msg = f"📝 <b>ادامه تحلیل و بررسی:</b>\n\n" + block
             else:
                 current_msg += block
 
-        current_msg += tags_text
+        # Add tags and proxies to the very last message chunk
+        current_msg += tags_text + proxy_text
         messages_to_send.append(current_msg + footer)
 
         # --- PART D: Send Messages ---
         api_url = f"https://api.telegram.org/bot{token}/sendMessage"
         sc = cloudscraper.create_scraper()
         
-        for i, msg in enumerate(messages_to_send):
-            # ENABLED web page preview
+        for msg in messages_to_send:
             payload = {
                 "chat_id": chat_id, 
                 "text": msg, 
                 "parse_mode": "HTML", 
                 "disable_web_page_preview": False 
             }
-            
-            # Only add proxy buttons to the very last message
-            if i == len(messages_to_send) - 1 and reply_markup:
-                payload["reply_markup"] = reply_markup
             
             try:
                 sc.post(api_url, json=payload)
