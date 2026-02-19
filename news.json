@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "منطق نامشخص ترامپ در آستانه کشیده‌شدن به جنگ با ایران",
+        "title_en": "Trump's rationale is still opaque as he slides closer to war with Iran",
+        "summary": [
+            "ایالات متحده ممکن است در آستانه اجرای اقدام نظامی باشد؛ تصمیمی که منطق آن برای ناظران و حتی متحدان آمریکا همچنان مبهم است.",
+            "اگر عملیات اجرا شود، این مهم‌ترین نقطه عطف در تقریباً نیم‌قرن تقابل با رژیم خواهد بود و احتمال گسترش و تشدید تنش‌های منطقه‌ای را بالا می‌برد.",
+            "پیامدهای داخلی برای رژیم نامشخص است اما به‌احتمال زیاد با افزایش سرکوب امنیتی، تشدید کنترل‌های داخلی و رشد نارضایتی عمومی همراه خواهد شد."
+        ],
+        "impact": "حمله نظامی آمریکا می‌تواند فشار خارجی و اقتصادی را تشدید کند و ساختار سیاسی-اقتصادی رژیم را به‌طور قابل‌توجهی تضعیف نماید.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/trump-s-rationale-is-still-opaque-as-he-slides-closer-to-war-with-iran/ar-AA1WDvLn",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-s-rationale-is-still-opaque-as-he-slides-closer-to-war-with-iran/ar-AA1WDvLn",
+        "image": null,
+        "timestamp": 1771480440.0
+    },
+    {
         "title_fa": "پنتاگون تسلیحات بیشتری به خاورمیانه می‌فرستد برای احتمال حمله به ایران",
         "title_en": "U.S. military pushes more weaponry into the Middle East for possible strikes on Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-military-pushes-more-weaponry-into-the-middle-east-for-possible-strikes-on-iran/ar-AA1WDN4I",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260203-uss-abraham-lincoln-vl-414p-0a7131.jpg",
         "timestamp": 1771474903.0
+    },
+    {
+        "title_fa": "کاخ سفید: ایران «عاقلانه» است که به توافق تن دهد؛ آمریکا حضور نظامی‌اش را افزایش می‌دهد",
+        "title_en": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
+        "summary": [
+            "کاخ سفید از ایران خواسته «عاقلانه» عمل کند و وارد توافق شود، در حالی که ایالات متحده حضور نظامی خود در منطقه را افزایش داده است.",
+            "ترکیب پیام دیپلماتیکِ دعوت به توافق و تقویت حضور نظامی واشنگتن، تلاشی‌ست برای افزایش اهرم فشار و محدود کردن فضای مانور رژیم ایران.",
+            "از منظر داخلی، افزایش فشار خارجی می‌تواند معضلات اقتصادی و سیاسی رژیم را تشدید کند و آن را بین پذیرش امتیاز یا مواجهه با تشدید تنش‌ها قرار دهد."
+        ],
+        "impact": "افزایش همزمان فشار دیپلماتیک و ظرفیت نظامی آمریکا موقعیت اقتصادی-سیاسی رژیم را تضعیف کرده و آن را به پذیرش امتیازات بیشتر یا ورود به تنش‌های خطرناک‌تر سوق می‌دهد.",
+        "tag": "فشار",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zeFlnbkpXaEcwWVctYXM0R2hBMTJzM210NzluZjcxcFdXTFROcC1sa1ZQRnVaQXBkbll2cjZseDgwdWVyWTVtWEdnUjdUSVg0RDVIdHN0eGcyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zeFlnbkpXaEcwWVctYXM0R2hBMTJzM210NzluZjcxcFdXTFROcC1sa1ZQRnVaQXBkbll2cjZseDgwdWVyWTVtWEdnUjdUSVg0RDVIdHN0eGcyQQ",
+        "image": null,
+        "timestamp": 1771473926.0
     },
     {
         "title_fa": "آمریکا آماده‌سازی‌ها برای حمله به ایران را تسریع می‌کند و برای درگیری طولانی‌مدت آماده می‌شود",
@@ -52,6 +88,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzNxR3htNUoyQXBhdF95VVhCVW5lbmUxSUlNUDBNV2E1bEprdWZldVVkd0hIRFpyUlFhRU5oelJ6Nk1aNHl1MHRNSDNsWF96XzI4TGRRbWtxek1LUFd4Wmlad2ZNQnhDeHN2XzBlX0JKTllfajdyY0x0TnlHYmJmSkRNQ3ZGRFFKOVhaSlNCZnJTemlOeHEwMjR0dVRQMlFBSTdtRURLRFRjZi1JYm9uedIBtgFBVV95cUxOTUd4RjNoYTlQcnJ3TWhtZnpZZHZoQ3FkNFhQRjZLMzI4MnVaaUQ0R1BxbFFtZDR4ZjV1YUhZdnJqQ2tlSldERmpTTjNDd2w4RHQzQnJlTzJEdDRvZWxtTFA3TU9NTjV4TktoR0VhMDNad0hPMHRPVHRUOTlEa0VJTHNCaEFKWEE4TjNoMFQ2UTdadEFnVjIyVUFLSkNBanllWW9zdC1Wb1BzSE0wSUs0YW01NXJUZw",
         "image": null,
         "timestamp": 1771471231.0
+    },
+    {
+        "title_fa": "ارتش آمریکا برای حمله احتمالی به ایران آماده است؛ ترامپ هنوز تصمیم نگرفته",
+        "title_en": "US military ready for possible Iran strikes but Trump yet to make decision, reports say",
+        "summary": [
+            "گزارش‌ها: فرماندهی نظامی آمریکا در وضعیت آماده‌باش برای اجرای حملات بالقوه علیه اهداف ایرانی است، اما رئیس‌جمهور ترامپ هنوز به تصمیم نهایی نرسیده است.",
+            "فشار و تهدید نظامی مستقیم، حتی در غیاب حمله، بر ساختارهای بقا و مشروعیت رژیم فشار می‌آورد: افزایش انزوای بین‌المللی، اختلال در روابط اقتصادی و خلق ظرفیت برای اعمال فشار بیشتر تحریمی و دیپلماتیک.",
+            "پیامدهای داخلی قابل‌پیش‌بینی شامل افزایش هزینه‌های اقتصادی، فشار بر مدیریت بحران و احتمال تشدید نارضایتی اجتماعی است؛ هرچند فعلاً شواهد قطعی از موج‌های اعتراضی جدید در خبر گزارش نشده است."
+        ],
+        "impact": "آماده‌باش نظامی آمریکا، حتی بدون تصمیم به حمله، فضای بین‌المللی را علیه حکومت تنگ‌تر می‌کند و توان مدیریتی و اقتصادی رژیم را بیش از پیش تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWpQVWRUbTRVSDlIY2F6OW5SYjU2MV9HSHBidGxVSzZ3NTRrdnFfWGVoNENNaE9GOXRUQzk4ZU9fUk1QaTVlWHlvaDUtWjhGNVJtWUdRTUxJblEwdWxyOUFXa1lzazVSSUNwOHFielBGZ2xvQ0hvVXhrY3gxZTVSUHAtYlM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWpQVWRUbTRVSDlIY2F6OW5SYjU2MV9HSHBidGxVSzZ3NTRrdnFfWGVoNENNaE9GOXRUQzk4ZU9fUk1QaTVlWHlvaDUtWjhGNVJtWUdRTUxJblEwdWxyOUFXa1lzazVSSUNwOHFielBGZ2xvQ0hvVXhrY3gxZTVSUHAtYlM",
+        "image": null,
+        "timestamp": 1771469700.0
     },
     {
         "title_fa": "در حالی که ترامپ حمله احتمالی به ایران را بررسی می‌کند، ارتش آمریکا موقعیت می‌گیرد",
@@ -142,6 +196,24 @@
         "clean_url": "https://www.npr.org/2026/02/18/nx-s1-5718248/u-s-military-buildup-continues-as-iran-faces-possible-strikes",
         "image": null,
         "timestamp": 1771451700.0
+    },
+    {
+        "title_fa": "زلزله ۵.۵ ریشتری جنوب ایران",
+        "title_en": "Iran Earthquake: 5.5 Magnitude Tremors Jolt Southern Iran",
+        "summary": [
+            "زلزله‌ای به بزرگی ۵.۵ در مقیاس ریشتر صبح پنج‌شنبه ساعت ۷:۱۳ به‌وقت محلی جنوب ایران را لرزاند؛ گزارش اولیه از مرکز تحقیقاتی ژئوفیزیک آلمان (GFZ) است.",
+            "تا زمان انتشار خبر، اطلاعاتی درباره تلفات یا خسارت‌های گسترده اعلام نشده؛ با این حال بزرگی ۵.۵ می‌تواند خطر پس‌لرزه و آسیب به سازه‌های آسیب‌پذیر را افزایش دهد.",
+            "ضرورت انجام ارزیابی میدانی سریع و اعلام آماده‌باش برای واحدهای امدادی و مدیریت بحران محلی به‌منظور جلوگیری از تشدید خسارات وجود دارد."
+        ],
+        "impact": "امکان بروز خسارت محلی و ضرورت واکنش فوری دستگاه‌های امدادی برای ارزیابی و کاهش خطر مطرح است.",
+        "tag": "زلزله",
+        "urgency": 3,
+        "sentiment": -0.1,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-earthquake-5-5-magnitude-tremors-jolt-southern-iran-article-153642128",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-earthquake-5-5-magnitude-tremors-jolt-southern-iran-article-153642128",
+        "image": null,
+        "timestamp": 1771449840.0
     },
     {
         "title_fa": "این تمرین نیست: آمریکا در آماده‌سازی نظامی گسترده؛ تهدید بمباران ایران افزایش یافته",
@@ -5242,73 +5314,5 @@
         "url": "https://www.msn.com/en-us/news/world/trump-tells-troops-fear-is-powerful-motivator-in-difficult-iran-talks/ar-AA1WjGOW?ocid=BingNewsVerp",
         "image": "https://www.bing.com/th?id=OVFT.X8BflHiYp-LmSL8OhJOt1S",
         "timestamp": 1770940788.0
-    },
-    {
-        "title_fa": "ترامپ علاقه‌مندی به توافق با ایران را نشان داد",
-        "title_en": "Trump signals interest in Iran deal",
-        "summary": [
-            "ترامپ سیگنالی مبنی بر علاقه‌مندی به مذاکره یا توافق با ایران ارسال کرده است.",
-            "این اعلام علاقه در چارچوب رخدادهای دیپلماتیکِ جاری قرار دارد و می‌تواند جهت‌گیریِ سیاست فشار و تحریم علیه تهران را تحت تأثیر قرار دهد.",
-            "برای مخالفان داخل ایران، هر حرکت دیپلماتیک آمریکا می‌تواند هم اهرم‌های بین‌المللی را تغییر دهد و هم فضای سیاسی داخلی را باز کند تا ناکامی‌های رژیم بیشتر برجسته شود."
-        ],
-        "impact": "ابراز تمایل ترامپ به مذاکره درباره توافق با ایران می‌تواند موازنه فشار خارجی را تغییر دهد و در کنار تداوم خواسته‌های مردمی، فرصت‌های سیاسی جدیدی علیه قبضه قدرت رژیم فراهم کند.",
-        "tag": "توافق",
-        "urgency": 3,
-        "sentiment": 0.25,
-        "source": "Diplomatic, by Laura Rozen",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDlEY3NIdWxfZzdJWnNTUXpYOFJ1UzQ1Wkx0NXR3YWlPbWY1bHkyZmtiTUVPZ3dzUVRRWmRMSmVqZVE3NDBlYlFFbXJESFhzNDhKS0RaWndhQjdQQ09lWjJianBBdWNvT2hzUXVFOURuZW5sZ1JmRnAyeEg1aHZ4TTcxMFJaR1lXR25hX3Vleng4Wm1TWlJHazBfZllWMUd0ZjI5UHdhWDRndzRQTlRsWGxCWVVTdFVfSXcxRDNTRm9CY2gtVmhZYWhhRVRDeksxSFRB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770939965.0
-    },
-    {
-        "title_fa": "اپوزیسیون تقسیم‌شده ایران",
-        "title_en": "Iran’s Divided Opposition",
-        "summary": [
-            "نویسندگان وضعیت کنونی اپوزیسیون ایران را پراکنده و فاقد رهبری متحد توصیف می‌کنند.",
-            "این تفرقه توانایی مخالفت مؤثر با رژیم تهران را تضعیف می‌کند و امکان بهره‌برداری حکومت از اختلافات را فراهم می‌سازد.",
-            "مقاله بر ضرورت ایجاد ائتلاف‌های عملی و هم‌راستا کردن استراتژی‌ها برای تبدیل اعتراضات به نیروی اثرگذار سیاسی تأکید می‌کند."
-        ],
-        "impact": "تفرق اپوزیسیون روند تغییر سیاسی را کند کرده و فعلاً به حفظ قدرت رژیم کمک می‌کند.",
-        "tag": "اپوزیسیون",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/iran/irans-divided-opposition",
-        "image": null,
-        "timestamp": 1770938580.0
-    },
-    {
-        "title_fa": "ویدیو: چرا ممکن است زمان برای رهبران ایران به پایان نزدیک شود",
-        "title_en": "Video: Why the Clock May Be Ticking on Iran’s Leaders",
-        "summary": [
-            "ویدیو بلومبرگ مجموعه‌ای از عوامل را بررسی می‌کند که می‌تواند اقتدار رژیم را تضعیف کند؛ از جمله فشارهای اقتصادی، خیزش‌های اجتماعی و منزوی‌تر شدن در عرصه بین‌المللی.",
-            "نویسنده/گوینده به نقش بحران اقتصادی—از جمله کاهش قدرت خرید و ناکامی در تأمین خدمات پایه—در افزایش نارضایتی عمومی و فرسایش سرمایه اجتماعی نظام اشاره می‌کند.",
-            "همچنین در ویدیو به نشانه‌هایی از شکاف در نخبگان سیاسی و نظامی و احتمال تشدید سرکوب یا تغییرات رهبری پرداخته شده که هر دو می‌توانند ثبات رژیم را به مخاطره بیندازند."
-        ],
-        "impact": "ادامه و تشدید این روندها اقتدار رژیم را تضعیف خواهد کرد و فضای بیشتری برای پیشبرد خواست‌های مردم و اپوزیسیون—از جمله نیروهای ملی‌گرا—فراهم می‌آورد.",
-        "tag": "بحران",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0k2cWVSRXhjQURLSHBtSGFHMjJ2MkNnb0gxQS1rN29ISk5ZOW1BblRnRDZ0eHEyVTVzNnBvTjVCQVlUSDh6aERFNldWSC1MMDVnUFRTRi12SER6UUN5N05tYU9hYjl4bENVcnk4cjlseHNzN1FTTWdQV2ZIcFdFSlJLeks1RUk4dXFWaEhXM2pLQk5nN0Y2YUNaRGlIalRKb3hRWFR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770934666.0
-    },
-    {
-        "title_fa": "اسرائیل و آمریکا؛ «بهترین امید» علیه جمهوری اسلامی",
-        "title_en": "Israel and USA are the best hope against Iran",
-        "summary": [
-            "منبع با این ادعا مطرح می‌کند که اسرائیل و آمریکا بهترین نیروی خارجی برای مقابله با جمهوری اسلامی هستند.",
-            "چنین گفتمانی به‌عنوان عاملی که می‌تواند فشار بین‌المللی بر حاکمیت را افزایش دهد و تکیه حکومت را تضعیف کند توصیف می‌شود.",
-            "برای اپوزیسیون ملی‌گرای پهلوی این دیدگاه می‌تواند موقعیتی برای تقویت روایت فشار بر رژیم فراهم آورد، اما همراهی آشکار با قدرت‌های خارجی ریسک‌های سیاسی و مشروعیتی برای جنبش مردمی دارد که باید مدیریت شود."
-        ],
-        "impact": "این ادعا فضا را به‌نفع روایت فشار خارجی علیه حکومت تغییر می‌دهد و می‌تواند به تضعیف سندروم بقای رژیم و تقویت فرصت‌های سیاسی برای اپوزیسیون منجر شود.",
-        "tag": "فشار",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "AM 870 The ANSWER",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkJfY0xOUi05amZnZl9HdEV0eXRReXVFdUFIVkowektDaHc2dTByQWNjMlpadE1qQndJd2lDN0xyN0xnd2JSeVZ2Y1BVMjdMSlM4NmpLT0g2Z0lTSlRhanBkVWZ0ZkVuWWJ6N0ZIVUZTSktjYURJdlNRczUtMVNZYjAzbjdVUDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770934167.0
     }
 ]
