@@ -299,7 +299,7 @@ class IranNewsRadar:
     def analyze_with_ai(self, headline, full_text, source_name):
         if not self.api_key: return None
         
-        is_regime = any(x in source_name.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
+        is_regime = any(x in source_name.lower() for x in ['tasnim', 'fars', 'irna', 'presstv', 'mehr'])
         
         regime_instruction = ""
         if is_regime:
@@ -428,11 +428,13 @@ class IranNewsRadar:
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id or not items: return
 
+        # 1. Fetch Market Data
         try:
             with open(CONFIG['FILES']['MARKET'], 'r') as f: mkt = json.load(f)
             market_text = f"💵 <b>دلار:</b> {mkt.get('usd')} | 🛢 <b>نفت:</b> {mkt.get('oil')}"
         except: market_text = ""
 
+        # 2. Setup Proxies Keyboard
         proxies = self.fetch_best_proxies()
         reply_markup = None
         if proxies:
@@ -444,71 +446,109 @@ class IranNewsRadar:
                 latency = p.get('latency', '?')
                 btn_text = f"🛡 {proxy_name} ({latency}ms)"
                 row.append({"text": btn_text, "url": p['tg_url']})
-                if len(row) == 2: # Max 2 per row for better mobile view
+                if len(row) == 1:
                     keyboard.append(row)
                     row = []
             if row: keyboard.append(row)
             reply_markup = {"inline_keyboard": keyboard}
 
+        # 3. Sort items by urgency so the most important is first
+        items.sort(key=lambda x: x['urgency'], reverse=True)
+
+        # 4. Find the best image for the Telegram Link Preview
+        # We loop through sorted items to find the first one with an image
+        preview_url = ""
+        for item in items:
+            if item.get('image'):
+                preview_url = item.get('image')
+                break
+        # Fallback to the first item's URL if no images exist at all
+        if not preview_url and items:
+            preview_url = items[0].get('url', '')
+
+        # Hidden zero-width character to force Telegram to use this specific image/link for the preview
+        hidden_preview = f"<a href='{preview_url}'>&#8205;</a>" if preview_url else ""
+
+        # 5. Time & Headers
         utc_now = datetime.now(timezone.utc)
         ir_time = utc_now.astimezone(timezone(timedelta(hours=3, minutes=30))).strftime("%H:%M")
         
-        header = f"🚨 <b>رادار اخبار مهم ایران</b> | ⏱ {ir_time}\n{market_text}\n➖➖➖➖➖➖➖➖➖➖\n\n"
+        header = f"{hidden_preview}🚨 <b>رادار اخبار مهم ایران</b> | ⏱ {ir_time}\n{market_text}\n➖➖➖➖➖➖➖➖➖➖\n\n"
         footer = "\n🆔 @RasadAIOfficial\n📊 <a href='https://itsyebekhe.github.io/rasadai/'>مشاهده اخبار بیشتر در سایت</a>"
 
-        messages_to_send = []
-        current_chunk = header
-        
-        # Sort by urgency for the message
-        items.sort(key=lambda x: x['urgency'], reverse=True)
+        # Helper to convert English numbers to Farsi numbers
+        def to_farsi_num(num):
+            return str(num).translate(str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹'))
 
-        for item in items:
-            title = str(item.get('title_fa', item.get('title_en')))
-            source = str(item.get('source', 'Unknown'))
-            url = str(item.get('url', ''))
-            impact = str(item.get('impact', ''))
-            urgency = item.get('urgency', 3)
-            img_link = item.get('image', '')
+        # --- PART A: Generate Headlines (سر خط خبرها) ---
+        headlines_text = "📌 <b>سر خط خبرها:</b>\n\n"
+        for i, item in enumerate(items, 1):
+            title = html.escape(str(item.get('title_fa', item.get('title_en'))))
+            url = item.get('url', '')
+            source = html.escape(str(item.get('source', 'Unknown')))
             
+            is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
+            if is_regime: source += " (رسانه حکومتی 🚫)"
+
+            urgency = item.get('urgency', 3)
             icon = "🔹"
-            if urgency >= 9: icon = "🔥🔴"
+            if urgency >= 9: icon = "🔥"
             elif urgency >= 7: icon = "🚨"
 
-            is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
-            safe_source = html.escape(source)
-            if is_regime: safe_source += " (State Media 🚫)"
+            headlines_text += f"{to_farsi_num(i)}. {icon} <a href='{url}'>{title}</a> (<i>{source}</i>)\n"
 
+        # --- PART B: Generate Analysis (تحلیل و بررسی) ---
+        analysis_blocks = []
+        all_tags = set()
+        
+        for i, item in enumerate(items, 1):
+            impact = html.escape(str(item.get('impact', '')))
+            
             summary_raw = item.get('summary', [])
             if isinstance(summary_raw, str): summary_raw = [summary_raw]
             safe_summary = "\n".join([f"▪️ {html.escape(str(s))}" for s in summary_raw])
             
-            # Invisible link for preview if available
-            hidden_image = f"<a href='{img_link}'>&#8205;</a>" if img_link else ""
+            # Collect unique tags
+            tag = str(item.get('tag', 'General')).replace(' ', '_')
+            all_tags.add(f"#{html.escape(tag)}")
 
-            item_html = (
-                f"{icon} {hidden_image}<b><a href='{url}'>{html.escape(title)}</a></b>\n"
-                f"🗞 <i>منبع: {safe_source}</i>\n\n"
+            block = (
+                f"🔻 <b>درباره خبر {to_farsi_num(i)}:</b>\n"
                 f"📝 <b>تحلیل:</b>\n{safe_summary}\n\n"
-                f"🎯 <b>تأثیر:</b> {html.escape(impact)}\n\n"
-                f"#{html.escape(str(item.get('tag', 'General'))).replace(' ', '_')}\n"
+                f"🎯 <b>اثرگذاری:</b> {impact}\n"
                 f"〰️〰️〰️〰️〰️〰️〰️\n\n"
             )
+            analysis_blocks.append(block)
 
-            if len(current_chunk) + len(item_html) + len(footer) > 3900:
-                messages_to_send.append(current_chunk + footer)
-                current_chunk = header + item_html
+        tags_text = " ".join(all_tags) + "\n"
+
+        # --- PART C: Message Chunking (Telegram Length Limits) ---
+        messages_to_send = []
+        current_msg = header + headlines_text + "\n➖➖➖➖➖➖➖➖➖➖\n📝 <b>تحلیل و بررسی:</b>\n\n"
+
+        for block in analysis_blocks:
+            if len(current_msg) + len(block) + len(tags_text) + len(footer) > 3900:
+                messages_to_send.append(current_msg + footer)
+                current_msg = f"📝 <b>ادامه تحلیل و بررسی:</b>\n\n" + block
             else:
-                current_chunk += item_html
+                current_msg += block
 
-        if current_chunk != header:
-            messages_to_send.append(current_chunk + footer)
+        current_msg += tags_text
+        messages_to_send.append(current_msg + footer)
 
-        # Send messages
+        # --- PART D: Send Messages ---
         api_url = f"https://api.telegram.org/bot{token}/sendMessage"
         sc = cloudscraper.create_scraper()
         
         for i, msg in enumerate(messages_to_send):
-            payload = {"chat_id": chat_id, "text": msg, "parse_mode": "HTML", "disable_web_page_preview": False}
+            # ENABLED web page preview
+            payload = {
+                "chat_id": chat_id, 
+                "text": msg, 
+                "parse_mode": "HTML", 
+                "disable_web_page_preview": False 
+            }
+            
             # Only add proxy buttons to the very last message
             if i == len(messages_to_send) - 1 and reply_markup:
                 payload["reply_markup"] = reply_markup
