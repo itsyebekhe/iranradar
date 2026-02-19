@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اخبار آمریکا-ایران: ترامپ فشارها را هم‌زمان با مذاکرات دیپلماتیک تشدید می‌کند",
+        "title_en": "US-Iran news: Trump dials up pressure amid diplomatic talks",
+        "summary": [
+            "دولت ترامپ در حالی که مذاکرات دیپلماتیک ادامه دارد، رویکرد فشار را تشدید کرده است؛ گزارش‌ها بر افزایش فشارهای سیاسی و اقتصادی تأکید دارند.",
+            "این تشدید فشار عملاً به‌عنوان ابزار امتیازگیری از تهران طراحی شده و می‌تواند ظرفیت مالی و مانور دیپلماسی رژیم را محدود کند.",
+            "هم‌زمان، سیاست فشار ریسک پیچیده‌تر شدن میز مذاکرات را داشته و می‌تواند به تشدید تنش‌های داخلی و اختلال در فرآیند تصمیم‌گیری منجر شود."
+        ],
+        "impact": "تشدید فشار آمریکا هم‌زمان با مذاکرات، ظرفیت سیاستگذاری و مالی رژیم را تضعیف می‌کند و فضای تنش داخلی و اقتصادی را تشدید خواهد کرد.",
+        "tag": "فشار",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2JKdnpWVTJUT0tWcHVEdkliY3FnV1l0UjZCbEYtOWp0WmFkNnM2QVNaLV9PalgxVW1GcFJkUDVEdlRyTnd2bllGUl9aaVlTUE1rMnozMnR5Y29CRWQ1T09aYUJ5NVR0SjRxWm5UX2lVVFJaOVhJYUNkWi0yRXp4VnBtVWVFWGQxQTAwVG1uV2VVckxUQl9sZFpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2JKdnpWVTJUT0tWcHVEdkliY3FnV1l0UjZCbEYtOWp0WmFkNnM2QVNaLV9PalgxVW1GcFJkUDVEdlRyTnd2bllGUl9aaVlTUE1rMnozMnR5Y29CRWQ1T09aYUJ5NVR0SjRxWm5UX2lVVFJaOVhJYUNkWi0yRXp4VnBtVWVFWGQxQTAwVG1uV2VVckxUQl9sZFpB",
+        "image": null,
+        "timestamp": 1771518825.0
+    },
+    {
         "title_fa": "اختلال در عرضه نفت عامل کلیدی افزایش قیمت در سناریوی درگیری با ایران",
         "title_en": "Oil Supply Disruption Key to Price Spike in Iran Conflict Scenario",
         "summary": [
@@ -88,6 +106,24 @@
         "clean_url": "https://apnews.com/article/iran-us-talks-oman-nuclear-protests-e5fce5e891243b7651cf76d8211f78ae",
         "image": null,
         "timestamp": 1771514280.0
+    },
+    {
+        "title_fa": "ایران بر «حق» غنی‌سازی تأکید می‌کند در حالی که آمریکا بزرگ‌ترین نیروی خاورمیانه از ۲۰۰۳ را مستقر می‌کند",
+        "title_en": "Iran insists on ‘right’ to enrichment as US builds biggest Mideast force since 2003",
+        "summary": [
+            "تهران بر حق غنی‌سازی اورانیوم تأکید کرده؛ هم‌زمان اعزام بزرگ‌ترین نیروی نظامی آمریکا به منطقه از سال ۲۰۰۳ تنش‌ها و خطر محاسبات غلط را افزایش می‌دهد.",
+            "افزایش حضور نظامی آمریکا به‌مثابه فشار خارجی ساختاری عمل می‌کند که می‌تواند ریسک تحریم‌های جدید، انزوای بین‌المللی و بار اقتصادی بر رژیم را تشدید کند.",
+            "پافشاری تهران روی غنی‌سازی به‌عنوان ابزار نمایش اقتدار داخلی قابل خواندن است، اما هم‌زمان نشان‌دهنده ناکارآمدی مدیریتی و خطر افزایش نارضایتی عمومی در شرایط بحران اقتصادی است."
+        ],
+        "impact": "ترکیب پافشاری هسته‌ای تهران و تقویت نظامی آمریکا احتمال تشدید تنش، فشارهای اقتصادی-سیاسی بیشتر بر حکومت و کاهش بیشتر مشروعیت داخلی را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUhFZVUyVFE4WUUwZW9pdkdBMXJwdXR5aWVhMnNQU1JzOHUwVW1hdkVRUkhRQUZ5c2JQdTA0X2dEdUVDTDFhdl9WZUVIdWgyTnAwNUlvZFZsNWJsMmVzaDV4eHBzSFJTLV9oM0IyTk9MNjN6U0pBQUFqVmp6ZDVEYS1TNEoybjIzamE2N3BVc1Q2R3NOOXJLZlFxVVZMdFQzZUhEVncwSGJWUmFLTVp2YnpR0gG3AUFVX3lxTE1VaXVBUmtwTlpRZ0NLX09RdWI0RW5tYmtvbFp3QWh6UFBpdkNDN28xd2c0MGtVb19DV1ltb3o5UF9MZFlLaDFVU214TF9pd2ZCU2ticUpORWI2N1BhSjEySTVSSmlHNGJpR1QtOGx6dEFDTGVVSHVIUTlUR1ZoeDU5ZmdyUmVZX3E1UXdrTkZWbTQxZzEyVmVxM01FUmxOdFlJUXR1MG10ZEFDRFpXd1QtMEZodGRvbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUhFZVUyVFE4WUUwZW9pdkdBMXJwdXR5aWVhMnNQU1JzOHUwVW1hdkVRUkhRQUZ5c2JQdTA0X2dEdUVDTDFhdl9WZUVIdWgyTnAwNUlvZFZsNWJsMmVzaDV4eHBzSFJTLV9oM0IyTk9MNjN6U0pBQUFqVmp6ZDVEYS1TNEoybjIzamE2N3BVc1Q2R3NOOXJLZlFxVVZMdFQzZUhEVncwSGJWUmFLTVp2YnpR0gG3AUFVX3lxTE1VaXVBUmtwTlpRZ0NLX09RdWI0RW5tYmtvbFp3QWh6UFBpdkNDN28xd2c0MGtVb19DV1ltb3o5UF9MZFlLaDFVU214TF9pd2ZCU2ticUpORWI2N1BhSjEySTVSSmlHNGJpR1QtOGx6dEFDTGVVSHVIUTlUR1ZoeDU5ZmdyUmVZX3E1UXdrTkZWbTQxZzEyVmVxM01FUmxOdFlJUXR1MG10ZEFDRFpXd1QtMEZodGRvbw",
+        "image": null,
+        "timestamp": 1771512927.0
     },
     {
         "title_fa": "سهام آمریکا کاهش یافت و قیمت نفت با نگرانی از احتمال درگیری آمریکا-ایران جهش کرد",
@@ -232,6 +268,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVk9zSV85U21iZ1MyZlZKT3VwdzhyLTVHcGRfbXYzamcyLU5LT0x2bktKLTNOTExSdktCTG9KWmhEbXdvMmFQTzRxY2x1UHo1MURxc1BjMjdBY2dnNDR4eDJ5b0JTLVcyTVhNaURFRm5lOGpuTGRkSHVwbzJoWk9HNWFyZk5yUTB5THRuVk5zNmxtWmZ5eEJERktyVkppSHlVakJBN09naEwtcU5z0gGyAUFVX3lxTE55NXVsMVdXNjJ5TmxyNTQ0T2twM0hHbV82cmFoS1oxc1NKQndoRjBOTER4WFlXZnZ2eXc3amRTOVNlek80N3BLazZjajVrV3E5QmJnTjg3R3NNZWNoMHRnSHJwdEFhbmRYOTNzMV94UzNXc0FocUJ5ZVN3dXRVeVZZNlpIMjk2c3djVEkxSncwRHc1b2R1MThxbk9pRi1LbXU5NDdHRUg5aDNmNV9PaVZ1cVE",
         "image": null,
         "timestamp": 1771491500.0
+    },
+    {
+        "title_fa": "ایران و روسیه مانور دریایی در واکنش به تجمع عظیم نظامی آمریکا",
+        "title_en": "Iran stages naval drills with Russia against huge US military buildup",
+        "summary": [
+            "برگزاری مانورهای دریایی مشترک ایران و روسیه در واکنش به تجمع گسترده نظامی آمریکا؛ همکاری روسیه به‌عنوان عامل تقویت بازدارندگی تهران عمل می‌کند.",
+            "تهدید ایران به تلافی، از جمله هدف قرار دادن پایگاه‌های آمریکا، احتمال گذار از تهدیدهای لفظی به رویارویی نظامی مستقیم را افزایش می‌دهد.",
+            "گزارش اشاره‌ای به وضعیت اقتصادی یا اعتراضات داخلی ندارد؛ با این حال این‌گونه مانورها عمدتاً به‌عنوان ابزاری برای سیگنال‌دهی نظامی-سیاسی در برابر فشار خارجی قابل تفسیر هستند. "
+        ],
+        "impact": "ترکیب مانور مشترک با روسیه و تهدید به حمله به پایگاه‌های آمریکا ریسک تبدیل تقابل فعلی به درگیری نظامی منطقه‌ای پرشدت را بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-stages-naval-drills-with-russia-against-huge-us-military-buildup/ar-AA1WG7FO",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-stages-naval-drills-with-russia-against-huge-us-military-buildup/ar-AA1WG7FO",
+        "image": "http://www.bing.com/th?id=OVFT.RN31pcsCvaQpHuDDa84_Vy&pid=News",
+        "timestamp": 1771491499.0
+    },
+    {
+        "title_fa": "ترامپ به ایران ۱۰ روز مهلت داد؛ تهدید نظامی و تشدید فشارها",
+        "title_en": "Trump presses Iran to make 'meaningful' deal, appears to set 10-day deadline",
+        "summary": [
+            "دونالد ترامپ هشدار داد ایران باید ظرف حدود ۱۰ روز به یک «توافق معنی‌دار» درباره برنامه هسته‌ای برسد و در غیر این صورت «اتفاقات بدی» رخ خواهد داد؛ او از تجمع نظامی گسترده آمریکا در منطقه و احتمال اقدام نظامی مستقیم سخن گفت.",
+            "مذاکرات دیپلماتیک ادامه دارد؛ عباس عراقچی گفت طرفین بر «اصول راهنما» توافق کرده‌اند اما کاخ سفید و سخنگوی آن، کارولین لیویت، می‌گویند اختلافاتی پابرجاست و واشنگتن منتظر پیشنهاد مکتوب تهران است.",
+            "حضور یک کوروت روسی در مانورهای دریایی ایران نشان می‌دهد بازیگران خارجی نقش تسهیل‌گر بقای رژیم را دارند؛ هم‌زمان انباشت فشار خارجی و ریسک نظامی، در کنار سوء‌مدیریت اقتصادی درون کشور، می‌تواند احتمال افزایش نارضایتی عمومی و تضعیف ساختاری حکومت را بالا ببرد (افزایش قیمت نفت نیز از تبعات فوری تنش است)."
+        ],
+        "impact": "پیام ۱۰ روزه ترامپ و آماده‌سازی نظامی آمریکا خطر تشدید فوری بحران منطقه‌ای را افزایش می‌دهد و می‌تواند روند تضعیف اقتصادی و سیاسی رژیم را تسریع کند.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/russia-warns-escalating-iran-tensions-132219208.html",
+        "clean_url": "https://www.aol.com/articles/russia-warns-escalating-iran-tensions-132219208.html",
+        "image": null,
+        "timestamp": 1771490460.0
     },
     {
         "title_fa": "آمریکا: تهران «بسیار خردمند» خواهد بود اگر توافق کند؛ روسیه و ایران رزمایش دریایی برگزار می‌کنند",
@@ -5275,73 +5347,5 @@
         "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRE1fdTZpeXA0TURNYzN1UVotc3ZuOE5FNnpCQ3ZkVmlOaDZGMS1Fbk45YlBhTVo4Q25haTVfY09ONERZZzdvNlJEa3hZZm4zV082d3ZmSjAzUnlwT1NpUEtUeFZ5SHZRRFJmLVI2YlFfVndqLXhfQzRCZmh5Wkg0UFFJSUx4Y1YwaV90SDlVVkZjSUFUaENwamhXYWotNnNhaGtZdHBvQ3FNQXF4UDhySkxFbHdlVGZVNWFCWVo0ZTYxTTdhUTRuQUxTc2k0OHVQQ0pKZzhwQnBTalVfOFRuT3NBQm11ajI4ZWkxUjl2Qm1qc24xMERIWXB5eEtFYTRMWWg4LTV5dVAyUGJmMmluQVFjWFN2R1Z2U3FKVnBDc3ZPVGdlVnloX1Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771010580.0
-    },
-    {
-        "title_fa": "ترامپ برای ایران ضرب‌الاجل یک‌ماهه تعیین کرد؛ دمشق در نمایشگاه کتاب جهاد را ترویج می‌کند",
-        "title_en": "Trump sets one month deadline for Iran; Damascus promotes Jihad at book fair TV7 Israel News 13 Feb.",
-        "summary": [
-            "دونالد ترامپ به ایران ضرب‌الاجل یک‌ماهه اعلام کرده که علامتی از تشدید تهدیدات و فشارهای دیپلماتیک علیه تهران است.",
-            "این نوع فشار خارجی می‌تواند ستون‌های اقتدار رژیم را تضعیف کند و فرصت‌هایی برای پیشروی مطالبات مردم و مسیر آزادی ایجاد نماید.",
-            "در همین حال دولت دمشق در نمایشگاه کتاب «جهاد» را تبلیغ می‌کند؛ نشانه‌ای از ادامه تبلیغات ایدئولوژیک و ترویج خشونت توسط حکومت‌های منطقه‌ای."
-        ],
-        "impact": "افزایش فشار بین‌المللی همراه با تبلیغات منطقه‌ای احتمالاً رژیم ایران را بیش از پیش تضعیف کرده و فضای سیاسی را برای مقاومت و مطالبات مردمی بازتر خواهد کرد.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ucW9lWS1hWE5RT2hyUHhwU1FIMW56bnRrejdsTVQzakpUaGRFT01FdHVSb2NJVFBKYmdYZW85eGNtaGU2cEdPdHJsOE1vdkJmWFV5UC0zTDE4VmxWRWo5TlNlUWhmWlNmSVBpcUY2UTM3Z3RfSmdV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771009316.0
-    },
-    {
-        "title_fa": "«آنها هر موشک را شلیک خواهند کرد»: اسرائیل خود را برای سناریوی بدترین حالت از ایران آماده می‌کند",
-        "title_en": "‘They will fire every missile’: Israel braces for worst-case Iran scenario",
-        "summary": [
-            "گزارش‌ها حاکی است که اسرائیل خود را برای سناریوی بدترین حالت که در آن ایران حمله موشکی گسترده‌ای انجام دهد، آماده می‌کند و فرماندهان نگران «شلیک همه موشک‌ها» هستند.",
-            "نظام دفاعی و ساختارهای غیرنظامی اسرائیل در حالت هشدار قرار دارند و آمادگی برای محافظت از شهروندان و زیرساخت‌ها افزایش یافته است.",
-            "چنین سناریویی خطر گسترش درگیری در منطقه را بالا می‌برد و می‌تواند پیامدهای دیپلماتیک و بازارهای منطقه‌ای را تشدید کند."
-        ],
-        "impact": "تهدید موشکی ایران، هرچند خطرناک برای منطقه، ناتوانی و تزلزل رژیم را برجسته می‌کند و می‌تواند فضای سیاسی و بین‌المللی را برای تقویت خواست مردم و فشار علیه حکومت فراهم سازد.",
-        "tag": "تهدید",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11SHZtWjIzMld1WEZYa1dfemYxeU5DckpEQlFBVFRLSXdvSGZzZENhck9zdnNWM19SM3plNUNYcmlmN1F3b2RmNmhKcW4yMW9YdEdLbjFBUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771008313.0
-    },
-    {
-        "title_fa": "نخست‌وزیر دانمارک: خواست ترامپ برای گرینلند همچنان «یکسان» است با وجود گفتگوها",
-        "title_en": "Danish PM says Trump's desire over Greenland still 'the same' despite ongoing talks",
-        "summary": [
-            "متّه فردریکسن در کنفرانس امنیتی مونیخ گفت دونالد ترامپ هنوز «خیلی جدی» درباره خرید یا کنترل گرینلند است؛ دانمارک بر حفظ حاکمیت ملی و اراده مردم گرینلند مبنی بر نخواستن شهروندی آمریکایی تأکید کرد.",
-            "نخست‌وزیر گرینلند و دیگر مقام‌ها رفتار ترامپ را «عجیب» و تهدیدآمیز خواندند اما گفتند کانال‌های دیپلماتیک باز شده و گام‌هایی در جهت کاهش تنش برداشته شده؛ اعضای اروپایی و ناتو هشدار دادند تهدید یک متحد به متحد دیگر به اتحاد آسیب می‌زند.",
-            "در مباحث آرکتیک تهدیدات روسیه و چین نیز مطرح شد — دو کشوری که ما آن‌ها را شریکان رژیم ایران در سرکوب می‌دانیم — و تأکید شد ناتو باید امنیت منطقه را تضمین کند تا سایر بازیگران نتوانند خلأ را پر کنند."
-        ],
-        "impact": "افزایش رقابت آمریکا برای قلمروهای استراتژیک و واکنش متحدان ناتو شکاف‌ها در نظم بین‌المللی را برجسته می‌کند؛ وضعیتی که می‌تواند به نفع فشار بین‌المللی بر جمهوری اسلامی و تضعیف مشروعیت آن تمام شود.",
-        "tag": "گرینلند",
-        "urgency": 2,
-        "sentiment": 0.25,
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/live/cnv6j9j190rt",
-        "image": "",
-        "timestamp": 1771007731.0
-    },
-    {
-        "title_fa": "نظر: اقدام علیه ایران می‌تواند بازی جهانی را تغییر دهد",
-        "title_en": "Opinion: Action in Iran would be a global game changer",
-        "summary": [
-            "یادداشت خواستار «پایان» رژیم ایران را مطرح کرده و آن را منبع ترور و هرج‌ومرج طی نیم قرن گذشته توصیف می‌کند.",
-            "نویسنده رژیم را مهره‌ای کلیدی در محوری با محوریت پکن می‌داند و چین را شریک رژیم در حفظ و تقویت سرکوب معرفی می‌کند.",
-            "ادعا شده است که اقدام بین‌المللی علیه تهران می‌تواند توازن قدرت در خاورمیانه را تغییر دهد و به ثبات و صلح منطقه‌ای کمک کند."
-        ],
-        "impact": "چنین موضع‌گیری‌هایی می‌تواند فشار دیپلماتیک و مشروعیت عمل بین‌المللی برای منزوی‌سازی و تضعیف رژیم را افزایش دهد.",
-        "tag": "مداخله",
-        "urgency": 4,
-        "sentiment": 0.7,
-        "source": "The Hill",
-        "url": "https://www.msn.com/en-us/news/politics/opinion-action-in-iran-would-be-a-global-game-changer/ar-AA1WiJMs",
-        "image": null,
-        "timestamp": 1771002000.0
     }
 ]
