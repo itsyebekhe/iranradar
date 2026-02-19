@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "ایران: سلاح‌های هسته‌ای تهدیدی وجودی برای بشریت؛ خواستار خلع‌سلاح کامل شد",
+        "title_en": "Iran says nuclear weapons are an existential threat to humanity, calls for full disarmament",
+        "summary": [
+            "ایران اعلام کرد سلاح‌های هسته‌ای تهدیدی وجودی برای بشریت‌اند و خواستار خلع‌سلاح کامل شد.",
+            "این بیانیه عمدتاً نمادین و دیپلماتیک است؛ انتشار آن لزوماً فشار تحریمی یا کاهش تضعیف ساختاری رژیم را جبران نمی‌کند و تاثیری بر مشکلات اقتصادی ناشی از تحریم‌ها ندارد.",
+            "موضع‌گیری به ناکارآمدی مدیریتی، مسائل اقتصادی یا نارضایتی اجتماعی داخلی اشاره‌ای نکرد؛ محتمل است دولت با این اقدام به دنبال بهبود وجهه بین‌المللی و تخفیف انتقادات خارجی باشد."
+        ],
+        "impact": "این اعلامیه پیام نمادین دارد و به‌تنهایی قادر به کاهش تحریم‌ها یا ترمیم بحران‌های اقتصادی و سیاسی داخلی نخواهد بود.",
+        "tag": "خلع‌سلاح",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "Peoples Dispatch",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFpfdXNDY1pRTndhd2RfTWEyci02V2dVSzE2MTlUYnJFR1RRV1N6Tkx5R0RkVHFjQkVzZUU4YlAxWDBsMVZoMlQtMWZkemphY2s0b0V2ZmVxODNNeHRKVmRJUlIxUlhoTzdocGFsUXVzQjJzdEhMODIzaEZhaHk2Mks4SU9Jd2FnSUwzd1ZYcVdrb3AwRTdkMWNlT1dRUDBueDEwdG15QVNjVzg5S0FGMWgzQlgxOGxxNDJ4SWVtMGtlRG5kMTFmTHdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFpfdXNDY1pRTndhd2RfTWEyci02V2dVSzE2MTlUYnJFR1RRV1N6Tkx5R0RkVHFjQkVzZUU4YlAxWDBsMVZoMlQtMWZkemphY2s0b0V2ZmVxODNNeHRKVmRJUlIxUlhoTzdocGFsUXVzQjJzdEhMODIzaEZhaHk2Mks4SU9Jd2FnSUwzd1ZYcVdrb3AwRTdkMWNlT1dRUDBueDEwdG15QVNjVzg5S0FGMWgzQlgxOGxxNDJ4SWVtMGtlRG5kMTFmTHdn",
+        "image": null,
+        "timestamp": 1771514856.0
+    },
+    {
+        "title_fa": "چه باید دانست؛ انتقال نیروی نظامی آمریکا به خاورمیانه و بن‌بست مذاکرات هسته‌ای ایران",
+        "title_en": "What to know as US moves military assets to Mideast and Iran nuclear talks have yet to reach a deal",
+        "summary": [
+            "انتقال دارایی‌های نظامی آمریکا به منطقه اشاره‌ای روشن به افزایش فشار نظامی و دیپلماتیک است که گزینه‌های مانور سیاسی تهران را تنگ‌تر می‌کند و خطر محاسبات نادرست و تنش تصاعدی را بالا می‌برد.",
+            "عدم حصول توافق در مذاکرات هسته‌ای تا کنون، فرصت کاهش تحریم‌ها یا تنش‌زدایی اقتصادی را به تأخیر انداخته و توانایی رژیم برای کسب انعطاف سیاسی و اقتصادی را کاهش می‌دهد.",
+            "بن‌بست خارجی در کنار مشکلات ساختاری مدیریتی می‌تواند شکاف‌های سیاسی و نارضایتی عمومی موجود را تشدید کند؛ این تأثیرات پیوند محکمی با فشارهای اقتصادی و محدودیت‌های دیپلماتیک دارند و در صورت شدت‌یابی احتمال بحران‌های داخلی را افزایش می‌دهند."
+        ],
+        "impact": "ادامهٔ حضور نظامی آمریکا در کنار بن‌بست مذاکرات هسته‌ای ریسک تشدید تنش منطقه‌ای و کاهش ظرفیت حکومت برای مانور سیاسی و اقتصادی را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-us-talks-oman-nuclear-protests-e5fce5e891243b7651cf76d8211f78ae",
+        "clean_url": "https://apnews.com/article/iran-us-talks-oman-nuclear-protests-e5fce5e891243b7651cf76d8211f78ae",
+        "image": null,
+        "timestamp": 1771514280.0
+    },
+    {
+        "title_fa": "سهام آمریکا کاهش یافت و قیمت نفت با نگرانی از احتمال درگیری آمریکا-ایران جهش کرد",
+        "title_en": "US stocks slip as oil prices rise on worries about a potential US-Iran conflict",
+        "summary": [
+            "بازارهای سهام آمریکا امروز به‌خاطر افزایش قیمت نفت و نگرانی سرمایه‌گذاران از احتمال تشدید درگیری میان آمریکا و ایران نزولی شدند؛ ریسک ژئوپلیتیک عامل اصلی نوسان گزارش شده است.",
+            "افزایش قیمت نفت نشان‌دهنده بالا رفتن ریسک منطقه‌ای است؛ در صورت تشدید تقابل، فشارهای خارجی و محدودیت‌های بیشتر می‌تواند توان اقتصادی رژیم را بیش از پیش تضعیف کند (این ارزیابی مبتنی بر اشاره گزارش به احتمال درگیری است).",
+            "نوسانات کنونی بازار بر آسیب‌پذیری اقتصاد ایران در برابر شوک‌های بیرونی تأکید می‌کند؛ هر گونه تشدید تنش می‌تواند هزینه‌های تأمین مالی و تجارت را بالا برده و فشار بر سیاست‌های اقتصادی داخلی را تشدید کند."
+        ],
+        "impact": "اثر فوری این خبر بی‌ثباتی در بازارهای جهانی و افزایش هزینه نفت است که می‌تواند فشار اقتصادی بر تهران را افزایش دهد و ریسک‌های سیاسی-اقتصادی منطقه را تشدید کند.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/stocks-markets-iran-ai-trump-9105f5156c294507738154a714dcd13d",
+        "clean_url": "https://apnews.com/article/stocks-markets-iran-ai-trump-9105f5156c294507738154a714dcd13d",
+        "image": null,
+        "timestamp": 1771512840.0
+    },
+    {
         "title_fa": "رئیس آژانس: مواد هسته‌ای ایران «هنوز آنجاست، به مقدار زیاد»؛ خواستار توافق فوری با آمریکا شد",
         "title_en": "Iran nuclear material \"still there, in large quantities,\" IAEA chief says, calling for urgent deal with U.S.",
         "summary": [
@@ -16,6 +70,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTRtbG5pZWs2Z3dCUEQydTFocjBFTEVJVjRjRXpfc3ZYd2RRWVFRNVJ0RkJJSWs5WUZJV3h0WW84MURRcGVaaGNEak0yOE5rOTNOcll1d3ZpN1ZFZ0hRNDJrbDlEVGE0MjVzVXNpSlg0NVRWWDFCNmFia0hZZ3E2cDl6dURuS040RUdldk8xa0o5ZWYzUlVmaVoxZnliMVZIcldiRjV30gGrAUFVX3lxTFA4dmJkT3BGZUZvYzRoRk1BOEhObGU2V21qQkRYM2QxRXRCMnNzb3BnWWwxS0ZpTjJINGJvSm5iVTNNZ1lWMjNhcDVYbk44OUdUSmk4Q29iX1Zibi1pbEViUW9jRjA2VGlJN29WaHdGLWJ1cTNSVWotWEFkZ21vZXVsNWJKaUZWc05iX05SX3J4djdwWkpaSHhFQzJEVjBXamp6UEdsdlV4TTIzNA",
         "image": null,
         "timestamp": 1771511965.0
+    },
+    {
+        "title_fa": "آمریکا احتمالاً به ایران حمله خواهد کرد؛ ترامپ هنوز تصمیم نگرفته است، منابع به 'پست' خبر دادند",
+        "title_en": "US likely to attack Iran, but Trump has not yet decided to do so, sources tell 'Post'",
+        "summary": [
+            "خبر اصلی: منابع جروزالم پست می‌گویند احتمال حمله نظامی آمریکا به ایران بالاست اما دونالد ترامپ هنوز تصمیم نهایی را اتخاذ نکرده است؛ گزارش بر احتمال اقدام، نه قطعیت، تأکید دارد.",
+            "فشار خارجی و تحریم‌ها: تهدید قریب‌الوقوع حمله نشان‌دهنده افزایش فشار بین‌المللی است که ساختار سیاسی-نظامیِ کنونی را تضعیف می‌کند و می‌تواند دسترسی به سرمایه و تجارت خارجی را کاهش دهد؛ این نوع فشارها ناپایداری اقتصادی و سیاسی را افزایش می‌دهند.",
+            "تبعات داخلی و مدیریتی: حتی تهدید یا حمله محدود می‌تواند منابع را به سمت نظامی‌سازی و هزینه‌های دفاعی منحرف کند، ناکارآمدی مدیریتی موجود را برجسته سازد و احتمال بالا رفتن نارضایتی عمومی و تشدید سرکوب‌های داخلی را افزایش دهد."
+        ],
+        "impact": "این خبر احتمال تقابل نظامی مستقیم را بالا می‌برد و می‌تواند به فرسایش بیشتر توان اقتصادی و سیاسی کشور منجر شود.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.75,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ0NlbWlhLVVRd19iRUpsRm1XZjBUT2NDTzZhOTA1QUgyZmdlc3F2a3F5OGJ6bFZVOHdBRG55bk1ObllwWXRWNFdkN1ZFWVpZanNlczJQWXFHcU1JcThEOHRQaU1RSXJGdlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ0NlbWlhLVVRd19iRUpsRm1XZjBUT2NDTzZhOTA1QUgyZmdlc3F2a3F5OGJ6bFZVOHdBRG55bk1ObllwWXRWNFdkN1ZFWVpZanNlczJQWXFHcU1JcThEOHRQaU1RSXJGdlE",
+        "image": null,
+        "timestamp": 1771509371.0
     },
     {
         "title_fa": "اسرائیل در آستانه احتمال درگیری با ایران «در عرض روزها»؛ آمریکا نیروی هوایی را تا سطح جنگ عراق تقویت می‌کند",
@@ -198,6 +270,42 @@
         "timestamp": 1771485771.0
     },
     {
+        "title_fa": "کاخ سفید به ایران هشدار داد: از اکنون بهتر است توافق کنید — تهران با مسکو برای مانورهای دریایی همکاری می‌کند",
+        "title_en": "White House warns Iran it’d be very wise to cut a deal now — as Tehran teams up with Moscow for naval drills",
+        "summary": [
+            "تهران و مسکو برای اجرای مانورهای دریایی در تنگه حیاتی هرمز و خلیج عمان متحد شده‌اند؛ اقدامی که به‌ظاهر برای نمایش قدرت نظامی و مقابله با فشارهای غرب صورت گرفته است.",
+            "واکنش کاخ سفید با هشدار به ایران نشان‌دهنده تشدید فشار دیپلماتیک و امنیتی آمریکاست؛ این فشار ساختارهای اقتصادی و سیاسی رژیم را بیش از پیش محدود می‌کند و فضای تصمیم‌گیری را تنگ‌تر می‌سازد.",
+            "حضور روسیه در این مانورها نقش یک پشتیبان استراتژیک برای تهران دارد و تا حدی امکان بقا و مانور سیاسی-نظامی رژیم را افزایش می‌دهد، اما این هم‌پیمانی نظامی به‌تنهایی مشکلات ساختاری اقتصادی و مشروعیت حکومتی را حل نمی‌کند."
+        ],
+        "impact": "ترکیب نمایش نظامی مشترک با هشدارهای واشنگتن، رژیم را در معرض تشدید تحریم‌ها و خطر تقابل نظامی قرار می‌دهد در حالی که نیز تلاش دارد با اتکا به روسیه دوام کوتاه‌مدت خود را حفظ کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "New York Post on MSN",
+        "url": "https://www.msn.com/en-us/news/world/white-house-warns-iran-it-d-be-very-wise-to-cut-a-deal-now-as-tehran-teams-up-with-moscow-for-naval-drills/ar-AA1WFR3z",
+        "clean_url": "https://www.msn.com/en-us/news/world/white-house-warns-iran-it-d-be-very-wise-to-cut-a-deal-now-as-tehran-teams-up-with-moscow-for-naval-drills/ar-AA1WFR3z",
+        "image": null,
+        "timestamp": 1771483161.0
+    },
+    {
+        "title_fa": "ایران در برابر هشدارهای آمریکا از حق غنی‌سازی دفاع کرد",
+        "title_en": "Facing US warnings, Iran defends right to nuclear enrichment",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، به ایران ضرب‌الاجل ۱۰ روزه برای رسیدن به «توافق معنادار» داد و هشدار داد که در غیراین‌صورت «رخدادهای بد» روی خواهد داد؛ واشنگتن ناوها و جنگنده‌ها را نیز به منطقه گسیل کرد.",
+            "تهران از «حق» غنی‌سازی هسته‌ای دفاع کرده و موضع خود در مذاکرات را در برابر تهدیدهای واشنگتن تکرار نمود.",
+            "افزایش فشار سیاسی و نظامی آمریکا می‌تواند زمینه تشدید تحریم‌ها و فشارهای اقتصادی را فراهم کند و احتمالاً ظرفیت‌های مدیریتی و مشروعیت حکومت را بیش‌تر تحت فشار قرار دهد. (نتیجه‌گیری مبتنی بر روند قابل انتظار از افزایش فشار خارجی است، نه گزارش مستقیمی از پیامدهای داخلی در متن خبر)"
+        ],
+        "impact": "این مواجهه احتمال تشدید فشارهای اقتصادی و سیاسی بر حکومت ایران را افزایش می‌دهد و می‌تواند ثبات داخلی و توان مدیریتی آن را تضعیف کند.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Agence France-Presse on MSN",
+        "url": "https://www.msn.com/en-us/news/world/facing-us-warnings-iran-defends-right-to-nuclear-enrichment/ar-AA1WFISJ",
+        "clean_url": "https://www.msn.com/en-us/news/world/facing-us-warnings-iran-defends-right-to-nuclear-enrichment/ar-AA1WFISJ",
+        "image": null,
+        "timestamp": 1771482625.0
+    },
+    {
         "title_fa": "تنش‌های آمریکا-ایران: خط زمانی رویدادهای کلیدی از اعتراضات دسامبر ۲۰۲۵",
         "title_en": "US-Iran tensions: Here is a timeline of key events since December 2025 protests",
         "summary": [
@@ -268,6 +376,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9lT0NvaFhhOVdwQk5OY1l2dnJjZ0Zmd3pScy1mT2dKWHYwOURmWkNCQ2Q3aUxhMG50bjNhcmw3aTdDUlBhZjRMX0pmNXc5ZG9yUUVKb0MxN1h1R1FxeEM1eUF3T3UxeEttWUxWUUdsLWIwejQ2WVRpSl9OT1FmWFhqTHFZRGRoVDNCdnlCTGc",
         "image": null,
         "timestamp": 1771479099.0
+    },
+    {
+        "title_fa": "تجمع ناوگان و نیروی هوایی آمریکا در نزدیکی خاورمیانه؛ فشار نظامی مستقیم برای امتیازگیری از رژیم",
+        "title_en": "As Trump pushes Iran to make a deal, scores of U.S. warplanes join \"armada\" heading for the region",
+        "summary": [
+            "ناو هواپیمابر USS Gerald R. Ford موقعیت خود را با روشن کردن سامانه ردیابی نشان داد و در مسیر ورود به مدیترانه قرار گرفت؛ این دومین ناو است که رئیس‌جمهور ترامپ به آب‌های نزدیک ایران دستور حرکت داده است، اقدامی آشکار برای دیده شدن از سوی ایران.",
+            "افزایش چشمگیر توان هوایی آمریکا؛ بیش از ۵۰ هواپیما از پایگاه‌های دو ساحل آمریکا به سمت اروپا و خاورمیانه منتقل شدند (بیشتر تانکر، ترابری و شناسایی) و جنگنده‌هایی مانند F-15، F-22 و F-35 در پایگاه‌های بریتانیا دیده شده‌اند؛ مقام‌های امنیتی می‌گویند امکان انجام حملات از شنبه وجود دارد اما تصمیم نهایی اعلام نشده است.",
+            "این عملیات به‌عنوان اهرم فشار علنی برای وادار کردن رژیم به توافق هسته‌ای طراحی شده است؛ روشن کردن AIS توسط ناو یک سیگنال روانی-سیاسی است که هم رسانه‌ها و هم تهران را هدف گرفته است."
+        ],
+        "impact": "این نمایش نظامی فشار خارجی را افزایش می‌دهد و می‌تواند موقعیت مذاکراتی رژیم را تضعیف کرده و بی‌ثباتی اقتصادی و نارضایتی سیاسی ناشی از عدم قطعیت و مدیریت ضعیف حکومتی را تشدید کند.",
+        "tag": "فشار",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-iran-military-buildup-includes-scores-of-us-warplanes-joining-armada/",
+        "clean_url": "https://www.cbsnews.com/news/trump-iran-military-buildup-includes-scores-of-us-warplanes-joining-armada",
+        "image": null,
+        "timestamp": 1771478160.0
     },
     {
         "title_fa": "ادامه رشد قیمت نفت به‌خاطر نگرانی از احتمال درگیری آمریکا و ایران",
@@ -5213,124 +5339,5 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmplaU1PU3l5ckkzRVk4QXFNNDJ2VmhMZUJoa1R5WVBoTVNOTmJpQ0ctTHJxZDY2dTN4ZkN1ZW9mWG5QNWJqT1paNnhTb1VxdHY5SVlPa3NVXzlQUFFncEEza2l5b3ZvLXdBRnZuRHF5S3BLUk9NN2U0bTJWeFoweXRTeDJNNUxSZVVaRnJ2OVVnSUdNVjY0dndyN1ZucjNNQTIw?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1770998265.0
-    },
-    {
-        "title_fa": "جنبش امل لبنان: ایران نماد عدالت در برابر تجاوز آمریکا و اسرائیل",
-        "title_en": "Lebanese Amal Movement: Iran Represents Justice Against U.S.-Israeli Aggression",
-        "summary": [
-            "جنبش امل لبنان در بیانیه‌ای ایران را به‌عنوان نماینده «عدالت» در مقابل آنچه «تجاوزات آمریکا و اسرائیل» نامیده، ستایش کرد.",
-            "این اظهارنظر موضع هم‌پیمانان منطقه‌ای تهران را تأیید می‌کند و بر تفکیک صف‌بندی‌های منطقه‌ای در برابر آمریکا و اسرائیل دلالت دارد.",
-            "اگر تنش‌های منطقه‌ای و علیه آمریکا-اسرائیل تشدید شود، این نوع حمایت‌ها می‌تواند به‌عنوان عامل افزایش فشار بر رژیم تهران مطرح شود و زمینه‌‌ای برای تضعیف حکومت و تقویت خواست‌های آزادی‌طلبانه مردم فراهم آورد."
-        ],
-        "impact": "بیانیه امل به‌عنوان نمونه‌ای از حمایت‌های منطقه‌ای از نقش ایران می‌تواند در بلندمدت به تشدید فشارها علیه رژیم و تضعیف پایه‌های قدرت داخلی آن کمک کند.",
-        "tag": "تنش",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "taghribnews.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZS1qNG5zZHE3QU1sVzlLbVRUSTNsYTZHZWw2SUpDclVzMUZZRDFVazlvNHo2Y3FIejJXWlVFZFhNNl9TSUEwTnhmSE54eEhkRFhteTZ2YU5fQ3BwNlRQNXlBU29Bc3NoMzRqc1NoVFdHc2J2MU1CNUxhNFk0SlBiREtMU0t2SF90YXV1WWptZE9OeGZRZ1dicDBnaWRJUWUyc1NNeDM2czZaUGRzeEJ3eFZvUVBQSGhYN0ZuejUySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770997318.0
-    },
-    {
-        "title_fa": "تاکید ایران و آذربایجان بر اجرای پروژه‌های دوجانبه",
-        "title_en": "Iran, Azerbaijan stress implementation of bilateral projects",
-        "summary": [
-            "جلسه بین پرویز شبازوف، وزیر انرژی آذربایجان، و مجتبی دمیرچی‌لو، سفیر ایران در باکو، برای تبادل‌نظر درباره وضعیت همکاری‌های انرژی، پروژه‌های مشترک و روند اجرای آنها برگزار شد.",
-            "طرفین اعلام کردند که نشست کمیسیون دولتی همکاری‌های اقتصادی، تجاری و انسانی آذربایجان و ایران در باکو می‌تواند به تسریع اجرای پروژه‌های موجود کمک کند.",
-            "گزارش رسمی کلی‌گویی است و هیچ تعهد مالی مشخص، جدول زمانی یا مکانیزم پرداختی اعلام نشده؛ در عمل تحریم‌ها، موانع بانکی و کمبود سرمایه‌گذاری همچنان مهم‌ترین مانع اجرای سریع پروژه‌ها هستند."
-        ],
-        "impact": "این مذاکرات نشان‌دهنده تلاش تهران برای جذب سرمایه و حل موانع مالی اجرای پروژه‌های انرژی است، اما تا زمانی که تحریم‌ها و مشکلات بانکی و سرمایه‌گذاری پابرجا باشند، وعده‌های رسانه‌ای احتمالاً به نتایج عملی محدود خواهند ماند.",
-        "tag": "انرژی",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241753/Iran-Azerbaijan-stress-implementation-of-bilateral-projects",
-        "image": null,
-        "timestamp": 1770995220.0
-    },
-    {
-        "title_fa": "چرا این‌قدر ساکت، پوتین؟ نقش روسیه در تنش‌های ایران و اسرائیل",
-        "title_en": "Why So Quiet, Putin? Russia’s Role in the Iran-Israel Tensions",
-        "summary": [
-            "تیتر به بازتاب احتیاط یا سکوت نسبی مسکو در برابر تنش‌های اخیر ایران و اسرائیل اشاره می‌کند و پرسش درباره منافع راهبردی روسیه در منطقه را مطرح می‌سازد.",
-            "نقش روسیه باید به‌عنوان یک شریک راهبردی رژیم تهران در نظر گرفته شود که روابط یا موازنه‌سازی‌هایش می‌تواند توان محاسباتی و فشار منطقه‌ای حکومت را تحت‌الشکل‌های مختلف تقویت یا مدیریت کند.",
-            "هرچند مواجهه مستقیم با اسرائیل خطرناک است، ولی همین تنش‌ها و واکنش‌های بین‌المللی می‌تواند به تضعیف تدریجی مشروعیت و توان سرکوب رژیم و باز شدن فرصت‌هایی برای جنبش‌های آزادی‌خواه داخلی بینجامد."
-        ],
-        "impact": "نقش روسیه در این تنش‌ها می‌تواند موقتا به تهران اهرم بدهد اما در مجموع با افزایش فشار بین‌المللی و افشای وابستگی‌ها، شانس تضعیف حکومت و گشودن میدان برای مطالبات مردمی را افزایش می‌دهد.",
-        "tag": "روسیه",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "Wired-Gov",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEJ0Y3FqZEV0R1BiVENYWDFNSF9vYjVHTUlDRWZhS0t5MDhCOUtaSEJ5bXV5Zi1jRWhZS3hpZDdmMHNBbkE3d2g5emZORzB2V29hQnFROG01NEVTaGxnSmtkOTd4VU5RVS1XQk81WVg1Tld3bXVmbTVmMXFRQWRxdVJ1MFg5enlWaTFLRnpUbFQ2aGlDV3R5UzMxQjY5UWx5TXRTMm1mTkVDSVB6ZDlkZE4wS2NUUGFLMjJwRC0tNGlkMjg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770992809.0
-    },
-    {
-        "title_fa": "کری لیک کار را برای ترامپ درباره ایران سخت‌تر می‌کند",
-        "title_en": "Opinion | Kari Lake is making Trump’s job harder in Iran",
-        "summary": [
-            "یادداشت رأیی در واشنگتن‌پست می‌گوید مواضع و گفتار کری لیک مدیریت پیام ترامپ درباره سیاست خارجی ایران را پیچیده کرده است.",
-            "نویسنده هشدار می‌دهد که اختلافات درون جناح راست آمریکا می‌تواند دیپلماسی و تلاش‌های هماهنگ برای مواجهه با تهران را تضعیف کند.",
-            "این تشتت داخلی احتمالاً دستاویزی به دست منتقدان و نیز فرصتی احتمالی برای رژیم ایران می‌دهد تا از نفاق آمریکا بهره ببرد."
-        ],
-        "impact": "تفرقه و رقابت داخلی در صفوف سیاست‌مداران آمریکایی احتمالاً فشار و اجماع یک‌پارچه بر تهران را کاهش می‌دهد و به رژیم فضای مانور بیشتری می‌دهد.",
-        "tag": "آمریکا",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjR1VzNlZHVKYXhQUDRjVE8wTE5PcHFETlhzODBKdVNGZU5ycFpxc2F2Z1d6aTNfOUFMUHhaZXE0M3J4LTJCR0FiZE9uc1pZMmp5Ui0yWlpDMzdGOXdtODRZVGhLRmJLMlRNQmkxNEg2Rjl4bGYweWtjQk41eTJVNEVKc0hQWWpXMnc1eU1tSUc0Y2I0d3VRN0xzQWFrelRqUWd5bTBNR0s?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770991339.0
-    },
-    {
-        "title_fa": "ارتش ایران در نتیجه جنگ ۱۲ روزه با اسرائیل تضعیف شده، اما هنوز توانایی‌های مهمی دارد",
-        "title_en": "Iran's military degraded by 12-day war with Israel, but still has significant capabilities",
-        "summary": [
-            "گزارش اشاره می‌کند که در جریان درگیری ۱۲ روزه با اسرائیل توان عملیاتی و برخی ظرفیت‌های نظامی ایران کاهش یافته‌اند، هرچند بخش‌هایی از قدرت نظامی همچنان پابرجا مانده است.",
-            "این تضعیف، سرمایه سیاسی و بازدارندگی رژیم را کاهش می‌دهد و می‌تواند فضای تصمیم‌گیری تهران را تنگ‌تر کند؛ دریچه‌ای برای افزایش فشار داخلی و رشد جنبش‌های مدنی فراهم می‌آورد.",
-            "همزمان بقای برخی توانایی‌ها نشان می‌دهد که رژیم هنوز قادر به دخالت منطقه‌ای و سرکوب داخلی است؛ بنابراین مخالفان و جامعه بین‌الملل باید از این ضعف نسبی برای تشدید فشار سیاسی و حقوقی استفاده کنند، اما تا رفع کامل تهدید مراقبت لازم است."
-        ],
-        "impact": "تضعیف نظامی ناشی از این جنگ می‌تواند مشروعیت رژیم را کاهش دهد و موقعیتی را برای پیشبرد خواسته‌های آزادی‌خواهانه مردم ایجاد کند، اما خطر بالقوه تهدیدات منطقه‌ای و سرکوب داخلی همچنان وجود دارد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.5,
-        "source": "WSLS",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWNNTW1fNXFjYVp1TFJISV9XZDV1UmxCTVRqcW9vM21fUGljQk01OS1HRnlTdW84d2tMXzhyS3YzUjE1clg1bEtBMXJxWWtENGY2b1k2Y3VHWl92LXQ0dks5NVVmVDBiZ0tEYzJySnI0RGo2b25xNTNlUmExUm85SXl4ZDA3NjNBdlpNb2c5ZXdkbUV3azlqOV9kSk9sWDg1YlYyZkNXY2lxNFpVR0N1Ynh4UVZBcGJFY1JsOFpNbkFwMmFSWGZiV093?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770987199.0
-    },
-    {
-        "title_fa": "تنش میان ایران و اسرائیل و توانمندی‌های نظامی",
-        "title_en": "Iran-Israel-Military Capabilities",
-        "summary": [
-            "این مطلب صرفاً یک تیتر است و متن کامل یا جزئیات بیشتری ارائه نمی‌دهد؛ اطلاعات بیشتر باید تأیید شود.",
-            "هر گزارش درباره توانمندی‌های نظامی ایران و اسرائیل نشان‌دهنده ریسک تشدید درگیری است و بار امنیتی و سیاسی بر مردم و منطقه می‌افزاید.",
-            "تمرکز بر رقابت نظامی حکومت، ضعف‌های مدیریتی و امنیتی رژیم را برجسته می‌کند و می‌تواند نارضایتی داخلی و مسیر مطالبات آزادی مردم را تقویت کند."
-        ],
-        "impact": "تنش نظامی بین ایران و اسرائیل فشار بین‌المللی و نارضایتی داخلی را شدت می‌بخشد و در مجموع جای پای رژیم را تضعیف می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": 0.3,
-        "source": "GazetteXtra",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcnFsaXNjdVFpUkwydkNlcDlmT3RWOFdCNGpocTJfcEsxTThFdDBWdGhvemxiSTdJMjlnUUVRbUFURG4xLWlYSVBCMVR2M01zVG5YTDdsQmxqNlNzY2FOT1l5akJWVTFXQmgxSVYwODY0ZUNpMUtMRHpZUEIwOXlWWVdkMVBlRVpkd1JFbWlnS2RJVHcybTNnX1BjdUFjZGpGVWFCaXE0Z3V6a1FzT3BXNjZRY1RwaTRuX2tyTjllNnJIX05ySEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770986905.0
-    },
-    {
-        "title_fa": "آینده ایران در گرو تقسیم قدرت بین سپاه و ارتش",
-        "title_en": "Iran’s Future Hinges on IRGC-Artesh Power-Sharing",
-        "summary": [
-            "توازن قدرت میان سپاه پاسداران (نهاد انقلابی مسلط بر سرکوب داخلی) و ارتش (نیروی متعارف و حرفه‌ای) تعیین‌کننده ثبات سیاسی، توان دفاعی و مسیر آینده رژیم است.",
-            "اگر سپاه انحصار قدرت را حفظ کند، احتمال تشدید سرکوب افزایش می‌یابد؛ اما رشد نقش ارتش می‌تواند انسجام فرماندهی رژیم را تضعیف کرده و به بحران‌های نهادی و رقابت درون‌دولتی منجر شود.",
-            "درگیری یا عدم‌توازن میان این دو نیرو خلأهایی ایجاد می‌کند که اپوزیسیون و جنبش‌های مردمی می‌توانند از آنها سود ببرند و رژیم را در برابر فشارهای خارجی و داخلی آسیب‌پذیرتر می‌سازد."
-        ],
-        "impact": "تقابل قدرت میان سپاه و ارتش پایه‌های اقتدار جمهوری اسلامی را تضعیف کرده و پنجره‌ای برای افزایش فشارهای داخلی و خارجی و فرصت‌های سیاسی برای اپوزیسیون باز می‌کند.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Geopolitical Futures",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLURUY0k0MVBmMy1ZalQ5cy1KbEpxbzI3a1V1dHRGSk1leFFzSU9tZF9aeXJQQ3Z2SW82cFRiTHpqdk9ocm5UdHV2V3pyRk5xc1ZUOXZTRWhtSmJ0ZTVJdzVBa1luU193Y0FneDhtdGpJQnR3RUxSVzZFejRpN0djTTRZWVMwazRJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770980414.0
     }
 ]
