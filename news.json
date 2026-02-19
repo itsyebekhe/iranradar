@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اختصاصی | ترامپ بررسی حمله محدود اولیه برای وادارسازی ایران به توافق هسته‌ای",
+        "title_en": "Exclusive | Trump Weighs Initial Limited Strike to Force Iran Into Nuclear Deal",
+        "summary": [
+            "گزارش می‌گوید دونالد ترامپ در حال بررسی گزینه حمله محدود اولیه است که هدف آن متقاعدسازی ایران برای بازگشت یا پذیرش توافق هسته‌ای از طریق فشار نظامی مستقیم است.",
+            "چنین گزینه‌ای، نمونه‌ای از انتقال فشار از ابزارهای اقتصادی و تحریمی به استفاده از زور نظامی است؛ ساختاراً می‌تواند توان مذاکره و بازدارندگی رژیم را کاهش دهد اما خطر تشدید درگیری و واکنش تلافی‌جویانه را بالا می‌برد.",
+            "در داخل ایران، اقدام نظامی خارجی ممکن است فوری‌ترین نتیجه‌اش تشدید کنترل‌های امنیتی و فضای سیاسی بسته‌تر باشد؛ اما این فشار بیرونی به همراه تحریم‌ها ساختار آسیب‌پذیری رژیم را بلندمدت تقویت می‌کند."
+        ],
+        "impact": "یک حمله محدود اولیه، فشار خارجی را به سطح نظامی ارتقاء می‌دهد و شانس وارد آمدن ضربه به ظرفیت‌های هسته‌ای یا سیاسی رژیم را افزایش می‌دهد اما ریسک شعله‌ور شدن پاسخ نظامی و بی‌ثباتی منطقه‌ای را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTGdoYkVReHlza2ZCbEVVdjI4WDlpSlVHWXd4WUkxRHBKNXM2Z0NvNHJkYU1vci1OT3h0M3Vmb2dtQ3JGM19lTFN4aF8xZzRiUGs5WFdKOHoyOVBUem01UjZ1WGo5WTZxdm1GZnROYnhIb3N2dkNFampIRXJxMFdsYl8yNlo2OVFEWThVMllySmttLThGR2Z5bXAxdVpMOU5XLUtYZHpnZVFtYXl3VGY0Zmh5dkN4dkc3S1Rta2daMlRQdFk4NzhkMktSOV90d0NIZzhxME9GTjZQSFZQQ0xncnNhcGhJNHhib0tyU29YUzVzNGRNSlNncjJzVmJNT3FHc0hNZFlUdzlvZmdkOGpJVkVHV0t5Q0loSW52amUxU05PNWViM1Z6bV9JVkNqdjR0OFA1bW1aTkMzdDdoeENoRHRNNkpCeE9heGdlSHNJeC1JY0VzUGFUckRmY2didFI3UUhjMVVBTTF2YjVGRGNIZWxkUHNKQ3ZUeHR2a2lwY1hhcWxJS2ZwbFFsekJGOUJiSzJKNEdmM0dXVW50aUg3YTN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTGdoYkVReHlza2ZCbEVVdjI4WDlpSlVHWXd4WUkxRHBKNXM2Z0NvNHJkYU1vci1OT3h0M3Vmb2dtQ3JGM19lTFN4aF8xZzRiUGs5WFdKOHoyOVBUem01UjZ1WGo5WTZxdm1GZnROYnhIb3N2dkNFampIRXJxMFdsYl8yNlo2OVFEWThVMllySmttLThGR2Z5bXAxdVpMOU5XLUtYZHpnZVFtYXl3VGY0Zmh5dkN4dkc3S1Rta2daMlRQdFk4NzhkMktSOV90d0NIZzhxME9GTjZQSFZQQ0xncnNhcGhJNHhib0tyU29YUzVzNGRNSlNncjJzVmJNT3FHc0hNZFlUdzlvZmdkOGpJVkVHV0t5Q0loSW52amUxU05PNWViM1Z6bV9JVkNqdjR0OFA1bW1aTkMzdDdoeENoRHRNNkpCeE9heGdlSHNJeC1JY0VzUGFUckRmY2didFI3UUhjMVVBTTF2YjVGRGNIZWxkUHNKQ3ZUeHR2a2lwY1hhcWxJS2ZwbFFsekJGOUJiSzJKNEdmM0dXVW50aUg3YTN3",
+        "image": null,
+        "timestamp": 1771536000.0
+    },
+    {
         "title_fa": "بریتانیا مانع استفاده ترامپ از پایگاه‌های RAF برای حمله به ایران شد",
         "title_en": "UK blocking Trump from using RAF bases for strikes on Iran",
         "summary": [
@@ -5347,22 +5365,5 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXZlSC1xYkkzWlpPM0tpTzRDRHQ2QUxuMWRlRzJxQmpzeTZUV2dtZEptOXRnUmRCZm5mNVVCNDczNURwM3c2bzZveGttY3h2ejQtcGNmVkZ2bWpRdmVyeElwMFdja1NfT2tyX1RmaWhGVEkyQWVzckFCR25wMHRLenN2Y0gwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771052818.0
-    },
-    {
-        "title_fa": "ایران، روسیه و چین مشورت‌های سه‌جانبه در وین برگزار کردند",
-        "title_en": "Iran, Russia, China hold trilateral consultations in Vienna",
-        "summary": [
-            "نمایندگی‌های دائم ایران، روسیه و چین در سازمان‌های بین‌المللی مستقر در وین دور دیگری از مشورت‌ها را درباره پرونده هسته‌ای ایران برگزار کردند؛ مایکایل اولیانوف نماینده روسیه این جلسه را در شبکه اجتماعی اعلام کرد.",
-            "سطح برگزاری (نمایندگی‌های دائم) نشان‌دهنده مشورت‌های دیپلماتیک و هماهنگی فنی در قالب سازوکارهای چندجانبه است نه دستیابی به توافق راهبردی یا امتیازدهی بزرگ؛ هدف عمده احتمالاً همسوسازی مواضع و فراهم‌کردن پوشش دیپلماتیک برای تهران است.",
-            "این نشست بخشی از تلاش رژیم برای نمایش حمایت بین‌المللی است؛ مسکو و پکن عملاً نقش شرکای دیپلماتیک رژیم را ایفا می‌کنند که به آن امکان می‌دهند از پاسخگویی و فشارهای نهادهای بین‌المللی فرار کند و فضای لازم برای ادامه سیاست‌های سرکوب داخلی را حفظ نماید."
-        ],
-        "impact": "همکاری سه‌جانبه عمدتاً پوشش دیپلماتیک و حفاظی برای رژیم فراهم می‌کند و نشان می‌دهد روسیه و چین نقش حمایتی در تداوم فرار تهران از پاسخگویی و سرکوب داخلی ایفا می‌کنند.",
-        "tag": "سرکوب",
-        "urgency": 3,
-        "sentiment": -0.7,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241771/Iran-Russia-China-hold-trilateral-consultations-in-Vienna",
-        "image": "https://media.mehrnews.com/d/2022/01/25/4/4038143.jpg",
-        "timestamp": 1771052760.0
     }
 ]
