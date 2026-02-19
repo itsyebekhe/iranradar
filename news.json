@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "در حالی که ترامپ حمله احتمالی به ایران را بررسی می‌کند، ارتش آمریکا موقعیت می‌گیرد",
+        "title_en": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place - The New York Times",
+        "summary": [
+            "ترامپ در حال بررسی گزینه‌های نظامی علیه ایران است و ارتش آمریکا نیروها و تجهیزات را در منطقه مستقر کرده است تا گزینه‌های عملیاتی آماده باشند.",
+            "این تحرک نظامی فشار خارجی را افزایش می‌دهد و می‌تواند کانال‌های اقتصادی و سیاسی رژیم را محدود کند؛ به‌طور ساختاری چنین فشاری ثبات موجود را تضعیف می‌کند.",
+            "تهدید به حمله و حضور نظامی تقویت می‌تواند رژیم را به واکنش‌های امنیتی شدیدتر و اتخاذ سیاست‌های سرکوب‌گرانه وادارد؛ این رویکرد ریسک افزایش نارضایتی اجتماعی و اختلال اقتصادی را بالا می‌برد."
+        ],
+        "impact": "پی‌آمد فوری این اقدام افزایش احتمال تقابل نظامی مستقیم و خطر اشتباه محاسباتی است که می‌تواند به درگیری گسترده‌تر منتهی شود.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GS0w4ZEoxV0NRZDdZVThBWjhVUVNYTkpPaXRqMjJZMm0zd2NybWlua19PMFBsYjM2ZUhNRklscGFBWnNSSFJLQzBjVFJGV3hFdWZiTjhKMnp1OU9OcmNNVXdlOUNjMDdrUWVZRU9tVGg1OU9pbEMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GS0w4ZEoxV0NRZDdZVThBWjhVUVNYTkpPaXRqMjJZMm0zd2NybWlua19PMFBsYjM2ZUhNRklscGFBWnNSSFJLQzBjVFJGV3hFdWZiTjhKMnp1OU9OcmNNVXdlOUNjMDdrUWVZRU9tVGg1OU9pbEMw",
+        "image": null,
+        "timestamp": 1771465002.0
+    },
+    {
         "title_fa": "کاخ سفید: ایران در حالی که توان نظامی‌اش را افزایش می‌دهد، بهتر است توافق را بپذیرد",
         "title_en": "White House says Iran would be ‘wise’ to take deal amid military buildup",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMThHMk9CZklEQ0lmWkpqVW9ZcUM3NS0wTTgwZVFJckRkOGtkUkJXdlVNZ0Y3NDBoNEx5RnN6MmwtdEoyTmdHQTNidUVjUmE0Y0Q2c1ZzUGdlT1FKbU1TbmZNLV9Cdm5mRW5BRGdZc3lIODNzb2I3c3ppdElBbklGbTN5S1duOEtnN1RqZGFyOUFDVTR1UGpudVNVVm9kZUZhSlFhSnlkZjRNbjJSQjlORHlyU1dUZTllTGkzX1dlMXY",
         "image": null,
         "timestamp": 1771436229.0
+    },
+    {
+        "title_fa": "استقرار نیروهای نظامی آمریکا برای ضربات احتمالی به ایران",
+        "title_en": "U.S. Military Moves Into Place for Possible Strikes in Iran",
+        "summary": [
+            "گزارش‌ها حاکی از جابه‌جایی و استقرار نیروهای نظامی آمریکا در موقعیت‌هایی است که در صورت تصمیم‌گیری بتوانند حملاتی علیه اهدافی در ایران انجام دهند؛ دونالد ترامپ، رئیس‌جمهور آمریکا، تاکنون تصمیم نگرفته و مذاکرات دیپلماتیک ادامه دارد.",
+            "فشار نظامی مستقیم می‌تواند به عنوان عاملی ساختاری حکومت را تضعیف کند: افزایش هزینه‌های امنیتی، اختلال در سرمایه‌گذاری و مبادلات خارجی و فشار بر منابع خزانه که توان مدیریتی و اقتدار داخلی را کاهش می‌دهد.",
+            "این تحرک‌ها احتمال تشدید نارضایتی عمومی و نمایان شدن ناکارآمدی اقتصادی و امنیتی حکومت را افزایش می‌دهند و در صورت ادامه‌دار شدن تنش، ریسک وقوع ناآرامی‌های گسترده یا بحران‌های محلی بیشتر می‌شود."
+        ],
+        "impact": "این استقرار نظامی چشم‌انداز تشدید تنش را بالا می‌برد و می‌تواند روند فرسایش ساختارهای داخلی حکومت را تسریع کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": 0.5,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
+        "image": null,
+        "timestamp": 1771436160.0
     },
     {
         "title_fa": "آمریکا و اسرائیل گزینه نظامی را در پی توقف مذاکرات با ایران بررسی می‌کنند: گزارش",
@@ -5270,39 +5306,5 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSWNaM3BLdmpKbDZfZmFtUWJxNWE0QWZFZlZtV0tMUGRmRlJ4R00tbUFwY2VWaGxFYTM0RDE2S3pmM01EbEIyWGVFSUdGOTdrTFBvamNaVVVZRGRGR2ZPb1ZHWFRKei1uSG9pU1hQOFRlMnFSUXlqenZscnI4YUVUX2JJd19rSE5JSV9fZm16dDRKSUhNWlNaaC1sN21mejVUSFAya3Itc1NtSXVoZHd6dzZyeGJNdDl6VEdHbVRVR3hucFB5R2lnT1RXQjBWWklPSVpmLVFndmZyRDhqLVp3?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1770925985.0
-    },
-    {
-        "title_fa": "ترامپ: باید با ایران توافق کنیم وگرنه «بسیار دردناک» خواهد بود",
-        "title_en": "Trump: We have to make a deal with Iran or it will be ‘very traumatic’",
-        "summary": [
-            "دونالد ترامپ هشدار داده که در صورت عدم رسیدن به توافق با ایران پیامدها «بسیار دردناک» خواهد بود.",
-            "این اظهارنظر می‌تواند فشار دیپلماتیک و اهرم‌های بین‌المللی علیه رژیم جمهوری اسلامی را افزایش دهد و زمینه مذاکره را تقویت کند.",
-            "برای اپوزیسیون ملی‌گرا، چنین موضعی ضعف حکمرانی رژیم را برجسته می‌کند و می‌تواند فضای بین‌المللی را برای پیشبرد اهداف آزادی‌خواهانه مردم ایران بازتر سازد."
-        ],
-        "impact": "اظهارنظر ترامپ ممکن است اهرم‌های فشار بین‌المللی علیه رژیم را تقویت کرده و راه‌های سیاسی برای تغییر به نفع مردم ایران باز کند.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajlqODRySkZJTnJWZ2ZsUXVfQlJmaGcxRjJvWFhzNGdmU3YwTV9RYjZrV1JoMm1oUUpqMmhZdnY4N2pkODhpRzdxdGU5TTg3U1ROeVNqVy0zQlI2Z20xRURWX212NlIzajVxUXRHZHlrZVYzckNUa1IxNi02WVpIeUllZWpOeG04eVBCUE5RUUtMc3ktX3JHd3FoVE5Mcll0NVBLWU9qUDliOHFjUGU5cnVfZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770925603.0
-    },
-    {
-        "title_fa": "آمریکا گروه ضربت ناو هواپیمابر دوم را به خاورمیانه اعزام می‌کند؛ آنکارا از جنگ هشدار می‌دهد",
-        "title_en": "U.S. to deploy 2nd carrier strike group to Mideast; Ankara cautions against war TV7 Israel - 12 Feb.",
-        "summary": [
-            "آمریکا تصمیم گرفته گروه ضربت ناو هواپیمابر دوم را به منطقه خاورمیانه اعزام کند.",
-            "آنکارا نسبت به تشدید درگیری‌ها و احتمال وقوع جنگ هشدار داده و از افزایش تنش‌ها ابراز نگرانی کرده است.",
-            "این تحرک نظامی نشان‌دهنده احتمال افزایش دخالت بین‌المللی و تشدید تنش‌های منطقه‌ای است."
-        ],
-        "impact": "چنین اعزامی می‌تواند فشار بین‌المللی بر رژیم حاکم ایران را افزایش دهد و به تضعیف کنترل آن و تقویت مسیر مردم برای آزادی کمک کند.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": 0.3,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NeXFmZ0Z0cGFpRDdHd0Y5MXBkNU5haEs2d2NETC1rRTI5Vmo2RlhIdFRVNmJyTHE3QThhVzJMNG5tX2xoMW1DZDc2eUdRcmNkOG9fVkk4Y0ItMjVrWWFLbEVWM25ZSEV2X21vVEk4OUZvRXR2Rk9B?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770924947.0
     }
 ]
