@@ -324,6 +324,24 @@
         "timestamp": 1771509371.0
     },
     {
+        "title_fa": "آیا ترامپ در آستانه جنگ با ایران است؟",
+        "title_en": "Wait, Is Trump About to Go to War With Iran?",
+        "summary": [
+            "استقرار گسترده نیروی نظامی آمریکا — شامل 18 شناور از جمله دو ناو هواپیمابر، جنگنده‌ها، بمب‌افکن‌ها، سامانه‌های ضدموشک و اخلالگرهای الکترونیکی — فشار خارجی بی‌سابقه‌ای روی ایران ایجاد کرده اما هدف عملیاتی مشخص نیست؛ گزینه‌هایی از نابودی برنامه هسته‌ای تا تضعیف موشکی یا سرنگونی رژیم مطرح‌اند.",
+            "فشار خارجی، به‌تنهایی، ساختار رژیم را تضعیف می‌کند اما تجربه و گزارش‌ها درباره کشتار معترضان نشان می‌دهد که این فشار احتمالاً با تشدید سرکوب داخلی همراه خواهد شد؛ در عین حال انتظارات از پیامدهای اقتصادی (نوسانات ارزی، تشدید ناکارآمدی مدیریتی) افزایش یافته است.",
+            "ابهام در هدف‌گذاری سیاست واشنگتن و شباهت‌های نمایشی با اقدامات قبلی (مثال ونزوئلا) نشان می‌دهد تهدیدها ممکن است بیش از آن‌که راهبردی باشند ابزار فشار سیاسی باشند؛ هرگونه تقابل مستقیم ریسک نامطمئن بودن موفقیت نظامی و پیامدهای منطقه‌ای را بالا می‌برد."
+        ],
+        "impact": "این تحرک نظامی فشار خارجی قابل‌توجهی بر رژیم وارد می‌آورد اما به‌خاطر ابهام اهداف می‌تواند منجر به تشدید سرکوب داخلی، بی‌ثباتی اقتصادی و افزایش ریسک تقابل نظامی شود.",
+        "tag": "فشار",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/wait-trump-war-iran-211740064.html",
+        "clean_url": "https://www.yahoo.com/news/articles/wait-trump-war-iran-211740064.html",
+        "image": "http://www.bing.com/th?id=OVFT.WyqbXGWBN_6WeI9JA97EMC&pid=News",
+        "timestamp": 1771507800.0
+    },
+    {
         "title_fa": "اسرائیل در آستانه احتمال درگیری با ایران «در عرض روزها»؛ آمریکا نیروی هوایی را تا سطح جنگ عراق تقویت می‌کند",
         "title_en": "Israel Braces for Possible Iran Conflict ‘Within Days’ as US Builds Up Air Power in Region to Iraq War Levels",
         "summary": [
@@ -376,6 +394,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFNiNzBmc1lNOG5LSl9obG5Bb2MybkhFbnpiWWJOT2dwM0JneF93cDFGb1RGVG9EVTY2ZUxDWDhQWXdXdVVKVnFyWTdaLXVFa0I5Wlh2Z1JZMWhRLXJmQVRUenA1WTRFRFVzNnNWOFMzaEcwQWlQUWhIbDY3enRYaTRxWkotMGwtSGgxVFBVSDR1Zw",
         "image": null,
         "timestamp": 1771505668.0
+    },
+    {
+        "title_fa": "ترامپ به ایران هشدار داد: اگر توافقی نباشد «اتفاقات بدی» رخ می‌دهد؛ مهلت حدود ۱۰ تا ۱۵ روز",
+        "title_en": "Trump warns Iran of 'bad things' if no deal made, appears to set deadline of 10-15 days",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، به ایران هشدار داد که باید درباره برنامه هسته‌ای به توافق برسد وگرنه «اتفاقات واقعاً بدی» رخ خواهد داد.",
+            "او به‌نظر مهلت حدود ۱۰ تا ۱۵ روزه‌ای تعیین کرد که این پیام را می‌رساند واشنگتن دنبال نتیجه‌گیری سریع است و آماده تشدید فشارهاست.",
+            "این تهدید مهلتی، فشار خارجی بر تهران را تشدید می‌کند و می‌تواند ریسک تشدید تحریم‌ها یا اقدامات تهاجمی را بالا ببرد و در عین حال بر آسیب‌پذیری اقتصادی و نارضایتی‌های داخلی بیفزاید."
+        ],
+        "impact": "این هشدار علنی با مهلت مشخص، احتمال اعمال فشارهای اقتصادی و گزینه‌های نظامی یا دیپلماتیک شدیدتر را افزایش می‌دهد و ثبات رژیم را در برابر شوک‌های سیاسی و اقتصادی تضعیف می‌کند.",
+        "tag": "فشار",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-warns-iran-of-bad-things-if-no-deal-made-appears-to-set-deadline-of-10-15-days/ar-AA1WH6nV",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-warns-iran-of-bad-things-if-no-deal-made-appears-to-set-deadline-of-10-15-days/ar-AA1WH6nV",
+        "image": null,
+        "timestamp": 1771505424.0
     },
     {
         "title_fa": "ترامپ به ایران درباره تشدید تنش‌ها و مانورهای نظامی هشدار داد",
@@ -520,6 +556,24 @@
         "clean_url": "https://www.aol.com/articles/russia-warns-escalating-iran-tensions-132219208.html",
         "image": null,
         "timestamp": 1771490460.0
+    },
+    {
+        "title_fa": "آژانس هسته‌ای سازمان ملل درباره دو خطر بزرگ در صورت عدم توافق آمریکا و ایران هشدار داد",
+        "title_en": "UN nuclear chief warns of 2 major risks if US.-Iran deal not reached",
+        "summary": [
+            "مسئول آژانس هسته‌ای سازمان ملل هشدار داده است که در صورت عدم حصول توافق بین آمریکا و ایران دو خطر بزرگ پدید می‌آید؛ متن خبر جزئیات دقیق دو خطر را ذکر نکرده است.",
+            "او تصریح کرده که اورانیوم غنی‌شده ایران «هنوز آنجاست»، نکته‌ای که به ظرفیت هسته‌ای موجود و خطرات فنی و سیاسی مرتبط اشاره دارد.",
+            "آژانس بر فوریت دیپلماسی تأکید کرده تا از تبدیل شدن تنش‌ها به جنگ بین آمریکا و ایران جلوگیری شود؛ این درخواست بازتاب ریسک مستقیم از منظر امنیت بین‌المللی است."
+        ],
+        "impact": "بدون توافق، ترکیب ظرفیت هسته‌ای موجود و تشدید تنش‌های بین‌المللی ریسک برخورد نظامی را بالا می‌برد و ادامه فشارهای بین‌المللی می‌تواند تضعیف اقتصادی و سیاسی رژیم را تسریع کند.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/u-n-nuclear-chief-warns-of-2-major-risks-if-u-s-iran-deal-not-reached/ar-AA1WFQT6",
+        "clean_url": "https://www.msn.com/en-us/news/other/u-n-nuclear-chief-warns-of-2-major-risks-if-u-s-iran-deal-not-reached/ar-AA1WFQT6",
+        "image": "http://www.bing.com/th?id=OVFT.aVJnirpZgV6OLxLzC2ujai&pid=News",
+        "timestamp": 1771490220.0
     },
     {
         "title_fa": "آمریکا: تهران «بسیار خردمند» خواهد بود اگر توافق کند؛ روسیه و ایران رزمایش دریایی برگزار می‌کنند",
@@ -5310,56 +5364,5 @@
         "url": "https://en.mehrnews.com/news/241771/Iran-Russia-China-hold-trilateral-consultations-in-Vienna",
         "image": "https://media.mehrnews.com/d/2022/01/25/4/4038143.jpg",
         "timestamp": 1771052760.0
-    },
-    {
-        "title_fa": "طرحی برای تبدیل ایران از تهدید منطقه‌ای به یک دولت عادی",
-        "title_en": "A Plan to Transform Iran From a Regional Menace Into a Normal State",
-        "summary": [
-            "مقاله‌ای در تایمز آو اسرائیل پیشنهادی را مطرح می‌کند با هدف تغییر رفتار جمهوری اسلامی از نقش «تهدید منطقه‌ای» به یک دولت با روابط عادی بین‌المللی.",
-            "نویسنده بر لزوم ترکیب ابزارهای بین‌المللی، از فشار سیاسی و اقتصادی تا تعامل دیپلماتیک، برای تضمین تغییر رفتار رژیم تأکید می‌کند.",
-            "هدف اعلام‌شده طرح، کاهش تنش‌های منطقه‌ای و ایجاد ثبات بیشتر در خاورمیانه از طریق تغییر عملی سیاست‌های ایران است."
-        ],
-        "impact": "اگر چنین طرحی پیگیری و هماهنگ شود، می‌تواند بر مشروعیت رژیم فشار بیاورد و فضای سیاسی داخل ایران را که به تغییر نیاز دارد، تقویت کند.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVlwWlo4UWw1T3oxMW9jellrYjFFZXltMlhkZWM5b0NkWlpNa25vNjlsRExIeVNndTAxbFZDdXAxLXNmY1ktSFFDMGxwdXAtdEZpTWtwY0U2ZEh4aGZTVTVkaUdWb1hQcmM2WGFQamRkRUpRVW5JT3oxcU9qQWk4UkRWOWZzaHJTTnFhTGl6emgwZ1lZbUpaMDBnYmFsdkZIOFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771052640.0
-    },
-    {
-        "title_fa": "به‌روزرسانی مذاکرات هسته‌ای ایران و آمریکا — ۱۴ فوریه",
-        "title_en": "LATEST UPDATES ON IRAN-U.S. NUCLEAR TALKS / FEB 14 -",
-        "summary": [
-            "خبرگزاری WANA در تاریخ ۱۴ فوریه آخرین به‌روزرسانی‌ها درباره مذاکرات هسته‌ای میان ایران و آمریکا را منتشر کرده است.",
-            "خلاصه‌ای از جزئیات یا نتیجه قطعی در متن منبع قید نشده است و برای ارزیابی دقیق‌تر نیاز به متن کامل گزارش یا اعلامیه‌های رسمی است.",
-            "هر گونه پیشرفت یا بازگشت در این گفت‌وگوها می‌تواند تبعات سیاسی و تحریمی برای رژیم داشته باشد و روی توانایی حکومت در مدیریت بحران‌های داخلی تأثیر بگذارد."
-        ],
-        "impact": "در صورت تحقق هرگونه تغییر مهم در مذاکرات، احتمال کاهش توان سرکوب یا تغییر در معادلات تحریمی وجود دارد که می‌تواند مسیر مقاومت مردم و فشار برای آزادی را تسهیل کند.",
-        "tag": "مذاکرات",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBac2hnQTR0NGFPYldBS2RtVEk2RE5UUnYzX1l1dl9oZ1BCUUxWZkphZFh6ZGxGZFhsU3lzVzRWU09qZXJoUnhmZFBxMEdKb3R2ZElXWEpKLTBOZGdDUnBXR1NISVZKaHFicTNHelB1MGw3UmxqVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771052175.0
-    },
-    {
-        "title_fa": "نماینده ایران در سازمان ملل: تهران حمایت از سوریه را ادامه می‌دهد",
-        "title_en": "Iran to continue support for Syria: UN envoy",
-        "summary": [
-            "نماینده دائم ایران در سازمان ملل در نشست شورای امنیت گفت تهران از «سوریه‌ای باثبات، متحد و امن» حمایت می‌کند، خواستار پایان «نقض حاکمیت» سوریه از سوی اسرائیل و توقف فعالیت‌های نظامی در جولان شد و از نقش هماهنگ سازمان ملل در بازسازی و ثبات‌سازی سوریه استقبال کرد.",
-            "این بیانیه تبلیغاتی تناقض‌آمیز است: تهران هم‌زمان ادعای دفاع از حاکمیت سوریه را دارد اما سال‌هاست با استقرار نیروها و حمایت از شبه‌نظامیان در خاک سوریه نفوذ خود را گسترش داده؛ خط‌مشی ضداسرائیلی به‌عنوان پوششی برای توجیه مداخله و منحرف‌کردن انتقادهای داخلی و بین‌المللی به کار می‌رود.",
-            "اشاره اظهارات به «گسترش اقتدار دولت» و «توافق ادغام» در شمال‌شرق نشان‌دهنده تلاش تهران برای مشروع‌نمایی تغییرات میدانی است؛ این تحولات ممکن است حضور برخی بازیگران خارجی را تغییر دهد اما احتمالا به افزایش وابستگی دمشق به حامیان منطقه‌ای و تقویت نقش ایران در بازسازی و تصمیم‌گیری سیاسی منجر خواهد شد."
-        ],
-        "impact": "این مواضع بیش از آنکه چاره‌ساز باشد نمایشی است؛ مداخله‌گری تهران منابع داخلی را هدر می‌دهد، نارضایتی عمومی را تشدید می‌کند و در نهایت به تضعیف رژیم و تقویت راه مردم برای رسیدن به آزادی کمک می‌کند.",
-        "tag": "سوریه",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241770/Iran-to-continue-support-for-Syria-UN-envoy",
-        "image": "https://media.mehrnews.com/d/2026/01/14/4/5867525.jpg?ts=1768360942538",
-        "timestamp": 1771051500.0
     }
 ]
