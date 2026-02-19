@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تنش‌های آمریکا-ایران: خط زمانی رویدادهای کلیدی از اعتراضات دسامبر ۲۰۲۵",
+        "title_en": "US-Iran tensions: Here is a timeline of key events since December 2025 protests",
+        "summary": [
+            "اعتراضات اقتصادی دسامبر ۲۰۲۵ همراه با قطعی گسترده اینترنت؛ نشانه‌ی نارضایتی عمومی عمیق و واکنش سرکوب‌گرانه حکومت برای کنترل جریان اطلاعات.",
+            "مذاکرات ژنو در فوریه ۲۰۲۶ یک مداخله دیپلماتیک برای جلوگیری از تشدید مستقیم بود، اما تا کنون نتوانسته تضمین پایداری بلندمدت یا کاهش فشارهای داخلی را فراهم کند.",
+            "تهدید فعلی به حملات نظامی آمریکا و افزایش فشارهای خارجی رژیم را به‌صورت ساختاری تضعیف می‌کند؛ آثار داخلی شامل تشدید مشکلات اقتصادی، بی‌ثباتی بازارها و اعمال سرکوب بیشتر علیه اعتراضات است."
+        ],
+        "impact": "هم‌افزایی اعتراضات داخلی، اختلال اینترنتی و تهدید نظامی آمریکا، ثبات ساختاری رژیم را به‌طور قابل‌توجهی تضعیف کرده و شانس تشدید بحران اقتصادی-سیاسی را افزایش می‌دهد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Mint",
+        "url": "https://www.msn.com/en-in/news/world/us-iran-tensions-here-is-a-timeline-of-key-events-since-december-2025-protests/ar-AA1WE274",
+        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-tensions-here-is-a-timeline-of-key-events-since-december-2025-protests/ar-AA1WE274",
+        "image": null,
+        "timestamp": 1771482458.0
+    },
+    {
         "title_fa": "منطق نامشخص ترامپ در آستانه کشیده‌شدن به جنگ با ایران",
         "title_en": "Trump's rationale is still opaque as he slides closer to war with Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-s-rationale-is-still-opaque-as-he-slides-closer-to-war-with-iran/ar-AA1WDvLn",
         "image": null,
         "timestamp": 1771480440.0
+    },
+    {
+        "title_fa": "آمریکا و ایران در آستانه درگیری مسلحانه؛ مذاکرات متوقف شده‌اند",
+        "title_en": "U.S. And Iran Edge Toward Armed Conflict As Talks Stall",
+        "summary": [
+            "مذاکرات بین آمریکا و ایران متوقف شده و توقف روند دیپلماتیک خطر حرکت به سمت درگیری مسلحانه را افزایش داده است.",
+            "بن‌بست دیپلماتیک ریسک اشتباه محاسباتی و تشدید عملیات نظامی محدود یا گسترده را بالا می‌برد و فضای بازگشت به خویشتنداری را تنگ‌تر می‌کند.",
+            "ادامه تنش بدون راه‌حل دیپلماتیک می‌تواند فشار خارجی و پیامدهای اقتصادی-سیاسی داخلی را تشدید کند و کارآیی حکمرانی را بیش از پیش تضعیف نماید."
+        ],
+        "impact": "تعطیلی روند دیپلماتیک، فضای ریسک رویارویی نظامی مستقیم را افزایش می‌دهد و ثبات منطقه‌ای و منافع ملی را در معرض تهدید قرار می‌دهد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "Evrim Ağacı",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9lT0NvaFhhOVdwQk5OY1l2dnJjZ0Zmd3pScy1mT2dKWHYwOURmWkNCQ2Q3aUxhMG50bjNhcmw3aTdDUlBhZjRMX0pmNXc5ZG9yUUVKb0MxN1h1R1FxeEM1eUF3T3UxeEttWUxWUUdsLWIwejQ2WVRpSl9OT1FmWFhqTHFZRGRoVDNCdnlCTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9lT0NvaFhhOVdwQk5OY1l2dnJjZ0Zmd3pScy1mT2dKWHYwOURmWkNCQ2Q3aUxhMG50bjNhcmw3aTdDUlBhZjRMX0pmNXc5ZG9yUUVKb0MxN1h1R1FxeEM1eUF3T3UxeEttWUxWUUdsLWIwejQ2WVRpSl9OT1FmWFhqTHFZRGRoVDNCdnlCTGc",
+        "image": null,
+        "timestamp": 1771479099.0
     },
     {
         "title_fa": "پنتاگون تسلیحات بیشتری به خاورمیانه می‌فرستد برای احتمال حمله به ایران",
@@ -5280,39 +5316,5 @@
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2hQRXRDU0tSbnJUTjZpMWFtZlplNEJEclJWSHBxZkVKWTN0ZDRZZHlaV0dIZUZzaFBvN2tqUGU3OWY1eVRBZWJCT181N0l4V05BeUVMakRic3ROY0h1Ulo4dG1CMXZKSWVKcjB5VV9TVGU1NE9QYVJLZFhaQjBMeW9HOG9pdWR0eUxxSk1TMDJsT21KQ2o5c3VJNDRGSGVMa1BhNjhsWllObW5QSWhzdjcyX2J0d05OVUVZbGwwZkM5WGQyS3BvMFFMUnk2bUlDTjExNlhHcnc5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1770949759.0
-    },
-    {
-        "title_fa": "ایران از ابزارهای پایش دیجیتال برای ردیابی معترضان استفاده می‌کند",
-        "title_en": "Iran Turns to Digital Surveillance Tools to Track Down Protesters",
-        "summary": [
-            "مقامات با ارسال پیامک‌های هشدارآمیز به برخی معترضان اعلام کردند «حضور در تجمعات غیرقانونی» رصد شده و پژوهشگران می‌گویند ردیابی احتمالاً از طریق داده‌های مکان گوشی صورت گرفته است.",
-            "نظام نظارتی گسترده‌ای شامل پایش ترافیک اینترنت، تشخیص چهره، تعلیق سیم‌کارت‌ها و حتی اختلال در خدمات بانکی به کار گرفته شده تا فعالان آنلاین و شرکت‌کنندگان در اعتراضات شناسایی، بازداشت و بازجویی شوند.",
-            "گرچه قطع اینترنت توجه زیادی جلب کرد، بازگشت نسبی اتصال با استفاده از داده‌های دیجیتال و فناوری‌های تشخیص به‌عنوان فاز جدید سرکوب گزارش شده که نشان‌دهنده همکاری فنی رژیم با شرکای خارجی همچون چین در تقویت ظرفیت‌های نظارتی است."
-        ],
-        "impact": "استفاده گسترده از پایش دیجیتال هم ابزار سرکوب را تقویت می‌کند و هم نشانه ترس و ضعف رژیم است که می‌تواند خشم عمومی و اراده مردم برای مقاومت را تشدید کند.",
-        "tag": "پایش",
-        "urgency": 6,
-        "sentiment": -0.9,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html",
-        "image": "http://www.bing.com/th?id=OVFT.6qKfzlDXzqL2Jt6u3MgZty&pid=News",
-        "timestamp": 1770948000.0
-    },
-    {
-        "title_fa": "ترامپ به سربازان گفت «ترس» محرک قدرتمندی در مذاکرات دشوار با ایران است",
-        "title_en": "Trump tells troops 'fear' is powerful motivator in difficult Iran talks",
-        "summary": [
-            "رئیس‌جمهور آمریکا در سخنرانی پیش از نیروها در پایگاه فورت براگ گفت که «ترس» می‌تواند محرک قدرتمندی در مذاکرات با ایران باشد.",
-            "این لحن نشان‌دهنده ادامه راهبرد فشار حداکثری واشنگتن است و احتمالاً با هدف تضعیف مواضع دیپلماتیک و سیاسی رژیم تهران مطرح شده است.",
-            "برای مخالفان ملی‌گرای پادشاهی‌طلب، تشدید فشار خارجی می‌تواند فضای مشروعیت رژیم را تضعیف و امیدواری برای جنبش داخلی ایجاد کند، هرچند همزمان خطر تشدید سرکوب نیز وجود دارد."
-        ],
-        "impact": "اظهارات ترامپ فشار دیپلماتیک علیه تهران را برجسته می‌کند و می‌تواند به تضعیف مشروعیت رژیم و تقویت روحیه اپوزیسیون داخلی کمک کند.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-tells-troops-fear-is-powerful-motivator-in-difficult-iran-talks/ar-AA1WjGOW?ocid=BingNewsVerp",
-        "image": "https://www.bing.com/th?id=OVFT.X8BflHiYp-LmSL8OhJOt1S",
-        "timestamp": 1770940788.0
     }
 ]
