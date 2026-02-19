@@ -36,6 +36,24 @@
         "timestamp": 1771520884.0
     },
     {
+        "title_fa": "ترامپ: ۱۰ روز مهلت برای توافق ایران یا آمریکا 'گامی فراتر' برمی‌دارد",
+        "title_en": "Trump says world has 10 days to see if Iran strikes deal or US takes 'a step further'",
+        "summary": [
+            "اظهارنظر ترامپ به جهان ۱۰ روز مهلت می‌دهد تا مشخص شود ایران به توافقی می‌رسد یا واشنگتن اقدام جدی‌تری انجام می‌دهد؛ این موضع عملاً تهدید به تشدید فشار یا تحرکات بیشتر را اعلام کرد.",
+            "از منظر فشار خارجی، این نوع اولتیماتوم می‌تواند ساختارهای مالی و سیاسی رژیم را ضعیف‌تر کند: محدود شدن دسترسی به بازارها و سرمایه، تشدید کسری بودجه و فشار بر باندهای قدرت داخلی که می‌تواند ثبات را فرسایش دهد.",
+            "گزارش اشاره مستقیم به اعتراضات داخلی نکرده اما افزایش فشار خارجی و عدم ثبات دیپلماتیک معمولاً نارضایتی اجتماعی را تشدید و نقاط ضعف مدیریتی رژیم را برجسته می‌کند؛ این وضعیت امکان بروز بحران اقتصادی-سیاسی را بالا می‌برد."
+        ],
+        "impact": "این اظهارنظر ریسک افزایش تنش و شتاب در تصمیم‌گیری‌های راهبردی تهران را بالا می‌برد و دوره عدم‌قطعیت را برای نهادهای داخلی و بازیگران منطقه‌ای تشدید می‌کند.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02ZG1PUjQwZzZYMFBMNEVRQzAyZ1gySzROMjZOeHA0ZlFuZ1VFYklXZFBmOEI3VUkzODBkenVzOWozNTRoMEk3R0hPelE4OXd6bFFKSEhjREhRZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02ZG1PUjQwZzZYMFBMNEVRQzAyZ1gySzROMjZOeHA0ZlFuZ1VFYklXZFBmOEI3VUkzODBkenVzOWozNTRoMEk3R0hPelE4OXd6bFFKSEhjREhRZw",
+        "image": null,
+        "timestamp": 1771519245.0
+    },
+    {
         "title_fa": "اخبار آمریکا-ایران: ترامپ فشارها را هم‌زمان با مذاکرات دیپلماتیک تشدید می‌کند",
         "title_en": "US-Iran news: Trump dials up pressure amid diplomatic talks",
         "summary": [
@@ -468,6 +486,24 @@
         "timestamp": 1771485771.0
     },
     {
+        "title_fa": "افزایش قیمت نفت و طلا با تشدید تنش‌ها میان ایران و آمریکا",
+        "title_en": "Oil prices jump and gold hits $5,000 as tensions ramp up between Iran and the US",
+        "summary": [
+            "قیمت‌ها: برنت با افزایش ۱.۶٪ به ۷۱.۴۹ دلار و نفت آمریکا با افزایش ۱.۷۴٪ به ۶۶.۱۸ دلار رسید؛ طلا نیز به بالای ۵٬۰۰۰ دلار بازگشت — حرکت بازارها مستقیماً به تشدید تنش‌های دیپلماتیک و نظامی نسبت داده شده است.",
+            "فشار خارجی: دیدارهای دیپلماتیک اخیر در ژنو و اظهارات JD Vance، معاون رئیس‌جمهور آمریکا، همراه با جابجایی دارایی‌های نظامی آمریکا به خاورمیانه، ریسک اختلال در عرضه نفت را بالا برده و می‌تواند ساختار درآمدهای ارزی رژیم را تضعیف کند.",
+            "ثبات داخلی و اقتصاد: اقبال سرمایه‌گذاران به دارایی‌های امن نشان‌دهنده کاهش اعتماد بازار است؛ این شوک‌های قیمتی و ریسک‌های خام‌فروشی می‌توانند ظرفیت دولت در مدیریت بحران ارزی و بودجه‌ای را آزمایش کنند و در صورت ادامه تنش‌ها، فشار اقتصادی بر طبقات آسیب‌پذیر افزایش یابد."
+        ],
+        "impact": "افزایش قیمت نفت و هجوم به دارایی‌های امن، فشار اقتصادی و سیاسی قابل‌توجهی بر رژیم وارد می‌کند و توان آن را در کنترل صادرات نفت و ثبات اقتصادی داخلی کاهش می‌دهد.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/02/19/investing/oil-gold-prices-us-iran-tensions",
+        "clean_url": "https://www.cnn.com/2026/02/19/investing/oil-gold-prices-us-iran-tensions",
+        "image": null,
+        "timestamp": 1771485660.0
+    },
+    {
         "title_fa": "کاخ سفید به ایران هشدار داد: از اکنون بهتر است توافق کنید — تهران با مسکو برای مانورهای دریایی همکاری می‌کند",
         "title_en": "White House warns Iran it’d be very wise to cut a deal now — as Tehran teams up with Moscow for naval drills",
         "summary": [
@@ -736,6 +772,24 @@
         "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-strike-tehran-ayatollah-ali-khamenei-negotiations-geneva-nuclear-deal-latest-news-101771469276338.html",
         "image": null,
         "timestamp": 1771463040.0
+    },
+    {
+        "title_fa": "ترامپ هشدار داد؛ رزمایش مشترک ایران و روسیه همزمان با نزدیک شدن ناوبندر آمریکایی دوم به خاورمیانه",
+        "title_en": "Trump warns of 'bad things' if Iran doesn't make a deal, as US carrier nears Mideast",
+        "summary": [
+            "ایران رزمایش سالانه مشترک با روسیه برگزار کرد و همزمان یک ناوبندر هوایی آمریکایی دیگر به خاورمیانه نزدیک می‌شود؛ هر دو طرف پیام‌هایی که آمادگی برای رویارویی را نشان می‌دهد ارسال کردند.",
+            "ترامپ هشدار داد «چیزهای بد» رخ خواهد داد اگر ایران توافق نکند؛ حضور نیروی دریایی آمریکا فشار خارجی و امکان تشدید نظامی را بالا می‌برد.",
+            "روابط نظامی با روسیه در کوتاه‌مدت قابلیت‌های دفاعی و سیاسی رژیم را تقویت می‌کند و به‌عنوان نیروی کمکی استراتژیک عمل می‌کند؛ در عین حال تشدید تنش فشار اقتصادی و سیاسی بیشتری بر ساختار حکومت وارد می‌آورد."
+        ],
+        "impact": "ترکیب مانور روسیه-ایران و تقویت حضور نظامی آمریکا احتمال تشدید رویارویی منطقه‌ای را بالا می‌برد و همزمان وابستگی رژیم به حامیان خارجی و آسیب‌پذیری داخلی آن را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-warns-of-bad-things-if-iran-doesnt-make-a-deal-as-us-carrier-nears-mideast/ar-AA1WE8vL",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-warns-of-bad-things-if-iran-doesnt-make-a-deal-as-us-carrier-nears-mideast/ar-AA1WE8vL",
+        "image": "http://www.bing.com/th?id=OVFT.Mf8ls2ZANtJUfIyvcN7oMC&pid=News",
+        "timestamp": 1771459482.0
     },
     {
         "title_fa": "گزینه‌های نظامی ترامپ در سایه ترس از جنگ با ایران: چهار سناریو",
@@ -5299,56 +5353,5 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM3Jtbm9ReFdCelI3M09scml6a25aajhLX191ZGVvWVhpc28ybzRLRzZTYXpEcFp5NHYwWDNieEwyY3RNV0oxbm40XzdBa0NjeU15V1pCRER4ZGhPT1hYRmlzU1pzamdYa1EyS3gwUFpjelVEQWxVVUVuODVXc2NFN3JJN2doOUxQS3laejZGX29TbXJaZmU0RUJZLTVZUndsUEtSTGlfeHNlSTlkS1gzX3c1YXZ2NGhadDVhZjhkVGVUVTBMRllmd2pabkhVa0U?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771024260.0
-    },
-    {
-        "title_fa": "انحصاری: ارتش آمریکا خود را برای عملیات احتمالی چند هفته‌ای علیه ایران آماده می‌کند",
-        "title_en": "Exclusive: US military preparing for potentially weeks-long Iran operations",
-        "summary": [
-            "رویترز گزارش می‌دهد که ارتش آمریکا آمادگی برای اجرای عملیات نظامی علیه ایران را دارد که احتمالاً می‌تواند چند هفته طول بکشد و شامل برنامه‌ریزی و تدارکات گسترده است.",
-            "افزایش آمادگی نظامی خطر تشدید برخوردهای منطقه‌ای و هدف‌گیری زیرساخت‌ها یا نیروهای مرتبط با تهران را بالا می‌برد و احتمال واکنش متقابل یا گسترش درگیری را افزایش می‌دهد.",
-            "در کنار خطرات انسانی و بی‌ثباتی، این فشار نظامی می‌تواند توان سرکوب رژیم را تضعیف کرده و موقعیت معترضان و خواستِ مردم برای تغییر را تقویت کند."
-        ],
-        "impact": "افزایش احتمال درگیری نظامی مستقیم و بی‌ثباتی منطقه‌ای که هم‌زمان فشار روی رژیم را بالا می‌برد و فرصت‌های بیشتری برای جریان‌های اعتراضی داخلی ایجاد می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": 0.5,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmtIQ3RocVRvbFBIaEJqMjJiVTJaSmNKNTYtSEozZXUyMHpiRlFldmRqTm94Q1JWV0Q0R1VmSmM0WXdHN2xsdHU3NWJxSlFVb3dpS05wX2lHaTZPd1ozRlNoSkJNZV9KYzRrRmN4NGstRExsQTNWdWduTW1OS1hkMkhuS25ycUdxM01JczJwTTJXUTY4ZFlFRmNYUnltRHB5QXJEWUVNQVhmbTZVVmNEbWl4Mm4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771023927.0
-    },
-    {
-        "title_fa": "نتانیاهو امیدوار است مذاکرات ترامپ با ایران بتواند از اقدام نظامی جلوگیری کند",
-        "title_en": "Netanyahu Hopes Trump’s Iran Talks Can Avoid Military Action",
-        "summary": [
-            "گزارش‌ها حاکی است که نتانیاهو اظهار داشته امیدوار است گفتگوهای دولت ترامپ با ایران مانع از روی آوردن به گزینه نظامی شود.",
-            "این اعلان نشان می‌دهد که دست‌کم بخشی از محور واشینگتن-تل‌آویو ترجیح می‌دهد از درگیری مستقیم جلوگیری کند و روی راه‌حل‌های دیپلماتیک حساب باز کند.",
-            "برای مخالفان داخلی رژیم، تمرکز بر مذاکره به‌جای حمله نظامی می‌تواند فرصت‌های سیاسی و دیپلماتیک برای برجسته‌سازی ناکارآمدی حکومت و افزایش فشار بر آن فراهم کند."
-        ],
-        "impact": "تمایل به حل و فصل دیپلماتیک به جای حمله نظامی می‌تواند به تضعیف مشروعیت رژیم در داخل کمک کند چون مجال بیشتری برای نمایش ضعف‌های دستگاه حاکمه و تحرکات سیاسی فراهم می‌آورد.",
-        "tag": "مذاکره",
-        "urgency": 9,
-        "sentiment": 0.4,
-        "source": "ArabAmericanNews",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQak9xT0xMVTM1NF9SckZ0M21ZdHdBX1VkM1I1eXJpdmNsRTlQcFNFR1V2QWItVG82VWxjSlQ3UGZfNDJHYW10a1o1OEJSNjhuNGdKUF9WdDVxSHV1bGRKbDZYbGo3dkNHSUlxVkEtcE83YnROX3dxWXhtN01ZWFFwYlFERFBqU3dfRWROZjNEQUxmRlZTLVB3RGJGZ0NxbDhIUER6NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771019573.0
-    },
-    {
-        "title_fa": "دیدار زلنسکی با ولیعهد پیشین ایران رضا پهلوی",
-        "title_en": "Ukraine's Zelensky Meets With Iran’s Ex-crown Prince Reza Pahlavi",
-        "summary": [
-            "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، با رضا پهلوی، ولیعهد پیشین ایران، دیدار کرد.",
-            "این دیدار به‌عنوان نشانه‌ای از ارتقای تصویر بین‌المللی اپوزیسیون خارج‌نشین ایران تفسیر می‌شود و حمایت سیاسی ضمنی از صدای مخالفان جمهوری اسلامی تلقی می‌گردد.",
-            "احتمال دارد این ملاقات به‌عنوان یک ضربه حیثیتی برای رژیم تهران عمل کند و انرژی سیاسی و توجه دیاسپورای ایرانی و گروه‌های اپوزیسیون را افزایش دهد."
-        ],
-        "impact": "این دیدار به‌طور نمادین مشروعیت بین‌المللی رضا پهلوی را تقویت و حیثیت جمهوری اسلامی را تضعیف می‌کند.",
-        "tag": "اپوزیسیون",
-        "urgency": 3,
-        "sentiment": 0.6,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZWR6RXo2WklzV0Z2OVNqYUlHU3dyZGEwdDJLT1Y2MDhNNDBMcjk4aEJYQlZtc3FkdTZyRVpiWFhPZ2tIVGlwa2FzSUxpWWVlSmIxR3lJMHZPLXFabjlvTzd5N25SVzdSNWlJME9JcldmOHNIZkVtUDNQV0tFa3VFeHVNekVqZkN3UzhFQWZTQ01CVlJGZG1RMGRvWV9JT1FwNGhfMDhtV3pvRGlaMWxZQUt6NnIxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771016781.0
     }
 ]
