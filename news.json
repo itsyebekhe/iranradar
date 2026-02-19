@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تحلیلگران درباره نرخ‌های اسرائیل اختلاف دارند؛ تورم کاهش یافته و حمله احتمالی ایران مطرح شد: نظرسنجی رویترز",
+        "title_en": "Analysts split on Israel rates as inflation eases, Iran strike possible: Reuters poll",
+        "summary": [
+            "نظرسنجی رویترز نشان می‌دهد تحلیلگران در مورد مسیر نرخ‌های بهره در اسرائیل تقسیم شده‌اند علیرغم کاهش شاخص‌های تورم؛ به‌عبارت دیگر کاهش تورم برای تصمیم‌گیری‌های پولی کافی برای اجماع نبود.",
+            "نظرسنجی احتمال وقوع ضربه یا حمله‌ای از جانب ایران را برجسته کرده است؛ این پیامدِ بالقوه ریسک ژئوپلیتیک را افزایش داده و می‌تواند بازارها و اولویت‌های سیاست خارجی را متلاطم کند.",
+            "خبر اشاره‌ای به تأثیر تحریم‌ها، نقش تسلیحاتی یا پشتیبانی روسیه/چین/کره‌شمالی و نیز به وضعیت اعتراضات یا بحران حکمرانی در داخل ایران ندارد؛ از این منبع نمی‌توان تحلیل قابل اتکایی درباره تضعیف ساختاری رژیم یا نارضایتی داخلی استخراج کرد."
+        ],
+        "impact": "هم‌زمانی عدم قطعیت سیاست پولی در اسرائیل و تهدید هسته‌ای-نظامی بالقوه از جانب ایران، ریسک‌های بازار و امنیت منطقه‌ای را بالا برده و فضای تصمیم‌گیری سیاست‌گذاران را پیچیده‌تر می‌کند.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkptTENtWmlQekhKZ21idW0wT1BidVdjc0VTWVE4VXg5Rzd1eDVQVlVYQ3lYYkxyWlJRN2Z3NWtYMVJyeE9xTUk3dWNObkNqVVRkdm9SMVFiOWJzZXFLZVFha0dDRmdmNDlTY05iNnhhYzNCRzNuc01od0pWU1JpbUNrbXRSUWdLMkJ4U2tLU19qZENaTzhsUnRvaERMLUpyNkd1YmNsRi1CZlk2MUhLaU1tMWZfV2Y3N1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkptTENtWmlQekhKZ21idW0wT1BidVdjc0VTWVE4VXg5Rzd1eDVQVlVYQ3lYYkxyWlJRN2Z3NWtYMVJyeE9xTUk3dWNObkNqVVRkdm9SMVFiOWJzZXFLZVFha0dDRmdmNDlTY05iNnhhYzNCRzNuc01od0pWU1JpbUNrbXRSUWdLMkJ4U2tLU19qZENaTzhsUnRvaERMLUpyNkd1YmNsRi1CZlk2MUhLaU1tMWZfV2Y3N1E",
+        "image": null,
+        "timestamp": 1771502111.0
+    },
+    {
         "title_fa": "قیمت نفت جهش کرد پس از نشانه‌هایی از درگیری آمریکا و ایران",
         "title_en": "Oil prices jump amid signs of U.S.-Iran conflict",
         "summary": [
@@ -5309,22 +5327,5 @@
         "url": "https://www.nytimes.com/2026/02/13/us/politics/trump-iran-pentagon.html",
         "image": null,
         "timestamp": 1770974100.0
-    },
-    {
-        "title_fa": "آمریکا می‌گوید کمبود دلار را عمداً ایجاد کرد تا اعتراضات در ایران را تحریک کند: چه معنایی دارد",
-        "title_en": "US says it caused dollar shortage to trigger Iran protests: What that means",
-        "summary": [
-            "الجزیره گزارش می‌دهد که آمریکا گفته کمبود دلار در ایران را به‌طور هدفمند تشدید کرده تا زمینه نارضایتی و اعتراضات اجتماعی فراهم شود.",
-            "فشار ارزی به‌عنوان یک ابزار تحریمی می‌تواند ثبات اقتصادی و اجتماعی را تضعیف کند؛ این موضوع می‌تواند اعتماد به رژیم را کاهش داده و مردم را به شکل‌گیری اعتراضات بیشتر تشویق کند، اما هم‌زمان خطر سرکوب و هزینه‌های انسانی نیز بالا می‌رود.",
-            "ادعای آمریکا مبنی بر به‌کارگیری کمبود دلار به‌عنوان تاکتیک فشار، بحث‌های داخلی و بین‌المللی درباره مشروعیت و اثرات تحریم‌ها بر زندگی روزمره ایرانیان را تشدید می‌کند."
-        ],
-        "impact": "این فشار تحریمی می‌تواند به تضعیف اقتدار رژیم کمک کند و در عمل فرصتی برای تقویت اراده مردم در مسیر آزادی ایجاد نماید.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": 0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeW1vM0szY3lkbkxBVVI0T3VPSVZyMmNDb0VkbnI1LWUyR3BKbWFGY0ZoNUV3dDI3MUR6ZmV1Y3k3MllRd2ljOGxXbERXWHFXaDc2SHpQTVphaV9pZ2YwYnpxNzltczVkTlk4Nlpsc2M3VUllOXJWU2RNQjRhR0l6Nl9HQjNrTUpad1NFcDRCT1FTemJCa1dEaXAtWFZLZnNZclpVWi1zTS1ySGRvNnpxZ1ZCdmROWDNrR2fSAb8BQVVfeXFMT21mZDJPeFBSVXc2X05EaDB5bGdhelZSVThURkRQaXpOY0FOOFNMbGNzSGtJQzlndXgzWTRnRUpMV2dZNVF4VkoxMzg3OXNhbjl6aUMtZFBYeTZRZzJPV21jaHhwWDNYV3hXTkd5ZEVxdHVCTzBTMlM0aXl3ZTg4ZlQzbVZocTNzNXdELUdTcmQ4Rm5ES2dld0FralRYZEp4dDFnTTBubG5GUHpua0tBY3J2UUpxNHlVZVFkNVluRVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1770970659.0
     }
 ]
