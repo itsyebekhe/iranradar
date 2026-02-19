@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ظاهراً دوباره در آستانه بمباران ایران هستیم",
+        "title_en": "It really looks like we’re about to bomb Iran again",
+        "summary": [
+            "سرنخ‌ها نشان می‌دهد احتمال قریب‌الوقوع حمله نظامی/بمبارانی علیه ایران وجود دارد؛ این یک تشدید مستقیم فشار خارجی است که هدف‌گذاری راهبردی بر توان نظامی و زیرساختی دارد.",
+            "حمله یا تهدید به حمله ساختارهای اقتصادی و سیاسی را تضعیف می‌کند: افت سرمایه‌گذاری، ضربه به زیرساخت‌ها و افزایش هزینه‌های امنیتی که ثبات حکومتی را کاهش می‌دهد.",
+            "در پاسخ، حکومت به‌احتمال زیاد سرکوب و کنترل داخلی را تشدید خواهد کرد که می‌تواند نارضایتی اجتماعی را عمیق‌تر و بحران‌های اقتصادی را تشدید کند."
+        ],
+        "impact": "احتمال حمله نظامی قریب‌الوقوع، مجموعه تهدیدات خارجی را تشدید کرده و فشار اقتصادی، سیاسی و امنیتی بر حکومت را بالا می‌برد که به بی‌ثباتی داخلی بیشتر منجر می‌شود.",
+        "tag": "بمباران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "vox.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9adW1UZ1M2Q3d2ekpDNHJzREc4U1F0aEhvaHhaU05qM0swRlVjeE5uZWV0TFBkVGJqSkpKcnFTVklLOU14c0YyS3N2ZTF4QUlseDBVTHlaRDBRV1hxbERmaTdXRU5vV200YjIzdmVmSmh5ZzlxUFpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9adW1UZ1M2Q3d2ekpDNHJzREc4U1F0aEhvaHhaU05qM0swRlVjeE5uZWV0TFBkVGJqSkpKcnFTVklLOU14c0YyS3N2ZTF4QUlseDBVTHlaRDBRV1hxbERmaTdXRU5vV200YjIzdmVmSmh5ZzlxUFpB",
+        "image": null,
+        "timestamp": 1771536315.0
+    },
+    {
         "title_fa": "اختصاصی | ترامپ بررسی حمله محدود اولیه برای وادارسازی ایران به توافق هسته‌ای",
         "title_en": "Exclusive | Trump Weighs Initial Limited Strike to Force Iran Into Nuclear Deal",
         "summary": [
@@ -286,6 +304,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUhFZVUyVFE4WUUwZW9pdkdBMXJwdXR5aWVhMnNQU1JzOHUwVW1hdkVRUkhRQUZ5c2JQdTA0X2dEdUVDTDFhdl9WZUVIdWgyTnAwNUlvZFZsNWJsMmVzaDV4eHBzSFJTLV9oM0IyTk9MNjN6U0pBQUFqVmp6ZDVEYS1TNEoybjIzamE2N3BVc1Q2R3NOOXJLZlFxVVZMdFQzZUhEVncwSGJWUmFLTVp2YnpR0gG3AUFVX3lxTE1VaXVBUmtwTlpRZ0NLX09RdWI0RW5tYmtvbFp3QWh6UFBpdkNDN28xd2c0MGtVb19DV1ltb3o5UF9MZFlLaDFVU214TF9pd2ZCU2ticUpORWI2N1BhSjEySTVSSmlHNGJpR1QtOGx6dEFDTGVVSHVIUTlUR1ZoeDU5ZmdyUmVZX3E1UXdrTkZWbTQxZzEyVmVxM01FUmxOdFlJUXR1MG10ZEFDRFpXd1QtMEZodGRvbw",
         "image": null,
         "timestamp": 1771512927.0
+    },
+    {
+        "title_fa": "ترامپ گزینه‌هایش علیه ایران را بررسی می‌کند — از حملات هدف‌مند تا احتمال سرنگونی رژیم",
+        "title_en": "Trump confronts his options on Iran — from targeted attacks to potentially toppling regime",
+        "summary": [
+            "دولت ترامپ بزرگ‌ترین تقویت نظامی در خاورمیانه در ۲۲ سال اخیر را انجام داده و گزینه‌ها از حملات محدود هدف‌مند تا عملیات گسترده‌ای که می‌تواند هفته‌ها ادامه یابد، متنوع است.",
+            "برخی طرح‌ها شامل هدف قرار دادن رهبران تهران و عملیات‌هایی بسیار فراتر از حمله چندساعته تابستان گذشته به تأسیسات هسته‌ای است؛ منابع می‌گویند ارتش ممکن است آماده باشد اما تاکنون فهرست اهداف به نیروها اعلام نشده و دستور اضافه نیامده است.",
+            "خط دیپلماتیک تحت مدیریت جارد کوشنر و میانجی‌گری عمان هنوز فعال است اما منابع داخلی می‌گویند چشم‌انداز توافقی که خواسته‌های ترامپ (از جمله کنار گذاشتن غنی‌سازی) را برآورده کند در حال تضعیف است."
+        ],
+        "impact": "تهدید و آماده‌باش نظامی وسیع فشار خارجی را بر رژیم افزایش می‌دهد، فضای سیاسی داخلی را متلاطم و ریسک تبدیل تنش به درگیری منطقه‌ای فراگیر را بالا می‌برد.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": 0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-confronts-options-iran-targeted-220631142.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-confronts-options-iran-targeted-220631142.html",
+        "image": "http://www.bing.com/th?id=OVFT.4HlM5UAsMYIOqrZbqncq1S&pid=News",
+        "timestamp": 1771512840.0
     },
     {
         "title_fa": "سهام آمریکا کاهش یافت و قیمت نفت با نگرانی از احتمال درگیری آمریکا-ایران جهش کرد",
@@ -5331,39 +5367,5 @@
         "url": "https://en.mehrnews.com/news/241773/Sri-Lanka-Bangladesh-felicitate-Iran-on-Islamic-Rev-anniv",
         "image": "https://media.mehrnews.com/d/2026/02/14/4/5904305.jpg?ts=1771057602428",
         "timestamp": 1771059060.0
-    },
-    {
-        "title_fa": "سیاست خارجی ایالات متحده (گاردین)",
-        "title_en": "US foreign policy",
-        "summary": [
-            "مطلب یک مرور کلی از رویکرد و اولویت‌های کلی سیاست خارجی ایالات متحده ارائه می‌دهد.",
-            "تحلیل به چالش‌ها و گزینه‌های دیپلماتیک و امنیتی پیشِ روی واشنگتن اشاره دارد، اما جزئیات مشخص و جدیدی درباره ایران ذکر نمی‌شود.",
-            "این گزارش بیشتر به جهت‌گیری‌های راهبردی کلی می‌پردازد تا اقداماتی فوری یا تحرکات مشخص در عرصه بین‌الملل."
-        ],
-        "impact": "هرگونه تغییر در جهت‌گیری واشنگتن می‌تواند به‌طور غیرمستقیم بر توازن قوا در خاورمیانه و ابزارهای فشار یا تعامل با حکومت ایران تأثیر بگذارد.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGYW9jeXVQUEYyalMxUEFucUZscXJGTGNHN0VWRndQTmQ0LUFObFJyTmtZV3Y3MVBVd0VIVGRTbzhfUWdfWk5XU1FwTlhnYjIwakxTSWV0STVKMXlGNHE4UkdKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771053067.0
-    },
-    {
-        "title_fa": "باید حق ایران برای فعالیت‌های هسته‌ای صلح‌آمیز به رسمیت شناخته شود",
-        "title_en": "Iran’s Right to Peaceful Nuclear Activity Must Be Recognized -",
-        "summary": [
-            "خبرگزاری WANA گزارش می‌دهد که ایران بر حق خود برای دنبال کردن فعالیت‌های هسته‌ای صلح‌آمیز تأکید کرده و خواستار به‌رسمیت‌شناسی این حق شده است.",
-            "بیانیه بر صلح‌آمیز بودن برنامه هسته‌ای تأکید می‌کند و تلاش دارد این موضوع را به عنوان یک حق مشروع بین‌المللی جلوه دهد.",
-            "این موضع به نظر می‌رسد بخشی از یک تلاش دیپلماتیک برای کسب مشروعیت بین‌المللی و کاهش فشارهای سیاسی و حقوقی بر برنامه هسته‌ای باشد."
-        ],
-        "impact": "این اظهار می‌تواند در سطح دیپلماتیک به تلاش رژیم برای تحکیم موقعیت بین‌المللی و کاهش فشار طرف‌های غربی کمک کند، اما لزوماً تضمینی برای تغییر واقعی در سیاست‌ها یا تعاملات بین‌المللی نیست.",
-        "tag": "هسته‌ای",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXZlSC1xYkkzWlpPM0tpTzRDRHQ2QUxuMWRlRzJxQmpzeTZUV2dtZEptOXRnUmRCZm5mNVVCNDczNURwM3c2bzZveGttY3h2ejQtcGNmVkZ2bWpRdmVyeElwMFdja1NfT2tyX1RmaWhGVEkyQWVzckFCR25wMHRLenN2Y0gwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771052818.0
     }
 ]
