@@ -36,6 +36,24 @@
         "timestamp": 1771616580.0
     },
     {
+        "title_fa": "بهترین معاملات پس از شوک‌های ژئوپلیتیک در آستانه احتمال درگیری با ایران",
+        "title_en": "The best trades after geopolitical shocks as possible Iran conflict looms",
+        "summary": [
+            "بازارها: تجزیه و تحلیل بانک آو امریکا نشان می‌دهد نفت بزرگ‌ترین برنده پس از شوک‌های ژئوپلیتیک بوده (میانه رشد سه‌ماهه بیش از 18%)، طلا حدود 6% و سهام آمریکا کمتر از 5%؛ این هفته نفت بیش از 5% جهش کرد زیرا ریسک درگیری نظامی قوی‌تر شده است.",
+            "فشار خارجی: دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرده که گزینه حملات محدود برای «اعمال فشار» بر برنامه هسته‌ای ایران را بررسی می‌کند و حضور دو گروه ضربت ناو هواپیمابر آمریکا در خلیج فارس نشان‌دهنده تشدید ابزارهای فشار نظامی است؛ چنین فشار خارجی مستقیماً ریسک تجدید انزوای اقتصادی و افزایش هزینه‌های امنیتی دولت ایران را بالا می‌برد.",
+            "پیوند به ثبات داخلی و اقتصاد: مقاله به اعتراضات داخلی یا مدیریت ضعیف اشاره مستقیم ندارد؛ اما افزایش قیمت انرژی و بزرگ‌شدن ریسک نظامی/اقتصادی که بازارها اکنون قیمت‌گذاری می‌کنند، به‌طور منطقی می‌تواند نارضایتی عمومی و فشار بر منابع دولت را تشدید کند."
+        ],
+        "impact": "تهدیدات نظامی و تشدید ریسک نفتی که بازارها می‌پوشانند، ثبات کوتاه‌مدت رژیم ایران را تضعیف کرده و فضای اقتصادی را به نفع فشارهای داخلی و تضعیف سرمایه‌گذاری متلاطم خواهد ساخت.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/20/the-best-trades-after-geopolitical-shocks-as-new-iran-conflict-looms.html",
+        "clean_url": "https://www.cnbc.com/2026/02/20/the-best-trades-after-geopolitical-shocks-as-new-iran-conflict-looms.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108261728-1770259704805-gettyimages-1398175221-rlc08101.jpeg?v=1771611956&w=1920&h=1080",
+        "timestamp": 1771615440.0
+    },
+    {
         "title_fa": "به‌روزرسانی زنده: ترامپ می‌گوید در حال بررسی حمله محدود به ایران است",
         "title_en": "Trump Administration Live Updates: President Acknowledges That He Is Weighing Limited Strike on Iran",
         "summary": [
@@ -250,6 +268,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGNaSmloRmtKckZwZ3I3LUo2ZWJHUi1Fbl8wQnYxUWl1R1gydlRicVgxNmdRbndRWXN3MUlPck45NVVrT1dubHdMb1Q4V0EzSzJwWFJrb1hZNnBHTVNvNlp6V0tQelQwV05nTGZtWkdaQVU5ODJCa1lITjFHUWxpQ1hoeU1ua0cxLXFFREx0VGR3UXRI",
         "image": null,
         "timestamp": 1771595760.0
+    },
+    {
+        "title_fa": "مجری فاکس‌نیوز: ترامپ پیش از آغاز «جنگی دیگر» علیه ایران باید دلایل بهتری ارائه کند",
+        "title_en": "Fox News host: Trump needs to make ‘better’ Iran case before starting ‘another war’",
+        "summary": [
+            "مجری مهمان فاکس‌اند فرندز گفت ترامپ باید «دلیل بهتری» نشان دهد که چرا یک ضربه محدود به ایران به نفع منافع آمریکا است؛ همکارانش هم تردید خود را اعلام کردند و تاکید شد اعتبار ترامپ در خاورمیانه در معرض خطر است.",
+            "گزارش اشاره دارد به خروج دولت ترامپ از برجام و زمینهٔ تحریم‌ها؛ فشارهای تحریمی ساختاری رژیم را تضعیف کرده و همزمان تصمیم‌گیری درباره استفاده از گزینهٔ نظامی را سیاسی و پرهزینه می‌کند.",
+            "مجریان در عین همدردی با معترضان داخلی که ماه گذشته با نیروی سرکوبگرانهٔ سپاه درگیر شدند هشدار دادند که اقدام نظامی لزوماً به نفع اعتراضات نیست و ممکن است سرکوب و تبلیغات رژیم را تقویت کند."
+        ],
+        "impact": "تردید علنی متحدان رسانه‌ایِ کاخ‌سفید می‌تواند مانع اقدام نظامی شتابزده شود اما فشار دیپلماتیک-تحریمی بر رژیم ادامه خواهد یافت و فضای سیاسی داخل ایران را بیش از پیش آشفته می‌کند.",
+        "tag": "تهدید",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/fox-news-host-trump-needs-190826394.html",
+        "clean_url": "https://www.yahoo.com/news/articles/fox-news-host-trump-needs-190826394.html",
+        "image": "http://www.bing.com/th?id=OVFT.hs4ZzuNg4BC_GMh1MGIloS&pid=News",
+        "timestamp": 1771594320.0
     },
     {
         "title_fa": "مذاکره آمریکا و بریتانیا درباره استفاده از پایگاه دیه‌گو گارسیا؛ ایران به تهدید ترامپ اعتراض کرد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHp2OFpTakpScTdIWGhvbnpXclVQWTZJNzFybWZuMTZmMVhERXBLa1NKbFctbkRwRDhuSElMV3hfS1REV3FtTW9NMWZ2NGpDMkNjRFpxd3BjUkRMcUh1R2hrQ2NWMnR1VThRVURKcFA4Q0dKREZhX3FaWk9uRzFJVmxDTlVUTWdJOHVEMWlRSHFmbEhOSTlEZ3pRS0lqQ2Y4OW5LOW9rV2pPbTN2YmJ3Q0N3WDVLcXNUNGdBN3ZUVDVxakVqbUpxVzJscw",
         "image": null,
         "timestamp": 1771136100.0
-    },
-    {
-        "title_fa": "وزیر: ایران آماده بحث درباره امتیازدهی برای احیای توافق هسته‌ای",
-        "title_en": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
-        "summary": [
-            "یک وزیر ایرانی به بی‌بی‌سی در تهران گفت ایران حاضر است درباره امتیازاتی برای رسیدن به توافق هسته‌ای مذاکره کند.",
-            "این اعلام آمادگی می‌تواند راه را برای از سرگیری مذاکرات بین ایران و طرف‌های بین‌المللی و احتمالاً کاهش تحریم‌ها هموار کند.",
-            "در داخل کشور این موضع ممکن است نشانه فشار اقتصادی و سیاسی بر حکومت باشد و هم‌زمان زمینه مناقشه جناحی و بررسی دقیق شروط مذاکرات در تهران را فراهم کند."
-        ],
-        "impact": "این اظهارنظر گامی عملی در جهت بازگشت به میز مذاکره و کاهش تحریم‌ها می‌تواند باشد، اما نتیجه‌گیری نهایی به میزان و ماهیت امتیازاتی بستگی دارد که تهران حاضر به واگذاری آن‌هاست.",
-        "tag": "مذاکره",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wLUdFQ0VCR0Jpd0taSTN6NVVkSFAwUmlqclRQWFhTTDNzOUtCRlV4dlFSUjBMSU8xX3loWGdNVEQ5dUN1UHRxZ0VudlZtZFZPTjIzRGdzQTVldw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wLUdFQ0VCR0Jpd0taSTN6NVVkSFAwUmlqclRQWFhTTDNzOUtCRlV4dlFSUjBMSU8xX3loWGdNVEQ5dUN1UHRxZ0VudlZtZFZPTjIzRGdzQTVldw",
-        "image": null,
-        "timestamp": 1771135236.0
-    },
-    {
-        "title_fa": "درون تیم مذاکره‌کننده ایران: عراقچی و تخت‌روانچی به تعامل تاکتیکی می‌پردازند",
-        "title_en": "Inside Iran's negotiating team: Araghchi, Takht-Ravanchi pursue tactical engagement",
-        "summary": [
-            "عباس عراقچی و مجید تخت‌روانچی رویکردی تاکتیکی و محدود در گفت‌وگوهای دیپلماتیک پیش می‌برند که هدف آن مدیریت فشارهای بین‌المللی است.",
-            "این شیوه نشان‌دهنده اولویت رژیم بر زمان‌خریدن و کاهش فشار خارجی بدون پذیرش تغییرات ساختاری یا پاسخگویی داخلی مهم است.",
-            "برای اپوزیسیون ملی، مذاکرات تاکتیکی می‌تواند هم فرصت موقت کاهش تحریم‌ها و هم تهدیدی برای ایجاد آرامش کاذب و تضعیف مطالبات دموکراتیک مردم باشد."
-        ],
-        "impact": "احتمالاً این رویکرد به کاهش موقت فشارهای اقتصادی و دیپلماتیک می‌انجامد، اما رژیم را از انجام اصلاحات واقعی و پاسخگویی در برابر مطالبات داخلی بازمی‌دارد.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "AL-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajRlR25XWXJySDA4T2dnMThiYjlscnNvMEpmQVBaM2ZRYzM5RksxczFsWUp1QW42NHU0Qy1KWDhPcWttOVMwcVl2ZGh2OUhhUTJ1Q2tTUV83OF9BM2VqY194N2dSSkpfUlY3NFVfTExsdFJ6T2wxSjZuemVPQ0dlQWxLZmIyaXJRY0g1elppTm91c2lUc0pqYzZlQjR5Sm1GLTFUWEdlOUJDYjQ4VjhtNkdnamZiV240RTZtbDVvM3c5T3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajRlR25XWXJySDA4T2dnMThiYjlscnNvMEpmQVBaM2ZRYzM5RksxczFsWUp1QW42NHU0Qy1KWDhPcWttOVMwcVl2ZGh2OUhhUTJ1Q2tTUV83OF9BM2VqY194N2dSSkpfUlY3NFVfTExsdFJ6T2wxSjZuemVPQ0dlQWxLZmIyaXJRY0g1elppTm91c2lUc0pqYzZlQjR5Sm1GLTFUWEdlOUJDYjQ4VjhtNkdnamZiV240RTZtbDVvM3c5T3c",
-        "image": null,
-        "timestamp": 1771134579.0
     }
 ]
