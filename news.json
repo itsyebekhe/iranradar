@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران: تجمع نظامی آمریکا غیرضروری و غیرسازنده است؛ حصول توافق ممکن است",
+        "title_en": "Iran says US military build-up ‘unnecessary and unhelpful’, deal achievable",
+        "summary": [
+            "ایران اعلام کرد که تقویت حضور نظامی آمریکا «غیرضروری و غیرسازنده» است و این موضع رسمی تهران نسبت به تنش‌زدایی را نشان می‌دهد.",
+            "تهران همچنین گفت که حصول توافق ممکن است؛ این پیام با هدف باززنده‌سازی مسیرهای دیپلماتیک و کاهش ریسک درگیری مطرح شده است.",
+            "در سطح ساختاری، ادامه فشارهای خارجی و تحریم‌ها اقتصاد و ظرفیت سیاسی رژیم را تضعیف می‌کند و هرگونه تشدید حضور نظامی آمریکا می‌تواند شانس رسیدن به توافق را کاهش دهد."
+        ],
+        "impact": "اظهارات ایران می‌تواند فضای دیپلماتیک را برای ازسرگیری مذاکرات تا حدی باز کند، اما ادامه تحریم‌ها یا افزایش حضور نظامی آمریکا خطر فروپاشی فرصت‌های دیپلماتیک را افزایش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-says-us-military-build-up-unnecessary-and-unhelpful-deal-achievable/ar-AA1WKG0x",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-says-us-military-build-up-unnecessary-and-unhelpful-deal-achievable/ar-AA1WKG0x",
+        "image": null,
+        "timestamp": 1771606101.0
+    },
+    {
         "title_fa": "ایران و استمرار شکست آمریکا در خاورمیانه",
         "title_en": "Iran and the Persistence of US Failure in the Middle East",
         "summary": [
@@ -322,6 +340,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzS0huQkVpeEotSWh6MVd5R3RQbkhqODQ5QTE0REVybGZBS1I2b3R0YnpyQU14WlhHRDhrdGNfQThUd0xNbnpQSlpJNXNVV205UmNlOUppSUJZN0dt",
         "image": null,
         "timestamp": 1771569210.0
+    },
+    {
+        "title_fa": "در پی اعتراضات در ایران، دانشجویان ایرانی دانشگاه ایالتی فلوریدا (FSU) به‌نشانه همبستگی ایستادند",
+        "title_en": "Amid protests in Iran, FSU Iranian students stand in solidarity",
+        "summary": [
+            "دانشجویان ایرانی در FSU اقدام همبستگی با اعتراضات جاری در ایران انجام دادند؛ این گزارش صرفاً نشان‌دهنده پشتیبانی بخش‌هایی از دیاسپورا از معترضان است.",
+            "حضور و اعلام حمایت دیاسپورا می‌تواند دیده‌شدن بین‌المللی اعتراضات را افزایش دهد و فضا را برای فشار سیاسی خارجی علیه حکومت تنگ‌تر کند، اما اثبات تأثیر مستقیم بر ثبات داخلی مستلزم داده‌های بیشتر است.",
+            "با توجه به محدودیت اطلاعات در متن گزارش، نمی‌توان درباره شدت واکنش امنیتی یا پیامدهای اقتصادی قضاوت کرد؛ با این حال استمرار چنین همبستگی‌هایی نشانه‌ای از ادامه نارضایتی اجتماعی و ضعف روایت حکومتی است."
+        ],
+        "impact": "اعلام همبستگی دانشجویان FSU بلافاصله تصویر بین‌المللی اعتراضات ایران را تقویت می‌کند و می‌تواند ابزارهای فشار سیاسی خارجی علیه حکومت را تقویت نماید.",
+        "tag": "تظاهرات",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/2026/02/20/iranian-community-at-fsu-gathers-to-support-protests-from-afar/88736724007/",
+        "clean_url": "https://www.usatoday.com/story/news/2026/02/20/iranian-community-at-fsu-gathers-to-support-protests-from-afar/88736724007",
+        "image": "http://www.bing.com/th?id=OVFT.LVPdJBoMu_FO23ireiPw6C&pid=News",
+        "timestamp": 1771563660.0
     },
     {
         "title_fa": "نیروهای نظامی «بسیار بااهمیت» آمریکا در اطراف ایران",
@@ -5360,39 +5396,5 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyUVEtaHpwc0tmNGxQZDJyR0t5RUhDLVZISFM3SGY4MEswQkpZZmFpclZ5V3loSW96RzN6OGNIMWg0dTBXLTc1WVp4dlVIbUg0TDQzYTR3?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771095006.0
-    },
-    {
-        "title_fa": "حزب‌الله: ایران مانع تحقق طرح «اسرائیل بزرگ» است",
-        "title_en": "Iran main barrier to materialization of 'Greater Israel' plot",
-        "summary": [
-            "شیخ علی داموش از رهبران حزب‌الله مدعی شده است که خصومت آمریکا و رژیم صهیونیستی با ایران به‌خاطر هویت «اسلامی‌ـ‌انقلابی» آن است و ایران خط اصلی در مقابل پروژه موسوم به «اسرائیل بزرگ» محسوب می‌شود.",
-            "این گفته‌ها از سوی یک متحد شبه‌نظامیِ نزدیک به تهران منتشر شده و نقش تبلیغاتی دارد: تلاش برای تقویت مشروعیت منطقه‌ای جمهوری اسلامی و توجیه شبکه‌های نیابتی؛ ادعای «تنها مانع» بودن ایران گزاره‌ای اغراق‌شده و سیاسی است که واقعیت‌های پیچیده منطقه را ساده‌سازی می‌کند.",
-            "در شرایط مذاکرات غیرمستقیم هسته‌ای و افزایش تهدیدهای نظامی آمریکا، چنین شعارهایی هم می‌تواند تنش‌ها را تشدید کند و هم به‌عنوان ابزاری برای منحرف‌سازی افکار عمومی از بحران‌های اقتصادی و ناتوانی‌های داخلی رژیم به‌کار رود؛ فشار خارجی در نهایت می‌تواند آسیب‌پذیری نظام را آشکار و برای مخالفان داخلی فرصت‌هایی ایجاد کند."
-        ],
-        "impact": "این اظهارات تبلیغاتی به‌طور موقتی روایت قدرت منطقه‌ای رژیم را تقویت می‌کند اما هم‌زمان ضعف ساختاری و آسیب‌پذیری جمهوری اسلامی در برابر تهدیدها و تحریم‌ها را برجسته کرده و می‌تواند موقعیتی برای مخالفان داخلی فراهم آورد.",
-        "tag": "تبلیغات",
-        "urgency": 3,
-        "sentiment": -0.7,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241796/Iran-main-barrier-to-materialization-of-Greater-Israel-plot",
-        "image": "https://media.mehrnews.com/d/2026/02/14/4/5904962.jpg?ts=1771092734182",
-        "timestamp": 1771093980.0
-    },
-    {
-        "title_fa": "روبیو تهدید ایران، پیوندهای فراآتلانتیک و اولویت‌های امنیتی جهانی را در مونیخ برجسته کرد",
-        "title_en": "Rubio Highlights Iran Threat, Transatlantic Ties, and Global Security Priorities in Munich",
-        "summary": [
-            "سناتور مارکو روبیو در مونیخ بر «تهدید ایران» تأکید کرد و خواستار تقویت پیوندهای فراآتلانتیک برای مقابله با این تهدید شد.",
-            "او اولویت‌های امنیتی جهانی را مطرح کرد و بر نیاز به هماهنگی سیاسی و امنیتی میان آمریکا و متحدان اروپایی برای پاسخ به اقدامات منطقه‌ای ایران تأکید نمود.",
-            "اظهارات روبیو می‌تواند مسیر سیاست‌های سخت‌تر و فشار بین‌المللی علیه رژیم تهران را تقویت کند و پیام حمایت غرب از اقدامات بازدارنده را ارسال نماید."
-        ],
-        "impact": "این نوع موضع‌گیری‌های غربی توانایی رژیم در تداوم سیاست‌های منطقه‌ای و داخلی را تضعیف کرده و فضای امید برای تحول داخلی را تقویت می‌کند.",
-        "tag": "تهدید",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "kurdistan24.net",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGhwZ1RpTTNxcjNwcmhLalF1cHVGSjNRU3lWU1JIeTlRZkFqMU9JT3pNb2VlcTRUZG84aEV5eW9abGRFWmEyU1psWW9kSGpnUXJ0Z1plbWwzVWE5MWpkMzNfTmU0QVBCQnJFa191QjVuTk01aHBESmlvRmNBSms2ajBZcWdxT09FdHRWWXhFRnFRRlFZQVp6MFNEMkNrMU52NEt1c3R1ZmJwbmg2bHVLQlM2WEhtN1hkVDVHd21xcDJCQjdBcnFrWEdqcEQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771093933.0
     }
 ]
