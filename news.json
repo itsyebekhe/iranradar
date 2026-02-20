@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "ترامپ ۱۵ روزه به ایران درباره برجام اخطار داد",
+        "title_en": "Trump issues 15-day warning to Iran on nuclear deal",
+        "summary": [
+            "خبر اصلی: ترامپ به‌صورت علنی به ایران ۱۵ روز فرصت داده درباره وضعیت برجام/توافق هسته‌ای — اخطاری صریح از سوی واشینگتن.",
+            "فشار خارجی/تحریم‌ها: این هشدار نشان‌دهنده افزایش فشار ایالات متحده است؛ چنین اظهارنظرهایی معمولاً مقدمه‌ای برای تشدید تحریم‌ها یا محدودیت‌های اقتصادی هستند و می‌توانند ساختارهای مالی و صادراتی حکومت را تضعیف کنند.",
+            "اقتصاد و نارضایتی داخلی: تشدید فشار خارجی بار اقتصادی را بیشتر می‌کند و ضعف‌های مدیریتی و فساد نهادینه‌شده رژیم را پررنگ‌تر می‌سازد؛ ظرفیت حکومت برای مهار موج‌های نارضایتی ظرف ماه‌های آتی در معرض آزمون قرار می‌گیرد."
+        ],
+        "impact": "اخطار ۱۵ روزه ممکن است ظرف دو هفته افق‌های دیپلماتیک را تنگ کند و زمینهٔ افزایش فشارهای اقتصادی-سیاسی علیه تهران را فراهم سازد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Semafor",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0swY0IyM0dQd1hDX2t6b3VYTFhDeDZYcXF6blA1MjU5MFVqYzZKaC1qYWFIN0hRYnJaNjNUZkRtakFkX0FDd3lKenFXcFZXYmFDUnNrSTNxcVpuTXRXdTlIN3gyakVuVkZhcFAxN1lyTFI2aFFUMnVWN1pseFd6cHZkczhPQUpjLXduUURyZGR4T2JwQVJ3d01B?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0swY0IyM0dQd1hDX2t6b3VYTFhDeDZYcXF6blA1MjU5MFVqYzZKaC1qYWFIN0hRYnJaNjNUZkRtakFkX0FDd3lKenFXcFZXYmFDUnNrSTNxcVpuTXRXdTlIN3gyakVuVkZhcFAxN1lyTFI2aFFUMnVWN1pseFd6cHZkczhPQUpjLXduUURyZGR4T2JwQVJ3d01B",
+        "image": null,
+        "timestamp": 1771587900.0
+    },
+    {
+        "title_fa": "قیمت نفت به‌خاطر نگرانی از درگیری آمریکا و ایران افزایش یافت",
+        "title_en": "Oil prices rise on fears of US-Iran conflict",
+        "summary": [
+            "بازار نفت به‌سرعت با اعمال حق بیمه ریسک مواجه شد: افزایش قیمت‌ها ناشی از نگرانی‌ها نسبت به تشدید منازعه بین آمریکا و ایران است که احتمال اختلال در عرضه یا تحریم‌های ثانویه را بالا می‌برد.",
+            "فشار خارجی و تحریم‌ها به‌عنوان عامل ساختاری تضعیف رژیم عمل می‌کند؛ هر تشدید تنش می‌تواند محدودیت‌های مالی و درآمدی حکومت را تشدید کند و فضای سیاست‌گذاری اقتصادی را تنگ‌تر سازد، که در میان‌مدت به کاهش انسجام سیاسی و توان خرید حمایت تبدیل می‌شود.",
+            "پیامدهای اقتصادی داخلی مستقیم‌اند: نوسان قیمت انرژی و ریسک نظامی هزینه‌های وارداتی و تورم را بالا می‌برد، و در غیاب مدیریت اقتصادی عقلانی این فشارها می‌تواند نارضایتی عمومی را تشدید کند."
+        ],
+        "impact": "افزایش قیمت نفت ناشی از ترس درگیری با آمریکا ریسک فشارهای خارجی و وخامت اوضاع اقتصادی داخلی را افزایش می‌دهد که به تضعیف بیشتر رژیم منجر خواهد شد.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "E&E News by POLITICO",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYm15RXdGb1JzR3k3UTRKdG9NTGJ0ejBYVWRPQ3ZoUUl1SE5QX3pNQjZHU3JVWW5ZcnpPSldDRFU3ZkNPMGNGNUUzYWo1SDFrV2tJbGZ0ZDMwYTlIM1VzVGNkQW4zMGNsOFRCcUNVUE9YZ1N1U2FRbzV4Q2ZDRUpWd0UxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYm15RXdGb1JzR3k3UTRKdG9NTGJ0ejBYVWRPQ3ZoUUl1SE5QX3pNQjZHU3JVWW5ZcnpPSldDRFU3ZkNPMGNGNUUzYWo1SDFrV2tJbGZ0ZDMwYTlIM1VzVGNkQW4zMGNsOFRCcUNVUE9YZ1N1U2FRbzV4Q2ZDRUpWd0UxZw",
+        "image": null,
+        "timestamp": 1771586940.0
+    },
+    {
+        "title_fa": "ترامپ در حال بررسی حملات محدود برای وادار کردن ایران به توافق هسته‌ای — گزارش",
+        "title_en": "Trump considering limited strikes to force Iran to make nuclear deal – report",
+        "summary": [
+            "گزارش‌ها حاکی است که ترامپ گزینه انجام حملات محدود علیه اهدافی در ایران را برای فشار به تهران جهت امضای یک توافق هسته‌ای مورد بررسی قرار داده است.",
+            "این گزینه گامی در جهت تشدید فشارهای خارجی است و در صورت اجرا می‌تواند ساختارهای اقتصادی و سیاسی رژیم را از نظر ساختاری تضعیف کند؛ اثرات مستقیم بر تجارت، سرمایه‌گذاری و افزایش احتمال تحریم‌های تکمیلی محتمل است.",
+            "اگر حملات محدود انجام شود، این اقدام می‌تواند ناکارآمدی مدیریتی و نارضایتی عمومی موجود را تشدید کند و ریسک بی‌ثباتی محلی و واکنش‌های انتقامی را بالا ببرد."
+        ],
+        "impact": "اجرای حملات محدود فشار خارجی را تشدید و ثبات رژیم ایران را بیشتر تضعیف خواهد کرد و خطر گسترش بحران‌های سیاسی و اقتصادی افزایش می‌یابد.",
+        "tag": "فشار",
+        "urgency": 9,
+        "sentiment": 0.3,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTJDaG9Kd0pZaEw1LWtxVzg3N0JmWDBLazBVQl9EVGtjTjBwT0twckR4akJzOXZHTXJNOHV5OFNZOXhHNW5WTWJDVHJKTndKYzFLekp6VkUxTENTQmNjcGZIN2dlVWJ0Qkh1MHZibklNSDJYZGktZU42LXMwZUo3VHB1alVrenJoSHFnSjlid3A0YnRDQnBoUlEwR1RhZ3ltb3BxZkhwT3g3UdIBrwFBVV95cUxNRHRwR0xqNTFrTE0ySEEzTXg1SGthOWM4ZV9ZTGxwdjVSZ1BLMTMyQ2VrQW9VUEJ3WlE1aUVBNWVOSjlTTUVNZUgxdjVzX2hPQjVKUjVwVWpUb05jakF1UUh5b240Qmw1NmVLakVubFdDQ2JMYXdESTUzeWU5aldUTnV0NXhlU19wbFdRSU5TNUlUZzBwNHNpRWJfN1JPLTZFT0w4b21RMTcwZ3NtTVBF?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTJDaG9Kd0pZaEw1LWtxVzg3N0JmWDBLazBVQl9EVGtjTjBwT0twckR4akJzOXZHTXJNOHV5OFNZOXhHNW5WTWJDVHJKTndKYzFLekp6VkUxTENTQmNjcGZIN2dlVWJ0Qkh1MHZibklNSDJYZGktZU42LXMwZUo3VHB1alVrenJoSHFnSjlid3A0YnRDQnBoUlEwR1RhZ3ltb3BxZkhwT3g3UdIBrwFBVV95cUxNRHRwR0xqNTFrTE0ySEEzTXg1SGthOWM4ZV9ZTGxwdjVSZ1BLMTMyQ2VrQW9VUEJ3WlE1aUVBNWVOSjlTTUVNZUgxdjVzX2hPQjVKUjVwVWpUb05jakF1UUh5b240Qmw1NmVLakVubFdDQ2JMYXdESTUzeWU5aldUTnV0NXhlU19wbFdRSU5TNUlUZzBwNHNpRWJfN1JPLTZFT0w4b21RMTcwZ3NtTVBF",
+        "image": null,
+        "timestamp": 1771586760.0
+    },
+    {
         "title_fa": "ردیابی تجمع سریع نیروهای نظامی آمریکا در نزدیکی ایران",
         "title_en": "Tracking the rapid US military build-up near Iran",
         "summary": [
@@ -160,6 +214,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVd4emx3YTdMc2ctTFluYmhuTTJyZEVtbS02SnQwZmlwVFNWSzBKYUNXZHE5a1VzLTNERkFpNlp4ODdJeGxvYlk0cVlia0tndGk5SWNIZElKRFlocUdyYzBEZjNSazlqZ3JzLXFGckEzdFRYZ0J5bC1ILU8yS05wNllCZ19DVy1RaW1XUW0wQ2VEcWRSX0ZBSkktOGhzYndkSndheHItUHUzQ0JVanBXNnpIOUNZWEZ1",
         "image": null,
         "timestamp": 1771562388.0
+    },
+    {
+        "title_fa": "تنش ایران-آمریکا: تهدید حمله و اصرار ترامپ بر تغییر قدرت",
+        "title_en": "Iran US Tensions Live Updates: Israel Activates Emergency Preparedness, Tehran Warns of Retaliation",
+        "summary": [
+            "دونالد ترامپ هنوز تصمیم نهایی درباره حمله احتمالی به تهران نگرفته؛ منابع گزارش داده‌اند که حمله می‌تواند همین آخر هفته مطرح شود و ترامپ ضرب‌الاجل «۱۰–۱۵ روز» درباره توافق هسته‌ای اعلام کرده است.",
+            "کاخ سفید با سخنگوی خود کارولین لیویت اعلام کرده دیپلماسی اولویت است اما طرفین در مذاکرات ژنو بر سر مسائل کلیدی «دور از هم» مانده‌اند؛ همزمان آمریکا هزاران نیرو و ناوهای رزمی از جمله USS Abraham Lincoln و USS Gerald R. Ford و چندین ناوشکن هدایت‌شونده را به منطقه اعزام کرده است.",
+            "ترامپ صریحاً از احتمال «تغییر قدرت» در ایران حمایت کرده و گفته که پایان حاکمیت علی خامنه‌ای «بهترین چیز» خواهد بود؛ این موضع در کنار تقویت نظامی، خطر تشدید تقابل مستقیم و تضعیف بیش‌تر مشروعیت داخلی رژیم را افزایش می‌دهد."
+        ],
+        "impact": "فشار نظامی و دیپلماتیک آمریکا همراه با فراخوان صریح برای تغییر قدرت ساختار آسیب‌پذیری سیاسی و اقتصادی رژیم را تشدید می‌کند و احتمال برخورد نظامی مستقیم و بحران داخلی را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/us/us-news/iran-us-tensions-live-updates-donald-trump-strike-tehran-ayatollah-ali-khamenei-geneva-nuclear-deal-war-reason-latest-news-liveblog-153645871",
+        "clean_url": "https://www.timesnownews.com/world/us/us-news/iran-us-tensions-live-updates-donald-trump-strike-tehran-ayatollah-ali-khamenei-geneva-nuclear-deal-war-reason-latest-news-liveblog-153645871",
+        "image": null,
+        "timestamp": 1771559040.0
     },
     {
         "title_fa": "ایران پیشنهادهای سرمایه‌گذاری را به‌عنوان راه خروج از دیپلماسی کشتی‌های جنگی ترامپ مطرح می‌کند",
@@ -5315,73 +5387,5 @@
         "clean_url": "https://www.nytimes.com/2026/02/14/world/europe/iran-regime-rallies-munich.html",
         "image": null,
         "timestamp": 1771083180.0
-    },
-    {
-        "title_fa": "پسر آخرین شاه ایران خواستار مداخله نظامی آمریکا در ایران شد",
-        "title_en": "Son of Iran's last shah urges US military intervention in Iran",
-        "summary": [
-            "پسر آخرین شاه ایران در بیانیه‌ای از آمریکا خواسته تا به‌صورت نظامی وارد ایران شود.",
-            "این درخواست می‌تواند فشار بین‌المللی بر رژیم را افزایش داده و مشروعیت داخلی آن را تضعیف کند و در نتیجه مسیر آزادی را تقویت نماید.",
-            "همزمان رژیم احتمالاً از این اظهارات برای برچسب‌زنی مخالفان به وابستگی به بیگانگان و توجیه سرکوب گسترده‌تر استفاده خواهد کرد."
-        ],
-        "impact": "این اظهارات می‌تواند به‌صورت همزمان به تضعیف رژیم و افزایش فشار خارجی کمک کند اما در عین حال بهانه‌ای برای تشدید سرکوب داخلی فراهم سازد.",
-        "tag": "مداخله",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44RjJ0OFg2bDB0VDBmbmpHWVVtUTBmYkwxZTlCMFc1M1lXWUZfOXVWc0ZzX2RjbjQ3cUUxdktDVGF5MXNEUUltTjV5bWF6Q1UyN29CNEtwd3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771082514.0
-    },
-    {
-        "title_fa": "وزارت خارجه: فشار سیاسی نمی‌تواند حق «غیرقابل سلب» غنی‌سازی ایران را تضعیف کند",
-        "title_en": "Political pressure cannot undermine Iran’s ‘inalienable’ enrichment right: Foreign Ministry",
-        "summary": [
-            "وزارت خارجه با تکرار زبان رسمی جمهوری اسلامی اعلام کرده که فشارها مانع از ادامه حق «غیرقابل سلب» غنی‌سازی نخواهد شد؛ این گزاره نسخه‌ای تبلیغاتی برای مشروعیت‌بخشی به برنامه هسته‌ای رژیم است.",
-            "ادعاهای این‌چنینی بیشتر برای مخاطب داخلی و تقویت احساس ملی‌گرایی به‌کار می‌رود و از پاسخگویی درباره هزینه‌های اقتصادی و پیامدهای بین‌المللی سیاست‌های هسته‌ای یا الزامات ناظران بین‌المللی طفره می‌رود.",
-            "سیاستی که بر «حق مطلق» تأکید کند عملاً می‌تواند به تشدید تقابل سیاسی و اقتصادی با غرب منجر شود؛ این فشارها رژیم را ضعیف‌تر کرده و نارضایتی‌های اقتصادی را تشدید می‌کند — وضعیتی که به نفع حرکت‌های مردمی و خواهان تغییر است."
-        ],
-        "impact": "اظهاراتی از این دست احتمال افزایش انزوای بین‌المللی و تحریم‌ها را بالا می‌برد و توجه را از کاستی‌های داخلی و مطالبات مردم منحرف می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "PressTV",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGQ1Q3d4WDhfVGVXNndBNXBDRXRFRjJEUFdKb0FGb2l3YVNMQUFwOGxfNWlyUHoyeEU2eUl4c1BJd0ViXzItOGhzakx0eC1XcjBYdG5yd3ZHU1ptMXU3NEFCbm5ZVVB4dThnVTNMMGhhV29hUG1MVlhRZlNsQnRWSzQ1M2k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771080480.0
-    },
-    {
-        "title_fa": "کانادا خواستار تغییر رژیم در ایران شد و تحریم‌های بیشتری را اعلام کرد",
-        "title_en": "Canada wants regime change in Iran, announces more sanctions",
-        "summary": [
-            "دولت کانادا به‌طور علنی از لزوم تغییر رژیم در ایران سخن گفته است.",
-            "همزمان کانادا اعلام کرد تحریم‌های اضافی علیه نهادها و افراد مرتبط با جمهوری اسلامی اعمال خواهد کرد.",
-            "این اقدام دیپلماتیک می‌تواند انزوای بین‌المللی رژیم را تشدید کرده و پیام امید و پشتیبانی‌ای به اعتراضات و مخالفان داخل ایران ارسال کند."
-        ],
-        "impact": "اعلامیه و تحریم‌های جدید کانادا فشار سیاسی و اقتصادی بر رژیم را افزایش می‌دهد و به تضعیف سلطه آن و تقویت مسیر مردم برای آزادی کمک می‌کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGxub1NVVU96OXUzUVQxd0p4LWxINDBxcUNLTWN0UHZodVJSejZTbnBpMjNjMS1WbG5VMUhRQWtLYWpONHNiVF9ZdWdmWHdJSU1PX0ctTExFQ2swdURjTGppVXJUcGhwLWx4SXVKNVJHbWhDdzYtdFpVZDZrdXVGMVRLUFFSdFFO?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771079949.0
-    },
-    {
-        "title_fa": "اسرائیل قدرت ایران را هدف می‌گیرد، نه رژیم آن",
-        "title_en": "Israel targets power over Iran, not its regime",
-        "summary": [
-            "تیتر نشان می‌دهد موضع اعلام‌شده اسرائیل معطوف به «قدرت» جمهوری اسلامی است نه لزوماً سرنگونی مستقیم رژیم.",
-            "تمرکز روی «قدرت» معمولاً به معنای هدف‌گیری زیرساخت‌ها و توانمندی‌های عملیاتی (نظامی، هسته‌ای یا انرژی) است و نه مداخله مستقیم در ساختار سیاسی داخلی ایران.",
-            "چنین رویکردی بیشتر به قصد مهار و تضعیف اهرم‌های توانمندی و بازدارندگی رژیم تعبیر می‌شود تا ایجاد تغییر سیاسی فوری."
-        ],
-        "impact": "این رویکرد در صورت اجرا می‌تواند توان سرکوب و اهرم‌های داخلی رژیم را تضعیف کند و راه را برای فرصت‌های بیشتر مردم و اپوزیسیون در پیگیری آزادی و تغییر هموار سازد.",
-        "tag": "قدرت",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5INDB1VnF5MVBYOGpQZVJtRWczV1Ntb2JWQ0s5TkR4RXlEYXNvTW5mMHVTVDBkTVVENDFKRlRVb2xBQW9wc0V5dU9FNFpvdUg1ajhRWWQxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771079927.0
     }
 ]
