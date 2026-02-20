@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ترامپ از صلح در خاورمیانه صحبت می‌کند در حالی که خود را برای جنگ با ایران آماده می‌کند",
+        "title_en": "Trump talks peace in the Middle East as he readies war on Iran",
+        "summary": [
+            "پیام دوگانه: ریاست‌جمهوری ترامپ علناً از صلح در منطقه سخن می‌گوید اما همزمان اعلام یا بسترسازی برای اقدامات نظامی علیه ایران را نشان می‌دهد؛ این تضاد پیام مشروعیت و اعتبار دیپلماتیک را تضعیف می‌کند.",
+            "تحلیل تحریم‌ها و فشار خارجی: آماده‌سازی برای درگیری نظامی به معنای تشدید فشارهای نظامی-اقتصادی و احتمال بازگشت یا تشدید تحریم‌ها است که می‌تواند ساختار مالی و سیاسی رژیم را بیشتر ضعیف کند و ظرفیت مدیریت اقتصادی را کاهش دهد.",
+            "پیامدهای داخلی و اقتصاد: افزایش تهدید نظامی و فشار خارجی می‌تواند به تشدید سرکوب داخلی، افزایش نارضایتی عمومی و تشدید مشکلات اقتصادی موجود منجر شود؛ این روند ممکن است ریسک بی‌ثباتی سیاسی را بالا ببرد."
+        ],
+        "impact": "آمادگی آمریکا برای جنگ علیه ایران احتمال تشدید فشارهای اقتصادی و سیاسی بر حکومت تهران و افزایش خطر بی‌ثباتی داخلی را به‌طور محسوس بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3BXRElkZWE2X3dDR0lwMGFCQkc3Y2hCR1BzUnpIZVVabUV1RFJ4UzZZRkVkNUlqR09XMjBJbVJHQTdkcVN6SmVJTHB4OXlVUXB0MWItS2pINERJRWkwdy13SHo4dXo3MW1ncmVhOUlRV0dkdVFMRGdsSTQyVThlZXpfY3R4X1M4aDc3Y2RYOFIySnk5TGZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3BXRElkZWE2X3dDR0lwMGFCQkc3Y2hCR1BzUnpIZVVabUV1RFJ4UzZZRkVkNUlqR09XMjBJbVJHQTdkcVN6SmVJTHB4OXlVUXB0MWItS2pINERJRWkwdy13SHo4dXo3MW1ncmVhOUlRV0dkdVFMRGdsSTQyVThlZXpfY3R4X1M4aDc3Y2RYOFIySnk5TGZJ",
+        "image": null,
+        "timestamp": 1771610501.0
+    },
+    {
+        "title_fa": "ایران در حال سنجش پاسخ به احتمال ازسرگیری حملات آمریکا-اسرائیل",
+        "title_en": "Iran considers its response to potential renewed US-Israeli strikes",
+        "summary": [
+            "گزارش می‌گوید تهران گزینه‌های واکنش نظامی و غیردفاعی را در برابر احتمال ازسرگیری حملات مشترک آمریکا و اسرائیل بررسی می‌کند؛ جزئیات تاکتیکی یا جدول زمانی در تیتر موجود نیست.",
+            "فشارهای خارجی و تحریم‌ها: هر موج جدید حمله یا پاسخ تلافی‌جویانه می‌تواند بهانه‌ای برای افزایش فشار دیپلماتیک و تحریمی از سوی آمریکا و متحدانش فراهم کند؛ این فشارها ظرفیت اقتصادی و توان عملیاتی نظام را به‌طور ساختاری تضعیف می‌کنند (مصادیق مشخص در تیتر گزارش نشده‌اند).",
+            "پیامدهای داخلی و حکمرانی: ازسرگیری درگیری‌ها احتمال تشدید نارضایتی عمومی و فشار بر اقتصاد ضعیف و دستگاه‌های مدیریتی حکومت را دارد؛ ضعف‌های مدیریت اقتصادی موجود، مانع جذب حمایت داخلی در مواجهه با تنش‌های بیرونی خواهد بود."
+        ],
+        "impact": "ازسرگیری حملات آمریکا-اسرائیل و واکنش تهران می‌تواند تنش منطقه‌ای را بالا ببرد و اقتصاد و مشروعیت داخلی حکومت را بیشتر فرسایش دهد.",
+        "tag": "امنیت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Middle East Institute",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVZHQ05aZGFMR1hZUFVzbkNtNEtDRHdRVzBDbVB4WURDeHRPU1gxUmxmcVR3RzVVTmM3Q0xZd3lhcTE0Vk1vemc3aG1wczJObTZsa0pZNjFGVDl1UG0ySjNRZEJHZndJNkM4STdFeDJ4RHBCRUtCM3B6dUU5ckFQdXRBTnhLcHVoVU9CSkNqX3p6ay0zZ1Q0bFl1SE8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVZHQ05aZGFMR1hZUFVzbkNtNEtDRHdRVzBDbVB4WURDeHRPU1gxUmxmcVR3RzVVTmM3Q0xZd3lhcTE0Vk1vemc3aG1wczJObTZsa0pZNjFGVDl1UG0ySjNRZEJHZndJNkM4STdFeDJ4RHBCRUtCM3B6dUU5ckFQdXRBTnhLcHVoVU9CSkNqX3p6ay0zZ1Q0bFl1SE8",
+        "image": null,
+        "timestamp": 1771607572.0
+    },
+    {
         "title_fa": "ایران: تجمع نظامی آمریکا غیرضروری و غیرسازنده است؛ حصول توافق ممکن است",
         "title_en": "Iran says US military build-up ‘unnecessary and unhelpful’, deal achievable",
         "summary": [
@@ -214,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTJDaG9Kd0pZaEw1LWtxVzg3N0JmWDBLazBVQl9EVGtjTjBwT0twckR4akJzOXZHTXJNOHV5OFNZOXhHNW5WTWJDVHJKTndKYzFLekp6VkUxTENTQmNjcGZIN2dlVWJ0Qkh1MHZibklNSDJYZGktZU42LXMwZUo3VHB1alVrenJoSHFnSjlid3A0YnRDQnBoUlEwR1RhZ3ltb3BxZkhwT3g3UdIBrwFBVV95cUxNRHRwR0xqNTFrTE0ySEEzTXg1SGthOWM4ZV9ZTGxwdjVSZ1BLMTMyQ2VrQW9VUEJ3WlE1aUVBNWVOSjlTTUVNZUgxdjVzX2hPQjVKUjVwVWpUb05jakF1UUh5b240Qmw1NmVLakVubFdDQ2JMYXdESTUzeWU5aldUTnV0NXhlU19wbFdRSU5TNUlUZzBwNHNpRWJfN1JPLTZFT0w4b21RMTcwZ3NtTVBF",
         "image": null,
         "timestamp": 1771586760.0
+    },
+    {
+        "title_fa": "پیشنهاد دسترسی آمریکا به ثروت نفتی ایران؛ تاکتیک بازدارنده یا حیله دیپلماتیک؟",
+        "title_en": "Iran has promised Trump its oil riches. It could be a clever ploy to avoid war",
+        "summary": [
+            "ایران برای اجتناب از جنگ و حفظ برنامه غنی‌سازی هسته‌ای پیشنهادی کم‌سابقه مطرح کرده و دسترسی آمریکا به منابع نفت و گاز را در متن مذاکرات قرار داده؛ معاون وزیر خارجه، حمید غنبری، از شمول منافع مشترک در نفت و گاز، میدان‌های مشترک، سرمایه‌گذاری‌های معدنی و حتی خرید هواپیما خبر داده و دونالد ترامپ ۱۰ تا ۱۵ روز مهلت برای «توافق معنادار» داده و تهدید به حملات هوایی کرده است.",
+            "هدف اعلامی طرح، رفع تحریم‌هایی است که اقتصاد را ویران کرده و ایجاد ذی‌نفعان شرکتی آمریکایی برای افزایش انگیزه داخلی آمریکا جهت پایبندی به توافق است؛ این تلاش می‌کوشد «نقص مرگبار» توافق ۲۰۱۵ را برطرف کند، و در همین حال شرکت‌های روسی و چینی حضور خود را در ایران افزایش داده‌اند که به‌عنوان پیوست‌های استراتژیک بقای رژیم عمل می‌کنند.",
+            "ناظران می‌گویند این پیشنهاد می‌تواند واقعاً نشانه انعطاف باشد یا صرفاً یک «فریب دیپلماتیک» برای آرام کردن ترامپ؛ بهزاد نظری‌راد، تحلیلگر، تأکید کرده که در غیاب منافع جدید برای بازیگران اصلی، انگیزه‌ای برای حفظ توافق وجود نخواهد داشت—نمادی از ضعف مدیریتی، فشار اقتصادی و فرسایش مشروعیت داخلی."
+        ],
+        "impact": "عرضه منابع استراتژیک به آمریکا نشان‌دهنده ضعف ساختاری رژیم است: ممکن است موقتی از تقابل نظامی بکاهد اما بدون اصلاحات ساختاری، اقتصاد و مشروعیت را بهبود نمی‌بخشد و وابستگی به بازیگران خارجی را افزایش می‌دهد.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-promised-trump-oil-riches-162146752.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-promised-trump-oil-riches-162146752.html",
+        "image": null,
+        "timestamp": 1771580820.0
     },
     {
         "title_fa": "ردیابی تجمع سریع نیروهای نظامی آمریکا در نزدیکی ایران",
@@ -5344,57 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXY0OVdCaHJ5bWUzdFpfcnNVZU1vaTU2WlVPMzlIbVpVQnBlenpXbllLdnJtTHVMUUhxM2xRZDRpbXcza2xjZnVOa0p6ZzdBQWl0MGRId0RONGNfWXpQV2toOHJnR3g0T3RIS1d4V2tQTFplVzNJVG1ETFZnUkxKT19yUEg0M2tEU01OZHNoaVBrNWpzclFUaEdOSUlPLVlkMVhjS01VTWE",
         "image": null,
         "timestamp": 1771110840.0
-    },
-    {
-        "title_fa": "آمریکا و ایران این هفته دور جدیدی از مذاکرات هسته‌ای را در ژنو برگزار می‌کنند، دولت سوئیس می‌گوید",
-        "title_en": "U.S., Iran to hold new round of nuclear talks in Geneva this week, Swiss government says",
-        "summary": [
-            "دولت سوئیس اعلام کرده آمریکا و ایران این هفته در ژنو دور جدیدی از مذاکرات هسته‌ای را برگزار می‌کنند.",
-            "رسانه Pittsburgh Post-Gazette این خبر را بازنشر کرده و آن را به اطلاع عموم رسانده است.",
-            "خبر نشان‌دهنده ادامه رویکرد دیپلماتیک پس از دورهای قبلی مذاکرات میان تهران و واشنگتن است."
-        ],
-        "impact": "پیامدهای کوتاه‌مدت شامل کاهش نسبی تنش دیپلماتیک و احتمال گفت‌وگوهای فنی برای مسائل راستی‌آزمایی و محدودیت برنامه هسته‌ای است؛ اما در غیاب تضمین‌های سخت، این دور می‌تواند به رژیم ایران فرصت زمان‌خریدن بدهد و فشارهای تحریمی را تضعیف کند. در سطح داخلی، مذاکرات فضای سیاسی را برای محافظه‌کاران و طرفداران تعامل متفاوت می‌کند: ممکن است دولت را تقویت یا به اختلافات جناحی جدید دامن بزند. برای اپوزیسیون ملی‌گرا، واقعیت این است که عقد مذاکرات بدون محاسبه نتایج ملموس (بازگشت سرمایه‌گذاری بین‌المللی، لغو تحریم‌ها با شروط روشن و مکانیزم‌های راستی‌آزمایی مؤثر) خطر مهار فشار بین‌المللی و مشروعیت‌بخشی به رژیم را دارد؛ در عین حال نظارت بین‌المللی گسترده‌تر می‌تواند پنجره‌های اطلاعاتی درباره پیشرفت‌های هسته‌ای فراهم کند.",
-        "tag": "مذاکرات هسته‌ای – ژنو",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Pittsburgh Post-Gazette",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMG5KYzJsT2ZORGYzbGZkeE1pOXFoRG1SdUtocVVHdXAzNlNiV0Y4MElkcUNCWkp2YlBCYVd1WnRpLWlwRUp2NW1ocDF6MW1JUjdwaUtuT05vNjdlRGN5Y3BqMjR5SXNKWU1NbTRZeTRWWWxZaDlFa19TS0hhVWF0d1hGaXREU0QzNXJOZlp0TURJeXJKU1VCcGpIQjBaSzBNelJOQXg1OG1RNTYwZGU2TGJLZGdBWFVxa3NiMU9qbUo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMG5KYzJsT2ZORGYzbGZkeE1pOXFoRG1SdUtocVVHdXAzNlNiV0Y4MElkcUNCWkp2YlBCYVd1WnRpLWlwRUp2NW1ocDF6MW1JUjdwaUtuT05vNjdlRGN5Y3BqMjR5SXNKWU1NbTRZeTRWWWxZaDlFa19TS0hhVWF0d1hGaXREU0QzNXJOZlp0TURJeXJKU1VCcGpIQjBaSzBNelJOQXg1OG1RNTYwZGU2TGJLZGdBWFVxa3NiMU9qbUo",
-        "image": null,
-        "timestamp": 1771098175.0
-    },
-    {
-        "title_fa": "اسلامی از پیشرفت ساخت واحدهای ۲ و ۳ نیروگاه بوشهر بازدید کرد",
-        "title_en": "Eslami Visits Construction Progress at Bushehr Nuclear Units 2 and 3",
-        "summary": [
-            "محمد اسلامی از روند ساخت و پیشرفت اجرایی واحدهای ۲ و ۳ نیروگاه هسته‌ای بوشهر بازدید کرد.",
-            "هدف بازدید بررسی مراحل ساخت و زمان‌بندی تکمیل این واحدها عنوان شده است.",
-            "رژیم این‌گونه بازدیدها را برای برجسته کردن پیشرفت برنامه انرژی هسته‌ای و نمایش توان فنی داخلی برجسته می‌کند."
-        ],
-        "impact": "این بازدید نشان‌دهنده استمرار اولویت‌دادن رژیم به توسعه ظرفیت هسته‌ای و نمایش توان فنی است، اما اثر فوری و قابل‌لمسی بر معیشت مردم ندارد.",
-        "tag": "هسته‌ای",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamVvTXZuWXhuU1hQeUdWbjVQVlFGellOa2tuREo0NTRGY3BDcjBiSzdvVGhHVm9VMUx6Nm9kYlVZV2R4dy04S3FEZjM3YUxZcHpzRkg2cUR3WkMzamd5SEZVazFYa05BVlFCQXNsMGV1RkxLNkZ0ZVVERVAtSVZLTnFXSW9yakV5ckZ0SHBYd3ZTQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771095475.0
-    },
-    {
-        "title_fa": "ازسرگیری مذاکرات آمریکا و ایران در ژنو در حالی که تنش‌ها ادامه دارد",
-        "title_en": "US-Iran talks to resume in Geneva as tensions simmer",
-        "summary": [
-            "مذاکرات میان آمریکا و ایران در ژنو از سر گرفته می‌شود؛ اقدامی دیپلماتیک در بحبوحه تنش‌های مستمر بین دو طرف.",
-            "از سرگیری گفت‌وگوها می‌تواند از تشدید نظامی فوری جلوگیری کند، اما همزمان رژیم تهران را در معرض فشارها و مذاکرات بین‌المللی بیشتری قرار می‌دهد.",
-            "برای اپوزیسیون و مردم ایران، هر روند دیپلماتیکی که مانع از تشدید سرکوب یا جنگ شود می‌تواند فضایی برای افزایش فشار بر رژیم و پیشبرد مطالبات آزادی فراهم کند."
-        ],
-        "impact": "این مذاکرات می‌توانند ابزار فشار بین‌المللی را تقویت کنند و به تضعیف دیرپای کنترل رژیم و تقویت مسیر مردم برای تغییر کمک کنند.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyUVEtaHpwc0tmNGxQZDJyR0t5RUhDLVZISFM3SGY4MEswQkpZZmFpclZ5V3loSW96RzN6OGNIMWg0dTBXLTc1WVp4dlVIbUg0TDQzYTR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771095006.0
     }
 ]
