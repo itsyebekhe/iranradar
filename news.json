@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "استقرار نیروهای آمریکایی در خاورمیانه همزمان با متوقف شدن مذاکرات هسته‌ای ایران",
+        "title_en": "U.S. amasses forces in Middle East as Iran nuclear talks stall",
+        "summary": [
+            "خبر گزارش می‌دهد که آمریکا نیروهایی را در خاورمیانه جمع‌آوری کرده و هم‌زمان مذاکرات هسته‌ای با ایران متوقف شده‌اند؛ جزئیات بیشتر در متن گزارش ارائه نشده است.",
+            "انباشت نظامی آمریکا به‌صورت ساختاری فشار خارجی بر رهبری تهران را افزایش می‌دهد و ریسک تشدید تنش‌های نظامی یا اقدامات قهری بیشتر را بالا می‌برد.",
+            "گرچه گزارش نقشی از روسیه یا چین بیان نمی‌کند، این وضعیت می‌تواند بحران مدیریتی و آسیب‌پذیری‌های داخلی را تشدید کند؛ پیامدهای اقتصادی و سیاسی داخلی باید زیر نظر قرار گیرند."
+        ],
+        "impact": "انباشت نیروی آمریکایی همزمان با توقف مذاکرات، فضای سیاسی و امنیتی را تشدید می‌کند و بر ثبات حکومت حاکم فشار خارجی و امکانات واکنش داخلی را محدودتر می‌سازد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVd4emx3YTdMc2ctTFluYmhuTTJyZEVtbS02SnQwZmlwVFNWSzBKYUNXZHE5a1VzLTNERkFpNlp4ODdJeGxvYlk0cVlia0tndGk5SWNIZElKRFlocUdyYzBEZjNSazlqZ3JzLXFGckEzdFRYZ0J5bC1ILU8yS05wNllCZ19DVy1RaW1XUW0wQ2VEcWRSX0ZBSkktOGhzYndkSndheHItUHUzQ0JVanBXNnpIOUNZWEZ1?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVd4emx3YTdMc2ctTFluYmhuTTJyZEVtbS02SnQwZmlwVFNWSzBKYUNXZHE5a1VzLTNERkFpNlp4ODdJeGxvYlk0cVlia0tndGk5SWNIZElKRFlocUdyYzBEZjNSazlqZ3JzLXFGckEzdFRYZ0J5bC1ILU8yS05wNllCZ19DVy1RaW1XUW0wQ2VEcWRSX0ZBSkktOGhzYndkSndheHItUHUzQ0JVanBXNnpIOUNZWEZ1",
+        "image": null,
+        "timestamp": 1771562388.0
+    },
+    {
         "title_fa": "ایران پیشنهادهای سرمایه‌گذاری را به‌عنوان راه خروج از دیپلماسی کشتی‌های جنگی ترامپ مطرح می‌کند",
         "title_en": "Iran dangles investment proposals as off-ramp from Trump's gunboat diplomacy",
         "summary": [
@@ -5356,22 +5374,5 @@
         "url": "https://en.mehrnews.com/news/241774/Iran-s-steel-exports-surpass-6-5-billion-in-10-months-ISPA",
         "image": null,
         "timestamp": 1771065960.0
-    },
-    {
-        "title_fa": "معاون رییس‌جمهور: انرژی هسته‌ای در صف مقدم پیشرفت ایران",
-        "title_en": "VP: Nuclear energy at forefront of Iran’s progress",
-        "summary": [
-            "معاون رییس‌جمهور اعلام کرده است که انرژی هسته‌ای در رأس و «صف مقدم» روند پیشرفت کشور قرار دارد.",
-            "این گزاره بخشی از روایت رسمی است که دستاوردهای هسته‌ای را برجسته می‌کند؛ در خبری از شفاف‌سازی درباره هزینه‌ها، اولویت‌بندی منابع یا درباره اینکه این «پیشرفت» چگونه به زندگی روزمره مردم مرتبط می‌شود وجود ندارد.",
-            "تأکید دولت بر هسته‌ای بودن پیشرفت احتمالاً برای مشروعیت‌بخشی به برنامه‌های بلندمدت و پرهزینه به‌کار می‌رود و می‌تواند کمبودهای معیشتی و نارضایتی‌های داخلی را که مردم با آن روبه‌رو هستند مخفی یا کم‌اهمیت جلوه دهد."
-        ],
-        "impact": "این پیام تبلیغاتی با هدف تقویت مشروعیتِ برنامه‌های پرهزینه و کم‌شفاف است و می‌تواند کمبودها و اولویت‌های نادرست را از چشم افکار عمومی مخفی کند.",
-        "tag": "تبلیغات",
-        "urgency": 2,
-        "sentiment": -0.7,
-        "source": "IRNA English",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEVJNmhCRWJ0QldENDNkdFdOLVA4LTlYTUQ3cDZGbjBWMkZHcXRjSDM0Tk16aVU1aDNvSGdUYlN2Si12Z01iQ3RGc2JQb1QxVWhjMTR2aWc0WXU2QmZ6TW5aaUFpTmc0bEM1SUYzS05JSVlXNnhDQ0t0TDktTm1TUm03b2wzWVQyZWfSAUdBVV95cUxPV19iUWVIeEtDRGZZMU00RjNqYlZMT2ZVWldPYjFlaExjWEYwaHBQSXp5TTRONmF3YmZBcDFZOUZ4akdMM24tOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771065426.0
     }
 ]
