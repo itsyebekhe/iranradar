@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ می‌گوید حمله نظامی محدود به ایران را بررسی می‌کند",
+        "title_en": "Trump says he is considering limited military strike on Iran",
+        "summary": [
+            "اظهارنظر دونالد ترامپ، رئیس‌جمهور آمریکا، درباره بررسی حمله نظامی محدود به ایران ریسک رویارویی مستقیم نظامی و افزایش تنش منطقه‌ای را برجسته می‌کند.",
+            "تهدید به حمله نظامی می‌تواند فشار خارجی و احتمال اقدامات تحریمی یا نظامی بیشتر علیه حکومت ایران را تشدید کند و ساختارهای اقتصادی و امنیتی رژیم را آسیب‌پذیرتر سازد.",
+            "بدون اغراق: حکومت ممکن است از تهدید خارجی برای سرکوب یا بسیج داخلی بهره‌برداری کند، و از سوی دیگر تشدید درگیری‌ها می‌تواند فشار اقتصادی و بی‌ثباتی داخلی را افزایش دهد."
+        ],
+        "impact": "تهدید به حمله محدود آمریکا احتمال تشدید درگیری نظامی منطقه‌ای و افزایش فشارهای بین‌المللی و داخلی بر حکومت ایران را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/trump-says-he-is-considering-limited-military-strike-on-iran/ar-AA1WLyTI",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-he-is-considering-limited-military-strike-on-iran/ar-AA1WLyTI",
+        "image": null,
+        "timestamp": 1771627125.0
+    },
+    {
         "title_fa": "ایالات متحده برای جنگ قابل‌توجه با ایران آماده نیست",
         "title_en": "The U.S. is Unprepared for a Significant War with Iran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMdHJLZDZLYkIwVGRRRUw5XzViTGlRdUxDRTZNSE1IaWFPRUlSVVFWYmVBeUR4TTZRZ3RLRzhCVU5zOXZJRlYtZW9RdDNEcEpvWkE",
         "image": null,
         "timestamp": 1771140229.0
-    },
-    {
-        "title_fa": "ایران در صورت مطرح بودن تحریم‌ها حاضر به مصالحه هسته‌ای است: «توپ در زمین آمریکا»",
-        "title_en": "Iran will consider nuclear compromises if sanctions on table: ‘Ball is in America’s court’",
-        "summary": [
-            "تهران اعلام کرده آماده بررسی مصالحه در موضوع هسته‌ای است اگر موضوع تحریم‌ها در میز مذاکره مطرح باشد.",
-            "بیانیه با عبارت «توپ در زمین آمریکا» نشان می‌دهد تهران منتظر اقدام واشنگتن برای پیشبرد گفتگوهاست و قصد دارد امتیازدهی را مشروط کند.",
-            "این موضع‌گیری منعکس‌کننده تأثیر فشار تحریمی است که به‌عنوان اهرمی برای واداشتن رژیم به امتیازدهی عمل می‌کند و نشانه‌ای از آسیب‌پذیری و نیاز تهران به کاهش تنش است."
-        ],
-        "impact": "قابل‌پذیرش بودن مصالحه مشروط به تحریم‌ها نشان می‌دهد فشار تحریم‌ها ابزار مهمی است که توان مانور سیاسی رژیم را تضعیف و فضای عمل برای خواسته‌های مردمی و تغییر را تا حدی باز می‌کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHVUZEo2UEJ1QzBjRnlZZ2dHajNiTVpsYkNfQjVqc2VPR20zSzdrWGl4SExNdU1laDFOTEFRVUFVQ1ZDZzllMDdnVTl1OS1IOFZIOXVYNkhZSXY3UEJ6ckNIWWEzRjhFbXBmTkI1RVZ2S1FuSjJiNUtiV0ljd0JzN1FhT0hwRzdxUF92N1ZZaVNuWXNsQkZUWkpacTY0OHZwOXJnWnZnNjB0Z3hVM25VR0RUSi1HVnpBYjFpTWhEaDIyWVczUDVMWmRxSnI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHVUZEo2UEJ1QzBjRnlZZ2dHajNiTVpsYkNfQjVqc2VPR20zSzdrWGl4SExNdU1laDFOTEFRVUFVQ1ZDZzllMDdnVTl1OS1IOFZIOXVYNkhZSXY3UEJ6ckNIWWEzRjhFbXBmTkI1RVZ2S1FuSjJiNUtiV0ljd0JzN1FhT0hwRzdxUF92N1ZZaVNuWXNsQkZUWkpacTY0OHZwOXJnWnZnNjB0Z3hVM25VR0RUSi1HVnpBYjFpTWhEaDIyWVczUDVMWmRxSnI",
-        "image": null,
-        "timestamp": 1771139510.0
     }
 ]
