@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چرا اسرائیلی‌ها در برابر تهدید جنگ آمریکا-ایران هراسان نیستند",
+        "title_en": "Why Israelis are not panicking amid threat of US-Iran war",
+        "summary": [
+            "متن کامل گزارش در دسترس نیست؛ تیتر نشان می‌دهد که گزارش درباره دلایل عدم هراس عمومی در اسرائیل در مواجهه با تهدید جنگ آمریکا-ایران است.",
+            "بدون دسترسی به محتوای مقاله نمی‌توان ادعاهای خاصی را تأیید کرد؛ احتمالاً گزارش عواملی مانند بازدارندگی نظامی، آماده‌سازی داخلی یا مدیریت روانی بحران را بررسی کرده است، اما اینها حدس‌های مبتنی بر تیتر هستند نه شواهد مقاله.",
+            "از منظر تحلیلگرانه، عدم هراس اسرائیلی‌ها نباید به عنوان کاهش ریسک برای تهران تلقی شود؛ هر تشدید نظامی بالقوه می‌تواند فشار خارجی و اقتصادی بر حکومت ایران را افزایش دهد و پیامدهای داخلی محسوسی به دنبال داشته باشد."
+        ],
+        "impact": "اگر تهدید به جنگ تشدید شود، فشارهای بین‌المللی و تحریم‌ها ساختارهای اقتصادی و سیاسی حکومت ایران را بیش از پیش تضعیف و نارضایتی داخلی را تشدید خواهد کرد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzS0huQkVpeEotSWh6MVd5R3RQbkhqODQ5QTE0REVybGZBS1I2b3R0YnpyQU14WlhHRDhrdGNfQThUd0xNbnpQSlpJNXNVV205UmNlOUppSUJZN0dt?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzS0huQkVpeEotSWh6MVd5R3RQbkhqODQ5QTE0REVybGZBS1I2b3R0YnpyQU14WlhHRDhrdGNfQThUd0xNbnpQSlpJNXNVV205UmNlOUppSUJZN0dt",
+        "image": null,
+        "timestamp": 1771569210.0
+    },
+    {
         "title_fa": "نیروهای نظامی «بسیار بااهمیت» آمریکا در اطراف ایران",
         "title_en": "The ‘incredibly significant’ US military forces surrounding Iran",
         "summary": [
@@ -88,6 +106,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNk5pQ1V4RV9vTlRuNTlVWF9RT3Q0cEtVT1N2Tkl6T3FCdTNoa0g0V1lmR2otcVV3WGRIb2FJZU94RjBMSjg5R3dwUmhycGVOcXE1MDNjVG9ZVmtPVlNPWHd6T1daTkdzblVuRkhSZDRvYlNiNXUtbnZHWGNKcHJQR01BWG9wSExoY1ZqSU8wRnpmTXlUa1hLa3NRZzVDMTdQRWdqeHZWMA",
         "image": null,
         "timestamp": 1771542139.0
+    },
+    {
+        "title_fa": "ترامپ ظرف ۱۰ تا ۱۵ روز درباره حمله به ایران تصمیم می‌گیرد",
+        "title_en": "Trump will decide in next 10 to 15 days if US will strike Iran",
+        "summary": [
+            "رئیس‌جمهور آمریکا اعلام کرد ظرف ۱۰ تا ۱۵ روز تصمیم می‌گیرد که آیا به ایران حمله کند و هشدار داد در صورت عدم توافق «اتفاقات بدی» رخ خواهد داد.",
+            "واشنگتن نیروی دریایی و هوایی اضافی از جمله دو ناو هواپیمابر به منطقه اعزام کرده تا فشار بر تهران را افزایش دهد و گفت‌وگوهایی از جمله در ژنو انجام شده است.",
+            "دولت ترامپ خواستار محدودیت‌های چشمگیر در برنامه هسته‌ای ایران شده؛ تهران گفته حاضر است برنامهٔ صلح‌آمیز هسته‌ای را در ازای رفع تحریم‌ها محدود کند اما حاضر به مذاکره درباره مسائل دیگری مانند زرادخانه موشکی نیست."
+        ],
+        "impact": "تهدید مستقیم به حمله و تشدید فشار نظامی-اقتصادی آمریکا، اهرم تحریم‌ها را تقویت می‌کند و به تضعیف ساختاری اقتصاد و مشروعیت سیاسی رژیم می‌انجامد که خطر بروز نارضایتی‌های داخلی را افزایش می‌دهد.",
+        "tag": "تهدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-says-decide-next-10-174337358.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-says-decide-next-10-174337358.html",
+        "image": "http://www.bing.com/th?id=OVFT.2odD18SAY5uyhIoufmZALy&pid=News",
+        "timestamp": 1771540680.0
     },
     {
         "title_fa": "ظاهراً دوباره در آستانه بمباران ایران هستیم",
@@ -5341,39 +5377,5 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpLWhUUm5TQ0JJTTZ5WXgyXy1qcWhINzRfMG10U0wwTWRPMzFmZWNQUi1ka1hMc0FwVEJwZXNkY0pmV3NBVDN1bE5oY1pIUmpiTmE5a2N5VWNyMWxrcUkyTUxmUVFhNmQyTTRUdVV2TkFKQktaT21HMw?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771070222.0
-    },
-    {
-        "title_fa": "کنفرانس مونیخ: آمریکا و چین به مسئله هسته‌ای ایران پرداختند",
-        "title_en": "Munich Conference: U.S. and China Address Iran’s Nuclear Issue -",
-        "summary": [
-            "در کنفرانس مونیخ، نمایندگان آمریکا و چین درباره برنامه هسته‌ای ایران به بحث پرداختند.",
-            "این نشست نشان می‌دهد مسئله هسته‌ای ایران همچنان در دستورکار دیپلماسی بین‌القدرت‌ها قرار دارد و تلاش‌هایی برای مدیریت یا مهار آن دنبال می‌شود.",
-            "حضور چین در مباحث مرتبط یادآور نقشی است که پکن به‌طور معمول در حمایت دیپلماتیک و اقتصادی از جمهوری اسلامی ایفا می‌کند و می‌تواند مانع فشار قاطع بین‌المللی علیه رژیم شود."
-        ],
-        "impact": "اظهارنظرهای همزمان واشنگتن و پکن نشان می‌دهد جامعه بین‌المللی به موضوع هسته‌ای ایران توجه دارد، اما حمایت و مداخله چین احتمالاً از فشار مؤثر بر رژیم جلوگیری می‌کند و این امر وضع معیشتی و سیاسی مردم ایران را بیش از پیش شکننده نگه می‌دارد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNzQxRmFWQTNVSF8yNllZaTVYbnRBRXQzcmFORzlyYmpXUVdUUWJiTm9pYUR3SHliVXFXbFZjMkx5LTkzQkFfdWMtVC1wYlhKbkE4QllsenB2aVJRVjF5c3c4NUszOU5UMng5ZWVVemNfSzRpS1djQzhwbzVKWk80T25GVm5ZZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771069623.0
-    },
-    {
-        "title_fa": "ویدئو | تحریم‌های آمریکا علیه ایران | اعزام ناو هواپیمابر یو‌اس‌اس جرالد آر. فورد به خاورمیانه در پی تشدید تنش‌ها",
-        "title_en": "Video | US Sanctions On Iran | US To Deploy USS Gerald R. Ford To Middle East As Iran Tensions Escalate",
-        "summary": [
-            "آمریکا هم‌زمان با اعلام تحریم‌هایی علیه ایران ناو هواپیمابر یو‌اس‌اس جرالد آر. فورد را به منطقه خاورمیانه اعزام کرده است.",
-            "این ترکیب فشار اقتصادی و حضور نظامی نشان‌دهنده افزایش فشار و تلاش برای بازدارندگی یا اعمال محدودیت بر توان عملیاتی تهران است؛ هم‌زمان خطر تشدید برخورد نظامی وجود دارد.",
-            "افزایش فشار خارجی و نمایان‌تر شدن هزینه‌های بین‌المللی حکومت می‌تواند در تضعیف کنترل رژیم نقش داشته باشد و فضای سیاسی را برای مقاومت‌های مدنی و مطالبات آزادی‌خواهانه در داخل ایران بازتر کند."
-        ],
-        "impact": "اعزام ناو و تحریم‌ها فشار بین‌المللی را بر رژیم افزایش می‌دهد و می‌تواند به تضعیف کنترل حکومت و تقویت امکان تأثیرگذاری اعتراضات داخلی کمک کند.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "NDTV",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHlNSVd4Q25kVV9ldUFhUFl1bnhhd0NuZzR1RWhRdnZjUXpOVmM2REVmNDBpM1dJb1U3TW5nOFpUQ0U2RHh6QmNFQUltczF1UHl4WVdKYWxnNlZrWHpaamVreXZUZE9sOFJCVUNxa3lLZ1c4Y29KTXFtVzdfejJsM1ptUjd2NUtpaHJhUzNScWpEVi1mNWlEQ3Q4bkF6VDhYTmFSTHBoY2pIWGdTcElLVDdScllkYy11RXZ0QjVVRzBpUDNZZHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771066558.0
     }
 ]
