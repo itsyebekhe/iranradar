@@ -18,6 +18,24 @@
         "timestamp": 1771624326.0
     },
     {
+        "title_fa": "آمریکا و ایران در مسیر نزاع نظامی؛ تقویت نیروها گفت‌وگوها را تحت‌الشعاع قرار داد",
+        "title_en": "US and Iran slide towards conflict as military buildup eclipses talks",
+        "summary": [
+            "امید به راه‌حل دیپلماتیک در مناقشه هسته‌ای تهران در حال فروپاشی است: منابع رسمی دو طرف و دیپلمات‌های خلیج و اروپا همگی از پیشی‌گرفتن تحرکات نظامی بر مذاکرات خبر می‌دهند.",
+            "فشار خارجی و بن‌بست دیپلماتیک ساختارهای حکومتی ایران را تضعیف می‌کند: ادامه تقابل با آمریکا هزینه‌های اقتصادی و سیاسی را افزایش می‌دهد و ظرفیت پاسخ‌گویی حکمرانی را کاهش می‌دهد.",
+            "خطر تسری و محاسبهٔ غلط بالا رفته است: کاهش کانال‌های دیپلماتیک قدرت نفوذ بازیگران نظامی و منطقه‌ای را بالا برده و شانس برخورد مستقیم یا گسترش تنش در منطقه را افزایش می‌دهد."
+        ],
+        "impact": "افزایش تنش نظامی چشم‌انداز هرگونه راه‌حل دیپلماتیک را به شدت تضعیف می‌کند و احتمال درگیری مستقیم در منطقه را به طور قابل‌توجهی افزایش می‌دهد.",
+        "tag": "تصاعد",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/us-iran-slide-towards-conflict-military-buildup-eclipses-talks-2026-02-20/",
+        "clean_url": "https://www.reuters.com/world/middle-east/us-iran-slide-towards-conflict-military-buildup-eclipses-talks-2026-02-20",
+        "image": null,
+        "timestamp": 1771622940.0
+    },
+    {
         "title_fa": "برنامه هسته‌ای ایران تا چه اندازه پیشرفته است؟ آنچه می‌دانیم",
         "title_en": "How advanced is Iran's nuclear program? Here's what we know.",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHVUZEo2UEJ1QzBjRnlZZ2dHajNiTVpsYkNfQjVqc2VPR20zSzdrWGl4SExNdU1laDFOTEFRVUFVQ1ZDZzllMDdnVTl1OS1IOFZIOXVYNkhZSXY3UEJ6ckNIWWEzRjhFbXBmTkI1RVZ2S1FuSjJiNUtiV0ljd0JzN1FhT0hwRzdxUF92N1ZZaVNuWXNsQkZUWkpacTY0OHZwOXJnWnZnNjB0Z3hVM25VR0RUSi1HVnpBYjFpTWhEaDIyWVczUDVMWmRxSnI",
         "image": null,
         "timestamp": 1771139510.0
-    },
-    {
-        "title_fa": "تجدید فهرست سیاه FATF برای ایران و فشار بیشتر بر نهادهای مالی و رمزارزها",
-        "title_en": "Iran seeks to get out of FATF blacklist amid domestic political divisions",
-        "summary": [
-            "گروه اقدام مالی (FATF) بار دیگر ایران را در فهرست سیاه نگه داشت و دامنه اقدامات را به ارائه‌دهندگان خدمات دارایی‌های مجازی (VASPs) و رمزارزها گسترش داد؛ از جمله توصیه به جلوگیری از ایجاد دفاتر نمایندگی و محدود کردن روابط بانکداری مربوطه.",
-            "واحد اطلاعات مالی وزارت اقتصاد ایران اعلام کرد که با وجود «۲۰ سال مانع‌تراشیِ» مخالفان داخلی، تلاش‌ها برای خروج از فهرست ادامه خواهد یافت؛ موضوعی که شکاف‌ها و اختلافات سیاسی داخلی را برجسته می‌سازد.",
-            "قرار گرفتن ایران در کنار کره‌شمالی و میانمار، نشان‌دهنده انزوای بین‌المللی و تشدید محدودیت‌های مالی است؛ این فشارها توان عملیاتی رژیم را کاهش می‌دهد اما می‌تواند هم‌زمان معیشت مردم و ارسال کمک‌های بشردوستانه را هم در معرض ریسک قرار دهد."
-        ],
-        "impact": "تشدید فهرست سیاه FATF بار سیاسی و مالی بر حکومت را افزایش می‌دهد و در عین تضعیف توان رژیم، زمینه فشارهای بین‌المللی را برای پیش‌برد مطالبات مردم فراهم می‌کند، هرچند خطر آسیب اقتصادی به شهروندان نیز جدی است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": 0.3,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions",
-        "clean_url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions",
-        "image": null,
-        "timestamp": 1771137540.0
     }
 ]
