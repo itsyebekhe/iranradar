@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ هنوز ایران را بمباران نکرده؛ لابد این نظرسنجی‌ها را می‌خواند",
+        "title_en": "Trump hasn't bombed Iran yet. He must be reading these polls.",
+        "summary": [
+            "گزارش اعلام می‌کند که دونالد ترامپ تا کنون اقدام نظامی مستقیم علیه ایران انجام نداده و نویسنده احتمال می‌دهد که نظرسنجی‌های داخلی آمریکا تصمیم‌گیری را محدود کرده است.",
+            "معنا و پیامد استراتژیک: تعویق در حمله نظامی نشان می‌دهد فشار مستقیم نظامی فعلاً متوقف مانده، اما این توقف به معنای پایان فشارهای ساختاری مانند تحریم‌ها یا انزوای دیپلماتیک علیه رژیم نیست.",
+            "ابعاد داخلی: اتکا به احساسات و نظرسنجی‌های آمریکایی برای تصمیم‌گیری نظامی برجسته است؛ این محدودیت سیاست خارجی فرصت‌هایی برای اپوزیسیون فراهم می‌کند اما نشانه‌ای از اصلاح یا بهبود عملکرد حکومت نیست."
+        ],
+        "impact": "تعویق در عملیات نظامی، پنجره‌ای برای فشار سیاسی و سازماندهی اپوزیسیون ایجاد می‌کند و هم‌زمان نشانه‌ای از آسیب‌پذیری رژیم در برابر فشارهای خارجی و داخلی است.",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMzNNVUxYQUxzYWw2WG4wOFRWbjRoNW9lVUZMcGtrcWVsM1RLR2FNYlpkczhfWmo4c3pVSGphNWRuTmtjeS1jSzVJUHlyM2NIRHRHaDdrZ0Jhc1lFa3BEOWxRWGg5Nm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMzNNVUxYQUxzYWw2WG4wOFRWbjRoNW9lVUZMcGtrcWVsM1RLR2FNYlpkczhfWmo4c3pVSGphNWRuTmtjeS1jSzVJUHlyM2NIRHRHaDdrZ0Jhc1lFa3BEOWxRWGg5Nm8",
+        "image": null,
+        "timestamp": 1771574315.0
+    },
+    {
         "title_fa": "چرا اسرائیلی‌ها در برابر تهدید جنگ آمریکا-ایران هراسان نیستند",
         "title_en": "Why Israelis are not panicking amid threat of US-Iran war",
         "summary": [
@@ -5361,22 +5379,5 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaER6Y253dGE2bEF3cG9EVmhLTXlUQUlfVDZSdEZzLTF5cWtjREZyUTJxem1vU3ZnR090QWswRHNqWFFtZE1Oc2ZxS2djQ2xfWGxGa1JHTkZxenlncVR1ampNYVlYdVFuREZLdzB6eERaZGw1cm1zVkZTYWdkRV9veUdBX0ZwSWw4cnBldUFuczBfaFBVODBSLUlta0lhU0l3RTJBNGgwblhVdzUzbTQ1cFprblE?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771072412.0
-    },
-    {
-        "title_fa": "تاریخچه آمریکا در تغییر رژیم ایران: یک چشم‌انداز دیرینه؟",
-        "title_en": "America’s History with Regime Change in Iran: A Longstanding Vision?",
-        "summary": [
-            "گزارش/عنوان نشان می‌دهد تمایل و دخالت‌های آمریکا در زمینه تغییر رژیم در ایران سابقه‌ای طولانی دارد — از کودتای ۱۹۵۳ تا سیاست‌های فشار و نفوذ سیاسی معاصر.",
-            "این سابقه از یک سو مشروعیت رژیم را تضعیف کرده و شکاف‌هایی ایجاد کرده که اپوزیسیون می‌تواند برای پیشبرد مطالبات آزادی‌خواهانه مردم از آن بهره ببرد.",
-            "از سوی دیگر مداخله خارجی بهانه‌ای برای سرکوب بیشتر توسط تهران فراهم می‌آورد، بنابراین هم فرصت‌زا و هم مخاطره‌آمیز برای جامعه ایرانی است."
-        ],
-        "impact": "افشای یا تکرار این تاریخچه باعث تشدید انزوای بین‌المللی رژیم و تقویت فضا و ظرفیت سازمان‌یابی مخالفان داخلی می‌شود، اما ریسک افزایش واکنش‌های سرکوبگرانه حکومت را نیز در پی دارد.",
-        "tag": "تغییررژیم",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUC0zbDNwVDZocGNjZWNxTVlxS1pSNlU1MTc1a0ZzUjVrUGczN2k0SFJyRTY2bTRXVzUteF9CV3JBc0lTRVV4NHlSSDVFOVdnckxFTHQzeGhhemRYSVluTVl0Nm11QmZNbndLaEpER0pZZVc2c1F2NGtRenJKaXdaWEtNYzZlaS1iV3pkNU1jQm9jLWs3bVHSAZQBQVVfeXFMTl84TklfWDVVR2xuZDEzYWZhQ3FCNWxSUklpN1QyODVOOERYeFlUaEpFLXZHQVBSMUxPRkdVYnpzVXoxQUNpcU9uQ0FFY0Vlb0hyTThFdXI1MTNsczlIZ1VRWlFLSlczOFQwajFnTEpwWFpNNlhYQms5Z1NFMkVzZVFtbncxMlQ4T2g3T0tHQ0QwRDZneQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771070760.0
     }
 ]
