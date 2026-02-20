@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "برنامه هسته‌ای ایران تا چه اندازه پیشرفته است؟ آنچه می‌دانیم",
+        "title_en": "How advanced is Iran's nuclear program? Here's what we know.",
+        "summary": [
+            "CBS News گزارشی با عنوان یادشده منتشر کرده که حاوی یک جمع‌بندی مطبوعاتی از وضعیت برنامه هسته‌ای است؛ با توجه به متن ارائه‌شده (تیتر) جزئیات فنی و زمان‌بندی‌های مشخص برای سنجش پیشرفت قابل تأیید نیست.",
+            "تمرکز رسانه‌ای و اطلاعاتی روی برنامه هسته‌ای معمولاً باعث افزایش فشار بین‌المللی و احتمال تشدید تحریم‌ها می‌شود؛ چنین فشارهایی ساختار اقتصادی رژیم را تضعیف و ظرفیت سیاستگذاری داخلی را محدود می‌کنند.",
+            "ادامه اولویت‌دادن به برنامه هسته‌ای در شرایط بحران اقتصادی و ناکارآمدی حکمرانی، سوخت نارضایتی عمومی را تأمین می‌کند و ریسک بی‌ثباتی داخلی و واکنش سرکوبگرانه را بالا می‌برد."
+        ],
+        "impact": "افزایش توجه بین‌المللی به وضعیت هسته‌ای در کنار فشارهای اقتصادی، ثبات رژیم را در کوتاه‌مدت کاهش می‌دهد و فضای سیاسی را به سمت سرکوب و کنترل بیشتر سوق خواهد داد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "CBS News",
+        "url": "https://www.msn.com/en-us/politics/government/how-advanced-is-iran-s-nuclear-program-here-s-what-we-know/ar-AA1WLnWO",
+        "clean_url": "https://www.msn.com/en-us/politics/government/how-advanced-is-iran-s-nuclear-program-here-s-what-we-know/ar-AA1WLnWO",
+        "image": null,
+        "timestamp": 1771621050.0
+    },
+    {
         "title_fa": "رژیم ایران دچار سرگیجه استراتژیک شده؛ گام بعدی اشتباه آخر ممکن است باشد",
         "title_en": "Iran’s regime is suffering from strategic vertigo. Its next misstep may be its last.",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajRlR25XWXJySDA4T2dnMThiYjlscnNvMEpmQVBaM2ZRYzM5RksxczFsWUp1QW42NHU0Qy1KWDhPcWttOVMwcVl2ZGh2OUhhUTJ1Q2tTUV83OF9BM2VqY194N2dSSkpfUlY3NFVfTExsdFJ6T2wxSjZuemVPQ0dlQWxLZmIyaXJRY0g1elppTm91c2lUc0pqYzZlQjR5Sm1GLTFUWEdlOUJDYjQ4VjhtNkdnamZiV240RTZtbDVvM3c5T3c",
         "image": null,
         "timestamp": 1771134579.0
-    },
-    {
-        "title_fa": "ولیعهد تبعیدی ایران از آمریکا خواست به‌طور نظامی اقدام کند: رژیم در آستانه فروپاشی است و مذاکرات بی‌فایده‌اند",
-        "title_en": "Iran’s exiled Crown Prince urges US military action with regime on brink of collapse, says negotiations futile",
-        "summary": [
-            "رضا پهلوی در حاشیه کنفرانس امنیتی مونیخ از رئیس‌جمهور آمریکا خواست علیه تهران حمله نظامی انجام دهد و تأکید کرد مذاکرات با حکومت «بی‌فایده» است چون معترضان همچنان روزانه جان می‌دهند.",
-            "او گفت رژیم علی خامنه‌ای نشانه‌های سقوط نشان می‌دهد و حمله نظامی آمریکا می‌تواند روند فروپاشی را سرعت ببخشد تا مردم بتوانند دوباره در خیابان‌ها حضور یابند و به سرنگونی کامل رژیم برسند.",
-            "په‌شاگری هشدار داد وقت را نباید صرف تلاش برای مذاکره با جمهوری اسلامی کرد؛ این اظهارات در حالی مطرح شد که مذاکرات آمریکا و تهران درباره برنامه هسته‌ای هنوز ادامه دارد."
-        ],
-        "impact": "فشار و تهدید به مداخله نظامی آمریکا، حتی اگر فوراً اجرا نشود، می‌تواند شکاف‌های داخلی رژیم را عمیق‌تر کند و به تحرک بیشتر جنبش مردمی و تضعیف اقتدار حاکمیت بینجامد.",
-        "tag": "مداخله",
-        "urgency": 9,
-        "sentiment": 0.7,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/02/14/world-news/irans-exiled-crown-prince-urges-us-military-action-with-regime-on-brink-of-collapse/",
-        "clean_url": "https://nypost.com/2026/02/14/world-news/irans-exiled-crown-prince-urges-us-military-action-with-regime-on-brink-of-collapse",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/02/121290972.jpg?quality=75&strip=all&w=1200",
-        "timestamp": 1771132995.46403
     }
 ]
