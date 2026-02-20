@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "نیروهای نظامی «بسیار بااهمیت» آمریکا در اطراف ایران",
+        "title_en": "The ‘incredibly significant’ US military forces surrounding Iran",
+        "summary": [
+            "فایننشال تایمز گزارش می‌دهد که آمریکا مجموعه‌ای قابل‌توجه از توان نظامی را پیرامون ایران مستقر کرده است؛ این اقدام نمایانگر افزایش فشار نظامی و بازدارندگی مستقیم است.",
+            "این تجمع نظامی می‌تواند ساختار قدرت رژیم را تضعیف کند: فضای دیپلماتیک و اقتصادی را محدود ساخته و احتمال تشدید فشارهای تحریمی و اختلال در تجارت و سرمایه‌گذاری را افزایش دهد.",
+            "در سطح داخلی، افزایش فشار خارجی احتمالاً ناکارآمدی مدیریتی و سرکوب را برجسته کرده و نارضایتی عمومی را تشدید می‌کند؛ این ترکیب ریسک بسط اعتراضات و بی‌ثباتی را بالا می‌برد."
+        ],
+        "impact": "حضور گسترده نیروهای آمریکایی اطراف ایران فشار ژئوپلیتیکی را افزایش می‌دهد و فضای تصمیم‌گیری رژیم را تنگ‌تر کرده، ریسک اشتباهات نظامی و واکنش‌های سرکوب‌گرانه داخلی را بالا می‌برد.",
+        "tag": "محاصره",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LY3R6RDRpXzdSSDJxeDR0UHBuMkVGZnpmZ2xQNmM1eWhidUVfUzQ4SVloaEV4NEcwNDRvYmVfekQ5eUxwT0hzVUNYZHRxUnl6aVRycGxSbjdvNHJNMWh1bzY3ZGpkZWdnc1JyYk5EeUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LY3R6RDRpXzdSSDJxeDR0UHBuMkVGZnpmZ2xQNmM1eWhidUVfUzQ4SVloaEV4NEcwNDRvYmVfekQ5eUxwT0hzVUNYZHRxUnl6aVRycGxSbjdvNHJNMWh1bzY3ZGpkZWdnc1JyYk5EeUQ",
+        "image": null,
+        "timestamp": 1771563645.0
+    },
+    {
         "title_fa": "استقرار نیروهای آمریکایی در خاورمیانه همزمان با متوقف شدن مذاکرات هسته‌ای ایران",
         "title_en": "U.S. amasses forces in Middle East as Iran nuclear talks stall",
         "summary": [
@@ -5357,22 +5375,5 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHlNSVd4Q25kVV9ldUFhUFl1bnhhd0NuZzR1RWhRdnZjUXpOVmM2REVmNDBpM1dJb1U3TW5nOFpUQ0U2RHh6QmNFQUltczF1UHl4WVdKYWxnNlZrWHpaamVreXZUZE9sOFJCVUNxa3lLZ1c4Y29KTXFtVzdfejJsM1ptUjd2NUtpaHJhUzNScWpEVi1mNWlEQ3Q4bkF6VDhYTmFSTHBoY2pIWGdTcElLVDdScllkYy11RXZ0QjVVRzBpUDNZZHc?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771066558.0
-    },
-    {
-        "title_fa": "صادرات فولاد ایران در ۱۰ ماه از ۶.۵ میلیارد دلار فراتر رفت: ایسپا",
-        "title_en": "Iran's steel exports surpass $6.5 billion in 10 months: ISPA",
-        "summary": [
-            "ایسپا گزارش می‌دهد که در ۱۰ ماه اول سال جاری خورشیدی صادرات محصولات فولادی و آهن ایران ۶.۵ میلیارد دلار بوده که نسبت به دوره مشابه پارسال ۲۲٪ رشد داشته است.",
-            "طبق همین گزارش، حدود ۲۰ میلیون تن گندله و کنسانتره آهن از کشور صادر شده که به‌ترتیب ۶۸٪ و ۲۸٪ رشد نشان می‌دهد و صادرات ورق فولادی حدود ۵۶۳ میلیون دلار بوده که ۱۳۲٪ افزایش یافته است.",
-            "رسانه دولتی این آمار را برجسته می‌کند اما واقعیت این است که رشد عمده در صادرات مواد خام (گندله و کنسانتره) رخ داده؛ نشانه‌ای از فقدان تمرکز روی تولید با ارزش‌افزوده داخلی، احتمال کاهش عرضه برای بازار داخل و استفاده تبلیغاتی حکومت برای پوشاندن ضعف‌های ساختاری اقتصادی است."
-        ],
-        "impact": "این آمار تبلیغاتی ممکن است دستاورد جلوه کند اما عملاً نشان‌دهنده ضعف در ایجاد ارزش‌افزوده، تهدید برای اشتغال و تامین بازار داخلی و ادامه سوءمدیریت اقتصادی رژیم است.",
-        "tag": "فولاد",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241774/Iran-s-steel-exports-surpass-6-5-billion-in-10-months-ISPA",
-        "image": null,
-        "timestamp": 1771065960.0
     }
 ]
