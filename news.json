@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ردیابی تجمع سریع نیروهای نظامی آمریکا در نزدیکی ایران",
+        "title_en": "Tracking the rapid US military build-up near Iran",
+        "summary": [
+            "ایالات متحده به‌سرعت نیروها و تجهیزات نظامی خود را در حوالی ایران افزایش داده؛ این تجمع سطح فشار نظامی مستقیم را بالا می‌برد و فضای عملیاتی را محدود می‌کند.",
+            "افزایش حضور نظامی آمریکایی ریسک محاسباتی و برخوردهای تصادفی در دریا و حریم هوایی را تشدید می‌کند و می‌تواند هزینه‌های فوری اقتصادی منطقه‌ای (حمل‌ونقل دریایی و بازارهای انرژی) را افزایش دهد.",
+            "فشار خارجی فزاینده به حکومت ابزار بسیج حول تهدید بیرونی می‌دهد اما در میانه‌مدت ضعف‌های مدیریتی و مشکلات اقتصادی را تشدید و امکان گسترش نارضایتی‌های داخلی را افزایش می‌دهد."
+        ],
+        "impact": "اثر فوری: تشدید فشار خارجی و افزایش احتمال برخورد نظامی، که همزمان شکنندگی اقتصادی و سیاسی داخلی را عمیق‌تر خواهد کرد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjR0T1FSbEg1RWZpLWxFUDdETkc5aXJGV1hIN1dFTzRLVnN1UkJMZ25CamRkSXB2LWxGcW1tYkpVRzBHZlZYcklRTWRZZzQtQVpIVW9RN0RhZ19iMmhuaHo0SEpfS1lobGp2NWhCUUlacmpYcVhOZ1NuOXBTQU1mdnZQX1dBQXBlRjBHLTRhR3VZYkVM0gGaAUFVX3lxTE1nNXh6T2htUnB1WFRzMlUyX3Z5SzZuc1I2eXg0YVNqanpITGxMR1d6QmxLMHp6ZlhjVzEwS2Job1lSQ3RwYkF3dWJxQnUtSWlLWFIzanZVRUw3MHZUZ2pydWdzMDYxRC1uNDl4M0xLUm9PZmpPaGIwNGwxQjhKOGl6ZXJPZ1N0ak1xcG1qX3hfNWViUG42b19odXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjR0T1FSbEg1RWZpLWxFUDdETkc5aXJGV1hIN1dFTzRLVnN1UkJMZ25CamRkSXB2LWxGcW1tYkpVRzBHZlZYcklRTWRZZzQtQVpIVW9RN0RhZ19iMmhuaHo0SEpfS1lobGp2NWhCUUlacmpYcVhOZ1NuOXBTQU1mdnZQX1dBQXBlRjBHLTRhR3VZYkVM0gGaAUFVX3lxTE1nNXh6T2htUnB1WFRzMlUyX3Z5SzZuc1I2eXg0YVNqanpITGxMR1d6QmxLMHp6ZlhjVzEwS2Job1lSQ3RwYkF3dWJxQnUtSWlLWFIzanZVRUw3MHZUZ2pydWdzMDYxRC1uNDl4M0xLUm9PZmpPaGIwNGwxQjhKOGl6ZXJPZ1N0ak1xcG1qX3hfNWViUG42b19odXc",
+        "image": null,
+        "timestamp": 1771580717.0
+    },
+    {
+        "title_fa": "نگاهی به دارایی‌های نظامی آمریکا در خاورمیانه",
+        "title_en": "A look at the US military assets in the Middle East",
+        "summary": [
+            "گزارش AP فهرستی از دارایی‌های نظامی آمریکا در منطقه ارائه می‌کند؛ شامل گروه‌های ضربتی ناوگان دریایی، هواگردها و بمب‌افکن‌های استراتژیک، سامانه‌های دفاع هوایی و حضور در پایگاه‌های کلیدی منطقه‌ای.",
+            "نمایش و طبقه‌بندی این دارایی‌ها اهداف بازدارندگی و حفاظت از مسیرهای دریایی و متحدان را دنبال می‌کند و همزمان فشار استراتژیک بر رژیم تهران را افزایش می‌دهد.",
+            "گزارش اشاره‌ای به وضعیت اعتراضات داخلی یا پیامدهای اقتصادی مستقیم نکرده؛ اما تمرکز بر قابلیت‌های نظامی نشان می‌دهد گزینه‌های فشار خارجی همراه با خطر افزایش تقابل نظامی بالا رفته است."
+        ],
+        "impact": "استقرار و نمایش این ظرفیت‌ها هزینه‌های بین‌المللی بر رژیم را افزایش می‌دهد و فضای اعمال تحریم و فشار را تنگ‌تر می‌کند، در کنار بالا بردن ریسک مسابقه نظامی و پاسخ‌های تلافی‌جویانه.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjB1UlBEQloyazBTVjBPbXRrRlNoaTVUREdtM0FfbEF2QUx1QkNqcUwxcVdVM3FTOG1VRUpPU2UycjhZajZIWTdpMUtHOTZ6UzRqejFiUXhBN0VxTFBnd3lpUTZQdGFTR3pkazRMd0EyYW5GWl9yeUhmeWtmZk1OckJ5bzRmRXVZcWhMUDNma2VMdm9BaE90STJqeW5pZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjB1UlBEQloyazBTVjBPbXRrRlNoaTVUREdtM0FfbEF2QUx1QkNqcUwxcVdVM3FTOG1VRUpPU2UycjhZajZIWTdpMUtHOTZ6UzRqejFiUXhBN0VxTFBnd3lpUTZQdGFTR3pkazRMd0EyYW5GWl9yeUhmeWtmZk1OckJ5bzRmRXVZcWhMUDNma2VMdm9BaE90STJqeW5pZw",
+        "image": null,
+        "timestamp": 1771580710.0
+    },
+    {
         "title_fa": "قیمت نفت به بالاترین سطح شش ماهه پس از هشدار ترامپ به ایران",
         "title_en": "Oil prices hit six-month highs after Trump warns Iran of 'bad things' if there's no deal",
         "summary": [
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGpBOU1DN0Jic3dtQ3JQODR4b3VlMGdIbmMyNHVRWEUzZzhwT25HSm9vQ1M5VTA0LUZkbEF5dDhVc1NUN0lkdU44Z0JQX1d2UGs2cDNoZGhXU3oxOXVMNmtHeGpBYnBvc2NYU0JQbUQ0OTE4QXJhY3phbEhyb2lyeUxsckV3UE1VeUlwMl9LeVZrZjZndmNVX1J3OTVONllBZWR1Szh4OU_SAa4BQVVfeXFMTUlmdFI1aHJTVXU5b3EwOG1VT2lBU1g1eHh3Q0Z2WTFTNlFDYkNsOWxkdG5TRWdrWHZxM0lTeUFGX0lJVFRySExOdE5Nd0Y2TjFNdWZ0U1FaQi11eWxVOElKUU1WVW9sUzdrcXJYTUpVVmZCVnBYU2FKcDRlbG0xcDNFZkxPUE4wa05UX1RJOGZra1g1VkRKY3FtSFE4c1ltbllhZXpRMnU1c3ZhUVJB",
         "image": null,
         "timestamp": 1771556162.0
+    },
+    {
+        "title_fa": "حمله آمریکا به ایران می‌تواند قیمت نفت را در زمان حساسی برای ترامپ به اوج برساند",
+        "title_en": "A US attack on Iran could send oil prices surging at precarious time for Trump",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، در حال بررسی حمله نظامی به ایران است و آمریکا در هفته‌های اخیر حضور نظامی در خاورمیانه را افزایش داده است.",
+            "قیمت نفت پس از تشدید تنش‌ها به شدت صعود کرده است: برنت ۷٪ افزایش و بالای ۷۰ دلار، و نفت آمریکا طی یک ماه گذشته حدود ۱۰ دلار رشد کرده است؛ این روند می‌تواند بازگشت کاهش قیمت بنزین را معکوس کند.",
+            "یک حمله یا تشدید درگیری می‌تواند صادرات و مسیرهای نفتی منطقه را مختل کند و فشار اقتصادی و سیاسی فوری ایجاد نماید — هنوز احتمال وقوع کامل جنگ کم ارزیابی می‌شود اما امکان‌پذیر است."
+        ],
+        "impact": "حمله احتمالی آمریکا می‌تواند شوک قیمتی نفتی فوری ایجاد کند که هم رفاه مردم منطقه و هم درآمدهای نفتی ایران را تحت فشار قرار داده و موقعیت سیاسی دونالد ترامپ و رقابت‌های انتخاباتی داخلی آمریکا را به‌هم بریزد.",
+        "tag": "نفت",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/02/20/business/iran-us-attack-oil-prices",
+        "clean_url": "https://www.cnn.com/2026/02/20/business/iran-us-attack-oil-prices",
+        "image": null,
+        "timestamp": 1771554600.0
     },
     {
         "title_fa": "معضل سیاست خارجی ترامپ در سایه تنش‌ها با ایران عیان شد",
@@ -5329,58 +5383,5 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5INDB1VnF5MVBYOGpQZVJtRWczV1Ntb2JWQ0s5TkR4RXlEYXNvTW5mMHVTVDBkTVVENDFKRlRVb2xBQW9wc0V5dU9FNFpvdUg1ajhRWWQxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771079927.0
-    },
-    {
-        "title_fa": "تهران در تیررسِ استراتژی دوگانهٔ اسرائیل و آمریکا",
-        "title_en": "Tehran in the crosshairs of Israeli-American dual strategy",
-        "summary": [
-            "تیتر نشان می‌دهد که واشنگتن و تل‌آویو یک استراتژی دوگانه را علیه تهران دنبال می‌کنند که تهران را هدف قرار داده است.",
-            "این فشار مشترک می‌تواند ترکیبی از ابزارهای دیپلماتیک، اطلاعاتی، اقتصادی و تهدیدهای نظامی را شامل شود و بر توان عملیاتی و سیاسی رژیم تأثیر بگذارد.",
-            "افزایش فشار خارجی، به‌جای تقویت نظام، می‌تواند نقصان‌ها و شکست‌های حکومتی را آشکارتر کند و فرصت‌هایی برای مقاومت و خواست‌های آزادی‌خواهانهٔ مردم ایجاد نماید."
-        ],
-        "impact": "استراتژی دوگانه آمریکا و اسرائیل تهران را تحت فشار سنگین قرار می‌دهد و در مجموع احتمالاً به تضعیف پایه‌های حکومت و تسهیل مسیر آزادی مردم کمک خواهد کرد.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": 0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MN1NiVWVjX3otNFB4dktxUDBNS1pOWDhsaVE1UEhrZ3dxeFhyOU5pbDg1YzhzSEl6VXdFNDNzd2xQR0FqNnBfZk9STGVkaFJDd3VubDA1aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771079850.0
-    },
-    {
-        "title_fa": "ترامپ از گفتگو با خامنه‌ای استقبال می‌کند؛ ایران علیرغم تهدید «تغییر رژیم» مقاومت می‌کند",
-        "title_en": "Trump open to Khamenei talks as Iran stands firm despite regime change threat",
-        "summary": [
-            "گزارش‌ها می‌گویند که دونالد ترامپ آماده است در صورت فراهم شدن فرصت با علی خامنه‌ای دیدار کند؛ این موضع در بستر تنش‌های جاری بین آمریکا و ایران بیان شده است.",
-            "این آمادگی برای مذاکره حتی با عالی‌ترین مقام نظامی-سیاسی ایران نشان‌دهنده تمایل آمریکا به استفاده از ابزارهای دیپلماتیک برای تاثیرگذاری است و نشانه‌ای از انزوای دیپلماتیک تهران به‌شمار می‌آید.",
-            "برای اپوزیسیون ملی‌گرا، چنین سیگنال‌هایی می‌تواند به‌عنوان اهرمی جهت افزایش فشار بر رژیم و تقویت امید در میان نیروهای خواهان تغییر تعبیر شود، البته نتیجه‌گیری‌های قطعی نیازمند شواهد بیشتر و اقدامات عملی است."
-        ],
-        "impact": "آمادگی آمریکا برای گفت‌وگو با خامنه‌ای می‌تواند به‌عنوان اهرمی برای افزایش فشار بر مشروعیت نظام عمل کند و فضای سیاسی داخل ایران را حساس‌تر کند، به‌شرط آنکه واشنگتن این وضعیت را به‌صورت استراتژیک دنبال کند.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "The Kenya Times on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/trump-open-to-khamenei-talks-as-iran-stands-firm-despite-regime-change-threat/ar-AA1WmIs7",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-open-to-khamenei-talks-as-iran-stands-firm-despite-regime-change-threat/ar-AA1WmIs7",
-        "image": null,
-        "timestamp": 1771079332.0
-    },
-    {
-        "title_fa": "اظهارنظر عباس عراقچی: کنفرانس امنیتی مونیخ «تماشاچی» خوانده شد در میانه تنش‌های هسته‌ای",
-        "title_en": "Iran’s foreign minister calls Munich Security Conference a ‘circus’ amid nuclear tensions",
-        "summary": [
-            "عباس عراقچی، وزیر امور خارجه ایران، کنفرانس امنیتی مونیخ را «سیرک» خواند و آن را به باد انتقاد گرفت.",
-            "او اروپایی‌ها را متهم کرد که در مذاکرات مرتبط با برنامه هسته‌ای تهران نفوذ و تاثیر خود را از دست داده‌اند.",
-            "اظهارنظر در بستر افزایش تنش‌های مرتبط با برنامه هسته‌ای ایران مطرح شده و پیامی هم به مخاطبان خارجی و هم داخلی دارد."
-        ],
-        "impact": "این ادبیات رسمی دو نقش موازی دارد: اول، تلاش برای تضعیف همزمان اعتبار میانجی‌گران اروپایی و افزایش اهرم مذاکراتی تهران با نشان دادن این‌که ایران گزینه‌های دیگری (روابط با روسیه، چین یا اقدامات یک‌جانبه) را لحاظ می‌کند؛ دوم، بازیابی تصویری مقاوم در برابر فشار خارجی برای مخاطب داخلی و جریان‌های تندرو. در کوتاه‌مدت واکنش‌ها احتمالا لفظی خواهد بود و توازن مذاکرات را مستقیماً تغییر نمی‌دهد، ولی در میان‌مدت می‌تواند اعتماد مذاکره‌کنندگان اروپایی را کاهش داده و روند باززنده‌سازی برجام یا توافق‌های جانبی را کند یا پیچیده کند. باید رصد کرد آیا تهران همزمان با این اظهارنظر اقدام عملی (افزایش غنی‌سازی، خروج ناظران، یا تغییر تیم مذاکره‌کننده) انجام می‌دهد که نشان‌دهنده انتقال از گزاره‌سازی به اقدام باشد.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/news/irans-foreign-minister-calls-munich-security-conference-circus-amid-nuclear-tensions",
-        "clean_url": "https://www.middleeasteye.net/news/irans-foreign-minister-calls-munich-security-conference-circus-amid-nuclear-tensions",
-        "image": null,
-        "timestamp": 1771075920.0
     }
 ]
