@@ -90,6 +90,24 @@
         "timestamp": 1771529159.0
     },
     {
+        "title_fa": "آمریکا ممکن است به ایران ضربه بزند؛ تهران چگونه آماده می‌شود",
+        "title_en": "The US could strike Iran. Here’s how Tehran is getting prepared",
+        "summary": [
+            "افزایش قابل توجه نیروهای آمریکایی در خاورمیانه و گزارش‌هایی درباره آمادگی برای حمله تا پایان هفته؛ مذاکرات غیرمستقیم ژنو بی‌نتیجه ماند و عباس عراقچی و جی.دی. ونس بر مواضع متضاد تاکید کردند.",
+            "تهران در ماه‌های اخیر تعمیر و بازسازی پایگاه‌ها و تاسیسات موشکی، احیای خطوط تولید موشک و پنهان‌سازی بخش‌هایی از برنامه هسته‌ای را دنبال کرده؛ رزمایش‌های مشترک با روسیه نقش حمایتی و پوششی برای توان نظامی ایران ایفا می‌کند.",
+            "در داخل، سرکوب اعتراضات تشدید شده و انتصاب کهنه‌سربازان جنگی به ساختارهای امنیتی نشان‌دهنده مدیریت ضعیف و فرسایش ظرفیت حکمرانی است؛ هزینه‌های بازسازی و فشار خارجی منابع اقتصادی را تحلیل می‌برد. "
+        ],
+        "impact": "یک حمله آمریکا، با هدف قرار دادن تاسیسات کلیدی و افزایش فشار بین‌المللی، ظرفیت بقا و مشروعیت رژیم را به طور معناداری تضعیف کرده و احتمال تشدید ناآرامی و سرکوب داخلی را افزایش می‌دهد.",
+        "tag": "آمادگی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/us-could-strike-iran-tehran-010034823.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-could-strike-iran-tehran-010034823.html",
+        "image": null,
+        "timestamp": 1771523820.0
+    },
+    {
         "title_fa": "آیا آمریکا به جنگ با ایران خواهد رفت؟",
         "title_en": "Will the US go to war with Iran?",
         "summary": [
@@ -304,6 +322,24 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/oil-prices-jump-and-gold-hits-5000-amid-iran-us-tensions/ar-AA1WG5A1",
         "image": null,
         "timestamp": 1771514498.0
+    },
+    {
+        "title_fa": "ترامپ: ایران ۱۰ روز برای توافق هسته‌ای فرصت دارد؛ در غیر این صورت اقدام نظامی",
+        "title_en": "Trump says Iran has 10 days to reach nuclear deal to avoid military action",
+        "summary": [
+            "اعلامیه ۱۰ روزه دونالد ترامپ یک تهدید مستقیم به مداخله نظامی است که احتمال تشدید سریع درگیری را بالا می‌برد و فضای دیپلماتیک منطقه را متشنج‌تر می‌کند.",
+            "هشدار نظامی همراه با فشار دیپلماتیک ساختارهای بقای رژیم را هدف می‌گیرد — تشدید فشار خارجی و تحریم‌ها می‌تواند کارکرد اقتصادی و منابع سیاسی را تضعیف کند و شکاف‌های درون حاکمیت را عمیق‌تر سازد.",
+            "از منظر داخلی، این ادعا می‌تواند باعث نوسان در بازارها، افزایش نگرانی سرمایه‌گذاران و تشدید نارضایتی عمومی شود؛ واکنش حکومت احتمالاً یا سرکوب بیشتر یا بسیج ملی خواهد بود که هر دو ثبات را کاهش می‌دهند."
+        ],
+        "impact": "این تهدید افزایش احتمال تشدید نظامی و فشار خارجی علیه رژیم را بالا می‌برد و به‌صورت مستقیم ثبات سیاسی-اقتصادی داخلی و شرایط منطقه‌ای را شکننده‌تر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 10,
+        "sentiment": -0.75,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/02/19/trump-iran-nuclear-deal-10-days/88766474007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/02/19/trump-iran-nuclear-deal-10-days/88766474007",
+        "image": null,
+        "timestamp": 1771514340.0
     },
     {
         "title_fa": "چه باید دانست؛ انتقال نیروی نظامی آمریکا به خاورمیانه و بن‌بست مذاکرات هسته‌ای ایران",
@@ -5335,39 +5371,5 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHpjN0kxQ1VmMkl5V0FGdWdSa2I2OFlEMWJQVTBEZW1UM2E1NkNRV09iUlo3TlJKWWpiRHh0UXptS1pLcFBXa19SXzFKcDdmZjNUWl93T3Rvc3lkcHhPd3pERUNzaGpsWjVxdlN5QkFyVTN1ODRvRHd4cFpwdUEwTXFOdXloOUo0UzRNa05sVVlLYlM4cnhZb3hEV3B4WnRNZTVLczljSnlGbVFoN2hLQWRNSTV2SW95Mnc?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771062840.0
-    },
-    {
-        "title_fa": "روبیو: سازمان ملل نقشی در حل اختلافات ندارد؛ نتوانست جنگ غزه را حل کند",
-        "title_en": "Rubio says UN plays ‘no role’ in resolving conflicts: ‘It could not solve the war in Gaza’",
-        "summary": [
-            "مارکو روبیو، سناتور آمریکایی، صراحتاً گفت سازمان ملل «نقشی در حل مناقشات» ندارد و به‌عنوان نمونه اعلام کرد این سازمان نتوانست جنگ غزه را خاتمه دهد.",
-            "این اظهارنظر بازتاب تردید ایالات متحده نسبت به کارآمدی سازوکارهای چندجانبه و تمایل به راه‌حل‌های فراملی یا فشار مستقیم است که فضایی برای اقدامات یک‌جانبه و ائتلافی ایجاد می‌کند.",
-            "برای ایران، تضعیف نقش سازمان ملل و بی‌اعتمادی به میانجی‌گری بین‌المللی ریسک‌های سیاست خارجی جمهوری اسلامی را افزایش می‌دهد و هم‌زمان فرصتی برای آشکار شدن ضعف‌های رژیم و تقویت مطالبات آزادی‌خواهانه مردم فراهم می‌آورد."
-        ],
-        "impact": "اظهارات روبیو نشان می‌دهد کاهش اعتبار سازوکارهای بین‌المللی می‌تواند به تضعیف پوشش دیپلماتیک رژیم ایران بینجامد و در نهایت فضای فشار و اعتراضات داخلی را بازتر کند.",
-        "tag": "دیپلماسی",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6bXNBbTNlNHFjWklKcGJQemhMYktNTFBFSG1nYmt2YlcybDlITXZybWh2M1FfMmxsTzc3bDNLeUV2ek1aN3Bqcmp6R2YybWdVODRGMUdlZ0Uxa1loeWVKQkE4YWhfZWPSAWxBVV95cUxQcFJqb3dZSjlJZl9rdXdjcnN1X3hBdS1jLWd0YnNxa3ByZ0ZHZGFIS1RnekxjUkUzSWlobFVXRWZHYThvRTZMMkVhV1YxN1VPX3lKZU54enY5d0lMRlhTdVlrUV9ON01JSDFYTXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771061840.0
-    },
-    {
-        "title_fa": "ایران تا سلاح هسته‌ای چقدر فاصله دارد؟",
-        "title_en": "How Close Is Iran to Nuclear Weapons?",
-        "summary": [
-            "مقاله به‌طور کلی ارزیابی‌های فنی درباره نزدیک‌شدن احتمالی ایران به قابلیت تولید سلاح هسته‌ای را بررسی می‌کند و شاخص‌هایی مانند نرخ غنی‌سازی، ذخایر اورانیوم و تاسیسات مرتبط را مدنظر قرار می‌دهد.",
-            "تحلیل سیاسی به پیامدهای منطقه‌ای و واکنش‌های بین‌المللی می‌پردازد؛ از جمله افزایش تنش با آمریکا و اسرائیل و احتمال تشدید تحریم‌ها و فشار دیپلماتیک.",
-            "مقاله تأکید می‌کند که هرگونه پیشرفت هسته‌ای بیشتر نه تنها تهدید منطقه‌ای است، بلکه انزوای بین‌المللی رژیم را افزایش داده و می‌تواند مشروعیت داخلی آن را تضعیف و خواست مردم برای تغییر را تقویت کند."
-        ],
-        "impact": "نگرانی بین‌المللی از نزدیک‌تر شدن ایران به ظرفیت‌های هسته‌ای، اهرمی برای فشار بیشتر و تضعیف اقتدار رژیم و تسهیل مسیر مردم به سوی آزادی است.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al Arabiya English",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmhqd2FUWmxWN0dDeDgxX1hmTWxZaW5sVktMLWNmb1gwMktkazVfeWRYdnVmX3pLN2ZBczJ6dVZReDdKMy1wMjhBMkJEdWlQLTBUT3lleWt1eGp3Y0kzaUtfdHU2NURtMjMtTm5kcS1ENHU5T1hFU3FuMmxvb19KWXcxZ1Z5eTVWUmtiY281VHBta0XSAZgBQVVfeXFMUDJZM2Q5dGh5YUp4M3p0MUVEeWw3aUZQRF9paEpJUnM3TTQ2cjc1Ml9zRzVNcGxQa3ZpYUJfME9XVlplLXdxQlVjLXpYbGdzazdDVUxiR0hSUFhaalBDNktFTTlVSC1PYmxqVmdTWkxhaUJZNWxZSlVXSlp1blQ4OGNVb2JxSUZ6X0c4aWQ1aFpzSEdvRHVteDE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771061312.0
     }
 ]
