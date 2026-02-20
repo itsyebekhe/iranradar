@@ -18,6 +18,24 @@
         "timestamp": 1771614815.0
     },
     {
+        "title_fa": "آنچه درباره تقویت دارایی‌های نظامی آمریکا در خاورمیانه می‌دانیم",
+        "title_en": "Here's what we know about the buildup of U.S. military assets in the Middle East",
+        "summary": [
+            "تیتر PBS نشان‌دهنده افزایش استقرار و تقویت دارایی‌های نظامی آمریکا در منطقه است؛ این روند ریسک تشدید تنش و احتمال برخوردهای محدود یا گسترده را افزایش می‌دهد.",
+            "فشار نظامی خارجی یک عامل کلان تضعیف ساختاری برای رژیم است: هزینه‌های دفاعی بالاتر می‌تواند توان اقتصادی حکومت را کاهش و نارضایتی عمومی را تشدید کند، به‌خصوص در صورت ناتوانی در تأمین معیشت و خدمات.",
+            "برای اپوزیسیون ملی‌گرا، این واقعیت هم فرصت نمایش شکست‌های حکمرانی رژیم است و هم هشدار درباره احتمال استفاده حکومت از بحران خارجی برای سرکوب داخلی و محدودسازی فضاهای اعتراضی."
+        ],
+        "impact": "افزایش حضور نظامی آمریکا در منطقه فشار نظامی و سیاسی بر تهران را تشدید می‌کند و احتمالاً بار اقتصادی و امنیتی را بر حکومت بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "PBS",
+        "url": "https://www.msn.com/en-us/news/other/tracking-the-rapid-us-military-build-up-near-iran/ar-AA1WJ2i0",
+        "clean_url": "https://www.msn.com/en-us/news/other/tracking-the-rapid-us-military-build-up-near-iran/ar-AA1WJ2i0",
+        "image": null,
+        "timestamp": 1771614725.0
+    },
+    {
         "title_fa": "چرا خاورمیانه مضطرب برای دور جدیدی از آشوب آماده می‌شود",
         "title_en": "Why a Nervous Mideast Braces for a New Round of Upheaval",
         "summary": [
@@ -322,6 +340,24 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/article-887299",
         "image": null,
         "timestamp": 1771586640.0
+    },
+    {
+        "title_fa": "آیا ترامپ یک‌بار گفته بود اوباما به‌خاطر ناتوانی در مذاکره جنگ با ایران را آغاز خواهد کرد؟",
+        "title_en": "Did Trump once say Obama would start war with Iran due to his inability to negotiate?",
+        "summary": [
+            "اسنُپس ادعای منسوب را بررسی کرده و نتیجه گرفته که نقل‌قول مستقیم و مستندی از ترامپ که صریحاً بگوید «اوباما به‌خاطر ناتوانی در مذاکره جنگ با ایران را آغاز خواهد کرد» وجود ندارد؛ ادعا نادرست یا اغراق‌آمیز توصیف شده است.",
+            "بخش اعظم انتشار این ادعا مبتنی بر برداشت‌های خارج از زمینه یا نقل‌قول‌های تحریف‌شده است؛ منابع اولیه مدعی در اسنُپس شواهد کافی ارائه نکرده‌اند.",
+            "حتی وقتی چنین ادعاهایی نادرست باشند، انتشار سریع و تکراری آن‌ها سوختِ گفتمان جنگ‌طلبانه را تامین می‌کند و محیط سیاسی-رسانه‌ای را به سمت توجیه فشار و اقدامات خصمانه علیه ایران سوق می‌دهد."
+        ],
+        "impact": "تکذیب اسنُپس رخداد را تصحیح می‌کند اما مانع از گسترش روایت‌های جنگ‌طلبانه و پیامدهای سیاسیِ آنها در عرصه رسانه‌ای و سیاست خارجی نمی‌شود.",
+        "tag": "تکذیب",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Snopes",
+        "url": "https://www.snopes.com/fact-check/video-trump-iran-obama/",
+        "clean_url": "https://www.snopes.com/fact-check/video-trump-iran-obama",
+        "image": null,
+        "timestamp": 1771586520.0
     },
     {
         "title_fa": "سناریوهای نفتی ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-says-potential-energy-mining-121837602.html",
         "image": null,
         "timestamp": 1771130400.0
-    },
-    {
-        "title_fa": "خاورمیانه و شمال آفریقا",
-        "title_en": "Middle East and north Africa",
-        "summary": [
-            "منبع فرستاده‌شده تنها عنوان بخش «خاورمیانه و شمال آفریقا» در گاردین است و متن خبر یا جزئیات بیشتری ضمیمه نشده است.",
-            "بدون متن یا تیتر مشخص امکان ارائه تحلیل واقع‌گرا و مرتبط با رخداد خاص وجود ندارد؛ از ایجاد ارتباطات بی‌اساس خودداری می‌کنم تا به دستورالعمل‌ها وفادار بمانم.",
-            "لطفاً خبر کامل یا مشخصات دقیق‌تر (مثلاً درگیری، تحریم، اعتراضات، یا بازیگران خارجی) را ارسال کنید تا تحلیل هدفمند و مطابق قوانین ارائه شود."
-        ],
-        "impact": "بدون دسترسی به متن خبر نمی‌توان تأثیر سیاسی یا امنیتی را ارزیابی کرد؛ متن کامل لازم است.",
-        "tag": "عمومی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ",
-        "image": null,
-        "timestamp": 1771128851.0
-    },
-    {
-        "title_fa": "ترامپ هشدار داد: در صورت عدم توافق هسته‌ای، پیامد «بسیار تراوماتیک» برای ایران خواهد داشت",
-        "title_en": "Trump warns of 'very traumatic' outcome for Iran if no nuclear deal is reached",
-        "summary": [
-            "آرشیو گزارش AOL: دونالد ترامپ اعلام کرده که اگر برای برنامه هسته‌ای ایران توافقی حاصل نشود، برای ایران «پیامد بسیار تراوماتیک» رخ خواهد داد.",
-            "این نوع هشدارهای سیاسی از سوی واشنگتن فشار خارجی بر حکومت ایران را افزایش می‌دهد؛ تهدیدها و گزینه‌های فشار ممکن است توان رژیم را در مدیریت بحران‌های داخلی تضعیف کند.",
-            "تشدید تنش بین‌المللی می‌تواند منجر به اعمال تحریم‌های بیشتر یا اقدامات فشار دیگر شود و برای اپوزیسیون و مردم داخل کشور فرصتی ایجاد کند تا ناکارآمدی و مشروعیت‌زدایی از رژیم را برجسته سازند."
-        ],
-        "impact": "اگر تهدیدها عملیاتی یا با تحریم‌های جدید همراه شود، این فشار خارجی می‌تواند اهرمی جدی علیه رژیم فراهم کند و راه را برای تقویت صدای مردم و اپوزیسیون بازتر کند.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": 0.35,
-        "source": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPVi1QQ2R1OHgzSEM0akx0NFRQX3hxYUZEcnVIQ2ZsamhNdDI1UlNqZmFlQUdIU1BGM01DNzJHVHN3eUhuaTdNLURnOVlPZEZtcllub2taQ0F5dFBDczlSb2tkUTQ5MDNPTkhlSS1rV0pBallBRTZsVVppYlNBeURSMWwxQUpNWUZ0NmpyRjIxR08wclZEUm84MzJ2QU9tYmhpck1aNG9RTlVjUG52V25KZnp6d3R1ME9VbmMwOEdhMVh1UnZsTzhsMk01N0VyVnNLQjE1SlVtTVBjN3lWeFRiYS1YY05fY0oxdlBDS1A1ZzJJOEJfNE05SjdRUlBhb1F3MENjMWFrZUJITXN1M09VdjJ0c0prV3QwXzU1bFV4WlpVcU90S1FZaXhFNjNONzBwZHhFdVlaVVRXN1gxOTgyMXhqRW5sM3RvVnhleDF6U2xKLTViV2lQbW9meHpGak00Y1VlMXlQSWoxWlExd044TC1Mem8wMUlHeHdxbGxFS19TczlqZER2WC10Ui05NmMzVVBiRWl4a3hsZmkyWV9tcHV4X3dFaDFSTUVjVXhnTG84bVE5V1ZFbnFPZTRJaWlERGlHbXFNSE83MW8wUTlmWS04Q0FDajBpdm5tMFpraUFXNXczSS1fM0RXT0tJUzJzTFhMQ29nUXhqZktKa3dHUWs3VlJyMzhDOVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPVi1QQ2R1OHgzSEM0akx0NFRQX3hxYUZEcnVIQ2ZsamhNdDI1UlNqZmFlQUdIU1BGM01DNzJHVHN3eUhuaTdNLURnOVlPZEZtcllub2taQ0F5dFBDczlSb2tkUTQ5MDNPTkhlSS1rV0pBallBRTZsVVppYlNBeURSMWwxQUpNWUZ0NmpyRjIxR08wclZEUm84MzJ2QU9tYmhpck1aNG9RTlVjUG52V25KZnp6d3R1ME9VbmMwOEdhMVh1UnZsTzhsMk01N0VyVnNLQjE1SlVtTVBjN3lWeFRiYS1YY05fY0oxdlBDS1A1ZzJJOEJfNE05SjdRUlBhb1F3MENjMWFrZUJITXN1M09VdjJ0c0prV3QwXzU1bFV4WlpVcU90S1FZaXhFNjNONzBwZHhFdVlaVVRXN1gxOTgyMXhqRW5sM3RvVnhleDF6U2xKLTViV2lQbW9meHpGak00Y1VlMXlQSWoxWlExd044TC1Mem8wMUlHeHdxbGxFS19TczlqZER2WC10Ui05NmMzVVBiRWl4a3hsZmkyWV9tcHV4X3dFaDFSTUVjVXhnTG84bVE5V1ZFbnFPZTRJaWlERGlHbXFNSE83MW8wUTlmWS04Q0FDajBpdm5tMFpraUFXNXczSS1fM0RXT0tJUzJzTFhMQ29nUXhqZktKa3dHUWs3VlJyMzhDOVE",
-        "image": null,
-        "timestamp": 1771125274.0
     }
 ]
