@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "در حالی که ترامپ جنگ دوم علیه ایران را بررسی می‌کند، ممکن است کشنده‌تر از جنگ اول باشد",
+        "title_en": "As Trump Considers Second Iran War, It Could Be Deadlier Than the First",
+        "summary": [
+            "نیویورک‌تایمز گزارش می‌دهد که ترامپ در حال بررسی امکان آغاز یک جنگ دوم علیه ایران است و هشدار داده می‌شود این درگیری می‌تواند از جنگ نخست مرگبارتر باشد.",
+            "در صورت اقدام نظامی، فشار خارجی و احتمال تحریم‌های تازه افزایش می‌یابد؛ این فشارها ساختارهای اقتصادی و ثبات سیاسی رژیم را بیش از پیش تضعیف خواهد کرد.",
+            "یک جنگ تازه احتمالاً نارضایتی‌های داخلی را تشدید و بحران‌های مدیریتی و اقتصادی را عمیق‌تر می‌کند؛ چنین سناریویی ریسک گسترش منطقه‌ای و افزایش تلفات غیرنظامیان را بالا می‌برد."
+        ],
+        "impact": "طرح یا اجرای جنگ از سوی آمریکا می‌تواند تنش منطقه‌ای را فورا تشدید، تلفات را افزایش و فشار سیاسی-اقتصادی بر رژیم حاکم را به شکل چشمگیری بالا ببرد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCaTNpWXFqSG1JUkNlQVRjTF9MTE5PbFBvUFJSNWVrOGxhaGswX0I2eEsyREx0Zmtrc3dsajBLV1pqV3hQTlNtcjdFLVVncjhjMTZDNkNfc0hMOHhOYUl1Tmd0el9DTzVtOG14NGFDR1AyRC1VMmJN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCaTNpWXFqSG1JUkNlQVRjTF9MTE5PbFBvUFJSNWVrOGxhaGswX0I2eEsyREx0Zmtrc3dsajBLV1pqV3hQTlNtcjdFLVVncjhjMTZDNkNfc0hMOHhOYUl1Tmd0el9DTzVtOG14NGFDR1AyRC1VMmJN",
+        "image": null,
+        "timestamp": 1771598500.0
+    },
+    {
         "title_fa": "ترامپ: ایران در صورت عدم حصول توافق با «نتیجه ناخوشایند» مواجه خواهد شد",
         "title_en": "Trump: Iran faces ‘unfortunate’ outcome if deal not reached",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0swY0IyM0dQd1hDX2t6b3VYTFhDeDZYcXF6blA1MjU5MFVqYzZKaC1qYWFIN0hRYnJaNjNUZkRtakFkX0FDd3lKenFXcFZXYmFDUnNrSTNxcVpuTXRXdTlIN3gyakVuVkZhcFAxN1lyTFI2aFFUMnVWN1pseFd6cHZkczhPQUpjLXduUURyZGR4T2JwQVJ3d01B",
         "image": null,
         "timestamp": 1771587900.0
+    },
+    {
+        "title_fa": "ترامپ تهدید به حمله می‌کند و به ایران «۱۰ تا ۱۵ روز» مهلت داد تا بر سر برنامه هسته‌ای توافق کند — زنده",
+        "title_en": "Trump weighs strikes as he gives Iran ‘10 to 15 days’ to agree to deal over nuclear program – live",
+        "summary": [
+            "رئیس‌جمهور آمریکا اعلام کرده گزینه حمله نظامی را بررسی می‌کند و به ایران ۱۰ تا ۱۵ روز مهلت داده تا برای توافق درباره برنامه هسته‌ای موافقت کند؛ این بیانیه زمان‌بندی و تهدید نظامی را مستقیماً وارد فرآیند مذاکرات کرده است.",
+            "ترکیب تهدید نظامی و ضرب‌الاجل زمانی فشار خارجی ساختاری بر توان بقا سیاسی رژیم را افزایش می‌دهد: فضای چانه‌زنی دیپلماتیک را تنگ کرده و امکان تشدید انزوای بین‌المللی و فشارهای اقتصادی را بالاتر می‌برد که ثبات داخلی را تضعیف می‌کند.",
+            "گزارش اشاره‌ای به اعتراضات داخلی یا داده‌های اقتصادی نکرد؛ با این حال، طبق سوابق، تشدید تهدیدات خارجی در شرایط ضعف مدیریتی می‌تواند نارضایتی عمومی و فشارهای معیشتی را تشدید کند — اما این نتیجه‌گیری فراتر از محتوای گزارش است."
+        ],
+        "impact": "این تهدید زمان‌بندی‌شده خطر تشدید تقابل نظامی را بالا می‌برد و فضای دیپلماتیک را به سمت بن‌بست سوق می‌دهد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdXRnWnVsQ2RPeEI4WDVhUTFqVE9wTW1RNG0tdFFQWFFHQl9reDN6d3pmUmFzeUc5S3lZNURZZGg2OGI2VGNDSWhnbHFTRGlkaHpPSmtBb0lCX29XNE1oS1dPaDVyMTJmaEgxaFA5dGNnbjFic1NSTFVDYjJrUzQyWW9Eb1NYVWxNcDRraHhQU2NxeF9oQTF3eUtrclFrcGRTSXY0eTViczA4V2FYakdmMUp4UzNfVnpLTWVYNFMtRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdXRnWnVsQ2RPeEI4WDVhUTFqVE9wTW1RNG0tdFFQWFFHQl9reDN6d3pmUmFzeUc5S3lZNURZZGg2OGI2VGNDSWhnbHFTRGlkaHpPSmtBb0lCX29XNE1oS1dPaDVyMTJmaEgxaFA5dGNnbjFic1NSTFVDYjJrUzQyWW9Eb1NYVWxNcDRraHhQU2NxeF9oQTF3eUtrclFrcGRTSXY0eTViczA4V2FYakdmMUp4UzNfVnpLTWVYNFMtRQ",
+        "image": null,
+        "timestamp": 1771587240.0
     },
     {
         "title_fa": "قیمت نفت به‌خاطر نگرانی از درگیری آمریکا و ایران افزایش یافت",
@@ -250,6 +286,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LY3R6RDRpXzdSSDJxeDR0UHBuMkVGZnpmZ2xQNmM1eWhidUVfUzQ4SVloaEV4NEcwNDRvYmVfekQ5eUxwT0hzVUNYZHRxUnl6aVRycGxSbjdvNHJNMWh1bzY3ZGpkZWdnc1JyYk5EeUQ",
         "image": null,
         "timestamp": 1771563645.0
+    },
+    {
+        "title_fa": "واکنش ایران به ضرب‌الاجل ۱۰ روزه ترامپ: «اتفاقات بد رخ خواهد داد»",
+        "title_en": "Iran Responds to Trump’s 10-Day Threat: ‘Bad Things Will Happen’",
+        "summary": [
+            "رئیس‌جمهور آمریکا ضرب‌الاجل ۱۰–۱۵ روزه‌ای برای ارائه پیش‌نویس توافق هسته‌ای به ایران تعیین کرد و هم‌زمان تهدید کرد در غیاب پاسخ «اتفاقات بد» رخ خواهد داد؛ ایران نیز پاسخی تلافی‌جویانه صادر کرده است.",
+            "این اعلام عمومی ضرب‌الاجل، فشار دیپلماتیک و احتمالا سیاسی-اقتصادی بر جمهوری اسلامی را تشدید می‌کند و فضا را برای اقدامات تهاجمی یا تحریمی بیشتر باز می‌گذارد.",
+            "در کوتاه‌مدت این نوع فشارها می‌تواند نوسان در بازارهای داخلی، افزایش ریسک سرمایه‌گذاری و تضعیف بیشتر مشروعیت حکومتی را شدت ببخشد؛ همچنین تهدید متقابل می‌تواند مسیر دیپلماسی را محدود و احتمال سوءمحاسبه نظامی را افزایش دهد."
+        ],
+        "impact": "این منازعه لفظیِ ضرب‌الاجل‌محور ریسک برافروختن بحران منطقه‌ای و تشدید فشارهای اقتصادی-سیاسی بر رژیم را بالا می‌برد و فضای سیاسی داخلی ایران را پرریسک‌تر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-us-trump-war-nuclear-program-limits-11554916",
+        "clean_url": "https://www.newsweek.com/iran-us-trump-war-nuclear-program-limits-11554916",
+        "image": null,
+        "timestamp": 1771563480.0
     },
     {
         "title_fa": "استقرار نیروهای آمریکایی در خاورمیانه همزمان با متوقف شدن مذاکرات هسته‌ای ایران",
@@ -5338,56 +5392,5 @@
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrRkhTT0h6WDEtV3p0bFJZYmNSdTZoM0V2MUVLLUJPX3Q5STcxM2QtX19hdHpsUXFjODVPQTVJaGp1S2hrMWppREx3bE81RFFFTndlMl9Vb3JWUXFlUnBWWg?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771091802.0
-    },
-    {
-        "title_fa": "تقابل ایران و آمریکا در حالی که دیاسپورا در خارج درخواست اقدام می‌کند",
-        "title_en": "Iran, US spar as diaspora organises rallies abroad calling for action",
-        "summary": [
-            "واکنش‌های دیپلماتیک میان ایران و آمریکا تشدید شده و هر دو طرف به مواضع تندتری روی آورده‌اند.",
-            "جامعه ایرانیان مقیم خارج در شهرهای مختلف تجمع و تظاهرات سازمان‌دهی کرده و خواستار اقدام بین‌المللی علیه حکومت ایران شده‌اند.",
-            "این تحرکات دیاسپورا همراه با فشار دیپلماتیک واشنگتن بر تهران، به افزایش فشار سیاسی و تضعیف وجهه بین‌المللی رژیم منجر شده است."
-        ],
-        "impact": "این تقابل و تظاهرات دیاسپورا ستون‌های مشروعیت رژیم را تضعیف کرده و مسیر را برای فشارهای بین‌المللی بیشتر و امید به آزادی برای مردم ایران هموار می‌سازد.",
-        "tag": "دیاسپورا",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0IxaHB5elhIWng1YUxVODhpaXVnd29aWndNYUF6MGw4MWVDN0JGRWJtemluN1kyQnFiaHFuQ0hlNTdjYTh0bktrVHJud3FtN3RaVllMZkFpT3dGSjFQTGlXaUhfeW1JOFA1cndpRTEyMWs3djQ1akktZXE4VlBVMklsVDgxNGo3OEh6Y3p3Ym1BWHFUc2VhXzQzYURya3BMTlV3WEt6dHZoeDNuLUHSAbMBQVVfeXFMTnlZdXk4ZDA3LVpyZ3FiS2RYZ04tcVVERzRTU1NtQ1hhdThzNkkzZEp5eUxLNGtza19rTU10QVZCd19zbEtONUd6TEZPdWRsbWV6ajBmXzRQalJHUWdlb2JkdjFHZEZ3OFFIeWQwcWdIS3J5cEZOU05nYzhXRU10ZEZKSWdHQ3NOZHBUWHZ0Ym00cTgwNTUwWmttb01zZG5yQmYwUHRtMlFicmxuWHZScUVkX0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771090650.0
-    },
-    {
-        "title_fa": "تهران میزبان نوزدهمین کمیسیون مشترک اقتصادی ایران و روسیه",
-        "title_en": "Tehran to host 19th Iran-Russia Joint Economic Commission",
-        "summary": [
-            "محوّله رسمی خبر: نشست سه‌روزه (۱۶ تا ۱۸ فوریه) برای بررسی پروژه‌های اولویت‌دار در تجارت، انرژی، حمل‌ونقل، مالی و بانکی، انرژی هسته‌ای «صلح‌آمیز» و بهداشت برگزار می‌شود و مقام‌ها خوشبینانه از گسترش همکاری سخن گفته‌اند — خط رسانه‌ای دولتی برای نشان‌دادن کارآمدی و گسترش نفوذ بین‌المللی رژیم.",
-            "واقعیت پنهان: توافق‌های اعلامی غالباً به نفع نهادها و شرکت‌های وابسته به رهبری و آقازاده‌هاست و شفافیت عملی پایین است؛ تمرکز روی همکاری‌های مالی، بانکی و حمل‌ونقل می‌تواند سازوکارهایی برای دورزدن تحریم‌ها فراهم کند و در نتیجه منابع بیشتری به‌سوی حفظ ساختار سرکوب سوق یابد.",
-            "نقش روسیه: حضور و مشارکت فعال روسیه به‌عنوان شریک کلیدی، نه فقط تقویت اقتصادی رژیم بلکه تقویت پوشش سیاسی و همکاری‌هایی است که فرصت‌های تکنولوژیک و مالی برای تداوم سیاست‌های داخلی سرکوب‌گرانه و مقاومت در برابر فشارهای بین‌المللی ایجاد می‌کند، در حالی که مردم عادی از نتایج ملموس ناامید خواهند ماند."
-        ],
-        "impact": "این نشست با تقویت پیوندهای اقتصادی-سیاسی با روسیه دستِ حکومت را برای ادامه سرکوب و فرار از فشارهای بین‌المللی تقویت می‌کند، در حالی که منافع واقعی برای مردم نامشخص است.",
-        "tag": "سرکوب",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241790/Tehran-to-host-19th-Iran-Russia-Joint-Economic-Commission",
-        "image": null,
-        "timestamp": 1771086660.0
-    },
-    {
-        "title_fa": "۲۰۰٬۰۰۰ نفر در مونیخ علیه رژیم ایران تجمع کردند؛ پهلوی خواستار «روز جهانی اقدام» شد",
-        "title_en": "200,000 rally against Iran’s regime in Munich as Pahlavi urges ‘global day of action’",
-        "summary": [
-            "حدود ۲۰۰٬۰۰۰ نفر در مونیخ تجمع کردند تا علیه رژیم ایران اعتراض گسترده‌ای برگزار شود؛ رسانه‌ها آن را از بزرگ‌ترین گردهمایی‌های دیاسپورای ایرانیان گزارش کردند.",
-            "پهلوی خواستار برگزاری «روز جهانی اقدام» شد و از بسیج ایرانیان خارج از کشور و حمایت بین‌المللی برای افزایش فشار بر حکومت سخن گفت.",
-            "این تجمع بزرگ در خارج از کشور به‌عنوان نشانه‌ای از نارضایتی گسترده و توان بالای بسیج اپوزیسیون تعبیر می‌شود و می‌تواند به تقویت روحیه معترضان داخل ایران و جلب توجه جهانی کمک کند."
-        ],
-        "impact": "نمایش توان بسیج دیاسپورا مشروعیت رژیم را تضعیف و ظرفیت اپوزیسیون برای اعمال فشار سیاسی و بین‌المللی را افزایش می‌دهد.",
-        "tag": "اعتراض",
-        "urgency": 5,
-        "sentiment": 0.8,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdU10OWtlTDNVbExhUHVRckdRWUVGdG5ndzM5OFMwekoya0REbDVVUC0zZnpnOE44Q1dTRzJ6MHZLeGowTkczcVlXdUxLdWlqbnNEYmtBbEVyZ3FLWHZubE1vdUViWGhBT2xuYlhNUkc4TlJ0OVVQaDZOTjVVbHkwSFVTbW1IZ0I2dWVvclR1dHhWTllvaHFqbkJVc1FXV1dCUW5YWmcwT0JScUp4dW1mTTJLaFN3Y2_SAbcBQVVfeXFMUHVNdDlrZUwzVWxMYVB1UXJHUVlFRnRuZ3czOThTMHpKMmtERGw1VVAtM2Z6ZzhOOENXU0cyejB2S3hqME5HM3FZV3VMS3Vpam5zRGJrQWxFcmdxS1h2bmxNb3VFYlhoQU9sbmJYTVJHOE5SdDlVUGg2Tk41VWx5MEhVU21tSGdCNnVlb3JUdXR4Vk5Zb2hxam5CVXNRV1dXQlFuWFpnME9CUnFKeHVtZk0yS2hTd2Nv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771085355.0
     }
 ]
