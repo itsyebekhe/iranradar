@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "به‌روزرسانی زنده: ترامپ می‌گوید در حال بررسی حمله محدود به ایران است",
+        "title_en": "Trump Administration Live Updates: President Acknowledges That He Is Weighing Limited Strike on Iran",
+        "summary": [
+            "ترامپ اعلام کرده که گزینهٔ «حمله محدود» علیه ایران در دستور کار بررسی کاخ سفید قرار دارد؛ گزارش به‌صورت زنده پیگیری می‌شود.",
+            "فشار خارجی: انجام حملهٔ محدود می‌تواند فشار دیپلماتیک و اقتصادی بر تهران را تشدید کند و ظرفیت رژیم برای مدیریت شوک‌های بیرونی را بیشتر تضعیف نماید؛ پیامدهای تحریمی و انزوای بیشتر قابل انتظار است.",
+            "داخلی و اقتصاد: حتی تهدید به ضربه نظامی می‌تواند اعتماد عمومی و تاب‌آوری اقتصادی آسیب‌پذیر ایران را بیشتر کند؛ در صورت وقوع حمله، ریسک تشدید نارضایتی‌های داخلی و فشار بر ابزارهای امنیتی بالا می‌رود."
+        ],
+        "impact": "تهدید یا اجرای حملهٔ محدود می‌تواند نقطهٔ عطفی در تضعیف مشروعیت و تاب‌آوری اقتصادی رژیم باشد و احتمال تشدید اعتراضات داخلی و تقابل منطقه‌ای را افزایش دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.msn.com/en-us/news/politics/live-updates-supreme-court-strikes-down-most-of-trump-s-tariffs-in-6-3-ruling/ar-AA1WK1sV",
+        "clean_url": "https://www.msn.com/en-us/news/politics/live-updates-supreme-court-strikes-down-most-of-trump-s-tariffs-in-6-3-ruling/ar-AA1WK1sV",
+        "image": null,
+        "timestamp": 1771614815.0
+    },
+    {
+        "title_fa": "چرا خاورمیانه مضطرب برای دور جدیدی از آشوب آماده می‌شود",
+        "title_en": "Why a Nervous Mideast Braces for a New Round of Upheaval",
+        "summary": [
+            "عنوان گزارش شورای روابط خارجی حاکی از هشدار درباره احتمال دور تازه‌ای از ناآرامی‌ها در منطقه است؛ تمرکز بر تنش‌های فراگیر و حساسیت بازیگران محلی و فراملی.",
+            "فشارهای اقتصادی و خارجی (از جمله تحریم‌ها و مداخلات منطقه‌ای) ساختارهای حکمرانی را تضعیف می‌کنند و ظرفیت دولت‌ها را برای مدیریت بحران‌ها کاهش می‌دهند؛ این روند ریسک ناپایداری سیاسی را بالا می‌برد.",
+            "ناتوانی مدیریتی و مشکلات اقتصادی همراه با خشم عمومی می‌تواند جرقه تظاهرات و اعتراضات گسترده‌تر شود؛ انعکاس این ناکارآمدی‌ها به تضعیف مشروعیت رژیم‌ها ختم می‌شود."
+        ],
+        "impact": "اگر دور جدیدی از آشوب آغاز شود، فشارهای سیاسی و اقتصادی بر دولت‌ها افزایش یافته و هزینه‌های امنیتی، انسانی و اقتصادی منطقه را به‌طور چشمگیر بالا خواهد برد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0tEeFB3bTV4N1lVaTZFOEtkQlRQeEk0dE1pclYtRzRodXA3RXZIR081LXhLQkdhbS14WEZDbW5WNVN6TW1VaVd2SHlUNEMyV21jYmlCYnNpaDh2cFlzaVQxQVNGV1hiWEVQalptdzZDUnpJalZsSS0zc2pyaGVkcHZpLUdEYnZJS1hlb0VR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0tEeFB3bTV4N1lVaTZFOEtkQlRQeEk0dE1pclYtRzRodXA3RXZIR081LXhLQkdhbS14WEZDbW5WNVN6TW1VaVd2SHlUNEMyV21jYmlCYnNpaDh2cFlzaVQxQVNGV1hiWEVQalptdzZDUnpJalZsSS0zc2pyaGVkcHZpLUdEYnZJS1hlb0VR",
+        "image": null,
+        "timestamp": 1771613667.0
+    },
+    {
+        "title_fa": "ترامپ تهدید به حملات محدود کرد؛ دیپلمات ایرانی: «توافق پیشنهادی نزدیک است»",
+        "title_en": "Trump warns he's considering limited strikes even as Iranian diplomat says proposed deal is imminent",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، اعلام کرده که در حال بررسی گزینه حملات محدود علیه ایران است.",
+            "یک دیپلمات ایرانی گفته که یک توافق پیشنهادی درباره موضوع مورد مناقشه در آستانه نهایی شدن قرار دارد.",
+            "تضاد میان تهدید نظامی و ادعای توافق نشان‌دهنده افزایش ریسک محاسباتی؛ احتمال تشدید فشارهای خارجی و تأثیر منفی بر ثبات سیاسی-اقتصادی ایران وجود دارد."
+        ],
+        "impact": "تهدید حمله در حالی که تهران از نزدیک بودن توافق خبر می‌دهد، فضای تصمیم‌گیری را بحرانی و احتمال خطاهای محاسباتی و تشدید تنش در منطقه را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0lYUUMwdHF3NzhTdkNwY0MtNW92V2NWeFE1T0dueEFfY19XQ3c4UUtQei1EWl9GZlg5QjkyM3NmcWFJc3Z0Wnp5Um5DYkFQM05Wbl9rNjlma0NpV2lnNUxISWQyRWlpMHVGZHdzOGNWR05zU29VYk1LX2YwOEdIUk9QMWYwaFNNNnZydmI5WEdBRGZuNnowYXVqNTZEano2RGp0Z2V3Q3VsZlJzNUItWXhXTXp5dXo4YXBvV1JkXzIxdUtZR3pPQ0pVUzlJX0XSAdQBQVVfeXFMTWlhd2Rza1ZfS3BDVFJYd3ljaUwtci1NZW5VX3JyVnhybS1POEJjY1Bhc2ZZc29JY1Ata1pjVGZ5ZlBNQUxHdmtTNDEtRGZic21yeVh2LUl5UUhkS1NhTmxUOVlhMFMyUExuT1habDZHRGFoN01DVTV5aHpNTndaS09vbFFtOXNrR2NuaW5xZzBTSWhDVTZpTW9jRGpwY2lMVWVnVXF6WHBuSm1WSXhpRk4ycHc2YzExZ1ZQS1dHTS1haU9Wckp1ZEdvdUc3YWVGZnZKekU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0lYUUMwdHF3NzhTdkNwY0MtNW92V2NWeFE1T0dueEFfY19XQ3c4UUtQei1EWl9GZlg5QjkyM3NmcWFJc3Z0Wnp5Um5DYkFQM05Wbl9rNjlma0NpV2lnNUxISWQyRWlpMHVGZHdzOGNWR05zU29VYk1LX2YwOEdIUk9QMWYwaFNNNnZydmI5WEdBRGZuNnowYXVqNTZEano2RGp0Z2V3Q3VsZlJzNUItWXhXTXp5dXo4YXBvV1JkXzIxdUtZR3pPQ0pVUzlJX0XSAdQBQVVfeXFMTWlhd2Rza1ZfS3BDVFJYd3ljaUwtci1NZW5VX3JyVnhybS1POEJjY1Bhc2ZZc29JY1Ata1pjVGZ5ZlBNQUxHdmtTNDEtRGZic21yeVh2LUl5UUhkS1NhTmxUOVlhMFMyUExuT1habDZHRGFoN01DVTV5aHpNTndaS09vbFFtOXNrR2NuaW5xZzBTSWhDVTZpTW9jRGpwY2lMVWVnVXF6WHBuSm1WSXhpRk4ycHc2YzExZ1ZQS1dHTS1haU9Wckp1ZEdvdUc3YWVGZnZKekU",
+        "image": null,
+        "timestamp": 1771610910.0
+    },
+    {
         "title_fa": "ترامپ از صلح در خاورمیانه صحبت می‌کند در حالی که خود را برای جنگ با ایران آماده می‌کند",
         "title_en": "Trump talks peace in the Middle East as he readies war on Iran",
         "summary": [
@@ -250,6 +304,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTJDaG9Kd0pZaEw1LWtxVzg3N0JmWDBLazBVQl9EVGtjTjBwT0twckR4akJzOXZHTXJNOHV5OFNZOXhHNW5WTWJDVHJKTndKYzFLekp6VkUxTENTQmNjcGZIN2dlVWJ0Qkh1MHZibklNSDJYZGktZU42LXMwZUo3VHB1alVrenJoSHFnSjlid3A0YnRDQnBoUlEwR1RhZ3ltb3BxZkhwT3g3UdIBrwFBVV95cUxNRHRwR0xqNTFrTE0ySEEzTXg1SGthOWM4ZV9ZTGxwdjVSZ1BLMTMyQ2VrQW9VUEJ3WlE1aUVBNWVOSjlTTUVNZUgxdjVzX2hPQjVKUjVwVWpUb05jakF1UUh5b240Qmw1NmVLakVubFdDQ2JMYXdESTUzeWU5aldUTnV0NXhlU19wbFdRSU5TNUlUZzBwNHNpRWJfN1JPLTZFT0w4b21RMTcwZ3NtTVBF",
         "image": null,
         "timestamp": 1771586760.0
+    },
+    {
+        "title_fa": "تأثیر مداوم خاندان پهلوی در ایران؛ از تخت تا خطوط مقدم قیام",
+        "title_en": "Pahlavi dynasty's influences persists in Iran, from Persia's throne to front lines of the revolt",
+        "summary": [
+            "خاندان پهلوی در دو ماه اخیر به‌عنوان نماد و کانون تصویری معترضان داخل ایران و دیاسپورا برجسته شده و ۴۷ سال پس از انقلاب همچنان در اندیشه عمومی تاثیرگذار است.",
+            "ریشه‌های به قدرت رسیدن پهلوی در کودتای رضا خان (۲۱ فوریه ۱۹۲۱) با حمایت بریتانیا قرار دارد و تا تأسیس رسمی سلسله پهلوی در ۱۹۲۵ ادامه یافت؛ رژیم جدید بر تمرکز دولت، مدرنیزاسیون و کاهش نفوذ روحانیت تأکید کرد.",
+            "سیاست‌های کلیدی پهلوی شامل تسلط دولتی بر آموزش و ثبت اسناد، تضعیف دادگاه‌ها و نهادهای مذهبی و اقدامات اجتماعی مثل ممنوعیت حجاب در ۱۹۳۶ بود که نقش این دودمان در بازتعریف دولت-ملت را نشان می‌دهد."
+        ],
+        "impact": "بازگشت نماد پهلوی به صحنه اعتراضات به تضعیف تدریجی مشروعیت جمهوری اسلامی کمک می‌کند، اما بدون فشار خارجی قابل‌توجه یا شکاف‌های ساختاری در نخبگان داخلی اثر عمدتاً نمادین و تدریجی خواهد بود.",
+        "tag": "پهلوی",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-887299",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/article-887299",
+        "image": null,
+        "timestamp": 1771586640.0
+    },
+    {
+        "title_fa": "سناریوهای نفتی ایران",
+        "title_en": "Iranian Oil Scenarios",
+        "summary": [
+            "فوربس هشدار می‌دهد که بسته به روند تحولات در ایران، قیمت نفت ممکن است به صورت کوتاه‌مدت افزایش یا کاهش یابد یا در سطوح بالا پایدار بماند.",
+            "تحلیل ساختاری: هر یک از این سناریوها درآمدهای صادرات نفت را تغییر می‌دهد و در صورت تشدید تحریم‌ها یا فشار خارجی می‌تواند به‌طور ساختاری ثبات مالی و توانایی بقا سیاسی رژیم را تضعیف یا موقتا تقویت کند.",
+            "پیامدهای داخلی: نوسان یا تداوم قیمت‌های بالای نفت ریسک‌های اقتصادی مانند تشدید تورم، کاهش سرمایه‌گذاری و فشار بر بودجه عمومی را افزایش می‌دهد و در غیاب مدیریت شفاف می‌تواند نارضایتی عمومی را بالا ببرد."
+        ],
+        "impact": "نوسان یا تداوم قیمت بالای نفت، درآمدهای دولت را ناپایدار کرده و می‌تواند در کوتاه‌مدت توان سرکوب و بقای سیاسی رژیم را تحت‌الشعاع قرار دهد.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/michaellynch/2026/02/20/iranian-oil-scenarios/",
+        "clean_url": "https://www.forbes.com/sites/michaellynch/2026/02/20/iranian-oil-scenarios",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69984e636e0996f531f519e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "timestamp": 1771585860.0
     },
     {
         "title_fa": "پیشنهاد دسترسی آمریکا به ثروت نفتی ایران؛ تاکتیک بازدارنده یا حیله دیپلماتیک؟",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPVi1QQ2R1OHgzSEM0akx0NFRQX3hxYUZEcnVIQ2ZsamhNdDI1UlNqZmFlQUdIU1BGM01DNzJHVHN3eUhuaTdNLURnOVlPZEZtcllub2taQ0F5dFBDczlSb2tkUTQ5MDNPTkhlSS1rV0pBallBRTZsVVppYlNBeURSMWwxQUpNWUZ0NmpyRjIxR08wclZEUm84MzJ2QU9tYmhpck1aNG9RTlVjUG52V25KZnp6d3R1ME9VbmMwOEdhMVh1UnZsTzhsMk01N0VyVnNLQjE1SlVtTVBjN3lWeFRiYS1YY05fY0oxdlBDS1A1ZzJJOEJfNE05SjdRUlBhb1F3MENjMWFrZUJITXN1M09VdjJ0c0prV3QwXzU1bFV4WlpVcU90S1FZaXhFNjNONzBwZHhFdVlaVVRXN1gxOTgyMXhqRW5sM3RvVnhleDF6U2xKLTViV2lQbW9meHpGak00Y1VlMXlQSWoxWlExd044TC1Mem8wMUlHeHdxbGxFS19TczlqZER2WC10Ui05NmMzVVBiRWl4a3hsZmkyWV9tcHV4X3dFaDFSTUVjVXhnTG84bVE5V1ZFbnFPZTRJaWlERGlHbXFNSE83MW8wUTlmWS04Q0FDajBpdm5tMFpraUFXNXczSS1fM0RXT0tJUzJzTFhMQ29nUXhqZktKa3dHUWs3VlJyMzhDOVE",
         "image": null,
         "timestamp": 1771125274.0
-    },
-    {
-        "title_fa": "مرگ یک معترض در بازداشت خشم‌برانگیز شد؛ خانواده می‌گوید او اعدام شده است",
-        "title_en": "Iran Protester’s Death in Custody Sparks Outrage. His Family Believes He Was Executed.",
-        "summary": [
-            "علی رهبر، مربی بدنسازی ۳۳ ساله، هنگام اعتراضات در مشهد در ۸ ژانویه توسط نیروهای امنیتی بازداشت شد و دو هفته بعد خانواده تنها تماس از سوی مقامات را در قالب درخواست تحویل جسد دریافت کردند.",
-            "گروه‌های حقوق‌بشری پرونده او را همراه با موارد مشابه به‌عنوان احتمال اعدام‌های خارج از روند قضایی بررسی می‌کنند؛ گزارش‌ها حاکی از هزاران کشته و حدود ۴۰٬۰۰۰ بازداشتی در موج سرکوب اخیر است و نگرانی از اجرای احکام اعدام برای ترساندن معترضان وجود دارد.",
-            "این رویداد تبدیل به نمادی از شکست مشروعیت رژیم و خشم عمومی شده است؛ اگرچه حکومت تاکنون از عقب‌نشینی خبری نکرده، مردم به اعتراض و مقاومت ادامه می‌دهند."
-        ],
-        "impact": "این پرونده مشروعیت رژیم را بیش از پیش تضعیف می‌کند و می‌تواند خشم عمومی را تشدید و جنبش اعتراضی را مقاومتر سازد.",
-        "tag": "سرکوب",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/15/world/middleeast/ali-rahbar-iran-protester.html",
-        "clean_url": "https://www.nytimes.com/2026/02/15/world/middleeast/ali-rahbar-iran-protester.html",
-        "image": null,
-        "timestamp": 1771120860.0
-    },
-    {
-        "title_fa": "«توپ در زمین آمریکا»: وزیر ایران درباره توافق هسته‌ای",
-        "title_en": "\"Ball is in America's court\": Iran minister on nuclear deal agreement",
-        "summary": [
-            "وزیر ایرانی اعلام کرده ایران آماده گفت‌وگو درباره برنامه هسته‌ای است اما رفع یا بررسی تحریم‌ها نیز باید در میز مذاکره مطرح شود و «توپ در زمین آمریکا» است.",
-            "پافشاری روی باز شدن پرونده تحریم‌ها در مذاکرات هم وقت و هم اهرم فشار سیاسی برای تهران می‌آورد که می‌تواند روند گفتگوها را طولانی یا پیچیده کند.",
-            "برای اپوزیسیون و جامعه مدنی، این شرایط می‌تواند فرصتی برای برجسته‌سازی ناکارآمدی حکومت در مدیریت تحریم‌ها و تقویت مطالبات معیشتی و سیاسی مردم فراهم کند."
-        ],
-        "impact": "گذاشتن تحریم‌ها در دستور مذاکرات می‌تواند سنگ محک بین‌المللی را به ابزاری تبدیل کند که فشار بر رژیم را افزایش و فضای چانه‌زنی سیاسی داخلی را تشدید کند.",
-        "tag": "تحریم‌ها",
-        "urgency": 7,
-        "sentiment": 0.45,
-        "source": "NDTV on MSN",
-        "url": "https://www.msn.com/en-in/news/world/ball-is-in-america-s-court-iran-minister-on-nuclear-deal-agreement/ar-AA1WnYIO",
-        "clean_url": "https://www.msn.com/en-in/news/world/ball-is-in-america-s-court-iran-minister-on-nuclear-deal-agreement/ar-AA1WnYIO",
-        "image": "http://www.bing.com/th?id=OVFT.sDxqdmd7xqvo4BugtSB7Vy&pid=News",
-        "timestamp": 1771119813.0
-    },
-    {
-        "title_fa": "پیشروی مذاکرات هسته‌ای؛ ایران درِ سازش با شرط رفع تحریم‌ها را باز می‌کند",
-        "title_en": "Nuclear Negotiations Gain Momentum as Iran Opens Door to Compromise With Sanctions Relief Conditions",
-        "summary": [
-            "گزارش‌ها حاکی از شتاب گرفتن مذاکرات هسته‌ای است و تهران اعلام کرده ممکن است در برخی مواضع انعطاف نشان دهد مشروط بر اینکه رفع تحریم‌های ملموس تضمین شود.",
-            "این نرمش نسبی حکایت از فشار اقتصادی و دیپلماتیک بر رژیم دارد و می‌تواند اهرم‌های تحریمی را که علیه حکومت اعمال شده، زیر سؤال ببرد و فضای سیاسی را تغییر دهد.",
-            "در عین حال خطر آن وجود دارد که رژیم از هر امتیازی برای خرید وقت و تداوم سرکوب داخلی استفاده کند؛ اپوزیسیون باید همزمان از فرصت دیپلماتیک بهره ببرد و نسبت به ترفندهای نظام هشیار بماند."
-        ],
-        "impact": "پیشروی مذاکرات و بحث درباره مشروطیت رفع تحریم‌ها می‌تواند به تضعیف فوری پیوند اقتصادی-سیاسی رژیم منجر شده و فرصت‌هایی برای افزایش فشار داخلی و مطالبات آزادی‌خواهانه ایجاد کند.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": 0.35,
-        "source": "Oneindia",
-        "url": "https://www.oneindia.com/international/nuclear-negotiations-gain-momentum-as-iran-opens-door-to-compromise-with-sanctions-relief-conditions-011-7999019.html",
-        "clean_url": "https://www.oneindia.com/international/nuclear-negotiations-gain-momentum-as-iran-opens-door-to-compromise-with-sanctions-relief-conditions-011-7999019.html",
-        "image": null,
-        "timestamp": 1771114140.0
-    },
-    {
-        "title_fa": "نامزد ریاست‌جمهوری عراق برنامه‌ای برای کمک به ترامپ در به چالش کشیدن ایران دارد",
-        "title_en": "This Iraq Presidential Candidate Has a Plan to Help Trump Challenge Iran",
-        "summary": [
-            "سردار عبدالله، نامزد ریاست‌جمهوری عراق، به نیوزویک گفته است که ایران در منطقه تضعیف شده اما این تضعیف تا زمانی که نفوذ ایران در عراق ادامه دارد کامل نیست.",
-            "او اعلام کرده برنامه‌ای دارد که می‌تواند به تلاش‌های دونالد ترامپ برای به چالش کشیدن جمهوری اسلامی کمک کند.",
-            "این موضع نشان‌دهنده تلاش برای استفاده از موقعیت عراق به‌عنوان ابزاری علیه تهران است و می‌تواند نفوذ رژیم را در منطقه کاهش دهد."
-        ],
-        "impact": "این اعلامیه می‌تواند نفوذ منطقه‌ای رژیم را بیشتر تضعیف کند و فشار خارجی را که می‌تواند به تقویت امید و مقاومت داخلی بینجامد افزایش دهد.",
-        "tag": "چالش",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/this-iraq-presidential-candidate-has-a-plan-to-help-trump-challenge-iran-11505408",
-        "clean_url": "https://www.newsweek.com/this-iraq-presidential-candidate-has-a-plan-to-help-trump-challenge-iran-11505408",
-        "image": "http://www.bing.com/th?id=OVFT.p2KtfQfJ_7bdMAkyJbjHKS&pid=News",
-        "timestamp": 1771113600.0
-    },
-    {
-        "title_fa": "تصویرسازی معافیت‌های حریدی در بحبوحه احتمال درگیری ایران-آمریکا-اسرائیل",
-        "title_en": "The Optics of Haredi Exemptions Amid a Potential Iran-US-Israel Conflict",
-        "summary": [
-            "بحث پیرامون معافیت‌های نظامی حریدی در اسرائیل در آستانه احتمال درگیری با ایران اهمیت رسانه‌ای و سیاسی پیدا کرده و می‌تواند وحدت ملی را زیر سوال ببرد.",
-            "معافیت‌ها ریسک کاهش توان بسیج ذخایر، افزایش نارضایتی اقلیت سکولار و فشار بر ائتلاف حکومتی وابسته به احزاب حریدی را به همراه دارد.",
-            "چنین شکاف‌هایی وجههٔ بین‌المللی اسرائیل را تضعیف می‌کند و فرصت تبلیغاتی برای ایران فراهم می‌آورد تا از اختلافات داخلی برای کاهش مشروعیت و ارادهٔ حریف استفاده کند."
-        ],
-        "impact": "اَشکال سیاسی-عملیاتی: در کوتاه‌مدت اختلاف بر سر معافیت‌ها می‌تواند موج اعتراضات داخلی و فشار بر دولت برای تغییر قوانین را تشدید کند که به نوبه خود زمان و سرمایهٔ سیاسی لازم برای بسیج کامل نیروها را افزایش می‌دهد. از منظر نظامی، کاهش نیروی ذخیره (یا تأخیر در بسیج) توان واکنش سریع را تضعیف می‌کند؛ از منظر دیپلماتیک، آمریکا و متحدان اروپایی ممکن است از نقطه‌نظر پیام‌دهی درخواست یکپارچگی اجتماعی کنند که اگر محقق نشود، به تضعیف حمایت دیپلماتیک منجر نخواهد شد اما تصویر اسرائیل را در کاخ سفید و افکار عمومی آسیب‌پذیرتر نشان می‌دهد. ایران می‌تواند این شکاف را در جنگ اطلاعاتی بکار گیرد تا روحیه داخلی و مشروعیت بین‌المللی اسرائیل را هدف بگیرد، اما اثرگذاری آن بر میدان نبرد مستقیم محدود خواهد بود مگر اینکه اختلافات داخلی به تضعیف واقعی ظرفیت بسیج تبدیل شود.",
-        "tag": "سیاست_داخلی_اسرائیل",
-        "urgency": 3,
-        "sentiment": -0.25,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXY0OVdCaHJ5bWUzdFpfcnNVZU1vaTU2WlVPMzlIbVpVQnBlenpXbllLdnJtTHVMUUhxM2xRZDRpbXcza2xjZnVOa0p6ZzdBQWl0MGRId0RONGNfWXpQV2toOHJnR3g0T3RIS1d4V2tQTFplVzNJVG1ETFZnUkxKT19yUEg0M2tEU01OZHNoaVBrNWpzclFUaEdOSUlPLVlkMVhjS01VTWE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXY0OVdCaHJ5bWUzdFpfcnNVZU1vaTU2WlVPMzlIbVpVQnBlenpXbllLdnJtTHVMUUhxM2xRZDRpbXcza2xjZnVOa0p6ZzdBQWl0MGRId0RONGNfWXpQV2toOHJnR3g0T3RIS1d4V2tQTFplVzNJVG1ETFZnUkxKT19yUEg0M2tEU01OZHNoaVBrNWpzclFUaEdOSUlPLVlkMVhjS01VTWE",
-        "image": null,
-        "timestamp": 1771110840.0
     }
 ]
