@@ -198,6 +198,24 @@
         "timestamp": 1771529159.0
     },
     {
+        "title_fa": "مخالف ادعا می‌کند: ایران در حال بازسازی برنامه هسته‌ای علیرغم مذاکرات مرتبط با ترامپ",
+        "title_en": "Iran rebuilding nuclear program despite Trump talks, opposition figure claims",
+        "summary": [
+            "گزارش‌ها حاکی است رژیم هم‌زمان با شرکت در مذاکرات ژنو در حال بازسازی سایت‌های هسته‌ای آسیب‌دیده از عملیات «Midnight Hammer» ۲۲ ژوئن است.",
+            "این اقدام دوگانه — مذاکره در ژنو همراه با بازسازی تاسیسات — دال بر ادامه تلاش برای پیشرفت هسته‌ای و تضعیف اعتبار طرف‌های مذاکره‌کننده است.",
+            "صرف منابع برای بازسازی زیرساخت‌های هسته‌ای در شرایط اقتصادی ضعیف، خطر افزایش فشار و تحریم‌های خارجی و تشدید مشکلات اقتصادی و نارضایتی داخلی را بالا می‌برد."
+        ],
+        "impact": "این رفتار احتمالاً به تشدید تحریم‌ها و انزوای بین‌المللی می‌انجامد که ساختار اقتصادی و مشروعیت بازیگران رژیم را بیشتر تضعیف خواهد کرد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-rebuilding-nuclear-program-despite-trump-talks-opposition-figure-claims/ar-AA1WHMBC",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-rebuilding-nuclear-program-despite-trump-talks-opposition-figure-claims/ar-AA1WHMBC",
+        "image": "http://www.bing.com/th?id=OVFT.KxXk-GZz8aY6EGpr-guiPC&pid=News",
+        "timestamp": 1771527951.0
+    },
+    {
         "title_fa": "آمریکا ممکن است به ایران ضربه بزند؛ تهران چگونه آماده می‌شود",
         "title_en": "The US could strike Iran. Here’s how Tehran is getting prepared",
         "summary": [
@@ -5360,22 +5378,5 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUC0zbDNwVDZocGNjZWNxTVlxS1pSNlU1MTc1a0ZzUjVrUGczN2k0SFJyRTY2bTRXVzUteF9CV3JBc0lTRVV4NHlSSDVFOVdnckxFTHQzeGhhemRYSVluTVl0Nm11QmZNbndLaEpER0pZZVc2c1F2NGtRenJKaXdaWEtNYzZlaS1iV3pkNU1jQm9jLWs3bVHSAZQBQVVfeXFMTl84TklfWDVVR2xuZDEzYWZhQ3FCNWxSUklpN1QyODVOOERYeFlUaEpFLXZHQVBSMUxPRkdVYnpzVXoxQUNpcU9uQ0FFY0Vlb0hyTThFdXI1MTNsczlIZ1VRWlFLSlczOFQwajFnTEpwWFpNNlhYQms5Z1NFMkVzZVFtbncxMlQ4T2g3T0tHQ0QwRDZneQ?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771070760.0
-    },
-    {
-        "title_fa": "کانادا هفت فرد مرتبط با ایران را تحریم کرد",
-        "title_en": "Canada Sanctions Seven Individuals Linked to Iran",
-        "summary": [
-            "دولت کانادا اعلام کرد هفت نفر مرتبط با ایران تحت تحریم قرار گرفته‌اند.",
-            "این اقدام بخشی از فشار بین‌المللی علیه چهره‌ها و شبکه‌های مرتبط با رژیم تهران تلقی می‌شود و پیامی از انزوا و مسئولیت‌پذیری بین‌المللی ارسال می‌کند.",
-            "هرچند تحریم‌ها محدود به هفت فرد است، اما می‌تواند دسترسی این افراد به منابع و امکان سفرهای بین‌المللی را محدود کرده و راه را برای فشارهای بیشتر باز کند."
-        ],
-        "impact": "این تحریم‌ها فشار بین‌المللی بر رژیم را افزایش می‌دهد و می‌تواند به تضعیف نفوذ حاکمیت و تقویت مسیر مردم ایران برای دستیابی به آزادی کمک کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpLWhUUm5TQ0JJTTZ5WXgyXy1qcWhINzRfMG10U0wwTWRPMzFmZWNQUi1ka1hMc0FwVEJwZXNkY0pmV3NBVDN1bE5oY1pIUmpiTmE5a2N5VWNyMWxrcUkyTUxmUVFhNmQyTTRUdVV2TkFKQktaT21HMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771070222.0
     }
 ]
