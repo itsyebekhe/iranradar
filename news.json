@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران و استمرار شکست آمریکا در خاورمیانه",
+        "title_en": "Iran and the Persistence of US Failure in the Middle East",
+        "summary": [
+            "عنوان نشان می‌دهد که مقاله به ارزیابی استمرار ناکامی سیاست‌های آمریکا در مواجهه با ایران و پیامدهای منطقه‌ای آن می‌پردازد؛ متن کامل برای شواهد و استدلال‌ها لازم است.",
+            "تحریم‌ها و فشار خارجی: استمرار شکست واشینگتن معمولاً اثربخشی اهرم‌های تحریمی و دیپلماتیک را تضعیف می‌کند و در غیاب شواهد متن، لازم است هر ادعا درباره تضعیف ساختاریِ فشارها با مدارک بررسی شود.",
+            "تبعات داخلی و حکمرانی: از عنوان به‌تنهایی نمی‌توان نتیجه‌گیری قطعی درباره تأثیر بر اقتصاد و نارضایتی‌های اجتماعی کرد؛ هر تحلیل درباره ضعف حکمرانی یا اعتراضات داخلی باید مبتنی بر داده‌های متن باشد."
+        ],
+        "impact": "اگر استدلالِ مقاله درباره استمرار شکست آمریکا معتبر باشد، اثر عملی آن کاهش توان واشینگتن در اعمال فشار دیپلماتیک و اقتصادی بر تهران و در نتیجه فرصت‌بخشی به سیاست‌های منطقه‌ای ایران خواهد بود.",
+        "tag": "ژئوپولیتیک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Cato Institute",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwem9GcUp0UFczT2E5bFhoaEpGU2lpWmJBc2I0QnI3aENTNFVMV1U3WUNoRER4UDJ6SG9VMlhsYzVoMUg2bGNOLVFkTW5WVmZwTDgxWS1YRG1mRWR6RDRhSGRJc2w5X1p3TTloY0lMV0g3Sk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwem9GcUp0UFczT2E5bFhoaEpGU2lpWmJBc2I0QnI3aENTNFVMV1U3WUNoRER4UDJ6SG9VMlhsYzVoMUg2bGNOLVFkTW5WVmZwTDgxWS1YRG1mRWR6RDRhSGRJc2w5X1p3TTloY0lMV0g3Sk0",
+        "image": null,
+        "timestamp": 1771600716.0
+    },
+    {
         "title_fa": "در حالی که ترامپ جنگ دوم علیه ایران را بررسی می‌کند، ممکن است کشنده‌تر از جنگ اول باشد",
         "title_en": "As Trump Considers Second Iran War, It Could Be Deadlier Than the First",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCaTNpWXFqSG1JUkNlQVRjTF9MTE5PbFBvUFJSNWVrOGxhaGswX0I2eEsyREx0Zmtrc3dsajBLV1pqV3hQTlNtcjdFLVVncjhjMTZDNkNfc0hMOHhOYUl1Tmd0el9DTzVtOG14NGFDR1AyRC1VMmJN",
         "image": null,
         "timestamp": 1771598500.0
+    },
+    {
+        "title_fa": "نیروی نظامی ایران در اثر جنگ ۱۲ روزه با اسرائیل تضعیف شده اما هنوز قابلیت‌های قابل‌توجهی حفظ کرده است",
+        "title_en": "Iran’s military degraded by 12-day war with Israel, but still has significant capabilities",
+        "summary": [
+            "جنگ ۱۲ روزه با اسرائیل به تضعیف عملکرد و آمادگی عملیاتی بخشی از نیروهای ایران انجامیده؛ کاهش‌های ملموس در توان عملیاتی قابل استنتاج است.",
+            "با وجود این فرسایش، تهران هنوز بخش‌های کلیدی از ظرفیت‌های نظامی خود را حفظ کرده که به ادامه رقابت و حفظ سطحی از بازدارندگی منطقه‌ای کمک می‌کند.",
+            "پیامد استراتژیک این وضعیت، افزایش هزینه‌های عملیاتی و فشار بر روند تصمیم‌گیری رهبری نظامی است و هم‌زمان ریسک تشدید یا تغییر تاکتیک‌ها در آینده را بالا می‌برد."
+        ],
+        "impact": "تضعیف کوتاه‌مدت توان نظامی رژیم بار سیاسی و عملیاتی را افزایش می‌دهد اما حفظ قابلیت‌های قابل‌توجه، خطر ادامه و تشدید بحران منطقه‌ای را نگه می‌دارد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdklZN1BqUjAwdEJyYkFOVXhQbHlmRXVWZWlSWDBiTXRiSEVqc3dfd25QM1Bqb2w0VWlIQUFuWmhTUWVuMklObHNlTGlvS0hPSmFVOGlvNmNYbEN4Zm9aaEY5S2FlcF9qdU9WZHE2eWlTSGRNcjh1eW9VUW84RVVWVWExSFoyU3hSN3cwcmdZemRvMF9pZkhCV3JDNGxJdzJoT1Vv?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdklZN1BqUjAwdEJyYkFOVXhQbHlmRXVWZWlSWDBiTXRiSEVqc3dfd25QM1Bqb2w0VWlIQUFuWmhTUWVuMklObHNlTGlvS0hPSmFVOGlvNmNYbEN4Zm9aaEY5S2FlcF9qdU9WZHE2eWlTSGRNcjh1eW9VUW84RVVWVWExSFoyU3hSN3cwcmdZemRvMF9pZkhCV3JDNGxJdzJoT1Vv",
+        "image": null,
+        "timestamp": 1771595781.0
     },
     {
         "title_fa": "ترامپ: ایران در صورت عدم حصول توافق با «نتیجه ناخوشایند» مواجه خواهد شد",
@@ -5357,40 +5393,5 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03U1FzZl9POEdXQTVmb0dTTTRDX2dVYmNxbktyWmkwLUZIVWZoYmhqblFNNTlrVEZCSklUNDJ5WXpEQk5CS1A4aVpGUmE2VEtSaV82UUVxNEVBUHg1d01IcDFpbDZoV1cwakhTb0lEbmRxaWRzVFJWQ1F2NU0?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1771093575.0
-    },
-    {
-        "title_fa": "عمان میزبانی گفت‌وگوهای آمریکا و ایران در ژنو را تأیید کرد",
-        "title_en": "Iran US Tension LIVE Updates: Oman to host US-Iran talks in Geneva, confirms Switzerland",
-        "summary": [
-            "سوئیس اعلام کرد عمان به‌عنوان میانجی قرار است هفته آینده میزبان گفت‌وگوهای آمریکا و ایران در ژنو باشد (گزارش AFP).",
-            "آمریکا از تهران خواسته توافقی برای محدود کردن برنامه هسته‌ای منعقد کند؛ دونالد ترامپ ضمن تکرار احتمال اقدام نظامی گفت تغییر حکومت در ایران «بهترین چیز» خواهد بود و رضا پهلوی در مونیخ خواستار پایان جمهوری اسلامی شد.",
-            "در حاشیه کنفرانس امنیتی مونیخ حدود ۲۰۰٬۰۰۰ نفر در اعتراض به حکومت ایران تجمع کردند و گروه‌هایی مانند مجاهدین خلق نیز حضور داشتند که صحنه افکار عمومی بین‌المللی را تحت تأثیر قرار داد."
-        ],
-        "impact": "این اطلاعیه چند پیام استراتژیک دارد: از یک‌سو گفت‌وگوهای میزبانی‌شده توسط عمان احتمال اقدام نظامی فوری را کاهش می‌دهد و به آمریکا امکان فشار دیپلماتیک بیشتر برای محدودسازی برنامه هسته‌ای ایران را می‌دهد؛ از سوی دیگر خطر این وجود دارد که مذاکرات محدود به مسائل هسته‌ای باقی بماند و رژیم با کسب امتیازات اقتصادی یا سیاسی مشروعیت پیدا کند بی‌آنکه مسئولیت سرکوب داخلی را بپذیرد. برای اپوزیسیون ملی‌گرای ایرانی این وضعیت هم فرصت و هم تهدید است: فرصت برای فشار بین‌المللی بر واشنگتن و کشورهای اروپایی تا شرط‌گذاری بر هر توافق هسته‌ای با معیارهای حقوق‌بشری و آزادی زندانیان باشد، و تهدید از آنکه غیرفعال ماندن جامعه بین‌المللی نسبت به سرکوب داخلی به تضعیف موج اعتراضی و بازیابی توان داخلی رژیم منجر شود. حضور گسترده معترضان در مونیخ و اظهارات رضا پهلوی پنجره‌ای برای جهت‌دهی افکار عمومی و شرط‌گذاری بر مذاکرات ایجاد می‌کند، اما حضور سازمان‌هایی مانند مجاهدین خلق می‌تواند به ابزار تبلیغاتی رژیم و توجیه احتیاط غربی‌ها بدل شود.",
-        "tag": "مذاکرات_آمریکا_ایران",
-        "urgency": 3,
-        "sentiment": 0.12,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/world/iran-us-news-tensions-live-updates-donald-trump-threat-ayatollah-khamenei-regional-war-nuclear-deal-14-february-2026-11771072749464.html",
-        "clean_url": "https://www.livemint.com/news/world/iran-us-news-tensions-live-updates-donald-trump-threat-ayatollah-khamenei-regional-war-nuclear-deal-14-february-2026-11771072749464.html",
-        "image": null,
-        "timestamp": 1771092120.0
-    },
-    {
-        "title_fa": "اسرائیل، ایران و هوش مصنوعی محور کنوانسیون NRB خواهند بود",
-        "title_en": "Israel, Iran, and AI set to dominate NRB convention",
-        "summary": [
-            "کنوانسیون NRB امسال عمدتاً بر سه موضوع اسرائیل، ایران و پیامدهای هوش مصنوعی در رسانه‌ها متمرکز خواهد بود.",
-            "موضوع ایران در دستور کار قرار دارد و احتمالاً مباحثی درباره سیاست آمریکا نسبت به تهران و پیامدهای ژئوپلیتیکی مطرح خواهد شد.",
-            "تمرکز روی هوش مصنوعی نشان‌دهنده نگرانی‌ها و فرصت‌های فناوری برای رسانه‌ها، اطلاع‌رسانی و جنگ‌های اطلاعاتی است."
-        ],
-        "impact": "این کنفرانس می‌تواند نگرش مخاطبان و شبکه‌های حمایتی در آمریکا را نسبت به ایران شکل دهد و به افزایش فشار سیاسی و دیپلماتیک بر رژیم منجر شود.",
-        "tag": "همایش",
-        "urgency": 3,
-        "sentiment": 0.35,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrRkhTT0h6WDEtV3p0bFJZYmNSdTZoM0V2MUVLLUJPX3Q5STcxM2QtX19hdHpsUXFjODVPQTVJaGp1S2hrMWppREx3bE81RFFFTndlMl9Vb3JWUXFlUnBWWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "timestamp": 1771091802.0
     }
 ]
