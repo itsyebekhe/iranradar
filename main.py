@@ -272,13 +272,37 @@ class IranNewsRadar:
         return all_entries
 
     # --- PROCESSING ---
-    def _resolve_final_url(self, gnews_url):
-        if not gnews_url: return None
-        if "news.google.com" not in gnews_url: return gnews_url
+    def _resolve_final_url(self, url, raw_title=None):
+        if not url: return None
+        
+        # If it's not a Google News URL, return it immediately
+        if "news.google.com" not in url: 
+            return url
+            
+        # 1. Try standard redirect first (sometimes Google lets it through)
         try:
-            resp = self.scraper.get(gnews_url, allow_redirects=True, timeout=10, stream=True)
-            return resp.url
-        except: return gnews_url
+            resp = self.scraper.get(url, allow_redirects=True, timeout=8, stream=True)
+            # Make sure we didn't just get redirected to a Google Consent or Error page
+            if "news.google.com" not in resp.url and "consent.google.com" not in resp.url:
+                return resp.url
+        except Exception:
+            pass
+
+        # 2. WORKAROUND: If Google blocked us, use Bing RSS to find the real article link
+        if raw_title:
+            logger.info(f"GNews blocked URL resolution. Searching Bing for: {raw_title[:40]}...")
+            
+            # Use our existing Bing RSS function to search the exact title
+            bing_results = self.fetch_bing_rss(raw_title)
+            
+            if bing_results:
+                # Take the URL of the first matching result from Bing
+                bing_url = bing_results[0]['url']
+                logger.info(f"Bing Workaround Success! Found: {bing_url}")
+                return bing_url
+
+        # Fallback to the original Google URL if everything fails
+        return url
 
     def scrape_article_text(self, final_url, fallback_snippet):
         try:
@@ -381,11 +405,12 @@ class IranNewsRadar:
         return None
 
     def process_item(self, entry):
-        raw_title = entry.get('title', '').rsplit(' - ', 1)[0]
+        # We extract the title and strip publisher names (e.g. " - BBC News") for cleaner Bing searching
+        raw_title = entry.get('title', '').rsplit(' - ', 1)[0].strip()
         publisher = entry.get('publisher', {}).get('title', 'Unknown')
         
-        # Resolve URL first to check for duplicates
-        final_url = self._resolve_final_url(entry.get('url'))
+        # Pass the raw_title to the resolver to enable the Bing workaround
+        final_url = self._resolve_final_url(entry.get('url'), raw_title)
         clean_final_url = self._clean_url(final_url)
 
         if not os.environ.get('MANUAL_URL'):
@@ -397,6 +422,8 @@ class IranNewsRadar:
         logger.info(f"Processing: {publisher} | {raw_title[:20]}...")
         
         snippet = entry.get('description', raw_title)
+        
+        # Now final_url should be a direct website link, allowing scrape_article_text to actually work!
         text = self.scrape_article_text(final_url, snippet)
         
         ai = self.analyze_with_ai(raw_title, text, publisher)
@@ -417,8 +444,8 @@ class IranNewsRadar:
             "urgency": urgency_val,
             "sentiment": ai.get('sentiment', 0),
             "source": publisher,
-            "url": final_url, # Store original for clicking
-            "clean_url": clean_final_url, # Store for dedup
+            "url": final_url, 
+            "clean_url": clean_final_url, 
             "image": entry.get('image'),
             "timestamp": ts
         }
