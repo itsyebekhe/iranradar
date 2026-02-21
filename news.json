@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "پنتاگون از استفاده از پایگاه‌های بریتانیا برای حمله احتمالی به ایران ممنوع شد",
+        "title_en": "Pentagon blocked from using UK bases in potential Iran strike",
+        "summary": [
+            "بریتانیا مانع از استفاده پنتاگون از پایگاه‌های خود برای اجرای حمله احتمالی علیه ایران شد؛ این اقدام دسترسی عملیاتی مستقیم آمریکا را محدود می‌کند.",
+            "محدودیت دسترسی به پایگاه‌های بریتانیا توان بازدارندگی نظامی فوری علیه تهران را تضعیف می‌کند و واشنگتن را به سمت جایگزین‌های راهبردی مانند جابه‌جایی نیروها، اقدامات دیپلماتیک یا فشار تحریمی سوق می‌دهد.",
+            "برای جامعه داخلی ایران، کاهش احتمال حملهٔ مستقیم ممکن است فشار امنیتی کوتاه‌مدت را کاهش دهد اما مشکلات اقتصادی ساختاری و سرکوب سیاسی که ثبات حکومت را تهدید می‌کنند همچنان باقی می‌مانند."
+        ],
+        "impact": "ممنوعیت استفاده، گزینه‌های نظامی غرب علیه تهران را محدود کرده و معادلات تهدید را به ابزارهای غیردستی مثل تحریم و دیپلماسی منتقل می‌کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/defense/5748731-starmer-refuses-trump-iran/",
+        "clean_url": "https://thehill.com/policy/defense/5748731-starmer-refuses-trump-iran",
+        "image": null,
+        "timestamp": 1771645860.0
+    },
+    {
+        "title_fa": "به‌روزرسانی ایران، ۲۰ فوریه ۲۰۲۶",
+        "title_en": "Iran Update, February 20, 2026",
+        "summary": [
+            "منبع ارائه‌شده صرفاً عنوان و تاریخ را نشان می‌دهد؛ متن گزارش یا جزئیات محتوایی در دسترس نیست، لذا هیچ اطلاعات عملیاتی برای تحلیل وجود ندارد.",
+            "بدون محتوای گزارش، نمی‌توان تأثیر تحریم‌ها یا فشار خارجی را ارزیابی کرد و هیچ نشانه‌ای مبنی بر دخالت یا نقش روسیه، چین یا کره‌شمالی در این به‌روزرسانی قابل تأیید نیست.",
+            "فقدان متن خود نشان‌دهنده کمبود شفافیت و مدیریت اطلاعاتی است؛ این خلأ مانع ارزیابی شرایط اعتراضات داخلی، وضعیت اقتصادی و پایداری رژیم می‌شود."
+        ],
+        "impact": "عدم دسترسی به محتوای گزارش مانع هر ارزیابی معنادار شده و ریسک تصمیم‌گیری نادرست برای تحلیلگران و سیاست‌گذاران را افزایش می‌دهد.",
+        "tag": "نامشخص",
+        "urgency": 1,
+        "sentiment": -0.3,
+        "source": "Critical Threats",
+        "url": "https://www.nytimes.com/live/2026/02/20/us/trump-news",
+        "clean_url": "https://www.nytimes.com/live/2026/02/20/us/trump-news",
+        "image": null,
+        "timestamp": 1771637047.0
+    },
+    {
+        "title_fa": "ترامپ پیشنهاد حملات محدود برای تحت فشار گذاشتن ایران جهت رسیدن به توافق هسته‌ای را مطرح کرد",
+        "title_en": "Trump suggests limited strikes to push Iran to nuclear deal - THIRTEEN",
+        "summary": [
+            "دونالد ترامپ پیشنهاد انجام حملات محدود را به عنوان راهی برای واداشتن ایران به پذیرش یک توافق هسته‌ای مطرح کرده است؛ این صرفاً یک اعلام موضع است اما حامل تهدید به اقدام نظامی هدفمند است.",
+            "چنین اظهارنظری می‌تواند به‌عنوان توجیه برای افزایش فشار خارجی—از جمله تشدید تحریم‌ها یا عملیات نظامی محدود—عمل کند که ساختار اقتصادی رژیم را بیشتر تضعیف و منابع مالی برنامه‌های منطقه‌ای و امنیتی آن را محدود می‌کند؛ اثرات ملموس می‌تواند شامل افزایش نوسان ارزی و کاهش سرمایه‌گذاری باشد.",
+            "حکومت کنونی به خاطر سوءمدیریت اقتصادی و سرکوب سیاسی دارای ضعف ساختاری است؛ تهدید حمله می‌تواند یا بهانه‌ای برای تشدید سرکوب و بسیج داخلی توسط حکومت شود یا در شرایط تشدید تحریم‌ها و شوک اقتصادی، نارضایتی عمومی را افزایش دهد."
+        ],
+        "impact": "این اظهارنظر احتمال تشدید تنش نظامی و فشار اقتصادی بر رژیم و همزمان تشدید خطوط برخورد داخلی بین حکومت و مردم را افزایش می‌دهد.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": 0.5,
+        "source": "THIRTEEN - New York Public Media",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16LWViUkYwX1YwYTJNX1JEZkZiUDgyeWVleWRsUFJNeHRacEdDcEhMOXZVRzYzdlN3aFdkYUVFc0xKQjF4VGJPR0w3RVFTSkk4aldMMS1qbWcyR3VYS2p6bFFpQ2ZIbHB3S0NoLWFXOV9Odk5jN3FYcmNsZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16LWViUkYwX1YwYTJNX1JEZkZiUDgyeWVleWRsUFJNeHRacEdDcEhMOXZVRzYzdlN3aFdkYUVFc0xKQjF4VGJPR0w3RVFTSkk4aldMMS1qbWcyR3VYS2p6bFFpQ2ZIbHB3S0NoLWFXOV9Odk5jN3FYcmNsZw",
+        "image": null,
+        "timestamp": 1771636911.0
+    },
+    {
         "title_fa": "گزینه‌های ترامپ درباره ایران: از غنی‌سازی نمادین تا از بین بردن خامنه‌ای",
         "title_en": "Trump's Iran options: \"Token\" nuclear enrichment to taking out Khamenei",
         "summary": [
@@ -124,6 +178,24 @@
         "clean_url": "https://www.cnbc.com/2026/02/20/the-best-trades-after-geopolitical-shocks-as-new-iran-conflict-looms.html",
         "image": "https://image.cnbcfm.com/api/v1/image/108261728-1770259704805-gettyimages-1398175221-rlc08101.jpeg?v=1771611956&w=1920&h=1080",
         "timestamp": 1771615440.0
+    },
+    {
+        "title_fa": "چند کشته در ایران؟ کارشناسان می‌گویند تلفات بالا است اما در پوشش سکوت پنهان شده‌اند",
+        "title_en": "How many deaths in Iran? Experts say toll is high but hidden in secrecy",
+        "summary": [
+            "کارشناسان هشدار می‌دهند میزان واقعی مرگ‌ومیر فراتر از ارقام رسمی است و سطح بالایی از تلفات به‌صورت محرمانه نگهداری می‌شود.",
+            "پنهان‌کاری و عدم شفافیت مانع راستی‌آزمایی مستقل و دسترسی خانواده‌ها و ناظران بین‌المللی به اطلاعات دقیق شده است.",
+            "مخفی‌کردن تلفات نشانه‌ای از شکست مدیریتی و ضعف حکمرانی است که نارضایتی عمومی را تقویت کرده و ریسک تشدید ناآرامی‌های گسترده را بالا می‌برد."
+        ],
+        "impact": "پوشش و پنهان‌کاری تلفات ساختار مشروعیت رژیم را تضعیف می‌کند، فشارهای داخلی را افزایش می‌دهد و می‌تواند زمینه‌ساز تشدید فشار خارجی و خواست‌های تحریمی گردد.",
+        "tag": "پنهان‌کاری",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2026/02/20/how-many-protesters-have-been-killed-in-iran/88784701007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/02/20/how-many-protesters-have-been-killed-in-iran/88784701007",
+        "image": "http://www.bing.com/th?id=OVFT.DAz_-f5k5978SRUN2Srm1C&pid=News",
+        "timestamp": 1771615140.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: ترامپ می‌گوید در حال بررسی حمله محدود به ایران است",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPanlNUXB5Sm82SWxub19tdFM4bml2ZEZvXzBXcFlHOERVQXlZNUlCbGs5ZWRYc3YwZ21na21VWWh0aU9MSmFnbUJBUlhMdF9TN21HejlPRG1Dd1Zocmo4SnFlQnZKWkd5M1pUb2NtUlM0eWVqZDFiaU9lMGRDQUxjeVFwOHozVFpUUjVBVDQxR1hWbjBKcEtDUE5OelZDdko1ZjRRZHR1bktNaGxtZ3lVeFI2bUV6azTSAbwBQVVfeXFMUEVTYWJWQjNhekpzNXFmbHVUdkYwdk12YzI2VGRlWlhBODJhRmNtb3l2T0w1ODlieGtraGFFVVNIMzQ5QlVFMjNrSUJpWDh2UXJlbTVGNzBqdW02dnZZRTZfU2phcTFqZ1BJeDZybkFEam5lV19pVElfeFZ2U01kX0x4ZUp1VDA0Mkh1U1JFbU5uR1d2YjduRmJFNHNSWFZfcWlTOEVtb2ZCMGxvZ2hTQ0l6TnZZSlZiTlJtVHU",
         "image": null,
         "timestamp": 1771147532.0
-    },
-    {
-        "title_fa": "پایان بازی ایران آغاز شده. نقطه.",
-        "title_en": "Iran’s Endgame Has Begun. Period.",
-        "summary": [
-            "روزنامه ادعای قاطعی مطرح می‌کند که «پایان بازی» رژیم ایران آغاز شده و شرایط کنونی را نقطه عطفی در مسیر فروپاشی یا تضعیف شدید قدرت رژیم می‌داند.",
-            "مقاله بر این تاکید دارد که روندهای سیاسی و اجتماعی جاری حاکمیت را ضعیف کرده و پیامدهای داخلی و منطقه‌ای قابل توجهی به دنبال خواهد داشت؛ نویسنده احتمال تغییرات بزرگ را محتمل می‌داند.",
-            "برای اپوزیسیون ملی‌گرای طرفدار پهلوی این تحلیل تلنگری است برای سازماندهی بهتر و تکیه بر مقاومت و پایداری مردم تا از فرصت تضعیف رژیم برای بازسازی ملی بهره برد."
-        ],
-        "impact": "اگر این تحلیل اعتبار داشته باشد، تقویت سرمایه‌ی سیاسی اپوزیسیون و افزایش امید عمومی به تغییر مسیر سیاسی را شتاب می‌دهد.",
-        "tag": "پایان",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wYWhLcDNLQ0VzV1JldXBHMy1KTWx5LWRjYV84YU1mZzZxLXAwai0xN29FdE9GclJ6a0N3MFhqZUo1ZHJEOVh3WHliMFp1YndVam9Pelk1Q0pmVlhEVFhNWFJOWU9qUEgtQ2ZuZTNEQW0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wYWhLcDNLQ0VzV1JldXBHMy1KTWx5LWRjYV84YU1mZzZxLXAwai0xN29FdE9GclJ6a0N3MFhqZUo1ZHJEOVh3WHliMFp1YndVam9Pelk1Q0pmVlhEVFhNWFJOWU9qUEgtQ2ZuZTNEQW0",
-        "image": null,
-        "timestamp": 1771145400.0
-    },
-    {
-        "title_fa": "عباس عراقچی راهی ژنو شد برای دور دوم مذاکرات هسته‌ای با آمریکا",
-        "title_en": "Iran’s Abbas Araghchi departs for Geneva for second round of US nuclear talks",
-        "summary": [
-            "عراقچی به‌عنوان رئیس یک هیئت دیپلماتیک و فنی عازم ژنو شد تا در دور دوم مذاکرات غیرمستقیم ایران و آمریکا که سه‌شنبه با میانجی‌گری عمان برگزار می‌شود شرکت کند.",
-            "از سرگیری مذاکرات با هدف خنثی‌سازی اختلافات طولانی‌مدت هسته‌ای همراه است با تقویت نظامی آمریکا در منطقه (ارسال دومین ناو هواپیمابر) و تأکید واشنگتن بر آمادگی برای گزینه نظامی در صورت ناکامی گفتگوها.",
-            "گزارش‌ها از دیدار نمایندگان ارشد آمریکایی (استیو ویتکاف و جرد کوشنر) با مقام‌های ایرانی حکایت دارد؛ ترکیب فشار دیپلماتیک و تهدید نظامی روند فعلی را به فرصتی برای تضعیف موقعیت رژیم و پیشروی مطالبات مردمی تبدیل می‌کند."
-        ],
-        "impact": "این دور مذاکرات در سایه فشار دیپلماتیک و تهدید نظامی آمریکا موقعیت جمهوری اسلامی را تضعیف کرده و فضای سیاسی را برای ادامه مقاومت مدنی و مطالبه آزادی توسط مردم بازتر می‌سازد.",
-        "tag": "مذاکرات",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/irans-abbas-araghchi-departs-for-geneva-for-second-round-of-us-nuclear-talks-13980110.html",
-        "clean_url": "https://www.firstpost.com/world/irans-abbas-araghchi-departs-for-geneva-for-second-round-of-us-nuclear-talks-13980110.html",
-        "image": "http://www.bing.com/th?id=OVFT.buZRzj6QxB8p1OFuvv4e0S&pid=News",
-        "timestamp": 1771143000.0
-    },
-    {
-        "title_fa": "نقشه پنهان: آمریکا و اسرائیل ممکن است از همسایگان غیرمنتظره برای حمله به ایران استفاده کنند",
-        "title_en": "The Hidden Map: US and Israel May Use Unexpected Neighbors to Attack Iran",
-        "summary": [
-            "مقاله به این احتمال می‌پردازد که آمریکا و اسرائیل ممکن است از کشورهای همسایه‌ای که انتظار نمی‌رود به‌عنوان پایگاه یا عوامل عملیاتی برای حمله به ایران استفاده کنند.",
-            "چنین سناریویی خطر گسترش درگیری منطقه‌ای و افزایش فشار نظامی و سیاسی بر تهران را بالا می‌برد و احتمال تشدید تنش‌ها در منطقه را تقویت می‌کند.",
-            "برای رژیم جمهوری اسلامی، این تهدیدهای بیرونی می‌تواند کنترل داخلی را تضعیف کند و فضا را برای تقویت مطالبات آزادی‌خواهانه و مقاومت مردم بازتر سازد."
-        ],
-        "impact": "این احتمال فشار خارجی و نظامی را بر رژیم افزایش می‌دهد و در عمل می‌تواند به تضعیف حکومت و تقویت مسیر مردم به سوی آزادی کمک کند.",
-        "tag": "تهاجم",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "Palestine Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXNubGZhQXYxYXNOOHdHTkdOeHpUVS1qT0JFa01tclNxLVE0UTV3TGI0OTFwem1Sd1R1RllZX2x4RHpMclA1WjcwaDhENDAxRGg5WG9NUnpkT2Y2c2dZVkVBU2EzRnQ1VHUwbm1zcDFSTGRya3hfY3ZFS191c0twMWFwQkNpeHZSbU02alo5TXZIQ29rb1R0aGF4TWZIbTF4S2xFajItc0JwaGRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXNubGZhQXYxYXNOOHdHTkdOeHpUVS1qT0JFa01tclNxLVE0UTV3TGI0OTFwem1Sd1R1RllZX2x4RHpMclA1WjcwaDhENDAxRGg5WG9NUnpkT2Y2c2dZVkVBU2EzRnQ1VHUwbm1zcDFSTGRya3hfY3ZFS191c0twMWFwQkNpeHZSbU02alo5TXZIQ29rb1R0aGF4TWZIbTF4S2xFajItc0JwaGRR",
-        "image": null,
-        "timestamp": 1771142899.0
-    },
-    {
-        "title_fa": "تظاهرات جهانی در حمایت از معترضان ایران؛ رضا پهلوی در مونیخ رهبر انتقال دموکراتیک را وعده داد",
-        "title_en": "Rallies held across the world in support of Iran’s anti-government protesters",
-        "summary": [
-            "صدها هزار نفر در تجمعات همبستگی در سراسر جهان شرکت کردند؛ در مونیخ حدود ۲۰۰٬۰۰۰ نفر به سخنرانی رضا پهلوی گوش دادند که خود را برای هدایت انتقال به «آینده سکولار و دموکراتیک» آماده دانست.",
-            "پهلوی از ایرانیان داخل و خارج خواست تا در ساعت ۲۰ از خانه‌ها و روی بام‌ها شعار دهند تا هم‌زمان با تجمعات خارجی حمایت خود را نشان دهند؛ تظاهرات همبستگی در شهرهایی چون لس‌آنجلس، واشنگتن، تورنتو، تل‌آویو، لیسبون، سیدنی و لندن برگزار شد.",
-            "همزمان ایالات متحده در آستانه مذاکرات تازه با ایران در ژنو، فشار نظامی را با اعزام ناو هواپیمابر دوم به خاورمیانه افزایش داده و رئیس‌جمهور آمریکا تغییر حکومت در تهران را مطلوب خواند؛ اعتراضات داخلی نیز با سرکوب خونین و گزارش‌هایی از جان‌باختن هزاران نفر همراه بوده است."
-        ],
-        "impact": "افزایش فشار بین‌المللی همراه با همبستگی گسترده مردمی و تهدیدهای نظامی، ستون‌های رژیم را تضعیف کرده و مسیر دستیابی به انتقال دموکراتیک را برای مردم ایران تقویت می‌کند.",
-        "tag": "اعتراضات",
-        "urgency": 9,
-        "sentiment": 0.75,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/feb/15/rallies-held-across-the-world-in-support-of-irans-anti-government-protesters",
-        "clean_url": "https://www.theguardian.com/world/2026/feb/15/rallies-held-across-the-world-in-support-of-irans-anti-government-protesters",
-        "image": null,
-        "timestamp": 1771141680.0
     }
 ]
