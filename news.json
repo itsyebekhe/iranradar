@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "درگیری ایران و اسرائیل: اخبار برتر امروز به زبان هندی",
+        "title_en": "Iran-Israel Conflict: Today's Top Hindi News",
+        "summary": [
+            "منبع گزارش یک گردآوری خبری به زبان هندی درباره درگیری ایران و اسرائیل است؛ متن خبری اصلی در دادهٔ ارائه‌شده وجود ندارد.",
+            "به‌دلیل فقدان محتوای تفصیلی، امکان تحلیل آثار تحریم‌ها یا فشار خارجی، و نیز نقش روسیه/چین/کره‌شمالی طبق چهارچوب تحلیلی وجود ندارد.",
+            "چنین پوشش رسانه‌ای می‌تواند برداشت عمومی در میان مخاطبان هندی‌زبان را جهت‌دهی کند، اما بدون جزئیات نمی‌توان اثر ملموسی بر تحولات میدانی یا انسجام داخلی پیش‌بینی کرد."
+        ],
+        "impact": "فقدان متن خبری واقعی ارزیابی تأثیر بر ثبات داخلی یا تصمیم‌گیری‌های منطقه‌ای را غیرممکن می‌سازد؛ تنها تأثیر روشن، انتقال و شکل‌دهی برداشت در جمعیت هندی‌زبان است.",
+        "tag": "رسانه",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "thedetroitbureau.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3hsdmFLRGl2VkxXT0szVTZPQXlMRklta2FHbTloTzVrdFlTQ0hVMi05bERvejdWTXZESGs3cDRMV1VOeF8yZFNINmhFYVZES0dzMm9sWkJDX3FpRWUxU1ptbFpVblg4QXhNZVBnTmdsVGMzcl94ZVU3dEIxcDEzU3ZKZ2NGTkcxa0tpZTltdVhDVVNjcVJQNHk0Qm1qRE5s?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3hsdmFLRGl2VkxXT0szVTZPQXlMRklta2FHbTloTzVrdFlTQ0hVMi05bERvejdWTXZESGs3cDRMV1VOeF8yZFNINmhFYVZES0dzMm9sWkJDX3FpRWUxU1ptbFpVblg4QXhNZVBnTmdsVGMzcl94ZVU3dEIxcDEzU3ZKZ2NGTkcxa0tpZTltdVhDVVNjcVJQNHk0Qm1qRE5s",
+        "image": null,
+        "timestamp": 1771662844.0
+    },
+    {
         "title_fa": "تهیه پیش‌نهاد مقابله‌ای هسته‌ای توسط ایران همزمان با هشدار ترامپ درباره بررسی حملات محدود",
         "title_en": "Iran preparing nuclear counterproposal as Trump warns he is considering limited military strikes",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVm95c2Z6V2J5QjNJTzdwZm9FdFRKd19QVFliNmZLTjhNeC14LWFWVzktNnNfaWEzMjF3czRucE9MNUQ0eEdSVFpXQ3l2dU1KUHYyQndzZnJpSEpJRFRmaEFFRUI4MktOMEZTN1dSS05NVE5ZbTdycGFUZHpDS3JNM3hZR2FwZ3djclJXU09SWFZXbWh2bnhNQlhhZ2lWbkV4RjRueFUxX1k5RGVnaVdqV1FnVHlwMzlDemNRQXRVWERCaEZFRlVCN2Utdw",
         "image": null,
         "timestamp": 1771157001.0
-    },
-    {
-        "title_fa": "ژنرال بازنشسته ارتش پیش‌بینی می‌کند اقدام نظامی مهیب آمریکا علیه ایران در صورت دستور ترامپ",
-        "title_en": "Retired Army general predicts ‘formidable’ US military action against Iran if Trump pulls trigger",
-        "summary": [
-            "یک ژنرال بازنشسته ارتش آمریکا هشدار داده که در صورت صادر شدن دستور از سوی ترامپ، نیروهای آمریکایی قادر به انجام «اقدام نظامی مهیب» علیه ایران خواهند بود.",
-            "این اظهارنظر نشان‌دهنده افزایش ریسک تشدید سریع تنش‌ها و احتمال تقابل نظامی مستقیم میان آمریکا و ایران است.",
-            "برای اپوزیسیون و مردم ایران، تهدید به اقدام نظامی آمریکا می‌تواند فشار خارجی بر رژیم را افزایش دهد و مسیرهای تضعیف حکومت را هموارتر کند، هرچند همراه با خطرات انسانی و منطقه‌ای قابل توجه است."
-        ],
-        "impact": "اعلام این احتمال توسط یک مقام نظامی بازنشسته احتمال افزایش فشار خارجی بر رژیم و تقویت جسارت معترضان را بالا می‌برد، اما همزمان خطر شعله‌ور شدن درگیری‌های گسترده و تلفات را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": 0.5,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0x3QVREMmxaQXQxcU4zX0w0dmFPcW5JVnZaUHR1Tkdfa2ZJWld3bURXbUlhYjJPSjhJLW45SlBqZXUwck1RaEZkdmY2UmVYSUVwT1pJUk1SSkkyVTBhQW50V2VUcjZ6LUdmYU9TQmNGRjlGUGpiUXhjeXdYLUZGdtIBhgFBVV95cUxNRXdhbDNjejNFMG9fTXlRdS1HbUp2MDFoNlhFdjRUd2d5VjVjZUVDd3dqalZHai1fNzFvaDVESFR3ZWZSR1hfeWpTSlZhclNIekJubjFjVU5zSmwxSGpyaVlXTlBiTFdKbHVrMGIyTHY5aEtya2xuMFF1bmY5dFpWS1o4dDhFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0x3QVREMmxaQXQxcU4zX0w0dmFPcW5JVnZaUHR1Tkdfa2ZJWld3bURXbUlhYjJPSjhJLW45SlBqZXUwck1RaEZkdmY2UmVYSUVwT1pJUk1SSkkyVTBhQW50V2VUcjZ6LUdmYU9TQmNGRjlGUGpiUXhjeXdYLUZGdtIBhgFBVV95cUxNRXdhbDNjejNFMG9fTXlRdS1HbUp2MDFoNlhFdjRUd2d5VjVjZUVDd3dqalZHai1fNzFvaDVESFR3ZWZSR1hfeWpTSlZhclNIekJubjFjVU5zSmwxSGpyaVlXTlBiTFdKbHVrMGIyTHY5aEtya2xuMFF1bmY5dFpWS1o4dDhFdw",
-        "image": null,
-        "timestamp": 1771156800.0
     }
 ]
