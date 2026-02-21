@@ -18,6 +18,24 @@
         "timestamp": 1771715614.0
     },
     {
+        "title_fa": "اعتراض رهبران ارشد کلیسای کاتولیک آمریکا به سیاست خارجی واشینگتن",
+        "title_en": "US foreign policy",
+        "summary": [
+            "رابرت مک‌الروی، اسقف واشینگتن دی.سی. همراه با اسقف‌های شیکاگو و نیوارک در بیانیه‌ای سیاست خارجی دولت ترامپ در برابر ونزوئلا، اوکراین و گرینلند را محکوم کردند و خواستار دیپلماسی چندجانبه و گفت‌وگو شدند.",
+            "آنها با استناد به اظهارات پاپ لئو چهاردهم، استفاده از جنگ را فقط به عنوان آخرین چاره و در شرایط اضطراری مشروع دانستند و اعلام کردند سیاست جاری فاقد چندجانبه‌گرایی و منافع مشترک کشورهای دخیل است.",
+            "این انتقاد دو هفته پس از عملیات نظامی اعلام‌شده آمریکا برای بیرون آوردن نیکلاس مادورو در ۳ ژانویه و اعلام قصد خرید گرینلند توسط ترامپ مطرح شد؛ استادیار تئولوژی دانشگاه جورج‌تاون می‌گوید این بیانیه‌ها بر مبنای «نظریه جنگ عادلانه» شکل گرفته‌اند."
+        ],
+        "impact": "بیانیه سه تن از مقامات ارشد کلیسایی شکاف قابل‌توجهی در اجماع داخلی بر سر سیاست خارجی ایجاد می‌کند که اعتبار و توان واشینگتن برای شکل‌دادن ائتلاف‌ها و اعمال فشار یکپارچه را تضعیف می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "The Guardian",
+        "url": "https://thehoya.com/news/dc-cardinal-condemns-us-foreign-policy/",
+        "clean_url": "https://thehoya.com/news/dc-cardinal-condemns-us-foreign-policy",
+        "image": null,
+        "timestamp": 1771714383.0
+    },
+    {
         "title_fa": "اسرائیل حزب‌الله را هدف قرار می‌دهد در آستانه احتمال رویارویی بر سر حمله به ایران",
         "title_en": "Israel Targeting Hezbollah Ahead of Possible Clash Over Iran Strike, Security Sources Say",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGxQSmNwOWsxZjU0akxIck5yQjA4Ukl2LVI2ekhPWHY1cjNnZzB1UGE2ZzM0bVhfLWpNMDA5T2JpMWg5ZXNNSy0yc2tnRGFyZW9UeGttM3JINUpzV0NoMFlRTDdPMXhjRE1JSHV5Q0t4WVNCdHA0RmRxWlEyNldpTEdCTTE1Y09aWnVZYmdRTjcta0FhWEp3R21iZ00wWVNLU0pLMlBoTVpjckhCcGp1NGVOUmZrUQ",
         "image": null,
         "timestamp": 1771225568.0
-    },
-    {
-        "title_fa": "وزیر خارجه ایران برای دور دوم مذاکرات با آمریکا وارد ژنو شد",
-        "title_en": "Iran foreign minister arrives in Geneva for second round of talks with US",
-        "summary": [
-            "وزیر امور خارجه ایران به ژنو رسید تا در دور دوم مذاکرات با نمایندگان آمریکا شرکت کند.",
-            "این دور مذاکرات ادامه تماس‌های دیپلماتیک میان تهران و واشنگتن را نشان می‌دهد و از سرگیری گفت‌وگوها را تأیید می‌کند.",
-            "در داخل ایران، چنین مذاکرهاتی هم می‌تواند دستآویز تبلیغاتی رژیم برای نمایش «روابط» باشد و هم موجی از انتقادات درباره هرگونه امتیازدهی احتمالی را تشدید کند."
-        ],
-        "impact": "این سفر نشان‌دهنده تعامل دیپلماتیک ادامه‌دار است که ممکن است فشار بین‌المللی را به‌صورت موقت کاهش دهد اما هم‌زمان ابزارهای داخلی رژیم برای مشروعیت‌سازی را تقویت می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWl3X1AyOUJvMV9RLW5RNXNUYzRqbWl0RS1xWkZOMWVLdEo3TmU0YUtMeUpvX1BnRUlGanNrOXlwMWZZNm8tcVJuRTJGS0dxWi1PSDBMdF9OZ052QXMtY0JlRDgzSU1zN0tTUlU5ckFlMUdiVVlKaTNlT0JSZVpUaXU3d3JTd1ZRMEdNTGJTU0NONkxYVHpqdnJyZ2Z3R3FnWS15SHJEazg5dXZnWlZUVV80akJIcGpDbnJJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWl3X1AyOUJvMV9RLW5RNXNUYzRqbWl0RS1xWkZOMWVLdEo3TmU0YUtMeUpvX1BnRUlGanNrOXlwMWZZNm8tcVJuRTJGS0dxWi1PSDBMdF9OZ052QXMtY0JlRDgzSU1zN0tTUlU5ckFlMUdiVVlKaTNlT0JSZVpUaXU3d3JTd1ZRMEdNTGJTU0NONkxYVHpqdnJyZ2Z3R3FnWS15SHJEazg5dXZnWlZUVV80akJIcGpDbnJJ",
-        "image": null,
-        "timestamp": 1771225312.0
     }
 ]
