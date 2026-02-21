@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "آیا آمریکا ایران را حمله خواهد کرد؟ ترامپ گزینه‌ها را بررسی می‌کند و حمله محدود را مطرح می‌کند",
+        "title_en": "Will the US attack Iran? Trump weighs options, floats limited strike",
+        "summary": [
+            "گزارش USA Today می‌گوید دونالد ترامپ در حال سنجش گزینه‌های نظامی علیه ایران و مطرح‌کردن امکان اجرای یک حمله محدود است؛ این روند احتمال تشدید تنش مستقیم بین آمریکا و ایران را افزایش می‌دهد.",
+            "یک حمله محدود، حتی اگر هدفمند باشد، فشار و انسداد خارجی بر ساختار رژیم را تقویت می‌کند و می‌تواند ثبات نهایی نظام را تضعیف کند؛ در عین حال ریسک تسری درگیری و پاسخ‌های منطقه‌ای را بالا می‌برد.",
+            "از منظر داخلی، تهدید یا وقوع ضربه نظامی می‌تواند ناکارآمدی و سوءمدیریت حکومت را برجسته کند و زمینه افزایش نارضایتی اجتماعی و سیاسی را فراهم سازد، اما شواهد مستقیم درباره انتفاضه یا فروپاشی اقتصادی وابسته به تحولات آینده است."
+        ],
+        "impact": "پیامد فوری: حتی حمله محدود آمریکا می‌تواند توازن قدرت داخلی رژیم را متزلزل و بحران سیاسی-اقتصادی را تشدید کند.",
+        "tag": "تهاجم",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "USA Today",
+        "url": "https://www.msn.com/en-us/news/world/will-the-us-attack-iran-trump-weighs-options-floats-limited-strike/ar-AA1WNTsA",
+        "clean_url": "https://www.msn.com/en-us/news/world/will-the-us-attack-iran-trump-weighs-options-floats-limited-strike/ar-AA1WNTsA",
+        "image": null,
+        "timestamp": 1771686480.0
+    },
+    {
+        "title_fa": "تهدید ترامپ به حمله برای وادار کردن ایران به توافق ممکن است نتیجه معکوس داشته باشد",
+        "title_en": "Trump’s Threatened Strikes to Compel Iran Deal Risk Backfiring",
+        "summary": [
+            "تهدید به حمله نظامی از سوی ترامپ برای مجبور کردن ایران به پذیرش توافق می‌تواند به‌جای تضعیف حاکمیت، واکنش‌های ملی‌گرایانه و تقویت جناح‌های تندرو را برانگیزد و ظرفیت‌های سرکوب را مشروعیت بخشد.",
+            "از منظر فشارهای خارجی، اتکا به گزینه نظامی احتمال دارد ابزار تحریمی و دیپلماتیک را تضعیف کند چون چنین تهدیداتی می‌تواند به رژیم فرصت تبدیل فشار خارجی به روایت مقاومت و استفاده از منابع محدود داخلی برای حفظ قدرت دهد.",
+            "در حوزه اقتصاد و اعتراضات داخلی، تهدید به حمله ریسک بی‌ثباتی بازارها و ارز را بالا می‌برد، به حکومت بهانه‌ای برای محدودسازی اعتراضات می‌دهد و ضعف ساختاری در مدیریت اقتصادی و سیاسی را برجسته می‌کند."
+        ],
+        "impact": "پیامد محتمل این تحرک این است که تهدید نظامی به‌جای تحقق اهداف فوری واشنگتن، ثبات کوتاه‌مدت رژیم را افزایش و در عین حال خطر تشدید درگیری منطقه‌ای را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Bloomberg.com",
+        "url": "https://www.msn.com/en-us/news/world/trump-s-threatened-strikes-to-compel-iran-deal-risk-backfiring/ar-AA1WLBt3",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-s-threatened-strikes-to-compel-iran-deal-risk-backfiring/ar-AA1WLBt3",
+        "image": null,
+        "timestamp": 1771683908.0
+    },
+    {
         "title_fa": "نتانیاهو و اسرائیل آمریکا را به حمله به ایران تحریک می‌کنند — و رسانه‌ها همچنان این موضوع را نادیده می‌گیرند",
         "title_en": "Netanyahu and Israel are provoking the U.S. into attacking Iran — and the media continues to ignore it",
         "summary": [
@@ -214,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3hsdmFLRGl2VkxXT0szVTZPQXlMRklta2FHbTloTzVrdFlTQ0hVMi05bERvejdWTXZESGs3cDRMV1VOeF8yZFNINmhFYVZES0dzMm9sWkJDX3FpRWUxU1ptbFpVblg4QXhNZVBnTmdsVGMzcl94ZVU3dEIxcDEzU3ZKZ2NGTkcxa0tpZTltdVhDVVNjcVJQNHk0Qm1qRE5s",
         "image": null,
         "timestamp": 1771662844.0
+    },
+    {
+        "title_fa": "ترامپ ممکن است «غنی‌سازی نمادین» ایران را بپذیرد",
+        "title_en": "Trump could allow Iran ‘token’ nuclear enrichment",
+        "summary": [
+            "گزارش‌ها حاکی است که دولت ترامپ بررسی می‌کند به ایران اجازه دهد «غنی‌سازی نمادین» داشته باشد مشروط بر اینکه برنامه هسته‌ای راهی به بمب باز نکند؛ دونالد ترامپ همچنین ضرب‌الاجلی ۱۰ تا ۱۵ روزه برای توافق تعیین کرده است.",
+            "هم‌زمان واشینگتن تجمع گسترده نیروها در خاورمیانه و گزینه‌های نظامی از جمله حمله هوایی چند هفته‌ای و هدف‌گیری مستقیم را آماده کرده است؛ گزینه «غنی‌سازی نمادین» در چارچوب فشار نظامی-دیپلماتیک مطرح شده تا کنترل بین‌المللی بر برنامه ایران حفظ شود.",
+            "اگرچه پیشنهادِ موافقت با غنی‌سازی محدود می‌تواند روند مذاکره را جلو ببرد، اما این راه‌حل ساختاری رژیم را تضعیف نکرده و احتمال دارد فشار خارجی و پیامدهای سیاسی-اقتصادی داخلی را تشدید کند."
+        ],
+        "impact": "اجرای چنین ترتیبی می‌تواند مشروعیت بین‌المللی و توان بازدارندگی حکومت را کاهش داده و نارضایتی داخلی را افزایش دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-could-allow-iran-token-124852382.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-could-allow-iran-token-124852382.html",
+        "image": "http://www.bing.com/th?id=OVFT.lntO7B6Y60YKyuejCfJuIS&pid=News",
+        "timestamp": 1771657320.0
     },
     {
         "title_fa": "تهیه پیش‌نهاد مقابله‌ای هسته‌ای توسط ایران همزمان با هشدار ترامپ درباره بررسی حملات محدود",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/did-donald-trump-tell-benjamin-netanyahu-hed-back-israeli-strikes-on-iran-new-report-emerges-ahead-of-us-iran-talks-article-153619945",
         "image": "http://www.bing.com/th?id=OVFT.BbNopsClg4pr84vorckCwC&pid=News",
         "timestamp": 1771194720.0
-    },
-    {
-        "title_fa": "گزارش: ترامپ به نتانیاهو گفته در صورت شکست مذاکرات از حملات اسرائیل به ایران حمایت می‌کند",
-        "title_en": "Trump told Netanyahu he’d back Israeli strikes on Iran if talks fail – report",
-        "summary": [
-            "مطابق گزارش، دونالد ترامپ به بنیامین نتانیاهو گفته در صورتی که مذاکرات با ایران بی‌نتیجه بماند، از حملات نظامی اسرائیل علیه ایران حمایت خواهد کرد.",
-            "چنین ابراز حمایتی می‌تواند به منزله چراغ سبز احتمالی برای حملات باشد و خطر تشدید تنش‌ها و رویارویی نظامی بین ایران، اسرائیل و متحدان منطقه‌ای را افزایش دهد.",
-            "برای داخل ایران این گزارش ضعف بین‌المللی و آسیب‌پذیری رژیم را برجسته می‌کند و می‌تواند بار فشارهای سیاسی و اجتماعی بر حکومت را تشدید کرده و فرصت‌های سیاسی برای جنبش‌های اعتراضی و اپوزیسیون فراهم آورد."
-        ],
-        "impact": "این خبر خطر تشدید نظامی را بالا می‌برد و هم‌زمان ضعف و انزوازدگی رژیم را نشان می‌دهد که می‌تواند فضای سیاسی را برای نیروهای معارض و مطالبات آزادی‌خواهانه مردم تقویت کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1FSQ1BReVpubzRiQTVYY21XZVN4VmVmbk5JNzRWWHdWbmxKb3RXVFJ2OFdzQ051cmdWZDNVQk9NV1ZHQVNfcTdCeEtOcVIwNDFmZC1iRnliS25jU2hzazhmQXN1OHp2aDBVUDJPMWFrYUVZV1hvaWZINkViLUFLVlRGSGJCdDFROFVSZktwZzJMVXhXcWRJMmIycWlEUVNzdmZCYUJNUWrSAa4BQVVfeXFMTXlNbXdJNktTbFBIdFo4bDNOZ2xHRjdfd3NqSVNXT253eFJQUTdmQVEweDB2VFhGbkxibGpVSmhEVWRCaThWOVZWakd3N1puX3ZmMF95elZ4azFOR0JMSko2NWFqc1lGMkRDaHhnbjI0R1diLVBoSjBNUk8xeFREYjNaR184cl92QllQSWxnMGxyNkpGeDRtMzdqUU11bVJ2dUZCZ09oN21RRDEyNzhn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1FSQ1BReVpubzRiQTVYY21XZVN4VmVmbk5JNzRWWHdWbmxKb3RXVFJ2OFdzQ051cmdWZDNVQk9NV1ZHQVNfcTdCeEtOcVIwNDFmZC1iRnliS25jU2hzazhmQXN1OHp2aDBVUDJPMWFrYUVZV1hvaWZINkViLUFLVlRGSGJCdDFROFVSZktwZzJMVXhXcWRJMmIycWlEUVNzdmZCYUJNUWrSAa4BQVVfeXFMTXlNbXdJNktTbFBIdFo4bDNOZ2xHRjdfd3NqSVNXT253eFJQUTdmQVEweDB2VFhGbkxibGpVSmhEVWRCaThWOVZWakd3N1puX3ZmMF95elZ4azFOR0JMSko2NWFqc1lGMkRDaHhnbjI0R1diLVBoSjBNUk8xeFREYjNaR184cl92QllQSWxnMGxyNkpGeDRtMzdqUU11bVJ2dUZCZ09oN21RRDEyNzhn",
-        "image": null,
-        "timestamp": 1771190270.0
-    },
-    {
-        "title_fa": "نتانیاهو خواستار برچیدن برنامه هسته‌ای ایران در هر توافق با آمریکا شد",
-        "title_en": "Netanyahu calls for dismantling Iran’s nuclear programme in any US deal",
-        "summary": [
-            "بنیامین نتانیاهو در کنفرانس گروه‌های یهودی آمریکا گفت هر توافق با ایران باید شامل خروج مواد غنی‌شده، نابودی تجهیزات و زیرساخت‌های غنی‌سازی و حل‌وفصل مسئله موشک‌های بالستیک باشد و خواستار بازرسی‌های مؤثر و بدون «زمان انتظار» شد.",
-            "همزمان گفتگوهای هسته‌ای میان ایران و آمریکا در عمان از سر گرفته شده است؛ مذاکرات قبلی پس از حملات بی‌سابقه اسرائیل (و مشارکت نیابتی یا مستقیم آمریکا در بمباران سه سایت هسته‌ای ایران) در ژوئن گذشته متوقف شده بودند.",
-            "فشار شدید اسرائیل و آمریکا بر مفاد سختگیرانه توافق (و تأکید بر برچیدن زیرساخت‌ها) عملاً اهرم بین‌المللی علیه حکومت تهران افزایش می‌دهد و می‌تواند فضای سیاسی و فشارهای داخلی را تشدید کند که به نفع مطالبات مردم و تضعیف پایه‌های رژیم است."
-        ],
-        "impact": "پافشاری نتانیاهو بر نابودی زیرساخت‌های هسته‌ای و بازرسی‌های سختگیرانه بار بین‌المللی را علیه جمهوری اسلامی افزایش می‌دهد و می‌تواند به عنوان فرصت برای تقویت مطالبات داخلی و کاهش انسجام حکومت عمل کند.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/2/16/netanyahu-calls-for-dismantling-irans-nuclear-programme-in-any-us-deal",
-        "clean_url": "https://www.aljazeera.com/news/2026/2/16/netanyahu-calls-for-dismantling-irans-nuclear-programme-in-any-us-deal",
-        "image": "http://www.bing.com/th?id=OVFT.0eQA7XotdTKXpDO51pBIAC&pid=News",
-        "timestamp": 1771187760.0
-    },
-    {
-        "title_fa": "رسانه‌های دولتی ایران گزارش دادند وزیر خارجه در مذاکرات غیرمستقیم با آمریکا شرکت خواهد کرد",
-        "title_en": "Iran’s state media reports foreign minister will attend indirect talks with the U.S.",
-        "summary": [
-            "رسانه‌های رسمی ایران اعلام کردند وزیر خارجه این کشور در جلسات غیرمستقیم با نمایندگان آمریکا حضور خواهد داشت.",
-            "اصطلاح «غیرمستقیم» نشان می‌دهد دیدارها به‌صورت میانجی‌محور یا از طریق واسطه برگزار می‌شود و دیدار رودررو میان مقامات عالی دو طرف پیش‌بینی نشده است.",
-            "این اقدام سیاسی می‌تواند نشانه‌ای از تمایل تهران به کاهش فشار خارجی یا کسب امتیاز دیپلماتیک باشد و برای رژیم داخلی نیز پیام سیاسی داشته باشد."
-        ],
-        "impact": "حضور وزیر خارجه در مذاکرات غیرمستقیم با آمریکا می‌تواند فرصتی برای آشکار شدن شکاف‌ها و تضعیف بیشتر مشروعیت رژیم باشد و در عین حال دستاویزی برای حکومت جهت توجیه امتیازدهی به خارج فراهم کند.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": 0.25,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFE3Ynh4c29PNVltMFZzYm5menZVaUl1NzQ5N3ljMmhxaHNXVEdMX1Z3cEdmOXdIME1GXzloM0E4QW5NWWVnZWRnU3hKaDlrVWZTU184VExWbnF1Y0xTNGlQNnpjb3JKUkl4V3A2aV91c1E0Z2lVdFJaTXIyZVlWbVByU196RTBTU05pajBZVWYyeklXWlRZa0U2Nk1TUGxycWJscy1DZW41ekFBbndWU1NTV3BqSnBM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFE3Ynh4c29PNVltMFZzYm5menZVaUl1NzQ5N3ljMmhxaHNXVEdMX1Z3cEdmOXdIME1GXzloM0E4QW5NWWVnZWRnU3hKaDlrVWZTU184VExWbnF1Y0xTNGlQNnpjb3JKUkl4V3A2aV91c1E0Z2lVdFJaTXIyZVlWbVByU196RTBTU05pajBZVWYyeklXWlRZa0U2Nk1TUGxycWJscy1DZW41ekFBbndWU1NTV3BqSnBM",
-        "image": null,
-        "timestamp": 1771182893.0
     }
 ]
