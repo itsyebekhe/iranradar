@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چرا حمله به ایران می‌تواند پرخطرتر از دستگیری مادورو باشد",
+        "title_en": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
+        "summary": [
+            "نیویورک‌تایمز استدلال می‌کند که حمله نظامی به ایران در مقایسه با عملیات علیه مادورو با پیچیدگی‌های راهبردی و احتمال گسترش درگیری، پیامدهای منطقه‌ای و بین‌المللی بسیار بیشتری همراه است.",
+            "تحریم‌ها فشار ساختاری بر اقتصاد و دولت ایران وارد کرده‌اند اما این فشارها نه به‌طور قطع رژیم را از بین می‌برند و نه مسیر نظامی امن یا کم‌هزینه‌ای برای تحقق اهداف سیاسی فراهم می‌کنند.",
+            "ضعف حکمرانی و نارضایتی‌های داخلی پایه‌های شکنندگی را نشان می‌دهد، اما حمله نظامی می‌تواند به نتایجی ناپایدار و غیرقابل‌پیش‌بینی در داخل کشور و در سطح منطقه منجر شود."
+        ],
+        "impact": "حمله به ایران احتمالاً تشدید فوری تنش‌های منطقه‌ای، اختلال در بازار انرژی و افزایش هزینه‌های سیاسی و نظامی برای بازیگران مداخله‌گر را در پی خواهد داشت.",
+        "tag": "تقابل",
+        "urgency": 9,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
+        "clean_url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
+        "image": null,
+        "timestamp": 1771668130.0
+    },
+    {
         "title_fa": "تحلیل خبری: رئیس‌جمهور ترامپ در حال بررسی تعهد آمریکا به عملیات نظامی دیگری علیه ایران",
         "title_en": "News Analysis: President Trump is considering committing the U.S. to another military campaign against Iran. This decision carries the risk of igniting a conflict that could prove to be longer, deadlier and far more dangerous than last year’s 12-day war.",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbDN3VWRwaGhWNTY5QUcxQU56c21GTFRzYkF0RENUSDIzOEdWdTJEcnlBbUJRYlN3WlZxYXF5LUN1OGVyblhzbWF1NHVCSUVyWEpMYXZvNno4RDVXWUpNMWhDOFRqTGxsN041Tm5SS3VWdXQzYVVUNGZnNF9PNGJXRFBMM3hYT1JQeTZiQVRJcUN6ckNob3NiRGhYTGRKRllQWGNrSTBzUmdjRk04UzZaOFlBUWNxZ9IBuwFBVV95cUxOdDJWaEdkRm84OEd3bmRaMUFwTnVocm43MTRWdVlRLTlvVHpkWEM5b3o5Z1FGdXlXWUYxd01MZ1FvOVV6bE8yWEZzYUJ2TlVZVEtzUkNfY29lOTBQdkEtdlI1NFctT1c1aFhVeWRJTGdadmVjcW5QYkRvZS1nOFdsVWlZY3V5T1ZrUXN3OVZKRFN0VWxpeEZzcGZwLVE0TU5sbXBWQVNIRWZxLU5rWU1sYVFJSlpSOWVlTkl3",
         "image": null,
         "timestamp": 1771664688.0
+    },
+    {
+        "title_fa": "تهران در حالت آماده‌باش؛ ساکنان نگران حمله آمریکا",
+        "title_en": "Tehran on edge as residents fear US attack",
+        "summary": [
+            "فایننشال تایمز گزارش می‌دهد شهروندان تهران در پی تهدید یا احتمال حمله آمریکا در وضعیت اضطراری قرار دارند و فضای عمومی با ترس و نگرانی گسترده توصیف شده است.",
+            "این وضعیت ضعف عملکرد امنیتی و اطلاع‌رسانی حکومت را عیان می‌کند؛ ناتوانی در تأمین احساس امنیتِ حداقلی برای مردم بار سیاسی و اجتماعی رژیم را افزایش می‌دهد.",
+            "افزایش ریسک نظامی و فشار خارجی می‌تواند به صورت بالقوه پیامدهای اقتصادی (کاهش سرمایه‌گذاری، تشدید خروج سرمایه) و سیاسی (افزایش نارضایتی عمومی و فشار بر نهادهای امنیتی) را تشدید کند."
+        ],
+        "impact": "پیامد فوری این است که فشار روانی و سیاسی بر رژیم بالا می‌رود و ریسک تشدید تنش منطقه‌ای و فرسایش مشروعیت داخلی را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/c8f309fd-ab19-48c6-953b-03b884bfd065",
+        "clean_url": "https://www.ft.com/content/c8f309fd-ab19-48c6-953b-03b884bfd065",
+        "image": null,
+        "timestamp": 1771663076.0
     },
     {
         "title_fa": "درگیری ایران و اسرائیل: اخبار برتر امروز به زبان هندی",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0JhQmRUaUc1YnBTQ0EwOEw5a3hBb1pTcUZENW82SjFjaWMyZ1Nfak9SbUVOVEZBT1ozamY4VVJuMjdubDVFOUM2c2dwYTEwSWU0ZF9NS1ZLS3FlcG9hSGlrOGUxTXlQSWU5NnNMN2QyMUlNYzd2c0JCRk9faUN1M25Sd0YzZ3JmWG4ycG5CUkQwSEJSMmhFSGRCM0xvcU1wUjdvY3ZKMFVkRzBQZzZsc29MM05IM09DX25OUXlrRXMtem5OcG5FbURn",
         "image": null,
         "timestamp": 1771163502.0
-    },
-    {
-        "title_fa": "صدها هزار نفر در سراسر جهان در اعتراضات مرتبط با ایران شرکت کردند",
-        "title_en": "Hundreds of thousands join Iran protests around the world",
-        "summary": [
-            "صدها هزار نفر در شهرهای مختلف جهان تجمع کردند تا از اعتراضات داخلی ایران حمایت کنند و پیام همبستگی بفرستند.",
-            "این حرکت پراکندهٔ جهانی نشان‌دهنده پشتیبانی گسترده جامعهٔ ایرانیان در خارج و توجه عمومی بین‌المللی به خواسته‌های معترضان است.",
-            "تظاهرات بین‌المللی نمادی از ناکارآمدی رژیم در خاموش‌کردن صدای مردم و تقویت روحیهٔ مقاومت در داخل کشور است."
-        ],
-        "impact": "افزایش همبستگی جهانی علیه رژیم می‌تواند فشار سیاسی و رسانه‌ای را بالا ببرد و به تقویت ارادهٔ معترضان داخل ایران کمک کند.",
-        "tag": "اعتراضات",
-        "urgency": 6,
-        "sentiment": 0.75,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRWk1SXg5UXJSdDlWVUdDMnAtMnpCQXZoRHFuVy1hczNTSDczdjE3ZURZUnN4MnBJUF9fU21CbkpjRmJYUHRYMEh5WnBxOHJ0Q3AwaFBJMnQtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRWk1SXg5UXJSdDlWVUdDMnAtMnpCQXZoRHFuVy1hczNTSDczdjE3ZURZUnN4MnBJUF9fU21CbkpjRmJYUHRYMEh5WnBxOHJ0Q3AwaFBJMnQtZw",
-        "image": null,
-        "timestamp": 1771162526.0
-    },
-    {
-        "title_fa": "ایران از رویه ترامپ در مذاکرات هسته‌ای پیروی می‌کند",
-        "title_en": "Iran copies Trump’s strategy in nuclear talks",
-        "summary": [
-            "تیتر جروزالم پست ادعا می‌کند که ایران در مذاکرات هسته‌ای تاکتیک‌هایی مشابه استراتژی مذاکره‌ای دونالد ترامپ را به‌کار گرفته، از جمله مواضع سخت و تلاش برای فشار حداکثری بر طرف مقابل.",
-            "این گرایش نشان‌دهنده ضعف راهبردی و اتکای رژیم به مانورهای تهاجمی در دیپلماسی است که می‌تواند اعتبار بین‌المللی و اهرم‌های چانه‌زنی ایران را تضعیف کند.",
-            "برای اپوزیسیون و مردم ایران، چنین رفتارهای نمایشی فرصتی برای برجسته‌سازی ناکارآمدی حکومتی و تقویت فشارهای داخلی و بین‌المللی به‌منظور تغییر سیاسی فراهم می‌کند."
-        ],
-        "impact": "تقلید از «استراتژی ترامپ» در مذاکرات، نشانه‌ای از شکست راهبردی رژیم است که می‌تواند عملکرد بین‌المللی آن را تضعیف کرده و راه را برای افزایش فشارهای داخلی و خواست تغییر باز کند.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UbUM1b01iTXRNT0FFRUJZZXpqbDlVNkZodUNDUGlrY2ptVnFscXltaTlncDYxX1BEa01DSWFMd0RzNnhjLW1WMWlVT3FHbjJ0ZkpQMkI3RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UbUM1b01iTXRNT0FFRUJZZXpqbDlVNkZodUNDUGlrY2ptVnFscXltaTlncDYxX1BEa01DSWFMd0RzNnhjLW1WMWlVT3FHbjJ0ZkpQMkI3RQ",
-        "image": null,
-        "timestamp": 1771160400.0
     }
 ]
