@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "گزینه‌های ترامپ درباره ایران: از غنی‌سازی نمادین تا از بین بردن خامنه‌ای",
+        "title_en": "Trump's Iran options: \"Token\" nuclear enrichment to taking out Khamenei",
+        "summary": [
+            "Axios گزارش می‌دهد که در واشنگتن مجموعه‌ای از گزینه‌ها روی میز است؛ از پذیرش «غنی‌سازی نمادین» تا گزینه‌های رادیکال‌تر از جمله هدف‌گرفتن خامنه‌ای.",
+            "افزایش فشار خارجی یا اقدامات نظامی مستقیم می‌تواند ساختار نهادی و اقتصادی رژیم را از منظر توانمندی بوروکراتیک و درآمدی تضعیف کند و هزینه سیاسی داخلی را افزایش دهد.",
+            "تهدید به عملیات‌های هدفمند یا تشدید تحریم‌ها احتمالاً نارضایتی عمومی را برجسته‌تر می‌کند و ضعف مدیریت اقتصادی و سیاسی را عیان‌تر خواهد ساخت."
+        ],
+        "impact": "طرح گزینه‌هایی که شامل هدف‌گرفتن رهبر رژیم است، ریسک تشدید سریع بحران سیاسی و نظامی را بالا می‌برد و می‌تواند روند تضعیف مشروعیت و انسجام داخلی رژیم را تسریع کند.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Axios",
+        "url": "https://www.msn.com/en-us/news/world/trumps-iran-options-token-nuclear-enrichment-to-taking-out-khamenei/ar-AA1WLSPp",
+        "clean_url": "https://www.msn.com/en-us/news/world/trumps-iran-options-token-nuclear-enrichment-to-taking-out-khamenei/ar-AA1WLSPp",
+        "image": null,
+        "timestamp": 1771633893.0
+    },
+    {
         "title_fa": "ترامپ می‌گوید حمله نظامی محدود به ایران را بررسی می‌کند",
         "title_en": "Trump says he is considering limited military strike on Iran",
         "summary": [
@@ -196,6 +214,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3BXRElkZWE2X3dDR0lwMGFCQkc3Y2hCR1BzUnpIZVVabUV1RFJ4UzZZRkVkNUlqR09XMjBJbVJHQTdkcVN6SmVJTHB4OXlVUXB0MWItS2pINERJRWkwdy13SHo4dXo3MW1ncmVhOUlRV0dkdVFMRGdsSTQyVThlZXpfY3R4X1M4aDc3Y2RYOFIySnk5TGZJ",
         "image": null,
         "timestamp": 1771610501.0
+    },
+    {
+        "title_fa": "قیمت نفت ثابت؛ ترامپ در حال بررسی حمله نظامی محدود به ایران",
+        "title_en": "Oil prices stable as Trump considers limited military strike against Iran",
+        "summary": [
+            "رئیس‌جمهور آمریکا دونالد ترامپ اعلام کرد در حال بررسی حمله نظامی محدود علیه ایران است و خواستار توافق ظرف 10 تا 15 روز شد؛ بازار نفت پس از ثبت بالاترین بسته‌شدن شش‌ماهه روز قبل، با برنت 71.76 دلار و دبلیوت‌ای 66.39 دلار بسته شد.",
+            "گفت‌وگوها در سوئیس ابتدا نشانه‌هایی از پیشرفت داشت اما واشنگتن مدعی شد تهران مطالبات اصلی آمریکا را برآورده نکرده؛ هم‌زمان افزایش تحرکات نظامی آمریکا در خاورمیانه و گزارش‌هایی درباره احتمال اقدام نظامی فوری منتشر شده و تهران به دبیرکل سازمان ملل هشدار داده در صورت حمله «قاطع» پاسخ خواهد داد.",
+            "از منظر ساختاری، تهدید به اقدام نظامی و تشدید فشار خارجی ریسک عرضه نفت منطقه را افزایش می‌دهد و می‌تواند هزینه‌های اقتصادی و فشار سیاسی بر رژیم تهران را بالا ببرد؛ این فشارها احتمالاً ظرفیت دیپلماتیک رژیم را محدود و آسیب‌پذیری داخلی آن را تشدید می‌کنند."
+        ],
+        "impact": "افزایش احتمال رویارویی نظامی در روزهای آینده ثبات سیاسی-اقتصادی رژیم تهران را بیشتر تضعیف کرده و ریسک اختلال در عرضه نفت و نوسان بازار جهانی را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/20/oil-prices-trump-us-iran-conflict-strikes-energy.html",
+        "clean_url": "https://www.cnbc.com/2026/02/20/oil-prices-trump-us-iran-conflict-strikes-energy.html",
+        "image": null,
+        "timestamp": 1771610340.0
     },
     {
         "title_fa": "ایران در حال سنجش پاسخ به احتمال ازسرگیری حملات آمریکا-اسرائیل",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.theguardian.com/world/2026/feb/15/rallies-held-across-the-world-in-support-of-irans-anti-government-protesters",
         "image": null,
         "timestamp": 1771141680.0
-    },
-    {
-        "title_fa": "ایران اعلام آمادگی برای مصالحه بر سر توافق هسته‌ای در صورت تعامل آمریکا درباره تحریم‌ها",
-        "title_en": "Iran Signals Willingness to Compromise on Nuclear Deal if US Engages on Sanctions",
-        "summary": [
-            "تهران گفته حاضر است در متن توافق هسته‌ای انعطاف نشان دهد مشروط به اینکه آمریکا درباره تحریم‌ها وارد گفت‌وگو و تعامل شود.",
-            "این اعلام موضع به‌عنوان تلاشی برای شکستن بن‌بست مذاکرات و تلاش جهت کاهش فشارهای اقتصادی ناشی از تحریم‌ها قابل‌تفسیر است.",
-            "پیشنهاد مذاکره می‌تواند هم به‌عنوان اهرم دیپلماتیک برای کسب تخفیف تحریمی و هم به‌عنوان ابزاری داخلی برای کاهش فشار بر رژیم به‌کار رود."
-        ],
-        "impact": "هرگونه تعامل آمریکا درباره تحریم‌ها که به پیشرفت مذاکرات هسته‌ای بینجامد می‌تواند ضعف‌های سیاسی و اقتصادی رژیم را برجسته کند و مسیر مبارزه مردم برای آزادی را تقویت نماید.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "kurdistan24.net",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQemZvTFROVjNxMDVlUkZBN1Mtek1kM0Z4ZS0xWkRZbjVLX1J5R0FiZzkyMzR0aWNuVGJfNTBqeGNxajRTR09rZkVIZGJYUEI0U3FMX1JTZ0YzRHo3c0FxMXA0RWxCY0xCSkE1Y3lHdm9Ec0ZkT0JNek5yWnhDREI4dlBiZHpHcXlDd3RoZllmb1RKdXZqS0s0dldZYnZ6Vi1ERDQ3S1ZjeUY1ZV9nT3JPTlpLbmtKM1FtWFc5al9BZFR0RnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQemZvTFROVjNxMDVlUkZBN1Mtek1kM0Z4ZS0xWkRZbjVLX1J5R0FiZzkyMzR0aWNuVGJfNTBqeGNxajRTR09rZkVIZGJYUEI0U3FMX1JTZ0YzRHo3c0FxMXA0RWxCY0xCSkE1Y3lHdm9Ec0ZkT0JNek5yWnhDREI4dlBiZHpHcXlDd3RoZllmb1RKdXZqS0s0dldZYnZ6Vi1ERDQ3S1ZjeUY1ZV9nT3JPTlpLbmtKM1FtWFc5al9BZFR0RnM",
-        "image": null,
-        "timestamp": 1771141299.0
-    },
-    {
-        "title_fa": "ایران درباره ذخایر اورانیوم انعطاف نشان می‌دهد اما صفر شدن غنی‌سازی را در مذاکرات با آمریکا رد می‌کند",
-        "title_en": "Iran signals openness on stockpile but rules out zero enrichment in US talks",
-        "summary": [
-            "مقامات ایرانی اعلام کرده‌اند درباره میزان و مدیریت ذخایر اورانیوم در مذاکرات با آمریکا انعطاف‌هایی را بررسی می‌کنند.",
-            "جمهوری اسلامی هم‌زمان تأکید کرده صفر کردن غنی‌سازی برای تهران قابل پذیرش نیست و خواهان حفظ سطحی از غنی‌سازی است.",
-            "این ترکیب مواضع می‌تواند روند مذاکرات را حفظ کند اما احتمال دستیابی به توافقی که خواست‌های کامل آمریکا را تأمین کند کاهش می‌دهد."
-        ],
-        "impact": "این موضع نشان‌دهنده تلاش رژیم برای حفظ اهرم هسته‌ای است و همزمان می‌تواند فشارهای بین‌المللی را تشدید و جایگاه داخلی رژیم را تضعیف کند.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.25,
-        "source": "ایران اینترنشنال",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMdHJLZDZLYkIwVGRRRUw5XzViTGlRdUxDRTZNSE1IaWFPRUlSVVFWYmVBeUR4TTZRZ3RLRzhCVU5zOXZJRlYtZW9RdDNEcEpvWkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMdHJLZDZLYkIwVGRRRUw5XzViTGlRdUxDRTZNSE1IaWFPRUlSVVFWYmVBeUR4TTZRZ3RLRzhCVU5zOXZJRlYtZW9RdDNEcEpvWkE",
-        "image": null,
-        "timestamp": 1771140229.0
     }
 ]
