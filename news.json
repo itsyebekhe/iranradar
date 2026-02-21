@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "۲۰ فوریه ۲۰۲۶ — حکم دیوان عالی درباره تعرفه‌های اضطراری ترامپ و تهدید حمله به ایران",
+        "title_en": "February 20, 2026 — Trump administration news, SCOTUS tariffs ruling, US-Iran negotiations",
+        "summary": [
+            "دیوان عالی ایالات متحده حکم داد که دستور گسترده تعرفه‌های اضطراری ترامپ غیرقانونی است؛ ترامپ بلافاصله یک دستور اجرایی جدید برای اعمال ۱۰٪ تعرفه جهانی امضا کرد که می‌تواند حداکثر تا ۱۵۰ روز اجرا شود و اختلاف حقوقی بر سر بازپرداخت میلیاردها دلار به شرکت‌ها در جریان است.",
+            "دونالد ترامپ اعلام کرده در حال بررسی گزینه حمله محدود نظامی برای فشار بر تهران جهت حصول توافق هسته‌ای است؛ چهره‌های برجسته دموکرات هشدار داده‌اند که هر اقدام نظامی بدون تصویب کنگره با مخالفت داخلی روبه‌رو خواهد شد—این تهدید نظامی مستقیم پتانسیل بالایی برای افزایش تنش منطقه‌ای دارد.",
+            "دولت کره‌جنوبی جلسه بین‌وزارتی فراخوانده است تا حکم دیوان عالی و دستور تعرفه جدید آمریکا را بررسی کند؛ واکنش متحدان نشان می‌دهد تصمیمات تجاری و حقوقی واشنگتن پیامدهای فوری دیپلماتیک و اقتصادی فرامرزی دارد."
+        ],
+        "impact": "پیامد: تهدید حمله محدود آمریکا همراه با بی‌ثباتی حقوقی درباره تعرفه‌ها فشار خارجی بر حاکمیت ایران را تشدید کرده و فضای سیاسی-اقتصادی داخلی را شکننده‌تر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.cnn.com/us/live-news/trump-administration-us-iran-02-20-26",
+        "clean_url": "https://www.cnn.com/us/live-news/trump-administration-us-iran-02-20-26",
+        "image": null,
+        "timestamp": 1771647300.0
+    },
+    {
         "title_fa": "پنتاگون از استفاده از پایگاه‌های بریتانیا برای حمله احتمالی به ایران ممنوع شد",
         "title_en": "Pentagon blocked from using UK bases in potential Iran strike",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSE5qRDNITVF4UGFkbUx0S05wYzV6YTY0OWhGeFJvYVpOay1iOUxzUVV5eGJJUFZ6WHNvUmNDa1NIYkQ2cUp3NVZ2bzRSX3h3R3ZHdFNvdzl2bl9FSkNObWVoM09KQUhsU3FsR2lOd1A4ak5TNU5tV1M4QWtSSVFmbzJlX1g3ZGZCM2x4Qmx4Y3ZLMjd2eTJySm5DMVFiR05RMDJDZ0ZLNlAxTjNRSVBaZ0NZOWpuWlJadTBfak9wWTlKV3lGTmNnZzBGenhQVFpPcFBBOWdhd1NmZVZ6bElqS0ZCdGl5MlVHdjRkX3g1NGpFdlhfc0tQQS1oZ09PZUNYLUp3OUZDMXR2T09wNVM4RHRB0gGXAkFVX3lxTE9sVlNyQ1BrcmJoUHYweXdrV1d0T1FZN2FjYjBYV3N1MXZsb2tHRkxvMHUxUjIwVFNOcTE1Tkk3bXl3UHZ1ZWtrZ0c0VF9aQzc3TzhiQkd3aEVaTmt2bHg2a2hERU5ZLWJVRl9MWElJU3BEOWJoZlRaaElLZ3d2bEk2dERHZHZiXzRxWUJyVGNlNG4tZWNKOWEzWFpiajcwcUdxN0p6MllhVk9oN2g2V01kblpacE1aSmpjVzZ0WXdfVlBFdVZVV053M2ZBTUFGam04T3VnbzVfMGRWend2QUlKVWl6V0lySS10alhBNU9rSzRHckRETXlpQjhBRHAwam9jQXVIY2ppTmxDZERrc0NxWmZqbG5ZRQ",
         "image": null,
         "timestamp": 1771147920.0
-    },
-    {
-        "title_fa": "ایران حاضر به مصالحه درباره توافق هسته‌ای در صورت مطرح بودن رفع تحریم‌ها، دیپلمات می‌گوید",
-        "title_en": "Iran willing to compromise on nuclear deal if sanctions relief on table, diplomat says",
-        "summary": [
-            "یک دیپلمات اعلام کرده ایران حاضر است در مذاکرات هسته‌ای امتیاز دهد مشروط بر اینکه رفع تحریم‌ها روی میز باشد.",
-            "این موضع نشان می‌دهد فشار تحریم‌ها همچنان اهرم قدرتمندی علیه رژیم است و قادر است دولت را به معامله‌گری وادارد.",
-            "برای اپوزیسیون و مردم، این موقعیت می‌تواند فرصت دیپلماتیک برای افزایش فشار بین‌المللی و پیشبرد خواسته‌های داخلی باشد."
-        ],
-        "impact": "آمادگی ایران برای مصالحه در ازای رفع تحریم‌ها می‌تواند نشانه‌ای از تضعیف توان اقتصادی و بین‌المللی رژیم باشد و اهرم‌های فشار خارجی را به نفع مطالبات مردمی تقویت کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPanlNUXB5Sm82SWxub19tdFM4bml2ZEZvXzBXcFlHOERVQXlZNUlCbGs5ZWRYc3YwZ21na21VWWh0aU9MSmFnbUJBUlhMdF9TN21HejlPRG1Dd1Zocmo4SnFlQnZKWkd5M1pUb2NtUlM0eWVqZDFiaU9lMGRDQUxjeVFwOHozVFpUUjVBVDQxR1hWbjBKcEtDUE5OelZDdko1ZjRRZHR1bktNaGxtZ3lVeFI2bUV6azTSAbwBQVVfeXFMUEVTYWJWQjNhekpzNXFmbHVUdkYwdk12YzI2VGRlWlhBODJhRmNtb3l2T0w1ODlieGtraGFFVVNIMzQ5QlVFMjNrSUJpWDh2UXJlbTVGNzBqdW02dnZZRTZfU2phcTFqZ1BJeDZybkFEam5lV19pVElfeFZ2U01kX0x4ZUp1VDA0Mkh1U1JFbU5uR1d2YjduRmJFNHNSWFZfcWlTOEVtb2ZCMGxvZ2hTQ0l6TnZZSlZiTlJtVHU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPanlNUXB5Sm82SWxub19tdFM4bml2ZEZvXzBXcFlHOERVQXlZNUlCbGs5ZWRYc3YwZ21na21VWWh0aU9MSmFnbUJBUlhMdF9TN21HejlPRG1Dd1Zocmo4SnFlQnZKWkd5M1pUb2NtUlM0eWVqZDFiaU9lMGRDQUxjeVFwOHozVFpUUjVBVDQxR1hWbjBKcEtDUE5OelZDdko1ZjRRZHR1bktNaGxtZ3lVeFI2bUV6azTSAbwBQVVfeXFMUEVTYWJWQjNhekpzNXFmbHVUdkYwdk12YzI2VGRlWlhBODJhRmNtb3l2T0w1ODlieGtraGFFVVNIMzQ5QlVFMjNrSUJpWDh2UXJlbTVGNzBqdW02dnZZRTZfU2phcTFqZ1BJeDZybkFEam5lV19pVElfeFZ2U01kX0x4ZUp1VDA0Mkh1U1JFbU5uR1d2YjduRmJFNHNSWFZfcWlTOEVtb2ZCMGxvZ2hTQ0l6TnZZSlZiTlJtVHU",
-        "image": null,
-        "timestamp": 1771147532.0
     }
 ]
