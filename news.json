@@ -558,6 +558,24 @@
         "timestamp": 1771593360.0
     },
     {
+        "title_fa": "ترامپ به ایران ضرب‌الاجل ۱۰–۱۵ روزه؛ تهدید به «عواقب نظامی جدی» — کارشناسان: مذاکرات ممکن است وقت‌خری برای حمله باشد",
+        "title_en": "Trump gives Iran 10-day ultimatum, but experts signal talks may be buying time for strike",
+        "summary": [
+            "ترامپ به تهران ضرب‌الاجل ۱۰ تا ۱۵ روزه تعیین کرده و هشدار داده در صورت عدم ورود به مذاکره، «عواقب نظامی جدی» در پی خواهد داشت.",
+            "کارشناسان گزارش می‌دهند که این فراخوان مذاکره ممکن است در واقع ابزاری برای وقت‌خری و ایجاد زمینه برای عملیات نظامی باشد، نه صرفاً تلاش واقعی دیپلماتیک.",
+            "پیامدهای فوری شامل تشدید فشار خارجی بر رژیم، افزایش ریسک انزوای بین‌المللی و احتمال تشدید مخاطرات سیاسی-اقتصادی داخلی خواهد بود؛ این امور می‌توانند ثبات حکومتی را بیشتر تضعیف کنند. "
+        ],
+        "impact": "ضرب‌الاجل تقویت فشار خارجی و هم‌زمان افزایش احتمال تبدیل بن‌بست دیپلماتیک به اقدام نظامی است که ثبات داخلی رژیم را به مخاطره می‌اندازد.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-gives-iran-10-day-ultimatum-but-experts-signal-talks-may-be-buying-time-for-strike/ar-AA1WL4nk",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-gives-iran-10-day-ultimatum-but-experts-signal-talks-may-be-buying-time-for-strike/ar-AA1WL4nk",
+        "image": "http://www.bing.com/th?id=OVFT.JbMAYxf-ws4QxN5JaNYN7S&pid=News",
+        "timestamp": 1771590567.0
+    },
+    {
         "title_fa": "ترامپ ممکن است ظرف روزهای آینده به ایران حمله کند — چه چیزی برای بازار نفت در خطر است",
         "title_en": "Trump could attack Iran in days — what's at stake for the oil market",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHZSc29UZ1p6SENjaU5WVl9YeTN3REZzQ2hMNkU3RWl0dFhrYmFHRC02OEtrYW1FMlVKeDdKMjBMRFZ2V21VU18ySVpYZ2wwdG1kQWtDZFR3RHVHb1FZYTk4Z2VFMmJudmcyVzBMNngyRFBGRnV1WkN0a1E2TXlCc1I5d21pa3BJUmVBU0ttUkJ3c2hLeG1USWJR",
         "image": null,
         "timestamp": 1771153807.0
-    },
-    {
-        "title_fa": "نظر: ایران در لبهٔ پرتگاه — چرا تشدید تنش در غرب آسیا برای هند گران تمام می‌شود",
-        "title_en": "Opinion: Iran on the brink—Why escalation in West Asia will cost India dearly",
-        "summary": [
-            "نویسنده هشدار می‌دهد که بحران ایران آزمونی برای خویشتنداری جهانی و توانایی هند در جهت‌یابی در یک نظم بین‌المللی پاره‌پاره است.",
-            "تشدید درگیری‌ها در منطقه می‌تواند هزینه‌های قابل‌توجه اقتصادی و امنیتی برای هند به‌همراه داشته باشد—از افزایش قیمت انرژی تا اختلال در خطوط تجاری و سرمایه‌گذاری.",
-            "سیاست‌های ماجراجویانهٔ منطقه‌ای رژیم ایران و انزوای بین‌المللی‌اش ریسک تشدید را بالا برده و هر بحران تازه‌ای شانس فشار بیشتر خارجی و تضعیف داخلی رژیم را افزایش می‌دهد؛ این وضعیت می‌تواند فرصت‌هایی برای مردم و اپوزیسیون فراهم کند."
-        ],
-        "impact": "تشدید تنش‌ها هم‌زمان هزینهٔ مستقیم اقتصادی برای هند ایجاد می‌کند و به منزوی‌تر شدن و آسیب‌پذیری بیشتر رژیم ایران کمک می‌کند که می‌تواند مسیر تغییر داخلی را تسهیل کند.",
-        "tag": "بحران",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Telangana Today",
-        "url": "https://telanganatoday.com/opinion-iran-on-the-brink-why-escalation-in-west-asia-will-cost-india-dearly",
-        "clean_url": "https://telanganatoday.com/opinion-iran-on-the-brink-why-escalation-in-west-asia-will-cost-india-dearly",
-        "image": "http://www.bing.com/th?id=OVFT.O9RDJKdZ6bJFFQfAr7jKrC&pid=News",
-        "timestamp": 1771152960.0
     }
 ]
