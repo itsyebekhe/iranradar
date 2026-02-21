@@ -18,6 +18,24 @@
         "timestamp": 1771655040.0
     },
     {
+        "title_fa": "ترامپ به سوی تقابل با ایران فشار می‌آورد؛ مشاوران خواستار تمرکز بر اقتصاد هستند",
+        "title_en": "Trump pushes US toward war with Iran as advisers urge focus on economy",
+        "summary": [
+            "عنوان خبر نشان می‌دهد که رئیس‌جمهور آمریکا فشار بر جهت‌گیری‌های تقابلی علیه ایران را افزایش می‌دهد و گزینه‌های برخورد را پیگیری می‌کند.",
+            "بخشی از حلقه مشاوران کاخ سفید در برابر تشدید نظامی مقاومت می‌کنند و بر اولویت دادن به مسائل اقتصادی داخلی آمریکا تأکید دارند.",
+            "افزایش تمایل سمت تقابل نظامی واشنگتن به‌طور مستقیم ریسک تشدید فشارهای اقتصادی و سیاسی بر رژیم تهران را بالا می‌برد و ضعف‌های ساختاری آن را برجسته می‌کند."
+        ],
+        "impact": "حرکت واشنگتن به سوی تقابل نظامی، حتی در صورت تردید مشاوران، می‌تواند ثبات اقتصادی و سیاسی رژیم ایران را از طریق افزایش هزینه‌های امنیتی و فشار بین‌المللی تضعیف و نارضایتی داخلی را تشدید کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnAzaVdhTVpxeVpOQ0xNdUZrQ3RGWXMwRk9rdS1sYWZzU2pfdFdXZUhIUjBoOXhCWS1ieEZGZXd3dWxDUjZyYTNCZU41eXZnekRPempSdHRZaWdtSE5yTW9rMHhyT09jcklFYXQwNnBUTXY2V2NTaXIzXy1JUDJzdVJHMkg2VlpkSlMyZnctRElOWnFaSGVtQUhVSmRLZldHVE5jYkVvYnRjN1hza1VoMmk3QmdPcENHZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnAzaVdhTVpxeVpOQ0xNdUZrQ3RGWXMwRk9rdS1sYWZzU2pfdFdXZUhIUjBoOXhCWS1ieEZGZXd3dWxDUjZyYTNCZU41eXZnekRPempSdHRZaWdtSE5yTW9rMHhyT09jcklFYXQwNnBUTXY2V2NTaXIzXy1JUDJzdVJHMkg2VlpkSlMyZnctRElOWnFaSGVtQUhVSmRLZldHVE5jYkVvYnRjN1hza1VoMmk3QmdPcENHZnc",
+        "image": null,
+        "timestamp": 1771654200.0
+    },
+    {
         "title_fa": "علاقه ترامپ به بنزین ارزان — اما درگیری نظامی با ایران می‌تواند قیمت پمپ را تقریباً دو برابر کند",
         "title_en": "Trump loves cheap gas—but a military conflict in Iran could nearly double your price at the pump",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trumps-iran-options-token-nuclear-enrichment-to-taking-out-khamenei/ar-AA1WLSPp",
         "image": null,
         "timestamp": 1771633893.0
+    },
+    {
+        "title_fa": "خامنه‌ای: ایران می‌تواند ناوهای هواپیمابر آمریکا را غرق کند؛ چه سلاحی می‌تواند این کار را بکند؟",
+        "title_en": "Iran can sink US aircraft carriers, says Khamenei. What weapon can it use?",
+        "summary": [
+            "علی خامنه‌ای، رهبر جمهوری اسلامی، مدعی شده ایران سلاحی «خطرناک» در اختیار دارد که قادر است ناوهای هواپیمابر آمریکا را به کف دریا بفرستد؛ او نوع دقیق سلاح را مشخص نکرد.",
+            "گزارش به گزینه‌های فنی محتمل اشاره می‌کند — از جمله موشک‌های ضدکشتی (کروز یا بالستیک)، مین‌های دریایی، زیردریایی‌ها و اژدرها و پهپادهای مسلح — اما هیچ مدرک مستقلی مبنی بر توان عملی برای غرق کردن یک ناو هواپیمابر ارائه نشده است.",
+            "اظهارنظر خامنه‌ای در چارچوب پیام بازدارنده و تبلیغاتی برای مخاطب خارجی و داخلی قرار می‌گیرد؛ فاصله قابل‌توجهی بین ادعا و اثبات فنی وجود دارد و باید با احتیاط ارزیابی شود."
+        ],
+        "impact": "این ادعا می‌تواند تنش منطقه‌ای و هشدارهای نظامی را تشدید کند و به عنوان ابزار تبلیغاتی داخلی به کار رود، اما بدون شواهد فنی مستقل تهدید عملی علیه ناوهای آمریکایی قابل‌اعتماد نیست.",
+        "tag": "بازدارندگی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "India Today on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-can-sink-us-aircraft-carriers-says-khamenei-what-weapon-can-it-use/ar-AA1WMzNZ",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-can-sink-us-aircraft-carriers-says-khamenei-what-weapon-can-it-use/ar-AA1WMzNZ",
+        "image": "http://www.bing.com/th?id=OVFT.0N6m8iIOqg_TbimZ6qc2JS&pid=News",
+        "timestamp": 1771632702.0
     },
     {
         "title_fa": "ترامپ می‌گوید حمله نظامی محدود به ایران را بررسی می‌کند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0x3QVREMmxaQXQxcU4zX0w0dmFPcW5JVnZaUHR1Tkdfa2ZJWld3bURXbUlhYjJPSjhJLW45SlBqZXUwck1RaEZkdmY2UmVYSUVwT1pJUk1SSkkyVTBhQW50V2VUcjZ6LUdmYU9TQmNGRjlGUGpiUXhjeXdYLUZGdtIBhgFBVV95cUxNRXdhbDNjejNFMG9fTXlRdS1HbUp2MDFoNlhFdjRUd2d5VjVjZUVDd3dqalZHai1fNzFvaDVESFR3ZWZSR1hfeWpTSlZhclNIekJubjFjVU5zSmwxSGpyaVlXTlBiTFdKbHVrMGIyTHY5aEtya2xuMFF1bmY5dFpWS1o4dDhFdw",
         "image": null,
         "timestamp": 1771156800.0
-    },
-    {
-        "title_fa": "آیا USS Abraham Lincoln و Gerald R. Ford در حال آماده‌سازی برای درگیری‌اند یا تقویت اهرم مذاکرات هسته‌ای آمریکا با ایران؟",
-        "title_en": "Are USS Abraham Lincoln & Gerald R. Ford preparing for conflict or strengthening US’ nuclear talks leverage with Iran?",
-        "summary": [
-            "گزارش‌ها و تحلیل‌ها درباره حضور/تحرک دو ناو هواپیمابر USS Abraham Lincoln و Gerald R. Ford در منطقه و پرسش اصلی: آیا هدف آماده‌سازی برای برخورد نظامی است یا افزایش اهرم فشار در مذاکرات هسته‌ای؟",
-            "حضور چنین ناوهایی هم بعد نظامی دارد و هم دیپلماتیک؛ واشنگتن می‌تواند با اشاره به احتمال گزینه نظامی، نفوذ و برتری خود در میز مذاکرات هسته‌ای را بالا ببرد و فشار بر تهران را تشدید کند.",
-            "برای داخل ایران این تحرک خارجی می‌تواند ضعف و ناکارآمدی رژیم را برجسته کند و موقعیت اپوزیسیون و مطالبات مردمی را نسبت به گذشته تقویت نماید، هرچند همزمان احتمال تشدید تنش‌ها و سرکوب داخلی نیز وجود دارد."
-        ],
-        "impact": "حضور و مانور این ناوها احتمالاً فشار بین‌المللی و سیاسی بر رژیم را افزایش می‌دهد و می‌تواند روند تضعیف ارکان حکومتی و تقویت موقعیت معترضان را تسریع کند.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "WION",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWER0aEM3b0tXdlRNeTNVQXhPYVN1TFlHM0NyMEt5d0VhQ3F2R3J0Q054RmVmSGZGb2Z4N0J0WVg0TWdiY3BpbFdOVnYtbkZ5QmJONXk2Vnd3aGd5SjBBaXpmdEpMRDRhZkNDcG1DRkg2ekFFX0szNEcwUk1iLWk4bGdmSDdDMk5EdG5ZMHZpWmo4bUFwMmRmbnFSN3ZJc2RJa2FGbmM2azVDdGRjY2hTT1hTaGFGc054dnh1U0VnQ1k0X0pDUVBpOGtsTndreHFTQkhxQU9FR2szQnlmQTRmZnRiUm5IdVRXNkhZOVYzaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWER0aEM3b0tXdlRNeTNVQXhPYVN1TFlHM0NyMEt5d0VhQ3F2R3J0Q054RmVmSGZGb2Z4N0J0WVg0TWdiY3BpbFdOVnYtbkZ5QmJONXk2Vnd3aGd5SjBBaXpmdEpMRDRhZkNDcG1DRkg2ekFFX0szNEcwUk1iLWk4bGdmSDdDMk5EdG5ZMHZpWmo4bUFwMmRmbnFSN3ZJc2RJa2FGbmM2azVDdGRjY2hTT1hTaGFGc054dnh1U0VnQ1k0X0pDUVBpOGtsTndreHFTQkhxQU9FR2szQnlmQTRmZnRiUm5IdVRXNkhZOVYzaw",
-        "image": null,
-        "timestamp": 1771155900.0
-    },
-    {
-        "title_fa": "ایران در صورت رفع تحریم‌ها توسط آمریکا آماده مذاکره هسته‌ای است",
-        "title_en": "Iran open to nuclear negotiations if US lifts sanctions",
-        "summary": [
-            "خبر: تهران اعلام کرده برای ازسرگیری مذاکرات هسته‌ای آماده است، مشروط به رفع تحریم‌های آمریکا.",
-            "این موضع وابستگی سیاسی-اقتصادی رژیم به لغو تحریم‌ها را نشان می‌دهد و می‌تواند به‌عنوان نشانه‌ای از ضعف و نیاز حکومت تعبیر شود.",
-            "این فرصت بالقوه می‌تواند توسط اپوزیسیون و جامعه مدنی به‌عنوان اهرمی برای مطرح‌کردن مطالبات حقوق بشری و دموکراتیک مورد استفاده قرار گیرد، هرچند نتیجه نهایی بستگی به رفتار طرف‌های بین‌المللی دارد."
-        ],
-        "impact": "اعلام آمادگی مشروط ایران به‌عنوان نشانه‌ای از آسیب‌پذیری رژیم قابل خوانش است و می‌تواند زمینهٔ تشدید فشارهای سیاسی و بین‌المللی برای پیشبرد مطالبات مردمی را فراهم کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHZSc29UZ1p6SENjaU5WVl9YeTN3REZzQ2hMNkU3RWl0dFhrYmFHRC02OEtrYW1FMlVKeDdKMjBMRFZ2V21VU18ySVpYZ2wwdG1kQWtDZFR3RHVHb1FZYTk4Z2VFMmJudmcyVzBMNngyRFBGRnV1WkN0a1E2TXlCc1I5d21pa3BJUmVBU0ttUkJ3c2hLeG1USWJR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHZSc29UZ1p6SENjaU5WVl9YeTN3REZzQ2hMNkU3RWl0dFhrYmFHRC02OEtrYW1FMlVKeDdKMjBMRFZ2V21VU18ySVpYZ2wwdG1kQWtDZFR3RHVHb1FZYTk4Z2VFMmJudmcyVzBMNngyRFBGRnV1WkN0a1E2TXlCc1I5d21pa3BJUmVBU0ttUkJ3c2hLeG1USWJR",
-        "image": null,
-        "timestamp": 1771153807.0
     }
 ]
