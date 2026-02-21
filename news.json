@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "ریال سعودی: ردیابی سه قرن از بازارهای الدرِیّه تا نماد مالی جهانی",
+        "title_en": "The Saudi Riyal: Tracing Three Centuries from Diriyah's Markets to Global Financial Icon",
+        "summary": [
+            "مقاله روند تاریخی ریال سعودی را از مبادلات محلی در الدرِیّه تا شکل‌گیری ساختارهای رسمی پولی و تثبیت آن به‌عنوان واحد پولی ملی تشریح می‌کند؛ تأکید بر مراحل انگیزشی و نهادی‌سازی که ریال را به ابزار دولت مرکزی تبدیل کرد.",
+            "تحول ریال در قرن‌های اخیر به‌همراه نفت و توسعه بازارهای مالی، آن را به عنصری حیاتی برای ثبات تراز پرداخت‌ها و مدیریت ذخایر ارزی سعودی تبدیل کرده و نقش مهمی در ادغام ریاض در سازوکارهای مالی بین‌المللی ایفا کرده است.",
+            "این رشد نمادین پولی موقعیت اقتصادی منطقه‌ای عربستان را تقویت می‌کند اما نباید با مشروعیت سیاسی یا کارآمدی حکمرانی خلط شود؛ تقویت پولی لزوماً به حل مسائل ساختاری و حساسیت‌های داخلی منجر نمی‌شود."
+        ],
+        "impact": "جایگاه بالاتر ریال در نظام مالی جهانی به رژیم سعودی ابزار اقتصادی و سیاسی بیشتری برای پیشبرد منافع منطقه‌ای می‌دهد، ولی این مولفه اقتصادی تنها یک لایه از ثبات است و روابط داخلی و مدیریت دولتی را حل نمی‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "الشرق الأوسط",
+        "url": "https://english.aawsat.com/features/5243324-saudi-riyal-tracing-three-centuries-diriyah’s-markets-global-financial-icon",
+        "clean_url": "https://english.aawsat.com/features/5243324-saudi-riyal-tracing-three-centuries-diriyah’s-markets-global-financial-icon",
+        "image": null,
+        "timestamp": 1771695360.0
+    },
+    {
+        "title_fa": "جنگ با ایران چه شکلی خواهد بود؟",
+        "title_en": "What Would War With Iran Look Like?",
+        "summary": [
+            "مقاله سناریوهای بالقوه یک درگیری نظامی با ایران را طرح می‌کند و پیامدهای عملیاتی و نظامی آن را بررسی می‌کند.",
+            "تمرکز بر پیامدهای سیاسی-اقتصادی و فشارهای خارجی است که می‌تواند ثبات ساختاری رژیم را تضعیف کند.",
+            "به‌طور مشخص احتمال اثرات منطقه‌ای و واکنش‌های داخلی (نارضایتی عمومی و بحران اقتصادی) که حکمرانی را تحت فشار قرار می‌دهد، مورد توجه قرار می‌گیرد."
+        ],
+        "impact": "بحث درباره احتمال جنگ، نشان‌دهنده ریسک بالای تشدید فشارهای اقتصادی و سیاسی است که می‌تواند ثبات رژیم را بیش از پیش زیر سؤال ببرد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/02/iran-war-trump-military-attack/686096/",
+        "clean_url": "https://www.theatlantic.com/national-security/2026/02/iran-war-trump-military-attack/686096",
+        "image": null,
+        "timestamp": 1771694548.0
+    },
+    {
+        "title_fa": "گزارش: سپاه پاسداران عملاً حزب‌الله را هدایت می‌کند و آن را برای جنگ با اسرائیل و آمریکا آماده می‌کند",
+        "title_en": "Report: Iran’s IRGC is currently running Hezbollah, preparing it for war with Israel, US",
+        "summary": [
+            "تایمز آو اسراییل گزارش می‌دهد که سپاه پاسداران کنترل عملیاتی حزب‌الله را به‌دست گرفته و ساختار آن را برای درگیری نظامی با اسرائیل و ایالات متحده آماده می‌کند.",
+            "کنترل مستقیم تهران بر حزب‌الله نشان‌دهنده تبدیل گروه از نیروی شبه‌مستقل به بازوی عملیاتیِ منطبق بر دستورهای سپاه است که توانمندی‌های رزمی و هماهنگی منطقه‌ای را افزایش می‌دهد.",
+            "عواقب داخلی و خارجی شامل افزایش احتمال فشارهای بین‌المللی و تحریم‌های جدید، اتلاف منابع برای پروژه‌های نیابتی و تشدید نارضایتی اجتماعی به‌دلیل اولویت‌بخشی به سیاست خارجی نظام بر رفاه داخلی است."
+        ],
+        "impact": "این بازتوزیع منابع و تمرکز بر آماده‌سازی حزب‌الله برای جنگ، ثبات داخلی را تضعیف و ریسک تشدید تحریم‌ها و تنش‌های منطقه‌ای را به‌طور همزمان بالا می‌برد.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFJsUlBmR0EyQm8zQzFuVzUzSXpRNmRJcXg2UmFLRTQtZlpPRHNnT2FzbGY4R3ZHMDdiY0FBaHlpNjY3Q0ZWSW5xWndIY3NuYm9UVG9jOElKNXhUbEFjanJqUnNJTXRweVczMklwMnNxWDlLM3dROEFxeGhrVW9hUk1tQ2dHYXA1bU1mUTdyb3FwczZNblF0ZWZNdDhwZGJ2ck5hVWl6UF83b1RPcDFhMzVhODRxVHdJblNpT0xaYnBEN0Jaak9wRzdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFJsUlBmR0EyQm8zQzFuVzUzSXpRNmRJcXg2UmFLRTQtZlpPRHNnT2FzbGY4R3ZHMDdiY0FBaHlpNjY3Q0ZWSW5xWndIY3NuYm9UVG9jOElKNXhUbEFjanJqUnNJTXRweVczMklwMnNxWDlLM3dROEFxeGhrVW9hUk1tQ2dHYXA1bU1mUTdyb3FwczZNblF0ZWZNdDhwZGJ2ck5hVWl6UF83b1RPcDFhMzVhODRxVHdJblNpT0xaYnBEN0Jaak9wRzdR",
+        "image": null,
+        "timestamp": 1771690941.0
+    },
+    {
         "title_fa": "ایران: در مذاکرات هسته‌ای با آمریکا زیر فشار نمی‌نشینیم؛ اعتراضات ضدحکومتی در تهران گزارش شد",
         "title_en": "Iran says will not 'bow' to pressure amid US nuclear talks as anti-govt protests reported in Tehran",
         "summary": [
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVU5hWDJsZzZiS3J2VHlUcUZuQTN5VGlxX0V4TEJHQmpoWXFGV1NXTkJOU0pXQ0Z3U2c0VE5BMk1YV0xoNDlieVlVcm9OdzFZbWwxYU8yX3lhak45WS1wbjFvSm1BdkJ1My1TMl81NUVnMTZFalM1QWJCSF9KTU5jMkJqUVRjYzlZOUhkVzRacnXSAZYBQVVfeXFMTkxEV19qbzlwUHA4ZVM0eVZoVEstOENoZGJldkZxZTctR25pVmw4ODhWRlJPWldQZWhIajFPcVZpNEJEN1J5c0k3MThURnhYZS02UmRuTS1DTXhyYUg2eGJtRW85aWJvMTJZN2Nud0s3OFhjMzBrc3ZPQTQwQ25NMFZmdUFuT2ZLcGhTc25mejRvajA5OENn",
         "image": null,
         "timestamp": 1771211533.0
-    },
-    {
-        "title_fa": "قیمت نفت در آستانه مذاکرات هسته‌ای آمریکا و ایران در نوسان",
-        "title_en": "Oil drifts ahead of US-Iran nuclear talks",
-        "summary": [
-            "قیمت‌های نفت پیش از مذاکرات هسته‌ای بین آمریکا و ایران در وضعیت نوسانی قرار دارند.",
-            "بازارها منتظر نتایج مذاکرات هستند که می‌تواند چشم‌انداز تحریم‌ها و عرضه نفت را تغییر دهد.",
-            "نوسانات فعلی بازتاب عدم قطعیت سیاسی و اقتصادی مرتبط با رابطه تهران و واشینگتن است."
-        ],
-        "impact": "ادامه مذاکرات و احتمال کاهش تحریم‌ها ممکن است به‌طور موقت نفس اقتصادی به رژیم بدهد اما هم‌زمان نشانه‌ای از تضعیف ساختاری قدرت رژیم و فرصتی برای پیشروی خواست‌های مردم در مسیر آزادی است.",
-        "tag": "نفت",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmVtRjJWUXJxaVFsQjQ5M3pkM2VNdjlfX0xiVEE3OVdoTE8ybUZDN0otbk4wU3RHTWxSSFB3Q05JVkZEUkppX2E4REFpWVpiT0RYcGlqR2FEb2lSQ2RRU2xVdy1MNHl1dXo3bFgzWGFua0JZS0U1aEFMZnVVVHVNNm1xR0luN1BsQ0U0X1hISkYtQ0Zh?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmVtRjJWUXJxaVFsQjQ5M3pkM2VNdjlfX0xiVEE3OVdoTE8ybUZDN0otbk4wU3RHTWxSSFB3Q05JVkZEUkppX2E4REFpWVpiT0RYcGlqR2FEb2lSQ2RRU2xVdy1MNHl1dXo3bFgzWGFua0JZS0U1aEFMZnVVVHVNNm1xR0luN1BsQ0U0X1hISkYtQ0Zh",
-        "image": null,
-        "timestamp": 1771207553.0
-    },
-    {
-        "title_fa": "طالبان هشدار داد در صورت بروز درگیری با آمریکا ممکن است به ایران کمک کند",
-        "title_en": "Taliban warns it may aid Iran if conflict with US erupts",
-        "summary": [
-            "طالبان اعلام کرده در صورت وقوع درگیری بین ایران و آمریکا ممکن است به نفع تهران وارد عمل شود و به آن کمک کند.",
-            "چنین اظهاراتی احتمال افزایش تنش‌های منطقه‌ای و گسترش دامنه یک منازعه احتمالی را بالا می‌برد و ریسک رو به‌رو شدن با قدرت‌های فرامنطقه‌ای را تشدید می‌کند.",
-            "برای رژیم تهران اتکا به بازیگران غیر‌‌دولتی و گروه‌های منطقه‌ای نشان‌دهنده انزوای بین‌المللی و ضعف دیپلماتیک است؛ این ضعف می‌تواند به تقویت مطالبات داخلی و امکان فشار بیشتر از سوی مردم برای تغییر سیاسی بینجامد."
-        ],
-        "impact": "این تهدید می‌تواند انزوای بین‌المللی و تکیه‌ی خطرناک رژیم بر متحدان منطقه‌ای را برجسته کند و فشارها و ناراضایتی‌های داخلی را افزایش دهد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": 0.3,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJb2pBYm9zRTB0VVpwWUtNWDZDT3puOFZUZUJ3ZDEwYmxjcFkzQTd1YmFsVThQMHMyNWVGeEMtRlVKQ1VrTEpraWYtZFZ3Y0pFSEloSi1tUWRiYnRnQm5MT0J0SjBHNW5sNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJb2pBYm9zRTB0VVpwWUtNWDZDT3puOFZUZUJ3ZDEwYmxjcFkzQTd1YmFsVThQMHMyNWVGeEMtRlVKQ1VrTEpraWYtZFZ3Y0pFSEloSi1tUWRiYnRnQm5MT0J0SjBHNW5sNEE",
-        "image": null,
-        "timestamp": 1771198887.0
-    },
-    {
-        "title_fa": "ایران از آمریکا خواست مستقل از نفوذ اسرائیل در گفت‌وگوهای هسته‌ای مذاکره کند",
-        "title_en": "Iran urges US to negotiate independently of Israeli influence in nuclear talks",
-        "summary": [
-            "مقامات ایرانی خواستار آن شده‌اند که آمریکا در مذاکرات مرتبط با برنامه هسته‌ای ایران تحت تأثیر مواضع یا فشارهای اسرائیل قرار نگیرد.",
-            "این بیانیه بخشی از موضع‌گیری‌های تهران در جهت برجسته‌سازی استقلال سیاست خارجی و حفظ اهرم‌های چانه‌زنی در مذاکرات است.",
-            "واکنش تهران می‌تواند گفت‌وگوها را برای بازیگران بین‌المللی پیچیده‌تر کند و بر تلاش‌های میانجی‌گرانه کشورهای اروپایی تأثیر بگذارد."
-        ],
-        "impact": "این درخواست می‌تواند به کوتاه‌مدت اهرم دیپلماتیک تهران را تقویت کند اما هم‌زمان احتمال پیچیده‌تر شدن فرایند مذاکره میان آمریکا، ایران و شرکای بین‌المللی را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "TRT World",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UQUltUHhPQmJ1MEYxb2phM1pVNFJFS2dMMDFNRlhJdnFpVTJDdXVJVUdwVjBGNDJlSmtnRzFkZlF0LVlFUm1lbnBDeFdHSk1YUkVnNEtTUEnSAV5BVV95cUxNYU1kTzFDc3A2Q1ZIeFU0Mk42dkNlYkU5YU9FRUlLVnotSE1Sbmtmd002MWlQOUJLNjRyaHdLR1VabnpMYmp1d0wxdG92LXVNNEUxc2hMa09IWFRaZUln?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UQUltUHhPQmJ1MEYxb2phM1pVNFJFS2dMMDFNRlhJdnFpVTJDdXVJVUdwVjBGNDJlSmtnRzFkZlF0LVlFUm1lbnBDeFdHSk1YUkVnNEtTUEnSAV5BVV95cUxNYU1kTzFDc3A2Q1ZIeFU0Mk42dkNlYkU5YU9FRUlLVnotSE1Sbmtmd002MWlQOUJLNjRyaHdLR1VabnpMYmp1d0wxdG92LXVNNEUxc2hMa09IWFRaZUln",
-        "image": null,
-        "timestamp": 1771198389.0
     }
 ]
