@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "با استقرار نیروهای آمریکا، ترامپ گزینه‌های خود علیه ایران را بررسی می‌کند",
+        "title_en": "With U.S. forces in position, Trump mulls his options for Iran",
+        "summary": [
+            "استقرار نیروهای آمریکایی در منطقه نشان‌دهنده آماده‌باش نظامی است و نشان می‌دهد کاخ سفید در حال سنجش گزینه‌های فشار و واکنش علیه ایران است.",
+            "این شرایط احتمال افزایش تحریم‌ها و اقدامات نظامی محدود را بالا می‌برد؛ چنین فشارهایی ساختار سیاسی-اقتصادی رژیم را از نظر مالی و مشروعیت داخلی تضعیف خواهند کرد.",
+            "تهدیدات خارجی می‌تواند نارضایتی عمومی را تشدید کند و ضعف مدیریت داخلی را آشکار سازد؛ واکنش مردم و بازیگران داخلی تعیین‌کننده میزان پایداری خواهد بود."
+        ],
+        "impact": "استقرار نیروها و بررسی گزینه‌ها ریسک تشدید درگیری نظامی و افزایش فشارهای اقتصادی را بالا می‌برد که ثبات داخلی ایران را بیش از پیش تهدید می‌کند.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/02/21/nx-s1-5720966/trump-iran",
+        "clean_url": "https://www.npr.org/2026/02/21/nx-s1-5720966/trump-iran",
+        "image": null,
+        "timestamp": 1771671600.0
+    },
+    {
         "title_fa": "چرا حمله به ایران می‌تواند پرخطرتر از دستگیری مادورو باشد",
         "title_en": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFN0MU9MMmp3Zlc3SF9IWW84bjlTejJRUTBURGR2UEQ0TFc2TW9lZXNPVkpiMGxPTnRTSl9IdndURHJnbTlsc3N5aHVpeXZXVHhMbU1QT0lQM1FnQnh5SlJ0QW5WVnBrZDE5aFFaN0ZIbHRVYXp6TGdYUWt6dkdLZ3pOdkRsUzJHSlJ1dVFGNUNCM2Rqd2Z6S1FwZ0tocHgtcXY4bWRHMzgtaWJLajhv0gG0AUFVX3lxTE9vYV9vZ3lWNi02eEo3OHVablNnUXB6YWlZQ05sU0xQNHJDTmpfVTE1akVGUUxqZmJ2dUZzMEJwM0RyT1hkeHp0VmlLQkdERGN1ZVVYaU91RERORzlkTC1aUElaTWxYYjNFbkJEdkd3UnBMQWRHalZkcDhsQ1docU1VNk83LWFKRmU2V3AtbjYzTFpUZ0ljblVMNHh5Y21iTjRfd1NLbXRkZUpXMFUxMUZocnFJRg",
         "image": null,
         "timestamp": 1771165759.0
-    },
-    {
-        "title_fa": "زنده - تکرار شعارها در ایران پس از تجمعات گسترده دیاسپورا در جهان",
-        "title_en": "Live - Overnight chants in Iran follow mass diaspora rallies in global show of support",
-        "summary": [
-            "اعضای دیاسپورا ایرانی در شهرهای مختلف جهان تجمعات گسترده‌ای برگزار کردند و همبستگی بین‌المللی با اعتراضات داخل کشور را نشان دادند.",
-            "در پی این تجمعات، در ایران در طول شب صداهای شعار و اعتراض مجدداً شنیده شد که نشان‌دهنده استمرار جنبش و مقاومت مردمی است.",
-            "همبستگی خارجی موجب افزایش روحیه معترضان داخل کشور و ایجاد فشار روانی بر رژیم شده، هرچند خطر سرکوب و بازداشت همچنان وجود دارد."
-        ],
-        "impact": "این هماهنگی میان دیاسپورا و اعتراضات خیابانی نشانه‌ای از تزلزل بیشتر اقتدار رژیم و تقویت مقاومت مردمی است.",
-        "tag": "تظاهرات",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyanZZOHh2cDBDTWl5Y1ppOUY2R3c2aV9CN2UyOFJtX3RDX0J0N0U0cC1MUFpfOEtJVWNmN2NXZGlHdTdUOThwM01mWm1LeEJVRGFQSGZscjY1SFpKLUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyanZZOHh2cDBDTWl5Y1ppOUY2R3c2aV9CN2UyOFJtX3RDX0J0N0U0cC1MUFpfOEtJVWNmN2NXZGlHdTdUOThwM01mWm1LeEJVRGFQSGZscjY1SFpKLUE",
-        "image": null,
-        "timestamp": 1771164857.0
     }
 ]
