@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "مذاکرات آمریکا و ایران قرار است پنج‌شنبه برای بررسی پیشنهاد هسته‌ای برگزار شود",
+        "title_en": "U.S.-Iran talks expected Thursday to discuss nuclear proposal",
+        "summary": [
+            "گزارش کوتاه حاکی است که گفتگوهای آمریکا و ایران برای بررسی یک پیشنهاد درباره برنامه هسته‌ای روز پنج‌شنبه برگزار می‌شود؛ متن پیشنهاد و ترکیب طرف‌ها در این خبر اعلام نشده است.",
+            "تحریم‌ها / فشار خارجی: هرگونه توافق می‌تواند ابزارهای فشار اقتصادی و تحریمی واشنگتن را تضعیف کند و موقتا تنش‌های اقتصادی را کاهش دهد؛ در صورت شکست مذاکرات، وضعیت کنونی فشارها و آسیب‌پذیری ساختاری حکومتی حفظ یا تشدید خواهد شد — اثرگذاری واقعی بستگی کامل به محتوای پیشنهاد و مکانیزم نظارت و اجرای آن دارد.",
+            "اقتصاد و نارضایتی داخلی: خود برگزاری جلسه لزوماً تغییری در مدیریت اقتصادی یا سطح نارضایتی‌های عمومی نشان نمی‌دهد؛ تنها در صورت کاهش ملموس و پایدار تحریم‌ها ممکن است تسکینی موقتی در فشار معیشتی پدید آید، اما گزارش حاضر هیچ شاخصی درباره تأثیر فوری بر ثبات داخلی ارائه نمی‌دهد."
+        ],
+        "impact": "نتیجه مذاکرات می‌تواند مسیر فشارهای خارجی و فضای اقتصادی علیه حکومت را تعدیل یا تشدید کند، اما با اطلاعات کنونی اثری مستقیم و فوری بر ثبات داخلی نامعلوم است.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IUWxHVFJLY3FYTVh0STU1ZmlnT0gyTzMwLU1KQTYtRHZzc0Y0YU56OGd0S1pnay10bmM3ZTFlaGNvZlBtcWkyM1hLZ291RGFRZU9rdTZncDhETTNpWDN3WnpwUzY3VXY0RXA1Sl9qTU04dHk3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IUWxHVFJLY3FYTVh0STU1ZmlnT0gyTzMwLU1KQTYtRHZzc0Y0YU56OGd0S1pnay10bmM3ZTFlaGNvZlBtcWkyM1hLZ291RGFRZU9rdTZncDhETTNpWDN3WnpwUzY3VXY0RXA1Sl9qTU04dHk3",
+        "image": null,
+        "timestamp": 1771783383.0
+    },
+    {
         "title_fa": "ایران: مذاکرات هسته‌ای با فرستاده ترامپ این هفته از سر گرفته می‌شود",
         "title_en": "Iran Says Nuclear Talks With Trump’s Envoy to Resume This Week",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-to-resume-nuclear-talks-as-israel-presses-strike-option/ar-AA1WrYz1",
         "image": null,
         "timestamp": 1771781545.0
+    },
+    {
+        "title_fa": "آمادگی آمریکا برای دور جدید مذاکرات در صورت دریافت پیشنهاد هسته‌ای ظرف ۴۸ ساعت",
+        "title_en": "US ready to hold another round of talks with Iran on Friday if nuclear proposal received within 48 hours: Report",
+        "summary": [
+            "آمریکا اعلام کرده در صورتی که ظرف ۴۸ ساعت از ایران پیشنهادی درباره پرونده هسته‌ای دریافت شود، آماده برگزاری دور دیگری از مذاکرات در روز جمعه است.",
+            "این اقدام نشان‌دهنده حفظ اهرم فشار دیپلماتیک از سوی واشنگتن است؛ پاسخ تهران تعیین‌کننده خواهد بود که فشارها تداوم یابند یا امکان کاهش موقت فراهم شود.",
+            "برای رژیم فعلی این موقعیت آزمونی است: ارسال یا عدم ارسال پیشنهاد، پیام سیاسی داخلی و خارجی روشنی دارد و می‌تواند بر فضای تصمیم‌گیری نخبگی و اقتصادی تأثیر بگذارد."
+        ],
+        "impact": "آمادگی آمریکا اهرم فشار خارجی را تقویت می‌کند و می‌تواند به کاهش موقت تحریم‌ها یا، در صورت رفتار معطل‌کننده تهران، تشدید بی‌ثباتی سیاسی-اقتصادی بینجامد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS3hyUFBGbzhicXllSG9TRm9NMVBWbFVqSlpVUXBfeUpRdmFWUVJ1RGdSN1pLNFNxVXNDdzVmNUVYWXExZm5CUW9wZVIwbEN2REJrTEN5azBxOUxNS3dVQ0diV2VBWXNRa3NDUTNYaVNTSGZfaWNQcWxLQk54RzI4bUJMWjNhY0FacE9wTE1vN3hXbllrXzJrTmxGUEZQZUJTRDg2ZEJEQ0xLOG05V0dlUFBWd2g4QldXYTFpWTVFUU5FVk91X0VlQUZCQUZWbk92MFBjWW1ibDV0VDlENjMwaEhXNW1CVVE2?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS3hyUFBGbzhicXllSG9TRm9NMVBWbFVqSlpVUXBfeUpRdmFWUVJ1RGdSN1pLNFNxVXNDdzVmNUVYWXExZm5CUW9wZVIwbEN2REJrTEN5azBxOUxNS3dVQ0diV2VBWXNRa3NDUTNYaVNTSGZfaWNQcWxLQk54RzI4bUJMWjNhY0FacE9wTE1vN3hXbllrXzJrTmxGUEZQZUJTRDg2ZEJEQ0xLOG05V0dlUFBWd2g4QldXYTFpWTVFUU5FVk91X0VlQUZCQUZWbk92MFBjWW1ibDV0VDlENjMwaEhXNW1CVVE2",
+        "image": null,
+        "timestamp": 1771776675.0
     },
     {
         "title_fa": "آمریکا: در صورت ارائه سریع توافق از سوی ایران، مذاکرات هسته‌ای در ژنو برگزار می‌شود",
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XZXpMSWNhNm5OdVNSeGptMjMzRGJGZUNQOWx0RDQ2a3hLcmIxNzZwcm9CVFg2NmRQWklYM1RMX1hQOUpqQ3dxWUFXWk5kWmNQeVBxc2JySUZJWE5yTzR5a3dWZnNkZzkwcjVMdTFR",
         "image": null,
         "timestamp": 1771758000.0
+    },
+    {
+        "title_fa": "وزیرخارجه ایران احتمال دیدار با فرستاده آمریکا در ژنو را اعلام کرد",
+        "title_en": "Iran’s top diplomat says he ‘probably’ will meet with US envoy on Thursday in Geneva",
+        "summary": [
+            "عمان و وزیرخارجه ایران: نشست غیرمستقیم آمریکا-ایران روز پنج‌شنبه در ژنو برگزار می‌شود؛ عباس عراقچی گفته احتمال دیدار با فرستاده آمریکا استیو ویتکاف وجود دارد و تنها موضوع مذاکرات، برنامه هسته‌ای است.",
+            "تنش نظامی و فشار خارجی مشهود است: دولت دونالد ترامپ بزرگ‌ترین حضور نظامی آمریکا در منطقه را برقرار کرده و تهدید به حملات محدود کرده است؛ این فشار, اهرم قهری برای گرفتن امتیاز از تهران است و اختلاف علنی درباره خواسته‌های آمریکا (مثلاً ادعای عراقچی مبنی بر عدم درخواست «صفر غنی‌سازی» از سوی طرف آمریکایی که وزارتخانه‌های آمریکا آن را رد کرده‌اند) اعتماد مذاکره‌کنندگان را تضعیف می‌کند.",
+            "پیام داخلی و آسیب‌پذیری حکمرانی: تصاویر و شعارهای ضدآمریکایی در تهران و لحن «آماده برای جنگ» از دو سو نشان‌دهنده ترکیب نخ‌نما شده‌ای از رجزخوانی و پافشاری سیاسی است؛ این رویکرد بازتاب شکست مدیریتی رژیم است که بین احتیاط دیپلماتیک و تهدید نظامی نوسان می‌کند و پتانسیل افزایش نارضایتی عمومی را دارد."
+        ],
+        "impact": "دیدار احتمالی ممکن است تنش دیپلماتیک را موقتا کاهش دهد اما فشار نظامی-سیاسی آمریکا همزمان وابستگی رژیم به مصالحه یا تشدید نظامی را افزایش داده و ثبات داخلی را تضعیف می‌کند.",
+        "tag": "مذاکرات",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/02/22/irans-top-diplomat-says-he-probably-will-meet-with-us-envoy-on-thursday-in-geneva/",
+        "clean_url": "https://www.baltimoresun.com/2026/02/22/irans-top-diplomat-says-he-probably-will-meet-with-us-envoy-on-thursday-in-geneva",
+        "image": null,
+        "timestamp": 1771752960.0
     },
     {
         "title_fa": "پتر جنینگز: ایران مذاکرات هسته‌ای با آمریکا را کش می‌دهد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.washingtonpost.com/world/2026/02/17/iran-us-nuclear-talks-iaea/1e3774ec-0bbe-11f1-8e91-6e1451aab67e_story.html",
         "image": "http://www.bing.com/th?id=OVFT.gsW6tQbHBBfAsUrX7j275y&pid=News",
         "timestamp": 1771278240.0
-    },
-    {
-        "title_fa": "در ایران، مراسم چهلم جان‌باختگان اعتراضات توانایی سرکوب دولت را می‌سنجد",
-        "title_en": "In Iran, Slain Protesters’ Memorials Will Test State Crackdown",
-        "summary": [
-            "این هفته مراسم یادبود چهلم برای معترضان کشته‌شده برگزار می‌شود و این تجمعات یادمانی عملاً توانایی مقام‌ها برای مهار و محدودسازی اعتراضات را به چالش می‌کشد.",
-            "با وجود احتمال اعمال محدودیت‌های امنیتی و تلاش برای جلوگیری از تجمعات، برگزاری این مراسم نشانه‌ای از پایداری، همبستگی و ادامه خواست‌های مردمی است.",
-            "نتیجهٔ این مراسم می‌تواند معیاری فوری برای سنجش زنده‌بودن جنبش اعتراضی و میزان ضعف دستگاه سرکوب در کنترل عرصهٔ عمومی باشد."
-        ],
-        "impact": "اگر این چهلم‌ها به شکل گسترده‌ای برگزار شوند، به تضعیف توان سرکوب نظام و تقویت روحیه مقاومت و وحدت مردم در مسیر خواست‌های آزادی‌بخش منجر خواهد شد.",
-        "tag": "اعتراضات",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
-        "clean_url": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
-        "image": null,
-        "timestamp": 1771275660.0
-    },
-    {
-        "title_fa": "نیروی دریایی سپاه در تنگه هرمز مانور دریایی برگزار کرد، یک روز مانده به مذاکرات هسته‌ای با آمریکا",
-        "title_en": "Iran's IRGC Navy launches maritime drill in Strait of Hormuz, one day before US nuclear talks",
-        "summary": [
-            "نیروی دریایی سپاه پاسداران مانوری در تنگه هرمز برگزار کرد.",
-            "زمان‌‌بندی مانور یک روز پیش از آغاز مذاکرات هسته‌ای با آمریکا صورت گرفت.",
-            "این اقدام قابل تفسیر به‌عنوان حرکتی با پیام سیاسی و تلاش احتمالی برای اعمال فشار در آستانه گفت‌وگوها است."
-        ],
-        "impact": "این نمایش نظامی ممکن است تلاش رژیم برای فشار به طرف آمریکایی را نشان دهد، اما هزینه‌های سیاسی و اقتصادی چنین مانورهایی به تضعیف هرچه بیشتر حکومت و تقویت راه مردم ایران به سمت آزادی کمک می‌کند.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kS1lGTklZRk5tQnlaU1JjdGtBdWczWVlZRWNnZ3FTcjIyNE9GNlBBRVBMamhnQkNneHd4TWkzVFRadVR1aVdjRWw4UE5DcDBQZ3hCWEZCV0RhSmE5Z0l4UHI4OEhXNnBCWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kS1lGTklZRk5tQnlaU1JjdGtBdWczWVlZRWNnZ3FTcjIyNE9GNlBBRVBMamhnQkNneHd4TWkzVFRadVR1aVdjRWw4UE5DcDBQZ3hCWEZCV0RhSmE5Z0l4UHI4OEhXNnBCWUE",
-        "image": null,
-        "timestamp": 1771272948.0
-    },
-    {
-        "title_fa": "ایران و آمریکا وارد دور دوم مذاکرات در ژنو شدند؛ آیا ترامپ در صورت شکست حمله خواهد کرد؟",
-        "title_en": "Iran-US set for Round 2 of talks in Geneva. Will Trump attack if they fail?",
-        "summary": [
-            "عباس عراقچی به همراه هیأت ایرانی امروز در ژنو با نمایندگان ویژه آمریکا، استیو ویتکاف و جارد کوشنر، و با میانجی‌گری وزیر خارجه عمان، برای دور دوم گفتگوها درباره برنامه هسته‌ای دیدار می‌کند.",
-            "هم‌زمان ایالات متحده حضور نظامی خود در غرب آسیا را با اعزام ناوها و جنگنده‌ها تقویت کرده و کاخ سفید احتمال اقدام نظامی علیه ایران را به‌طور قطعی رد نکرده است؛ نشانه‌ای از تهدید جنگی در صورت شکست مذاکرات.",
-            "رویکرد تهران تا کنون ترکیبی از سازش و استقامت بوده است؛ عراقچی از «ایده‌های واقعی» برای رسیدن به توافق عادلانه سخن گفته و تأکید کرده که «تسلیم در برابر تهدیدها» پذیرفتنی نیست."
-        ],
-        "impact": "افزایش تهدید نظامی در کنار دیپلماسی، فشار خارجی بر رژیم ولایت‌فقیه را تشدید می‌کند و می‌تواند به تضعیف توان فشاری رژیم و گشایش مسیر مردم برای تغییر سیاسی کمک کند.",
-        "tag": "مذاکرات",
-        "urgency": 9,
-        "sentiment": 0.3,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/explainers/iran-us-geneva-talks-trump-strike-13980532.html",
-        "clean_url": "https://www.firstpost.com/explainers/iran-us-geneva-talks-trump-strike-13980532.html",
-        "image": null,
-        "timestamp": 1771272000.0
     }
 ]
