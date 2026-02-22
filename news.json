@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ترامپ به یاد نمی‌آورد که آیا سلاح‌های هسته‌ای ایران را «نابود» کرده است",
+        "title_en": "Trump can't remember whether he 'obliterated' Iran's nukes | Opinion",
+        "summary": [
+            "ادعای متناقض ترامپ درباره نابودی برنامه هسته‌ای ایران اعتمادپذیری آمریکا و بازدارندگی آن را تضعیف می‌کند.",
+            "پیام‌های ناپیوسته واشینگتن می‌تواند به تهران مجال تبلیغاتی و بهره‌برداری سیاسی بدهد و در عمل اهرم فشار خارجی را کم‌اثر کند.",
+            "برای اپوزیسیون ایرانی، این شکاف پیام‌رسانی فرصتی برای برجسته‌کردن ضعف‌های حکمرانی و فشار به جامعه بین‌المللی جهت تدوین استراتژی شفاف‌تر است."
+        ],
+        "impact": "این اظهارنامشخص، اهرم فشار بین‌المللی علیه حکومت ایران را تضعیف و میدان تبلیغاتی تهران را تقویت می‌کند.",
+        "tag": "اعتبار",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemJTMi1GeTNzY3pwbkZuX0NlQnRKTnpCQkxhNFF0aVJWdkNhTENuLTUweXh1SXR3M0dRY1JLTWJZX1JGSE11WGN0QnlUSDFCSGEzeENxV3ZraWFYUkZVV0hKUXNEenltalBUcl9LNW1tTjRIS1BUUXNzcGJXd2hlUHJmeW56UzVGRW4ybVF5ZWNmSnI4SXhVLU5sRnBWLTlu?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemJTMi1GeTNzY3pwbkZuX0NlQnRKTnpCQkxhNFF0aVJWdkNhTENuLTUweXh1SXR3M0dRY1JLTWJZX1JGSE11WGN0QnlUSDFCSGEzeENxV3ZraWFYUkZVV0hKUXNEenltalBUcl9LNW1tTjRIS1BUUXNzcGJXd2hlUHJmeW56UzVGRW4ybVF5ZWNmSnI4SXhVLU5sRnBWLTlu",
+        "image": null,
+        "timestamp": 1771750860.0
+    },
+    {
+        "title_fa": "استیون ویتکوف: ایران ممکن است ظرف یک هفته بتواند بمب بسازد",
+        "title_en": "Iran may be able to make bombs in a week, Steve Witkoff says",
+        "summary": [
+            "گزارش: استیون ویتکوف در مصاحبه با جِروشلم پست اظهار کرده ایران ممکن است ظرف یک هفته توانایی ساخت بمب را داشته باشد؛ منبع اصلی ادعا همین گزاره است.",
+            "پیام راهبردی: اگر ادعا واقعیت داشته باشد، بازه زمانی بسیار کوتاه برای ساخت سلاح هسته‌ای یا مواد شکافتنی، احتمال واکنش نظامی و تشدید تحریم‌ها را بالا می‌برد و ظرفیت رژیم برای مدیریت بحران خارجی را تضعیف می‌کند.",
+            "تبعات داخلی: این اظهارنظر می‌تواند دوگانه عمل کند — ابزار بهانه‌جویی برای توجیه سرکوب داخلی و تمرکز امنیتی بیشتر یا در مقابل، افزایش فشار خارجی که احتمالاً نارضایتی و بحران مشروعیت در داخل را تشدید خواهد کرد."
+        ],
+        "impact": "اگر این ادعا معتبر باشد، روند فشار بین‌المللی و خطر برخورد نظامی به‌سرعت تشدید می‌شود و ثبات سیاسی-اقتصادی رژیم را عمیقاً تضعیف خواهد کرد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtb2lDSUVvVE5pUU9pMUIzdGJrS1VOVHoySWpfb0NYVmd3ZWU4VzlOZ1dJVHM1bTEzTF9KTXJobE41Tl9TLVdaR3lDOXJtWnZFOWJFLVVCWGZKczNy?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtb2lDSUVvVE5pUU9pMUIzdGJrS1VOVHoySWpfb0NYVmd3ZWU4VzlOZ1dJVHM1bTEzTF9KTXJobE41Tl9TLVdaR3lDOXJtWnZFOWJFLVVCWGZKczNy",
+        "image": null,
+        "timestamp": 1771750704.0
+    },
+    {
         "title_fa": "ایران و آمریکا در برداشت از رفع تحریم‌ها اختلاف دارند، مقام ارشد ایرانی می‌گوید",
         "title_en": "Iran and US diverge in views on sanctions relief, senior Iranian official says",
         "summary": [
@@ -196,6 +232,24 @@
         "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-donald-trump-ayatollah-ali-khamenei-nuclear-talks-tehran-student-protests-universities-latest-news-101771742710823.html",
         "image": null,
         "timestamp": 1771720740.0
+    },
+    {
+        "title_fa": "چگونه ایران برای دوام آوردن مقابل ترامپ در جنگی بلندمدت آماده می‌شود",
+        "title_en": "How Iran Is Preparing to Outlast Trump in a Long War",
+        "summary": [
+            "گزارش Newsweek به نقل از یک تحلیلگر نظامی سابق اسرائیل می‌گوید ایران قابلیت‌هایی دارد که در دور قبلی به‌طور کامل به کار نگرفته است.",
+            "ذخیره یا پنهان نگه داشتن این قابلیت‌ها نشانه آماده‌سازی برای یک مواجهه فرسایشی و احتیاط در زمان‌بندی استفاده از توانمندی‌هاست.",
+            "پیامد عملی این رویکرد افزایش ریسک تشدید نظامی در منطقه و لزوم بازنگری رقبا و آمریکا در استراتژی بازدارندگی است."
+        ],
+        "impact": "این رفتار حکومتی نشان‌دهنده اولویت‌گذاری بر توان نظامی برای بقا در درازمدت است و می‌تواند ثبات منطقه‌ای و ظرفیت اقتصادی داخلی را فرسایشی تضعیف کند.",
+        "tag": "نظام",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/how-iran-is-preparing-to-outlast-trump-in-a-long-war-11559289",
+        "clean_url": "https://www.newsweek.com/how-iran-is-preparing-to-outlast-trump-in-a-long-war-11559289",
+        "image": "http://www.bing.com/th?id=OVFT.DZBkTQgDkinRMfd4C_rFii&pid=News",
+        "timestamp": 1771718400.0
     },
     {
         "title_fa": "اروپا به دنبال احیای دیپلماسی با ایران؛ آمریکا گزینه حمله را بررسی می‌کند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2tJWTNvUXRLZEpNTk5rU2g5YjU1WVAwb2JvVUNfOW5RU3hGaEdWY0R6VC1nQ0djN3dibGlYZzNVYTRwTHc4SkxpVzVvN095WHV0WjBJcHNtNDRZYzdFc1VkbnNYamtJUUpQTGRLeERSQndfRnFvV19DT2hHc2t2akpSaXJlRlhVY2RGRVZCQdIBjwFBVV95cUxNR2tJWTNvUXRLZEpNTk5rU2g5YjU1WVAwb2JvVUNfOW5RU3hGaEdWY0R6VC1nQ0djN3dibGlYZzNVYTRwTHc4SkxpVzVvN095WHV0WjBJcHNtNDRZYzdFc1VkbnNYamtJUUpQTGRLeERSQndfRnFvV19DT2hHc2t2akpSaXJlRlhVY2RGRVZCQQ",
         "image": null,
         "timestamp": 1771248702.0
-    },
-    {
-        "title_fa": "سپاه پاسداران رزمایش در تنگه هرمز را آغاز کرد",
-        "title_en": "Iran's Revolutionary Guards launch Strait of Hormuz drills",
-        "summary": [
-            "سپاه پاسداران انقلاب اسلامی رزمایش نظامی در تنگه هرمز را آغاز کرده؛ مقامات رسمی هدف را افزایش آمادگی رزمی و نمایش بازدارندگی اعلام کرده‌اند.",
-            "برگزاری مانور در این آبراه استراتژیک می‌تواند عبور و مرور تجاری و امنیت خطوط کشتیرانی را تحت تأثیر قرار دهد و خطر تقابل با ناوگان‌های خارجی، از جمله آمریکا و متحدان منطقه‌ای را افزایش دهد.",
-            "این اقدام در چارچوب الگوی شناخته‌شده‌ای قرار می‌گیرد که در آن نظام از نمایش قدرت نظامی برای کاستن از فشارهای داخلی و تقویت موقعیت سیاسی بهره می‌برد؛ مصرف منابع روی مانورها به جای حل بحران‌های اقتصادی و اجتماعی ضعف حکومتی را برجسته می‌کند."
-        ],
-        "impact": "این مانور می‌تواند تنش‌های منطقه‌ای را تشدید کرده و به بازتشدید تحرکات دیپلماتیک و فشارهای بین‌المللی علیه نظام منجر شود.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KcHhqNmRVdVJtdTFENGk5SHY1SllWdnFwODFCbHhLVUp0eW5Ja3IydWhBVjBTUFIxTEhHQ1VBbDdqQmRFeEVnbVN1ZC1VX3VYX1IwVHduNmNwelVpaEwzaVdYemJDal9SbnJiOGNXQS13WC1WWVcwWG9R0gF6QVVfeXFMTkZuNXdhZHlpQkNZbG5mUEpEZThUaGt3U0FrX0NXcTlvUTNORFZyYWtWOVNNT0JlVUstWW9SeWtveU1KekcxSS1PQk9NUEE4dm5fSnMzUE1qZTBzYUdrNm9DVDVUOHVwSkZ4cUFKM1c0Y20zcndFdXp3c0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KcHhqNmRVdVJtdTFENGk5SHY1SllWdnFwODFCbHhLVUp0eW5Ja3IydWhBVjBTUFIxTEhHQ1VBbDdqQmRFeEVnbVN1ZC1VX3VYX1IwVHduNmNwelVpaEwzaVdYemJDal9SbnJiOGNXQS13WC1WWVcwWG9R0gF6QVVfeXFMTkZuNXdhZHlpQkNZbG5mUEpEZThUaGt3U0FrX0NXcTlvUTNORFZyYWtWOVNNT0JlVUstWW9SeWtveU1KekcxSS1PQk9NUEE4dm5fSnMzUE1qZTBzYUdrNm9DVDVUOHVwSkZ4cUFKM1c0Y20zcndFdXp3c0E",
-        "image": null,
-        "timestamp": 1771246036.0
-    },
-    {
-        "title_fa": "آمریکا فشار نظامی بر ایران را پیش از مذاکرات حساس افزایش داد",
-        "title_en": "US increases military pressure on Iran ahead of high-stakes talks",
-        "summary": [
-            "نیروی دریایی و هوایی آمریکا، از جمله یگان حمل‌کنندهٔ هواپیمابر USS Abraham Lincoln، تانکرهای سوخت‌رسان و جنگنده‌ها، همراه با سامانه‌های پدافندی و محموله‌های نظامی به اردن، بحرین و عربستان منتقل شده‌اند؛ داده‌های پروازی نشان‌دهندهٔ بیش از ۲۵۰ پرواز باری و استقرار ۱۲ فروند F-15 در پایگاه الموافق سلتی اردن از ۲۵ ژانویه است.",
-            "هدف اعلام‌شدهٔ این تحرکات دوگانه است: ایجاد فشار و ترساندن تهران پیش از مذاکرات ژنو و نگه داشتن گزینهٔ حمله داخل ایران در صورت شکست گفت‌وگوها؛ رئیس‌جمهور ترامپ هم بارها تهدید به اقدام نظامی کرده و از «تغییر رژیم» سخن گفته است.",
-            "این تجمع نیروها ریسک افزایش تنش در منطقه را بالا می‌برد، همزمان شانس تضعیف اهرم‌های قدرت جمهوری اسلامی و تقویت موقعیت معترضان و اپوزیسیون داخلی را بالاتر می‌برد، ولی احتمال تشدید و بروز رویارویی نظامی را نیز حفظ می‌کند."
-        ],
-        "impact": "فشار نظامی آمریکا می‌تواند ارکان اقتدار جمهوری اسلامی را تضعیف و راه حصول آزادی و فشار داخلی را هموارتر کند، اما خطر تشدید تنش و رویارویی مسلحانه نیز بسیار واقعی است.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": 0.7,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/02/16/politics/us-iran-military-buildup-pressure",
-        "clean_url": "https://www.cnn.com/2026/02/16/politics/us-iran-military-buildup-pressure",
-        "image": null,
-        "timestamp": 1771245900.0
-    },
-    {
-        "title_fa": "انتظارات از سخنرانی سالانه دونالد ترامپ درباره وضعیت کشور",
-        "title_en": "Expectations Of The United State President Donald Trump State Of The Union Address",
-        "summary": [
-            "مؤسسه تحقیقاتی غنایی Kudus Research and Advocacy Center گزارشی منتشر کرده و انتظارات از سخنرانی وضعیت کشور رئیس‌جمهور ترامپ در ۲۴ فوریه ۲۰۲۶ را بررسی کرده و حتی یک متن فرضی از سخنرانی ارائه داده است.",
-            "متن فرضی و تحلیل‌ها بر دستاوردهای ادعایی داخلی تأکید دارند: رشد اقتصادی، اصلاحات دولتی و صرفه‌جویی (از جمله اشاره به «One Big Beautiful Bill»، دائمی‌سازی کاهش‌های مالیاتی ۲۰۱۷، «Trump Accounts» و ادعای صرفه‌جویی حدود ۲ میلیارد دلار در بودجه IT سرویس درآمد داخلی).",
-            "نتیجه‌گیری گزارش این است که هدف اصلی سخنرانی تثبیت روایت «قول دادم، عمل کردم» و معرفی اولویت‌های سیاسی و اقتصادی آینده است؛ اثرگذاری نهایی بر سیاست خارجی و برنامه‌های اجرایی بستگی به جزئیات سیاست‌های اعلام‌شده خواهد داشت."
-        ],
-        "impact": "سخنرانی می‌تواند جهت‌گیری‌های داخلی و خارجی دولت آمریکا در سال پیش‌رو را مشخص کند و برای بازیگران منطقه‌ای و بین‌المللی اهمیت خبری و تحلیلی خواهد داشت.",
-        "tag": "آمریکا",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "Modern Ghana",
-        "url": "https://www.modernghana.com/news/1471833/expectations-of-the-united-state-president-donald.html",
-        "clean_url": "https://www.modernghana.com/news/1471833/expectations-of-the-united-state-president-donald.html",
-        "image": "https://cdn.modernghana.com/images/content/213202693606-wbrevihuto-213202691349-president-donald-trump-1270511220.jpg",
-        "timestamp": 1771242660.0
     }
 ]
