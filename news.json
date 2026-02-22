@@ -198,6 +198,24 @@
         "timestamp": 1771763259.0
     },
     {
+        "title_fa": "تداوم اعتراضات دانشجویی در روز دوم علیرغم سرکوب خونین رژیم",
+        "title_en": "Iran Students Protest for Second Day Despite State Crackdown",
+        "summary": [
+            "اعتراضات ضد حکومتی برای دومین روز پیاپی در دست‌کم هفت دانشگاه در تهران و مشهد رخ داد؛ ویدئوهای تأییدشده حضور دانشجویان در دانشگاه هنر تهران و دانشگاه علم و صنعت را نشان می‌دهد.",
+            "دانشجویان نماداً سیاه‌پوش شدند و خواستار پایان حکمرانی علی خامنه‌ای شده‌اند؛ این خیزش در سایه سرکوب ژانویه با هزاران کشته و حدود ۴۰٬۰۰۰ بازداشت شکل می‌گیرد.",
+            "حکومت دارایی‌های حامیان اعتراضات را توقیف کرده و هم‌زمان تنش فزاینده با واشنگتن که ریسک برخورد نظامی را بالا می‌برد، توانایی رژیم در مدیریت بحران داخلی را پیچیده‌تر کرده است."
+        ],
+        "impact": "این موج دانشگاهی نشان‌دهنده تداوم بی‌اعتمادی گسترده و ضعف مشروعیت رژیم است و می‌تواند به سرایت مجدد اعتراضات سراسری و تضعیف بیشتر انسجام داخلی منجر شود.",
+        "tag": "اعتراضات",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+        "clean_url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+        "image": "http://www.bing.com/th?id=OVFT.duSc0r3v7oG6hJkDd026wC&pid=News",
+        "timestamp": 1771760220.0
+    },
+    {
         "title_fa": "ازسرگیری مذاکرات ایران و آمریکا در ژنو با وجود تهدیدات حمله",
         "title_en": "Iran-US talks expected Thursday despite fears of strikes",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://www.hindustantimes.com/world-news/us-news/iranus-talks-expected-thursday-despite-fears-of-strikes-101771788486693.html",
         "image": null,
         "timestamp": 1771759680.0
+    },
+    {
+        "title_fa": "مقامات: ایران می‌تواند عوامل نیابتی را برای حمله به اهداف آمریکایی در خارج هدایت کند",
+        "title_en": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
+        "summary": [
+            "مقامات امنیتی غربی می‌گویند نشانه‌های نگران‌کننده‌ای وجود دارد که ایران ممکن است عوامل نیابتی را برای حمله به اهداف آمریکایی در اروپا و خاورمیانه بسیج کند؛ تاکنون طرح مشخصی کشف نشده اما «chatter» شنود ارتباطات شبه‌نظامیان افزایش یافته است.",
+            "نگرانی‌ها شامل احتمال استفاده از حوثی‌ها برای از سرگیری حملات به کشتی‌رانی در دریای سرخ و نیز به‌کارگیری سلول‌های خفته حزب‌الله یا شاخه‌های القاعده برای هدف گرفتن پایگاه‌ها و سفارت‌های آمریکا است؛ ابهام درباره اهداف آمریکا — از حملات محدود تا سرنگونی علی خامنه‌ای — رژیم را به دیدن تعرض به‌عنوان تهدیدی وجودی سوق می‌دهد.",
+            "این گزارش نشانه‌ای از اعتراضات داخلی یا وضعیت اقتصادی ارائه نمی‌دهد، اما اتکا به شبکه‌های نیابتی نشان‌دهنده تضعیف ساختاری و ضعف مشروعیت حکومتی است که می‌تواند پیامدهای سیاسی و اقتصادی داخلی را تشدید کند."
+        ],
+        "impact": "هدایت احتمالی حملات از طریق نیابتی‌ها، هزینه‌های نظامی و سیاسی را برای هر دو طرف بالا برده و ریسک گسترش منطقه‌ای درگیری و تضعیف داخلی رژیم را افزایش می‌دهد.",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html",
+        "clean_url": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html",
+        "image": "http://www.bing.com/th?id=OVFT.SIRRdtHBUZqzFlvvPT61oi&pid=News",
+        "timestamp": 1771759200.0
     },
     {
         "title_fa": "دیدگاه | جنگ با ایران سرکوب اعتراضات تحت فرمان ترامپ را تشدید می‌کند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.al-monitor.com/originals/2026/02/iran-united-states-hold-new-talks-geneva",
         "image": null,
         "timestamp": 1771294260.0
-    },
-    {
-        "title_fa": "ترامپ هشدار جدی به ایران پیش از مذاکرات حساس هسته‌ای صادر کرد",
-        "title_en": "Trump Issues Stark Warning to Iran Ahead of High-Stakes Nuclear Talks",
-        "summary": [
-            "کاخ سفید می‌گوید هدفش امضای توافق با تهران است، اما همزمان به اقدام نظامی در صورت عدم دستیابی به توافق اشاره کرده است.",
-            "هشدار ترامپ فشار بین‌المللی بر رژیم را افزایش می‌دهد و می‌تواند موقعیت سیاسی و امنیتی حکومت را تضعیف کند.",
-            "این فشار خارجی می‌تواند شرایط را برای تقویت مطالبات سیاسی و مدنی در داخل کشور مساعد کند و راه را برای پیشروی مردم به سوی آزادی هموار سازد."
-        ],
-        "impact": "تهدید به اقدام نظامی از سوی آمریکا، در صورت ناتوانی در رسیدن به توافق، می‌تواند اقتدار بین‌المللی و داخلی رژیم را کاهش دهد و فضای سیاسی را به نفع مطالبات مردمی تغییر دهد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": 0.7,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/trump-issues-warning-iran-high-stakes-nuclear-talks-11532833",
-        "clean_url": "https://www.newsweek.com/trump-issues-warning-iran-high-stakes-nuclear-talks-11532833",
-        "image": "http://www.bing.com/th?id=OVFT.CYig-Sr18G3Kg1qmUfMbPy&pid=News",
-        "timestamp": 1771293540.0
-    },
-    {
-        "title_fa": "ترامپ: ایران «عواقب» نداشتن توافق هسته‌ای با آمریکا را نمی‌خواهد",
-        "title_en": "Trump says Iran \"doesn't want the consequences\" of not making a nuclear deal with the U.S.",
-        "summary": [
-            "دونالد ترامپ گفته ایران «نمی‌خواهد عواقب» نرسیدن به توافق هسته‌ای با آمریکا — جمله‌ای که تهدید ضمنی به پیامدهای احتمالی را بازتاب می‌دهد.",
-            "این لحن و فشار لفظی می‌تواند بر فشار بین‌المللی بیفزاید و در پی‌آمد، مشروعیت و انسجام رژیم ولایت‌فقیه را تضعیف کرده و فضای سیاسی را برای اپوزیسیون داخلی بازتر کند.",
-            "با این‌حال این صرفاً یک اظهار نظر سیاسی است نه تغییر قطعی در سیاست اجرایی؛ ممکن است رژیم برای پیش‌گیری یا واکنش، هم به اقدامات تهاجمی و هم به سرکوب داخلی متوسل شود. "
-        ],
-        "impact": "افزایش فشار خارجی که می‌تواند پایه‌های رژیم را تضعیف و فرصت‌های بیشتری برای مقاومت مدنی و تغییر سیاسی در داخل ایجاد کند.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3OVhBamN1UU93Sm50ZnJIR2I0R2c3cEMtNG9fR3NrZWR0THJBd200M21aZ1U1QUtiSzNmQnVEejFQVWlwRUJiNmllSEtoSS1ZRG92U2NocDhwaTU5dVdrWjFQS3NwLUNaZkhQMURlcFZiMmlTcmlVeE5yZ2g?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3OVhBamN1UU93Sm50ZnJIR2I0R2c3cEMtNG9fR3NrZWR0THJBd200M21aZ1U1QUtiSzNmQnVEejFQVWlwRUJiNmllSEtoSS1ZRG92U2NocDhwaTU5dVdrWjFQS3NwLUNaZkhQMURlcFZiMmlTcmlVeE5yZ2g",
-        "image": null,
-        "timestamp": 1771289897.0
     }
 ]
