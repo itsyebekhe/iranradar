@@ -162,6 +162,24 @@
         "timestamp": 1771711759.0
     },
     {
+        "title_fa": "آمادگی‌های ایران برای جنگ و برنامه‌های بقا",
+        "title_en": "Inside Iran’s Preparation for War and Plans for Survival",
+        "summary": [
+            "علی خامنه‌ای مسئولیت تضمین ادامه‌دادن جمهوری اسلامی در صورت جنگ یا ترور را به علی لاریجانی، مسئول ارشد امنیت ملی، واگذار کرده است.",
+            "این تصمیم نشان‌دهنده نگرانی رهبری از احتمال تعرض خارجی یا قتل هدفمند مقامات بلندپایه و تمرکز ساختار تصمیم‌گیری برای مدیریت سناریوهای بحران است.",
+            "تمرکز بر «بقا» احتمال طراحی سازوکارهای متمرکز امنیتی و مدیریتی را افزایش می‌دهد که می‌تواند تصمیم‌گیری‌های اقتدارگرا و بسیج منابع دولتی را تسریع کند."
+        ],
+        "impact": "واگذاری چنین تکلیفی به لاریجانی نشانه ضعف ساختاری و ترس از فروپاشی از بالا است که با متمرکزسازی اختیارات، کارایی مدیریت اقتصادی و کنترل نارضایتی‌های داخلی را تضعیف و ریسک خطاهای راهبردی را بالا می‌برد.",
+        "tag": "بقا",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html",
+        "clean_url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html",
+        "image": "http://www.bing.com/th?id=OVFT._PU-jAQp3P5wwJw4fJ8fzC&pid=News",
+        "timestamp": 1771710720.0
+    },
+    {
         "title_fa": "اسرائیل حزب‌الله را هدف قرار می‌دهد در آستانه احتمال رویارویی بر سر حمله به ایران",
         "title_en": "Israel Targeting Hezbollah Ahead of Possible Clash Over Iran Strike, Security Sources Say",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1Jab2s4X0tIc2luWUh5QzZzaDQycWVNZ0lRTzJ6YUFjOUt3ZS1JRFlCcmp4WjFSZmtjelNzdnJVUkw3a05LMDNxanBKVTYzTWtOaVZRcm83bDdNcVZ6TWtJMXdpMk9lcUczd0k4RDM1aVRtbWtQSE1JcGlrNm1QeW9EanV0Nzd1",
         "image": null,
         "timestamp": 1771236577.0
-    },
-    {
-        "title_fa": "آمریکا و ایران به ژنو می‌روند برای ادامه مذاکرات درباره برنامه هسته‌ای؛ آنچه باید بدانید",
-        "title_en": "US and Iran head to Geneva to continue talks on Iran's nuclear program. What to know",
-        "summary": [
-            "آمریکا و ایران در ژنو برای ادامه گفتگوها درباره برنامه هسته‌ای ایران دیدار می‌کنند.",
-            "نتیجه این مذاکرات می‌تواند وضعیت تحریم‌ها و فشار بین‌المللی بر رژیم تهران را تعیین کند؛ هم امکان کاهش فشار و هم احتمال استفاده رژیم برای خرید زمان وجود دارد.",
-            "برای مردم ایران این دور مذاکره فرصتی است تا جامعه بین‌المللی را به فشار بیشتر علیه سرکوب و مطالبه حقوق و آزادی‌ها متقاعد کنند و در بلندمدت به تضعیف مشروعیت رژیم کمک نماید."
-        ],
-        "impact": "این مذاکرات می‌توانند با تغییر فشارهای سیاسی و اقتصادی جایگاه رژیم را تضعیف کرده و مسیر دستیابی مردم به آزادی‌های بیشتر را هموارتر کنند.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "WBAA",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGQ0ZGltOGxzd0Noc1FVa3FBMlJ6dUFwM3ZodzNLQVZfM3dBTzkyWkxrdGh4Y0NVUmJvY1l2aTRUYTFzd0trTU83T2NDM18yZlJoN2pEM3ZCMDExeDQxejdDYlFOUWpwOFF3X3hyemJfeDhveXZsNVBmb3NENnF4ekVHRXMxV3QyTDhDYV9tVE5NQ3BRSy1qeU1nd0dNU1pKTFVKNFdkdElUTVN1VTFKMmhMOU8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGQ0ZGltOGxzd0Noc1FVa3FBMlJ6dUFwM3ZodzNLQVZfM3dBTzkyWkxrdGh4Y0NVUmJvY1l2aTRUYTFzd0trTU83T2NDM18yZlJoN2pEM3ZCMDExeDQxejdDYlFOUWpwOFF3X3hyemJfeDhveXZsNVBmb3NENnF4ekVHRXMxV3QyTDhDYV9tVE5NQ3BRSy1qeU1nd0dNU1pKTFVKNFdkdElUTVN1VTFKMmhMOU8",
-        "image": null,
-        "timestamp": 1771234920.0
     }
 ]
