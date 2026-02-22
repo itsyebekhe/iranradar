@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "اسرائیل برای حمله فوری آمریکا به ایران آماده بود؛ اکنون متوقف شده است",
+        "title_en": "Israel prepared for imminent US strike on Iran, but now it’s on hold",
+        "summary": [
+            "گزارش‌ها حاکی است آمریکا برای حمله نظامی علیه اهدافی در ایران آماده‌ شده بود و اسرائیل نیز در حالت آماده‌باش قرار گرفته بود، اما تصمیم اجرای فوری این ضربه اکنون معلق شده است.",
+            "تعلیق حمله احتمالاً از تشدید فوری نظامی در منطقه جلوگیری می‌کند، اما نشان‌دهنده سطح بالای تنش و ظرفیت منطقه‌ای برای تشدید در آینده نزدیک است.",
+            "این تهدید نظامی معلق، فشار خارجی بر رژیم ایران را افزایش می‌دهد و می‌تواند پیامدهای سیاسی-اقتصادی داخلی را تشدید کند؛ هرچند جزئیات مستند درباره اثرات داخلی فعلی گزارش نشده است."
+        ],
+        "impact": "تعلیق موقت مانع از فوران فوری جنگ می‌شود اما بار فشار بین‌المللی را بر رژیم ایران افزایش داده و ریسک بی‌ثباتی سیاسی و اقتصادی را در میان‌مدت بالا نگه می‌دارد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfNWdMRDhOZHhhWWRrUUdJa3p1OFdVZkg5NHJ4cmx0TXMzY2FrT21wWVh4UW42X1pJd2p4a0JTSjdKTm5iX3hyWHJzUml2OEZRMEJCbnhUNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfNWdMRDhOZHhhWWRrUUdJa3p1OFdVZkg5NHJ4cmx0TXMzY2FrT21wWVh4UW42X1pJd2p4a0JTSjdKTm5iX3hyWHJzUml2OEZRMEJCbnhUNA",
+        "image": null,
+        "timestamp": 1771724117.0
+    },
+    {
+        "title_fa": "اروپا به دنبال احیای دیپلماسی با ایران؛ آمریکا گزینه حمله را بررسی می‌کند",
+        "title_en": "Europe seeks to revive Iran diplomacy, U.S. considers strikes",
+        "summary": [
+            "اروپا در پی بازکردن یا احیای کانال‌های دیپلماتیک با ایران است که نشان‌دهنده تمایل به کاهش تنش و جلوگیری از تقابل نظامی مستقیم است.",
+            "آمریکا گزینه حملات نظامی علیه ایران را بررسی می‌کند که سطح خطر تشدید سریع درگیری و رویارویی مستقیم را بالا می‌برد.",
+            "تلاقی دیپلماسی اروپایی و تهدید نظامی آمریکا فشار خارجی بر حکومت ایران را افزایش می‌دهد و می‌تواند زمینهٔ تشدید نارضایتی داخلی را فراهم کند."
+        ],
+        "impact": "تضاد میان فشار دیپلماتیک اروپا و تهدید نظامی آمریکا می‌تواند بحران را تشدید و ثبات داخلی حکومت ایران را بیش‌تر تضعیف کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "AOL.com",
+        "url": "https://www.msn.com/en-us/politics/international-relations/iran-weighs-nuclear-diplomacy-with-us-to-cool-fears-of-war/ar-AA1VuBLQ",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-weighs-nuclear-diplomacy-with-us-to-cool-fears-of-war/ar-AA1VuBLQ",
+        "image": null,
+        "timestamp": 1771716510.0
+    },
+    {
         "title_fa": "ترامپ به ایران ۱۰ تا ۱۵ روز مهلت داد تا به توافق هسته‌ای معنادار برسد",
         "title_en": "Trump gives Iran 10 to 15 days to reach a meaningful nuclear deal",
         "summary": [
@@ -34,6 +70,24 @@
         "clean_url": "https://thehoya.com/news/dc-cardinal-condemns-us-foreign-policy",
         "image": null,
         "timestamp": 1771714383.0
+    },
+    {
+        "title_fa": "دانشجویان ایران نخستین اعتراض بزرگ ضددولتی پس از سرکوب مرگبار را برگزار کردند",
+        "title_en": "Iran students stage first large anti-government protests since deadly crackdown",
+        "summary": [
+            "دانشجویان برای نخستین بار پس از سرکوب مرگبار اعتراض‌های پیشین تجمعات بزرگ ضددولتی برگزار کردند؛ نشانه‌ای روشن از تداوم نارضایتی در میان طبقه دانشجویی.",
+            "این تجمع آزمونی برای کارآیی اقدام امنیتی پیشین است: موفقیت در متوقف‌سازی موج اعتراضات از طریق سرکوب قبلی اکنون زیر سؤال رفته است.",
+            "پیام عملی این رویداد افزایش فشار سیاسی بر حکومت و احتمال تشدید اقدامات امنیتی یا برعکس گسترش دامنه اعتراضات است؛ هر دو سناریو ریسک بی‌ثباتی را بالا می‌برد."
+        ],
+        "impact": "این اعتراض‌ها ثبات سیاسی حکومت را متزلزل‌تر می‌کند و احتمال تشدید سرکوب و گسترش اعتراضات را افزایش می‌دهد.",
+        "tag": "اعتراض",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SGdGMVBFcm9oVjE0T1Q3bXlBTG1pN3VyeElYSXcxa2lJU1RTOXBrSkVKSzY1T2NvSjBMYlBhUjVFZ1dEYllVb3ByVFozYnp4TTd5cDdabjNKZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SGdGMVBFcm9oVjE0T1Q3bXlBTG1pN3VyeElYSXcxa2lJU1RTOXBrSkVKSzY1T2NvSjBMYlBhUjVFZ1dEYllVb3ByVFozYnp4TTd5cDdabjNKZw",
+        "image": null,
+        "timestamp": 1771711759.0
     },
     {
         "title_fa": "اسرائیل حزب‌الله را هدف قرار می‌دهد در آستانه احتمال رویارویی بر سر حمله به ایران",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4OXBLeEJjTDgtZXZERmtpNU92aXdfRVFxNVY5Z2xYTGgyTWRJV1htN05NWklVTW1LbFdNNTM5cWt4UllOejhpRVBVcE43SWhBWnpKTzdnTTRleUpPcnVTQkZR",
         "image": null,
         "timestamp": 1771230761.0
-    },
-    {
-        "title_fa": "وزیر خارجه ایران پیش از مذاکرات با آمریکا با رئیس آژانس بین‌المللی انرژی اتمی دیدار می‌کند",
-        "title_en": "Iran Foreign Minister to Meet UN Nuclear Chief Before US Talks",
-        "summary": [
-            "خبر می‌گوید وزیر خارجه ایران قرار است قبل از آغاز دور جدید مذاکرات با ایالات متحده با رئیس آژانس بین‌المللی انرژی اتمی ملاقات کند.",
-            "چنین دیداری معمولاً برای هماهنگی فنی، تعیین دستور کار مذاکرات هسته‌ای و شکل‌دهی روایت دیپلماتیک به‌کار می‌رود و می‌تواند موضوعات حساس را پیش از تماس مستقیم با آمریکا جا بیندازد.",
-            "برای رژیم فرصتی است تا فشار بین‌المللی را کاهش دهد یا زمان بخرد؛ برای اپوزیسیون ملی‌گرا لازم است اهداف واقعی تهران را رصد و افشا کند تا مذاکرات به مانعی برای پاسخگویی داخلی تبدیل نشود."
-        ],
-        "impact": "این ملاقات می‌تواند به تهران کمک کند فضای مذاکرات با آمریکا را شکل دهد و فشارها را کاهش یا زمان بخرد که احتمالاً خطر تضعیف فشار بین‌المللی و داخلی برای پاسخگویی را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": -0.5,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3hRel85SUk4ZXhyZy12bHFvdjloMXBRYmgyMWd1enVlMDZRUThROVRfZkE0UXlPT3BzVm9WMDh1ZjJCZ3g2Mms0TmVHakg1UVJBV0Y5Yy1nOE1IeURVaVNKcmt3NXZ1WUxtakltaWhuQ0tTWGhVNEQ5UzFZakl3SzJWQVMwYzlHcHFQcjI4NHZVdEhDUkVvVURManQ4T1k1TWNJRUJNSF9Dc3BXVnpEWEZONA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3hRel85SUk4ZXhyZy12bHFvdjloMXBRYmgyMWd1enVlMDZRUThROVRfZkE0UXlPT3BzVm9WMDh1ZjJCZ3g2Mms0TmVHakg1UVJBV0Y5Yy1nOE1IeURVaVNKcmt3NXZ1WUxtakltaWhuQ0tTWGhVNEQ5UzFZakl3SzJWQVMwYzlHcHFQcjI4NHZVdEhDUkVvVURManQ4T1k1TWNJRUJNSF9Dc3BXVnpEWEZONA",
-        "image": null,
-        "timestamp": 1771229485.0
-    },
-    {
-        "title_fa": "نتانیاهو: توافق آمریکا با ایران باید زیرساخت‌های هسته‌ای را از بین ببرد",
-        "title_en": "Netanyahu says US deal with Iran must dismantle nuclear infrastructure",
-        "summary": [
-            "بنیامین نتانیاهو گفته است هر توافق احتمالی آمریکا با ایران باید شامل تخریب یا از کار انداختن زیرساخت‌های برنامه هسته‌ای تهران باشد.",
-            "این موضع اسرائیل می‌تواند فشار دیپلماتیک و فنی بر برنامه هسته‌ای ایران را افزایش دهد و موضع مذاکره‌کنندگان بین‌المللی را تقویت کند.",
-            "افزایش فشار بین‌المللی از این دست می‌تواند به تضعیف مشروعیت و توانایی رژیم در داخل کمک کند و در راستای خواست مردم برای پاسخ‌گویی و آزادی موثر باشد."
-        ],
-        "impact": "این اظهارنظر احتمال افزایش فشار بین‌المللی بر رژیم را بالا می‌برد و می‌تواند در بلندمدت به تضعیف قدرت داخلی آن کمک کند.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "middle-east-online.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQm9aTVJDNzZINzg2cmtxZHd6Y0JMUVhTR2ZiNkpTbzNxUy1OM0dMT1pxQnRwMXprUG9BQ0NuUDd6Q2ZCTURUbHBBREJXRXNZd25fYVVrTUVMc3pETXQ5cVEzWnc5UF9Ba1RYaU9hQnpQWTNUTHFzd1JVa0dmQkc1VFdYYWY0Q1dHbGRiNUhPbnRLeXdEckVEVzlLTXZKSnZa?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQm9aTVJDNzZINzg2cmtxZHd6Y0JMUVhTR2ZiNkpTbzNxUy1OM0dMT1pxQnRwMXprUG9BQ0NuUDd6Q2ZCTURUbHBBREJXRXNZd25fYVVrTUVMc3pETXQ5cVEzWnc5UF9Ba1RYaU9hQnpQWTNUTHFzd1JVa0dmQkc1VFdYYWY0Q1dHbGRiNUhPbnRLeXdEckVEVzlLTXZKSnZa",
-        "image": null,
-        "timestamp": 1771226439.0
-    },
-    {
-        "title_fa": "ترامپ حمایت از حملات اسرائیل به ایران را در صورت شکست مذاکرات هسته‌ای وعده داد",
-        "title_en": "Trump pledges support for Israeli strikes on Iran if nuclear talks fail",
-        "summary": [
-            "دونالد ترامپ اعلام کرده در صورت شکست گفتگوهای هسته‌ای، از حملات نظامی اسرائیل علیه ایران حمایت خواهد کرد.",
-            "این اظهارنظر احتمال تشدید تنش و گسترش درگیری در منطقه را افزایش می‌دهد و ریسک برخورد مستقیم میان ایران، اسرائیل و آمریکا را بالا می‌برد.",
-            "برای رژیم جمهوری اسلامی این فشار خارجی می‌تواند به تضعیف اقتدار داخلی منتهی شود و برای جنبش‌های مدنی و مردم فرصتی نمادین و سیاسی ایجاد کند."
-        ],
-        "impact": "این تهدیدِ حمایت خارجی، در کنار دیگر فشارها، می‌تواند پایه‌های اقتدار رژیم را سست کند و مسیر حرکت مردم به سمت آزادی را تسهیل نماید.",
-        "tag": "فرصت",
-        "urgency": 9,
-        "sentiment": 0.5,
-        "source": "Türkiye Today",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGxQSmNwOWsxZjU0akxIck5yQjA4Ukl2LVI2ekhPWHY1cjNnZzB1UGE2ZzM0bVhfLWpNMDA5T2JpMWg5ZXNNSy0yc2tnRGFyZW9UeGttM3JINUpzV0NoMFlRTDdPMXhjRE1JSHV5Q0t4WVNCdHA0RmRxWlEyNldpTEdCTTE1Y09aWnVZYmdRTjcta0FhWEp3R21iZ00wWVNLU0pLMlBoTVpjckhCcGp1NGVOUmZrUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGxQSmNwOWsxZjU0akxIck5yQjA4Ukl2LVI2ekhPWHY1cjNnZzB1UGE2ZzM0bVhfLWpNMDA5T2JpMWg5ZXNNSy0yc2tnRGFyZW9UeGttM3JINUpzV0NoMFlRTDdPMXhjRE1JSHV5Q0t4WVNCdHA0RmRxWlEyNldpTEdCTTE1Y09aWnVZYmdRTjcta0FhWEp3R21iZ00wWVNLU0pLMlBoTVpjckhCcGp1NGVOUmZrUQ",
-        "image": null,
-        "timestamp": 1771225568.0
     }
 ]
