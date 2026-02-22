@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "واشنگتن و تهران دور جدید مذاکرات هسته‌ای برگزار می‌کنند؛ اعتراضات دانشجویی تجدید شد",
+        "title_en": "Washington and Tehran to hold more nuclear talks as protests reignite in Iran",
+        "summary": [
+            "مذاکرات ژنو: واشنگتن و تهران قرار است دور جدیدی در ژنو داشته باشند؛ مقام‌های آمریکایی می‌گویند ایران پیشنهاداتی برای رقیق‌سازی ذخایر اورانیومِ به‌شدت غنی‌شده ارائه کرده تا نیت ساخت سلاح هسته‌ای را نفی کند؛ عباس عراقچی از وجود «شانس خوب» برای راه‌حل دیپلماتیک و برنامه برای «توافق سریع» خبر داد و در عین حال هشدار داد در صورت حمله حق دفاع را خواهد داشت.",
+            "فشار خارجی و تهدید نظامی: ایالات متحده دارایی‌های نظامی خود را در منطقه گسترش داده و تیم ترامپ تمرکز خود را به برنامه هسته‌ای ایران معطوف کرده است؛ این فشار خارجی ساختاری، تهران را در معرض امتیازدهی فنی یا مواجهه با تهدید نظامی قرار می‌دهد.",
+            "ناآرامی داخلی و فقدان پاسخ شفاف حکومتی: اعتراضات دانشجویی در تهران و مشهد برای دومین روز ادامه یافت و گزارش‌هایی از درگیری با بسیج منتشر شده است؛ دانشگاه‌ها پس از اعتراضات دسامبر-ژانویه بازگشایی شدند، آمار قربانیان محل مناقشه است (دولت ~3,000؛ نهادهای حقوق بشری ≥6,000) و حکومت اجازه ورود کمیته حقیقت‌یاب سازمان ملل را نداده است."
+        ],
+        "impact": "ترکیب مذاکرات هسته‌ای، فشار نظامی خارجی و اعتراضات داخلی ثبات سیاسی حکومت را تضعیف می‌کند و آن را بین دادن امتیاز فنی برای کاهش فشار یا افزایش سرکوب داخلی قرار می‌دهد.",
+        "tag": "بحران",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/feb/22/washington-and-tehran-to-hold-more-nuclear-talks-as-protests-reignite-in-iran",
+        "clean_url": "https://www.theguardian.com/world/2026/feb/22/washington-and-tehran-to-hold-more-nuclear-talks-as-protests-reignite-in-iran",
+        "image": null,
+        "timestamp": 1771789440.0
+    },
+    {
         "title_fa": "عمان تأیید کرد گفت‌وگوهای آمریکا و ایران روز پنج‌شنبه در ژنو برگزار می‌شود",
         "title_en": "Oman confirms US-Iran talks will take place in Geneva on Thursday",
         "summary": [
@@ -180,6 +198,24 @@
         "timestamp": 1771763259.0
     },
     {
+        "title_fa": "ازسرگیری مذاکرات ایران و آمریکا در ژنو با وجود تهدیدات حمله",
+        "title_en": "Iran-US talks expected Thursday despite fears of strikes",
+        "summary": [
+            "فشار خارجی و تهدید نظامی: آمریکا با اعزام دو ناو هواپیمابر و استقرار جنگنده‌ها و تقویت پدافند منطقه‌ای، فشار نظامی شدیدی بر تهران وارد کرده؛ این فشار ساختاری توان مانور سیاسی و نظامی حکومت را تضعیف و لزوم پذیرش امتیاز یا تلاش برای زمان‌خریدن را افزایش می‌دهد.",
+            "روند مذاکرات: وزیر خارجه ایران عباس عراقچی می‌گوید پیش‌نویس توافق تهیه شده و عمان به میانجیگری ادامه می‌دهد؛ نماینده آمریکا استیو ویتکاف آماده ازسرگیری مذاکرات در صورتی است که پیشنهاد تهران ظرف ۴۸ ساعت ارائه شود — گفت‌وگوها در بستر تهدید به حمله جریان دارد که هم احتمال جلوگیری از درگیری را دارد و هم حکومت را در موضع ضعف قرار می‌دهد.",
+            "نارضایتی داخلی و شکست مدیریتی: جنبش اعتراضی سراسری و سرکوب خونین (به‌گفته گروه‌های حقوقی هزاران کشته) نشان‌دهنده ضعف‌های ساختاری در حکمرانی است؛ تجمع‌های دانشجویی موافق و مخالف حکومت و ریسک بازداشت یا بدتر برای منتقدان، میراثی از بی‌اعتباری داخلی است که ظرفیت واکنش رژیم به تهدیدات خارجی را کاهش می‌دهد."
+        ],
+        "impact": "ادامه مذاکرات می‌تواند در کوتاه‌مدت مانع اقدام نظامی مستقیم شود اما همزمان حکمرانی کنونی را بیشتر در معرض فرسایش سیاسی و فشار داخلی قرار می‌دهد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/iranus-talks-expected-thursday-despite-fears-of-strikes-101771788486693.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-news/iranus-talks-expected-thursday-despite-fears-of-strikes-101771788486693.html",
+        "image": null,
+        "timestamp": 1771759680.0
+    },
+    {
         "title_fa": "دیدگاه | جنگ با ایران سرکوب اعتراضات تحت فرمان ترامپ را تشدید می‌کند",
         "title_en": "Opinion | War with Iran would put Trump’s crackdown on dissent into overdrive",
         "summary": [
@@ -214,6 +250,24 @@
         "clean_url": "https://www.baltimoresun.com/2026/02/22/irans-top-diplomat-says-he-probably-will-meet-with-us-envoy-on-thursday-in-geneva",
         "image": null,
         "timestamp": 1771752960.0
+    },
+    {
+        "title_fa": "ویتکاف: ایران نزدیک به تولید مواد بمب هسته‌ای—علیرغم حملهٔ آمریکایی ژوئن",
+        "title_en": "Witkoff Says Iran Near Making Nuclear Bomb Material—Despite US June Strike",
+        "summary": [
+            "ویتکاف ادعا می‌کند ایران به مرحله‌ای نزدیک شده که می‌تواند مواد لازم برای بمب هسته‌ای را تولید کند، در حالی که حملهٔ هوایی آمریکا در ژوئن این روند را هدف قرار داده بود.",
+            "تهران رسماً انکار کرده که به دنبال سلاح هسته‌ای است و اعلام کرده برای گرفتن تسهیلات در برابر رفع تحریم‌ها حاضر به پذیرش برخی محدودیت‌هاست.",
+            "ترکیب ادعاهای پیشرفت هسته‌ای و تمایل به معامله نشان می‌دهد فشار تحریم‌ها رژیم را آسیب‌پذیر کرده و به تغییرات رفتاری با هدف کاهش هزینه‌های اقتصادی-سیاسی منجر شده است."
+        ],
+        "impact": "این ادعاها نشان می‌دهد تحریم‌ها و فشار خارجی ساختارهای حکمرانی و توان اقتصادی رژیم را تضعیف کرده و آن را به پذیرش محدودیت‌های راهبردی یا معامله برای رفع تحریم‌ها سوق می‌دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/witkoff-says-iran-near-making-nuclear-bomb-material-despite-us-june-strike-11563179",
+        "clean_url": "https://www.newsweek.com/witkoff-says-iran-near-making-nuclear-bomb-material-despite-us-june-strike-11563179",
+        "image": null,
+        "timestamp": 1771752540.0
     },
     {
         "title_fa": "پتر جنینگز: ایران مذاکرات هسته‌ای با آمریکا را کش می‌دهد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-donald-trump-ali-khamenei-nuclear-talks-geneva-reza-pahlavi-travel-advisory-101771299342850.html",
         "image": null,
         "timestamp": 1771284060.0
-    },
-    {
-        "title_fa": "هم‌پیمان ترامپ به تایمز آو اسرائیل: ماندن آیت‌الله در قدرت «پیروزی راهبردی برای ایران» خواهد بود",
-        "title_en": "Trump ally to ToI: Ayatollah staying in power would be ‘strategic victory for Iran’",
-        "summary": [
-            "یک هم‌پیمان ترامپ در مصاحبه با تایمز آو اسرائیل اظهار داشته که ادامه سلطه آیت‌الله بر ساختار قدرت، به‌عنوان «پیروزی راهبردی برای ایران» تلقی می‌شود.",
-            "این اظهارنظر نگرانی‌های یک بخش از محافل سیاسی غربی را درباره پیامدهای دوام رهبری کنونی در تهران بازتاب می‌دهد.",
-            "بیانیه می‌تواند بر محاسبات سیاست خارجی و ائتلاف‌های منطقه‌ای تاثیر بگذارد و به بحث‌های داخلی درباره نحوه مواجهه با رژیم ایران سوخت برساند."
-        ],
-        "impact": "این نگاه ممکن است فشار سیاسی و دیپلماتیک علیه رژیم را تشدید کند و فرصت‌هایی برای تقویت صدای اپوزیسیون و درخواست تغییرات ایجاد سازد.",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzdkaEZ1dXRROHh6LVE0SkoyakxIWWhzMmVWQVRTVjJpU0ljQVRrMElpUnMxNWJRcVNUR0t5VHhNZDRJanRadnRieVJ3Mk9uWXlIOUFUMU5neEtqeHQzTDRSX2NFOHR3eHdkc1ZZLXhteGJBWFNiNlZvSW5JOXc5U251cUtSR1ZmQTY4Y1htaEluQnF3ZlFCVXdhaDBuUXVkc3huRVhad1VWdkZtN1R2adIBtgFBVV95cUxQR3Q5OFZxckYtQTBSS0dQc1hkcHpBZEljc2tBMm9sNC1TUjJlZmNWMTYzcXV2c202Vy1KWElLQTE4dm1Jek92TEZnS1RiZVpLa3dycWtSazRKeTJjTk1YOEZyQnlFTlFWWTMxRTMycFpyQ2ptaEwySVZ5SDh6ZE9GUzU1REtWNkVFR2ZwTTFiSXlLd2xhVEt4ODZ5RllSdWtQNEc3aXRUakQyLXprRGhnY2RFNHVfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzdkaEZ1dXRROHh6LVE0SkoyakxIWWhzMmVWQVRTVjJpU0ljQVRrMElpUnMxNWJRcVNUR0t5VHhNZDRJanRadnRieVJ3Mk9uWXlIOUFUMU5neEtqeHQzTDRSX2NFOHR3eHdkc1ZZLXhteGJBWFNiNlZvSW5JOXc5U251cUtSR1ZmQTY4Y1htaEluQnF3ZlFCVXdhaDBuUXVkc3huRVhad1VWdkZtN1R2adIBtgFBVV95cUxQR3Q5OFZxckYtQTBSS0dQc1hkcHpBZEljc2tBMm9sNC1TUjJlZmNWMTYzcXV2c202Vy1KWElLQTE4dm1Jek92TEZnS1RiZVpLa3dycWtSazRKeTJjTk1YOEZyQnlFTlFWWTMxRTMycFpyQ2ptaEwySVZ5SDh6ZE9GUzU1REtWNkVFR2ZwTTFiSXlLd2xhVEt4ODZ5RllSdWtQNEc3aXRUakQyLXprRGhnY2RFNHVfQQ",
-        "image": null,
-        "timestamp": 1771283460.0
-    },
-    {
-        "title_fa": "بازی لبه‌تیغ در خلیج فارس: مانورهای هرمز پیام تهران به آمریکا",
-        "title_en": "Brinkmanship at sea: How Iran's Hormuz drills are a message to the US",
-        "summary": [
-            "سپاه پاسداران مانور «کنترل هوشمند تنگه هرمز» را با شلیک زنده، شناورهای تندرو، پهپادهای دریایی و سامانه‌های موشکی ضدکشتی برگزار کرد و این اقدام چند ساعت پیش از ازسرگیری مذاکرات هسته‌ای ایران و آمریکا انجام شد؛ پیامی آشکار درباره توانایی مختل‌سازی جریان نفت جهانی.",
-            "انتخاب محل مانورها — تنگه‌ای که حدود ۲۰ درصد نفت جهان از آن می‌گذرد — هدفمند بود تا اهرم فشار تهران در مذاکرات افزایش یابد و هشدار ضمنی به بالا بردن هزینه‌های هرگونه برخورد نظامی بدهد، هرچند که احتمال محاسبه اشتباه و تشدید بحران منطقه‌ای را بالا می‌برد.",
-            "این نوع لبه‌گریزی دیپلماتیک ممکن است در کوتاه‌مدت قدرت چانه‌زنی رژیم را افزایش دهد، ولی همان‌طور واقع‌گرا، چنین نمایش‌هایی ریسک تحریم‌ها، شوک‌های قیمتی و تضعیف مشروعیت داخلی را بالا می‌برد و می‌تواند فضای بیش‌تری برای تلاش‌های مردمی به‌منظور تغییر فراهم آورد."
-        ],
-        "impact": "مانورها پیام قدرت‌نمایی برای میز مذاکره می‌فرستند اما هم‌زمان اقتصاد و مشروعیت رژیم را در معرض ضربه و خطای راهبردی قرار می‌دهند که می‌تواند راه را برای فشار داخلی و مطالبات مردم بازتر کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Week",
-        "url": "https://www.theweek.in/news/middle-east/2026/02/17/brinkmanship-at-sea-how-irans-hormuz-drills-are-a-message-to-the-us.html",
-        "clean_url": "https://www.theweek.in/news/middle-east/2026/02/17/brinkmanship-at-sea-how-irans-hormuz-drills-are-a-message-to-the-us.html",
-        "image": "http://www.bing.com/th?id=OVFT.ikiKXHRo_OVeg6Dz4ZWXai&pid=News",
-        "timestamp": 1771280160.0
-    },
-    {
-        "title_fa": "هاکابی: آمریکا و اسرائیل «کاملاً هم‌راستا» در قبال ایران‌اند؛ هشدار داد دیپلماسی ممکن است جنگ را دفع نکند",
-        "title_en": "Huckabee says US and Israel 'absolutely aligned' on Iran, warns diplomacy may not avert war",
-        "summary": [
-            "هاکابی اظهار داشته که سیاست‌های آمریکا و اسرائیل در قبال ایران «کاملاً هم‌راستا» هستند.",
-            "او هشدار داده که تلاش‌های دیپلماتیک ممکن است ناکافی باشد و مانع وقوع جنگ نشود.",
-            "این هم‌راستایی احتمال افزایش فشارهای بین‌المللی و ریسک تقابل مستقیم را بالا می‌برد و می‌تواند موقعیت حکومت را تضعیف کند."
-        ],
-        "impact": "این سخنان با بالا بردن احتمال تقابل نظامی و فشار خارجی، ضعف‌های رژیم را برجسته کرده و می‌تواند درهای بیشتری برای مقاومت داخلی و خواست آزادی مردم باز کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XcHRYSzNWMEZGejRDdlgzX2FKbkxhZVgyQlc1cTZVZmdVV1pYS2xfbFdXUHBvbm92OGhycE5ZWEdCcVdCcVVJZjlMRHR4Z0VXZ1M1cGdBUG4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XcHRYSzNWMEZGejRDdlgzX2FKbkxhZVgyQlc1cTZVZmdVV1pYS2xfbFdXUHBvbm92OGhycE5ZWEdCcVdCcVVJZjlMRHR4Z0VXZ1M1cGdBUG4",
-        "image": null,
-        "timestamp": 1771279409.0
     }
 ]
