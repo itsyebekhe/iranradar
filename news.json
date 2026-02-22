@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران: مذاکرات هسته‌ای با فرستاده ترامپ این هفته از سر گرفته می‌شود",
+        "title_en": "Iran Says Nuclear Talks With Trump’s Envoy to Resume This Week",
+        "summary": [
+            "دولت ایران اعلام کرده مذاکرات هسته‌ای با فرستاده ترامپ این هفته از سر گرفته می‌شود؛ جزئیات درباره دستور کار، محل و شرکت‌کنندگان اعلام نشده است.",
+            "از سرگیری گفتگوها نشانه ادامه فشار خارجی و تلاش حکومت برای کاهش تحریم‌ها و تنش‌های بین‌المللی است، اما اطلاعات کنونی درباره امتیازات یا موانع مطرح‌شده محدود است.",
+            "بدون داده‌های بیشتر، بعید است این دور مذاکرات به‌سرعت مشکلات ساختاری اقتصادی و ضعف‌های حکمرانی را حل کند؛ احتمال تأثیر کوتاه‌مدت بر کاهش فشار اقتصادی وجود دارد."
+        ],
+        "impact": "از سرگیری مذاکرات ممکن است فشارهای بین‌المللی را موقتاً کاهش دهد اما آسیب‌پذیری‌های ساختاری رژیم در مدیریت اقتصاد و مشروعیت داخلی را برطرف نخواهد کرد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Bloomberg",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-to-resume-nuclear-talks-as-israel-presses-strike-option/ar-AA1WrYz1",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-to-resume-nuclear-talks-as-israel-presses-strike-option/ar-AA1WrYz1",
+        "image": null,
+        "timestamp": 1771781545.0
+    },
+    {
         "title_fa": "آمریکا: در صورت ارائه سریع توافق از سوی ایران، مذاکرات هسته‌ای در ژنو برگزار می‌شود",
         "title_en": "US to hold Geneva nuclear talks if Iran submits deal soon",
         "summary": [
@@ -5378,24 +5396,6 @@
         "source": "Firstpost",
         "url": "https://www.firstpost.com/explainers/iran-us-geneva-talks-trump-strike-13980532.html",
         "clean_url": "https://www.firstpost.com/explainers/iran-us-geneva-talks-trump-strike-13980532.html",
-        "image": null,
-        "timestamp": 1771272000.0
-    },
-    {
-        "title_fa": "در ایران، طرح‌های پرداخت اقساط برای خواربار نشانه تشدید بحران اقتصادی",
-        "title_en": "In Iran, payment plans for groceries signal a deepening economic crisis",
-        "summary": [
-            "خانوارها به خرید اقساطی و طرح‌های پرداخت برای اقلام روزمره روی آورده‌اند؛ نشانه‌ای از کاهش قدرت خرید و فشار شدید معیشتی.",
-            "سرکوب اعتراض‌ها توسط تهران سرمایه‌گذاری و فعالیت اقتصادی را خفه کرده و اعتماد عمومی را بیشتر تضعیف کرده است.",
-            "تهدیدهای حملات جدید آمریکا و بی‌ثباتی ارزی ارزش ریال را پایین آورد و فعالیت اقتصادی را کند کرده‌اند."
-        ],
-        "impact": "ترکیب فشارهای اقتصادی، سرکوب داخلی و تهدیدات خارجی نه تنها مردم را در تنگنا قرار داده بلکه مشروعیت و توانایی رژیم برای کنترل کشور را تضعیف و فضای امید و مقاومت مردم را تقویت می‌کند.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/in-iran-payment-plans-for-groceries-signal-a-deepening-economic-crisis/ar-AA1Wup1f",
-        "clean_url": "https://www.msn.com/en-us/money/markets/in-iran-payment-plans-for-groceries-signal-a-deepening-economic-crisis/ar-AA1Wup1f",
         "image": null,
         "timestamp": 1771272000.0
     }
