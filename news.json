@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "اسکوپ: احتمال مذاکرات آمریکا و ایران روز جمعه در صورت ارسال سریع پیشنهاد هسته‌ای از سوی ایران",
+        "title_en": "Scoop: U.S.-Iran talks expected Friday if Iran sends nuclear proposal soon",
+        "summary": [
+            "Axios گزارش می‌دهد مذاکرات آمریکا و ایران احتمالاً روز جمعه برگزار خواهد شد مشروط بر اینکه ایران به‌سرعت یک پیشنهاد هسته‌ای ارسال کند.",
+            "تحقق یا به تعویق افتادن این جلسه کاملاً وابسته به ارسال فوری پیشنهاد از سوی ایران است؛ گزارش نشانه آمادگی طرف آمریکایی برای ورود به مذاکرات را نشان می‌دهد اما جزئیات متن پیشنهاد یا تعهدات طرفین را ارائه نکرده است.",
+            "هیچ اشاره‌ای به بندهای تحریم، امتیازدهی مشخص یا تأثیرات داخلی اقتصادی و اعتراضات در گزارش نیست؛ بنابراین نمی‌توان بدون اطلاعات بیشتر درباره پیامدهای ثبات رژیم یا وضع معیشتی قضاوت کرد، هرچند برگزاری مذاکرات می‌تواند چشم‌انداز فشار خارجی و شرایط اقتصادی را تغییر دهد."
+        ],
+        "impact": "این خبر مشروط می‌تواند فضای دیپلماتیک کوتاه‌مدت را تغییر دهد اما منبع به‌تنهایی شواهد کافی برای ارزیابی اثر مستقیم بر ثبات سیاسی یا معیشت مردم ارائه نمی‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Axios",
+        "url": "https://www.nbcnews.com/world/iran/iran-us-will-hold-nuclear-talks-friday-oman-tensions-remain-high-rcna257494",
+        "clean_url": "https://www.nbcnews.com/world/iran/iran-us-will-hold-nuclear-talks-friday-oman-tensions-remain-high-rcna257494",
+        "image": null,
+        "timestamp": 1771768924.0
+    },
+    {
+        "title_fa": "تنش‌های ایران و آمریکا: مسدود کردن تنگه هرمز چه پیامدی برای نفت و LNG دارد؟",
+        "title_en": "Iran-US tensions: What would blocking Strait of Hormuz mean for oil, LNG?",
+        "summary": [
+            "مسدود شدن تنگه هرمز می‌تواند بلافاصله صادرات نفت و LNG را مختل کند، باعث شوک عرضه در بازارهای جهانی و افزایش هزینه‌های حمل و نقل و مسیرهای جایگزین شود.",
+            "چنین اقدامی به‌عنوان تشدید تنش، احتمال واکنش نظامی و تحریمی آمریکا و متحدانش را بالا می‌برد؛ افت درآمدهای ارزی نتیجه‌ای ساختاری که ثبات مالی و توان دولت را تضعیف خواهد کرد.",
+            "از منظر داخلی، تصمیم به بستن تنگه نشان‌دهنده شکست مدیریت و هزینه‌زایی سیاست‌های مخاطره‌آمیز است که فشار اقتصادی بر مردم را افزایش داده و فضای نارضایتی اجتماعی را تشدید می‌کند."
+        ],
+        "impact": "مسدودسازی تنگه هرمز هم رژیم را با کاهش درآمد و تحریم‌های شدید‌تر روبه‌رو می‌کند و هم بازار جهانی انرژی را به بی‌ثباتی و افزایش قیمت‌ها می‌کشاند.",
+        "tag": "انرژی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng/ar-AA1WQdv8",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng/ar-AA1WQdv8",
+        "image": null,
+        "timestamp": 1771767658.0
+    },
+    {
         "title_fa": "توقف مذاکرات هسته‌ای آمریکا و ایران و افزایش نگرانی‌های جنگی در پی تقویت توان نظامی",
         "title_en": "U.S.-Iran Nuclear Talks Stall as Military Buildup Raises War Fears",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-au/news/other/they-don-t-want-the-consequences-trump-s-warning-to-iran-ahead-of-negotiations/ar-AA1WueGf",
         "image": null,
         "timestamp": 1771267200.0
-    },
-    {
-        "title_fa": "خشم عمومی پس از سرکوب در ایران شعله‌ور می‌شود، در حالی که ترامپ فشار را افزایش می‌دهد",
-        "title_en": "Popular anger burns in Iran after crackdown, as Trump turns up pressure",
-        "summary": [
-            "پس از سرکوب حکومت، خشم و نارضایتی عمومی در ایران تشدید شده است.",
-            "دونالد ترامپ فشار خارجی را افزایش داده که به معنی تشدید تحریم‌ها و انزوای بین‌المللی رژیم است.",
-            "ترکیب ناآرامی‌های داخلی و فشار بیرونی می‌تواند اختیارات رژیم را تضعیف کند و معترضان را جسورتر سازد."
-        ],
-        "impact": "هم‌افزایی سرکوب داخلی و فشار خارجی شانس تضعیف حکومت را بالا برده و مسیر مردم برای کسب آزادی را تقویت می‌کند.",
-        "tag": "اعتراضات",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnMtbDViczVGRkd3cm5pT04zclh4emVpaXh5c3JEaFVRVk5IYjFYcC1VcGJBc1M2RWQtUnBDY1VPSGt2QWJlTWN4aUFiRUFzandEaG9oanB6dnN0cEw0eEZKbUlSNS1LbHYzQm1jSFJncGdiUEVhUnZ2NThuQTY4Rk5VMGxjQl9LQy1NMEVDX01ZZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnMtbDViczVGRkd3cm5pT04zclh4emVpaXh5c3JEaFVRVk5IYjFYcC1VcGJBc1M2RWQtUnBDY1VPSGt2QWJlTWN4aUFiRUFzandEaG9oanB6dnN0cEw0eEZKbUlSNS1LbHYzQm1jSFJncGdiUEVhUnZ2NThuQTY4Rk5VMGxjQl9LQy1NMEVDX01ZZw",
-        "image": null,
-        "timestamp": 1771266292.0
-    },
-    {
-        "title_fa": "نیروی دریایی ایران رزمایش‌هایی را پیش از مذاکرات هسته‌ای برگزار کرد",
-        "title_en": "Iranian navy launches military exercises ahead of nuclear talks",
-        "summary": [
-            "خبرگزاری‌ها از آغاز رزمایش‌های نیروی دریایی ایران در آستانه مذاکرات هسته‌ای گزارش داده‌اند؛ گزارش جزئیات فنی یا گستره عملیات را ارائه نمی‌کند.",
-            "زمان‌بندی رزمایش‌ها نزدیک به دور جدید مذاکرات هسته‌ای به‌عنوان پیامی سیاسی-نظامی به طرف‌های مذاکره‌کننده قابل تفسیر است و می‌تواند فضایی فشارآور ایجاد کند.",
-            "این اقدام هم احتمالاً برای افزایش آمادگی نظامی واقعی و هم به‌عنوان نمایش قدرت برای مصرف داخلی و بین‌المللی به‌کار رفته است — نشانه‌ای از تکیه رژیم بر اقدامات نمایشی به‌جای حل‌وفصل دیپلماتیک."
-        ],
-        "impact": "رزمایش می‌تواند مذاکرات را پیچیده‌تر کند و بازتاب ناامنی و تمایل رژیم به نمایش قدرت به‌جای انتخاب راه‌حل‌های متقاعدکننده دیپلماتیک باشد.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBteHhQUHZBNUtmTzVwRzA5OWpjbk9pQWkyOXZ0X1RVTE1FVkhraGo1dklSbHJoZGpOWUxnRGZxbm9FU2RaWk1lbmN6VXN4NjNvcUlTVURQZDNuekFlNG93aGFWTV9uQXJYeUJOUklMU0daWndDOU1BSVk2WkbSAYIBQVVfeXFMT2RvWHB3VWZXRnZWZmFBQVMtXzNaRzh1aFMwNWNZSDdZSllSUFdsdmN5ZHdEMXp3cGhOaFZPbHpfNnJwVzYtb2xUTmR2alVnUFZOeUlsVTZBYkRzVmM3Mi1sZDc4eTliUmt6M0xYSEFSa2I1N0xxRE1DWnV5WDU5SzgxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBteHhQUHZBNUtmTzVwRzA5OWpjbk9pQWkyOXZ0X1RVTE1FVkhraGo1dklSbHJoZGpOWUxnRGZxbm9FU2RaWk1lbmN6VXN4NjNvcUlTVURQZDNuekFlNG93aGFWTV9uQXJYeUJOUklMU0daWndDOU1BSVk2WkbSAYIBQVVfeXFMT2RvWHB3VWZXRnZWZmFBQVMtXzNaRzh1aFMwNWNZSDdZSllSUFdsdmN5ZHdEMXp3cGhOaFZPbHpfNnJwVzYtb2xUTmR2alVnUFZOeUlsVTZBYkRzVmM3Mi1sZDc4eTliUmt6M0xYSEFSa2I1N0xxRE1DWnV5WDU5SzgxZw",
-        "image": null,
-        "timestamp": 1771261560.0
     }
 ]
