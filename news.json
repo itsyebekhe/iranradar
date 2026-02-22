@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "عمان تأیید کرد گفت‌وگوهای آمریکا و ایران روز پنج‌شنبه در ژنو برگزار می‌شود",
+        "title_en": "Oman confirms US-Iran talks will take place in Geneva on Thursday",
+        "summary": [
+            "عمان اعلام کرده که دیدار میان نمایندگان آمریکا و ایران روز پنج‌شنبه در ژنو برگزار خواهد شد؛ خبر توسط الجزیره گزارش شده است.",
+            "خبر جزئیاتی درباره دستورکار، شرکت‌کنندگان مشخص یا نتایج مورد انتظار ارائه نمی‌دهد؛ ماهیت و دامنه مذاکرات نامشخص است.",
+            "برگزاری چنین نشستی می‌تواند بر فشارهای خارجی و فضای سیاسی داخلی تأثیر بگذارد، اما بدون اطلاعات بیشتر نمی‌توان درباره کاهش یا تشدید تحریم‌ها و پیامدهای داخلی حکم قطعی داد."
+        ],
+        "impact": "این نشست احتمالاً می‌تواند جهت‌گیری فشارهای بین‌المللی و شرایط سیاسی داخلی را تحت تأثیر قرار دهد، اما ارزیابی دقیق مستلزم اطلاعات تکمیلی است.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "Al Jazeera",
+        "url": "https://www.devdiscourse.com/article/law-order/3813986-us-iran-talks-in-geneva-a-positive-push-for-diplomacy",
+        "clean_url": "https://www.devdiscourse.com/article/law-order/3813986-us-iran-talks-in-geneva-a-positive-push-for-diplomacy",
+        "image": null,
+        "timestamp": 1771785900.0
+    },
+    {
         "title_fa": "مذاکرات آمریکا و ایران قرار است پنج‌شنبه برای بررسی پیشنهاد هسته‌ای برگزار شود",
         "title_en": "U.S.-Iran talks expected Thursday to discuss nuclear proposal",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZkp3SElVbmVhSFpPbU81VlBYcXdRSURhQmFLYWtxVkN3VVYxSE1KRWVwaHpuWXVKZFZHV2hKb0ZZejVJZ3huYkFBUGs4UDBtRmdtVE1zVVFzS3VwQi1raW5sbl9GVmE0Vl9kNndXY3Y5LTFURlZ2TlNkTUF1azZsNUF0MGZtMTlwTUlnNlNNYVpCWVZQS3VNSTMwd1F0Q0ZiRmpiQkZnX3VjQjZvTkxtcm5mbGNxRHVNQXdMRWFkYVlraDR4WUhYMGlTZlF1VThFaDM0SS1GYmMwWU54T1pV",
         "image": null,
         "timestamp": 1771752225.0
+    },
+    {
+        "title_fa": "علی خامنه‌ای لاریجانی را به نقش مدیر بحران ارتقا داد؛ احتمال تقابل با آمریکا افزایش یافته",
+        "title_en": "Iran's Khamenei elevates Larijani as prospects of war with US grow",
+        "summary": [
+            "علی خامنه‌ای لاریجانی را به نقش عملیاتی مدیر بحران گماشته تا حکومت برای رویارویی احتمالی با آمریکا و حفظ عملکرد نهادهای دولتی آماده شود.",
+            "گماردن لاریجانی نشان‌دهنده ضعف ساختاری در مدیریت حکمرانی و ناتوانی سیستم در مقابله با شوک‌های امنیتی و سیاسی است؛ تقابل با آمریکا می‌تواند به افزایش فشار خارجی و تضعیف بیشتر ساختار اقتصادی-سیاسی بینجامد.",
+            "این اقدام صرفاً بازتوزیع قدرت درون حاکمیت است تا عملکرد روزمره دولت حفظ شود، اما هم‌زمان مشروعیت و ظرفیت مدیریتی حکومت را زیر سؤال می‌برد و احتمال تشدید نارضایتی عمومی را بالا می‌برد."
+        ],
+        "impact": "تعیین لاریجانی به‌عنوان مدیر بحران نشانه آماده‌سازی رژیم برای شوک جنگی بالقوه است و می‌تواند ثبات داخلی و توان اقتصادی را سریع‌تر تضعیف کند.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Benzinga on MSN",
+        "url": "https://www.msn.com/en-us/news/world/irans-khamenei-elevates-larijani-as-prospects-of-war-with-us-grow/ar-AA1WQZYj",
+        "clean_url": "https://www.msn.com/en-us/news/world/irans-khamenei-elevates-larijani-as-prospects-of-war-with-us-grow/ar-AA1WQZYj",
+        "image": null,
+        "timestamp": 1771751422.0
     },
     {
         "title_fa": "ترامپ به یاد نمی‌آورد که آیا سلاح‌های هسته‌ای ایران را «نابود» کرده است",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XcHRYSzNWMEZGejRDdlgzX2FKbkxhZVgyQlc1cTZVZmdVV1pYS2xfbFdXUHBvbm92OGhycE5ZWEdCcVdCcVVJZjlMRHR4Z0VXZ1M1cGdBUG4",
         "image": null,
         "timestamp": 1771279409.0
-    },
-    {
-        "title_fa": "ایران و آمریکا پیش از مذاکرات هسته‌ای در ژنو نمایش قدرت نظامی دادند",
-        "title_en": "Iran and US flex military might ahead of nuclear talks in Geneva",
-        "summary": [
-            "خبر کوتاه می‌گوید که هر دو طرف در آستانه مذاکرات هسته‌ای در ژنو نمایش یا مانورهای نظامی انجام داده‌اند تا مواضع قدرت خود را نشان دهند.",
-            "این نشانه‌دهی نظامی ریسک تنش را بالا می‌برد اما هم‌زمان ضعف و آسیب‌پذیری رژیم تهران را در عرصه بین‌المللی برجسته می‌کند.",
-            "برای مردم و اپوزیسیون، چنین فضایی می‌تواند هم تهدیدی برای امنیت اجتماعی باشد و هم فرصتی برای برجسته‌سازی شکست‌های حکومتی و پیشبرد خواست‌های اصلاحاتی."
-        ],
-        "impact": "نمایش نظامی پیش از مذاکرات، فشار بین‌المللی و داخلی بر رژیم را افزایش می‌دهد و در عین حال خطر تشدید نظامی را بالا می‌برد، اما این شرایط می‌تواند به تقویت مسیر آزادی و مطالبات مردمی کمک کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": 0.5,
-        "source": "KATU",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3V0QnAzSWNEZTBtbFBVYW0xNWNqcnVkOFFLVVVJVDN2M1BFa2RyT1lPcVlCQjRtNnMtd0xCYm1pYTJFLUd5OVBSV1l3aWV3RjVpMEZ5YUlRNnhYcUlGTF9yWThuVXZhYmRzYThuQ1lhUV8yX0F6TGJEVG8zYWVjS0tkc1JQdHdXSnVpLXdrckZtYVNLZmVqSlFKR05GTjhxN1k1V1FFWkg5cEU1aHc5M0F4M3QyNTRqSlJyaU1BREtmbzYzMERGUktoVkg5UXVSeHVaQmhkTHJwN3AwbXRrbmxWWGp6YVBkRGQyd3BIYVh4dWExamxSZ25hMXNpSlplbjZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3V0QnAzSWNEZTBtbFBVYW0xNWNqcnVkOFFLVVVJVDN2M1BFa2RyT1lPcVlCQjRtNnMtd0xCYm1pYTJFLUd5OVBSV1l3aWV3RjVpMEZ5YUlRNnhYcUlGTF9yWThuVXZhYmRzYThuQ1lhUV8yX0F6TGJEVG8zYWVjS0tkc1JQdHdXSnVpLXdrckZtYVNLZmVqSlFKR05GTjhxN1k1V1FFWkg5cEU1aHc5M0F4M3QyNTRqSlJyaU1BREtmbzYzMERGUktoVkg5UXVSeHVaQmhkTHJwN3AwbXRrbmxWWGp6YVBkRGQyd3BIYVh4dWExamxSZ25hMXNpSlplbjZB",
-        "image": null,
-        "timestamp": 1771278959.0
-    },
-    {
-        "title_fa": "تلویزیون دولتی ایران: تنگه هرمز برای چند ساعت به‌خاطر تمرینات تیراندازی زنده بسته می‌شود",
-        "title_en": "Iran state TV says Strait of Hormuz will be closed for several hours for live fire drills",
-        "summary": [
-            "تلویزیون دولتی اعلام کرد تنگه هرمز برای چند ساعت به‌خاطر «ملاحظات ایمنی و دریانوردی» و انجام مانورهای تیراندازی زنده بسته خواهد شد؛ تنگه هرمز مسیر حیاتی بین‌المللی برای عبور نفت و کالا است.",
-            "این تصمیم می‌تواند به‌طور موقت عبور کشتی‌ها را مختل کند، هزینه بیمه و نگرانی‌های بازار انرژی را افزایش دهد و واکنش و هشدارهای دیپلماتیک و امنیتی بین‌المللی را برانگیزد.",
-            "این گونه مانورها نشان‌دهنده تکیه رژیم بر نمایش‌های نظامی برای نمایش اقتدار است، در عین حال خطر برخورد یا تشدید تنش در منطقه را بالا می‌برد و ظرفیتی برای افزایش فشارهای بین‌المللی علیه اقدامات مخاطره‌آمیز ایجاد می‌کند."
-        ],
-        "impact": "این اقدام بلافاصله نگرانی بین‌المللی را افزایش می‌دهد و می‌تواند به اختلال موقت در عبور کشتی‌ها و نوسان در بازار انرژی منجر شود.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/02/17/iran-us-nuclear-talks-iaea/1e3774ec-0bbe-11f1-8e91-6e1451aab67e_story.html",
-        "clean_url": "https://www.washingtonpost.com/world/2026/02/17/iran-us-nuclear-talks-iaea/1e3774ec-0bbe-11f1-8e91-6e1451aab67e_story.html",
-        "image": "http://www.bing.com/th?id=OVFT.gsW6tQbHBBfAsUrX7j275y&pid=News",
-        "timestamp": 1771278240.0
     }
 ]
