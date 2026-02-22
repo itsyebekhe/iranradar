@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "نشست بعدی مذاکرات هسته‌ای آمریکا و ایران روز پنج‌شنبه در ژنو",
+        "title_en": "U.S. and Iran to hold next round of nuclear talks Thursday in Geneva",
+        "summary": [
+            "نشست بعدی میان آمریکا و ایران برای مذاکرات هسته‌ای روز پنج‌شنبه در ژنو برگزار می‌شود و فاز جدیدی از تعامل دیپلماتیک آغاز می‌شود.",
+            "محور این دور مذاکرات مسائل مرتبط با تحریم‌ها و فشار خارجی است؛ هرگونه کاهش تحریم‌ها می‌تواند فشار مالی کوتاه‌مدت بر رژیم را تسکین دهد اما ساختارهای ناکارآمد مدیریت اقتصادی و سوءمدیریت طولانی‌مدت همچنان پایه‌های تضعیف ثبات را حفظ می‌کنند.",
+            "برای اقتصاد داخلی و بازارها، خروجی این مذاکرات تعیین‌کننده جریان منابع ارزی و سطح تورم خواهد بود؛ حتی در صورت هرگونه توافق یا تخفیف تحریمی، ریشه‌های ناکارآمدی حکمرانی که بحران‌های اقتصادی را تولید کرده‌اند بدون اصلاح باقی می‌ماند."
+        ],
+        "impact": "نتیجه این دور مذاکرات می‌تواند ظرفیت رژیم برای کاهش فشار اقتصادی و بازیابی منابع مالی را تغییر دهد و به‌طور مستقیم بر ثبات سیاسی داخلی تأثیر بگذارد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "PBS",
+        "url": "https://www.nbcnews.com/meet-the-press/video/trump-hints-at-limited-military-strikes-to-try-to-nudge-along-nuclear-talks-with-iran-258050117691",
+        "clean_url": "https://www.nbcnews.com/meet-the-press/video/trump-hints-at-limited-military-strikes-to-try-to-nudge-along-nuclear-talks-with-iran-258050117691",
+        "image": null,
+        "timestamp": 1771793703.0
+    },
+    {
         "title_fa": "واشنگتن و تهران دور جدید مذاکرات هسته‌ای برگزار می‌کنند؛ اعتراضات دانشجویی تجدید شد",
         "title_en": "Washington and Tehran to hold more nuclear talks as protests reignite in Iran",
         "summary": [
@@ -196,6 +214,24 @@
         "clean_url": "https://www.timesofisrael.com/daily-briefing-feb-22-idf-ramps-up-hezbollah-strikes-as-iran-supports-proxy-group",
         "image": null,
         "timestamp": 1771763259.0
+    },
+    {
+        "title_fa": "پزشکیان در میانه تحرک نظامی گسترده آمریکا اطلاع‌رسانی کرد",
+        "title_en": "Iran president gives update amid massive US military buildup",
+        "summary": [
+            "پزشکیان گزارش خود را ارائه کرد؛ هم‌زمان ترامپ و مقامات آمریکایی با تجمع نظامی گسترده اعلام کردند زمان برای توافق دیپلماتیک در حال اتمام است.",
+            "تحرک نظامی آمریکا و هشدارهای رسمی فضای مذاکره را فشرده کرده و در کوتاه‌مدت گزینه‌های رژیم را تنگ‌تر می‌کند، که خود به‌مثابه فشار خارجی است که ثبات ساختاری حکومت را هدف می‌گیرد.",
+            "خبر اشاره مستقیم به وضعیت داخلی مانند اقتصاد یا اعتراضات نکرد، اما تشدید تهدید خارجی می‌تواند ناتوانی مدیریتی حکومت در حفظ امنیت و ثبات داخلی را نمایان‌تر سازد."
+        ],
+        "impact": "فشار نظامی و سیاسی هم‌زمان آمریکا شانس حصول توافق دلخواه حکومت را کاهش و ریسک تشدید بحران و تضعیف بیشتر رژیم را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/iran-president-gives-update-amid-massive-us-military-buildup/ar-AA1WQRIc",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-president-gives-update-amid-massive-us-military-buildup/ar-AA1WQRIc",
+        "image": "http://www.bing.com/th?id=OVFT.fPL03pBIUy-xfDaSzDd8Vi&pid=News",
+        "timestamp": 1771762517.0
     },
     {
         "title_fa": "تداوم اعتراضات دانشجویی در روز دوم علیرغم سرکوب خونین رژیم",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXBXTGVpWTZRbHdWSGdKTmU0UXdLQXc1TjBVNm10ZWZmR19pbkJoYWgzMjB4SUcwVnJJeGxxa2ZBNXNDeEFoRDRodWtBNGdLS0dVWExxME91M3N3X2J3SUtpb3BkMUkwelRWRTBjTG5HY1NGQ0MxdmRIanRYVFB3WlIwVTBCcEdjNlhRd3lPTDJmcjhfZHVkVEZwT1RvWXlLNy1MX1dUS0N1WU5VRy0yYw",
         "image": null,
         "timestamp": 1771299120.0
-    },
-    {
-        "title_fa": "ایران در تنگه هرمز مانور موشکی زنده انجام داد همزمان با مذاکرات هسته‌ای",
-        "title_en": "Iran conducts live missile drills in Strait of Hormuz amid ongoing nuclear talks",
-        "summary": [
-            "ایران موشک‌های زنده را به سمت تنگه هرمز شلیک کرد، هم‌زمان با آغاز مذاکرات هسته‌ای جدید بین ایران و ایالات متحده در ژنو.",
-            "این اقدام در شرایط افزایش تنش‌های نظامی منطقه انجام شد و از سوی تهران به‌عنوان نمایش قدرت و فشار در بحبوحه گفتگوها تفسیر می‌شود.",
-            "چنین نمایش‌هایی می‌تواند نشانه‌ای از یأس یا تزلزل در سطوح تصمیم‌گیری رژیم باشد و به تضعیف مشروعیت داخلی و بین‌المللی آن کمک کند."
-        ],
-        "impact": "این نمایش نظامی که در بحبوحه مذاکرات هسته‌ای رخ داد، نشان‌دهنده ضعف استراتژیک رژیم و میتواند به تضعیف بیشتر مشروعیت آن و تقویت انگیزه‌های مردمی برای فشار و تغییر منجر شود.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Times Now on MSN",
-        "url": "https://www.msn.com/en-in/news/world/iran-conducts-live-missile-drills-in-strait-of-hormuz-amid-ongoing-nuclear-talks/ar-AA1WvENi",
-        "clean_url": "https://www.msn.com/en-in/news/world/iran-conducts-live-missile-drills-in-strait-of-hormuz-amid-ongoing-nuclear-talks/ar-AA1WvENi",
-        "image": null,
-        "timestamp": 1771298020.0
-    },
-    {
-        "title_fa": "ایران و آمریکا گفت‌وگوهای تازه‌ای در ژنو را آغاز کردند",
-        "title_en": "Iran, United States hold new talks in Geneva",
-        "summary": [
-            "مذاکرات جدید ایران و ایالات متحده در ژنو آغاز شد؛ این دور با میانجی‌گری عمان برگزار شده و دونالد ترامپ هشدار داد در صورت عدم دستیابی به توافق عواقبی در پی خواهد داشت.",
-            "اطلاعات جزئی از محتوای نشست‌ها گزارش نشده اما رسانه‌ها از تلاش برای بررسی راه‌های کاهش تنش خبر داده‌اند و فضای دیپلماتیک تحت فشار واشنگتن قرار گرفته است.",
-            "این گفت‌وگوها به‌عنوان عاملی که فشار خارجی بر رژیم را افزایش می‌دهد قابل تفسیر است و می‌تواند شکاف‌های حکومتی را برجسته کرده و در نهایت مسیر آزادی مردم را تسهیل کند."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و تهدید به پیامدهای جدی از سوی آمریکا می‌تواند انسجام رژیم را تضعیف کرده و فضای بیشتری برای مطالبات داخلی و حرکت‌های اعتراضی فراهم آورد.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "Al-Monitor",
-        "url": "https://www.al-monitor.com/originals/2026/02/iran-united-states-hold-new-talks-geneva",
-        "clean_url": "https://www.al-monitor.com/originals/2026/02/iran-united-states-hold-new-talks-geneva",
-        "image": null,
-        "timestamp": 1771294260.0
     }
 ]
