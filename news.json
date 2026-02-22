@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ایران و آمریکا در برداشت از رفع تحریم‌ها اختلاف دارند، مقام ارشد ایرانی می‌گوید",
+        "title_en": "Iran and US diverge in views on sanctions relief, senior Iranian official says",
+        "summary": [
+            "مقام ارشد ایرانی اعلام کرده تهران و واشنگتن درباره معیارها و گستره رفع تحریم‌ها اختلاف‌نظر دارند؛ این نشان‌دهنده بن‌بست دیپلماتیک حول موضوع تحریم است.",
+            "تداوم اختلاف در برداشت از رفع تحریم‌ها ساختار فشار خارجی را بر رژیم تقویت می‌کند و فرصت‌های محدود دولت برای کاهش خسارت اقتصادی و احیای روابط تجاری را کاهش می‌دهد.",
+            "این بن‌بست احتمالاً به افزایش نارضایتی داخلی و تشدید فشار‌های اقتصادی منجر خواهد شد، چرا که وعده‌های کاهش تحریم‌ها بی‌نتیجه می‌ماند و حکومت را در مدیریت بحران اقتصادی تضعیف می‌کند."
+        ],
+        "impact": "اختلاف تهران و واشنگتن روی تعریف «رفع تحریم» مسیر هرگونه تخفیف فوری فشار اقتصادی را مسدود می‌کند و در عمل ثبات سیاسی و اقتصادی رژیم را بیشتر تضعیف خواهد کرد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-gb/politics/international-relations/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters/ar-AA1WPJWS",
+        "clean_url": "https://www.msn.com/en-gb/politics/international-relations/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters/ar-AA1WPJWS",
+        "image": null,
+        "timestamp": 1771750342.0
+    },
+    {
+        "title_fa": "ایران و آمریکا در دیدگاه درباره رفع تحریم‌ها اختلاف دارند، مقام ارشد ایرانی به رویترز",
+        "title_en": "Iran and US diverge in views on sanctions relief, senior Iranian official to Reuters",
+        "summary": [
+            "خبر رویترز: یک مقام ارشد ایرانی اعلام کرده ایران و آمریکا در موضوع نحوه و میزان رفع تحریم‌ها اختلاف نظر دارند.",
+            "اثر تحریمی/فشار خارجی: این اختلاف، مسیر بازگشت سریع به تسهیلات اقتصادی را مسدود می‌کند و بار ساختاری تحریم‌ها را بر حکومت حفظ می‌کند؛ فشار بلندمدت بر توان تحریری و سیاسی رژیم را افزایش می‌دهد.",
+            "اقتصاد و نارضایتی داخلی: تأخیر در حصول توافق بر رفع تحریم‌ها ریسک تشدید مشکلات اقتصادی را بالا می‌برد و می‌تواند نارضایتی عمومی و فشارهای اجتماعی را تشدید کند، بازتاب ناکارآمدی مدیریتی."
+        ],
+        "impact": "اختلاف تهران و واشنگتن در مورد رفع تحریم‌ها مانع از تسکین سریع اقتصادی می‌شود و فشار ساختاری بر حکومت را تقویت می‌کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.usnews.com/news/world/articles/2026-02-22/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters",
+        "clean_url": "https://www.usnews.com/news/world/articles/2026-02-22/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters",
+        "image": null,
+        "timestamp": 1771749869.0
+    },
+    {
         "title_fa": "آمادگی ایران برای جنگ با اسرائیل و آمریکا؟ سپاه کنترل حزب‌الله را در دست گرفت — پیامدها",
         "title_en": "Iran preparing for war with Israel and US? IRGC takes over Hezbollah amid escalating tensions - What this means",
         "summary": [
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfNWdMRDhOZHhhWWRrUUdJa3p1OFdVZkg5NHJ4cmx0TXMzY2FrT21wWVh4UW42X1pJd2p4a0JTSjdKTm5iX3hyWHJzUml2OEZRMEJCbnhUNA",
         "image": null,
         "timestamp": 1771724117.0
+    },
+    {
+        "title_fa": "تنش ایران-آمریکا و خیزش تازه دانشجویی با شعارهای ضد خامنه‌ای",
+        "title_en": "Iran-US tensions LIVE: Amid tensions with US, fresh protests erupt in Iran; students chant anti-Khamenei slogans",
+        "summary": [
+            "دونالد ترامپ تهدید تازه‌ای مطرح کرده و هشدار داده که «ناخوشایند» خواهد بود اگر حکومت ایران ظرف مهلتی برای مذاکره درباره توافق هسته‌ای اقدام نکند؛ این موضع فشار خارجی بر تهران را تشدید می‌کند.",
+            "در داخل ایران اعتراضات تازه‌ای آغاز شده و به‌ویژه دانشجویان شعارهای ضد خامنه‌ای سر می‌دهند؛ ورود نسل جوان به خیابان نشانه گسترش نارضایتی اجتماعی از مدیریت حکومتی است.",
+            "ترکیب فشارهای بین‌المللی و اعتراضات خیابانی بازتابی از شکست مدیریت و ناتوانی ساختاری حکومت است که ریسک تشدید سرکوب داخلی یا مواجهه با فشارهای بین‌المللی شدیدتر را بالا می‌برد."
+        ],
+        "impact": "همزمانی تهدیدهای آمریکا و موج تازه اعتراضات دانشجویی مشروعیت و ظرفیت مدیریت بحران حکومت را تضعیف کرده و احتمال تشدید سرکوب یا تقابل بین‌المللی را افزایش می‌دهد.",
+        "tag": "ناآرامی",
+        "urgency": 6,
+        "sentiment": -0.75,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/iran-us-tensions-donald-trump-ayatollah-ali-khamenei-nuclear-talks-tehran-student-protests-universities-latest-news-101771742710823.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-donald-trump-ayatollah-ali-khamenei-nuclear-talks-tehran-student-protests-universities-latest-news-101771742710823.html",
+        "image": null,
+        "timestamp": 1771720740.0
     },
     {
         "title_fa": "اروپا به دنبال احیای دیپلماسی با ایران؛ آمریکا گزینه حمله را بررسی می‌کند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.modernghana.com/news/1471833/expectations-of-the-united-state-president-donald.html",
         "image": "https://cdn.modernghana.com/images/content/213202693606-wbrevihuto-213202691349-president-donald-trump-1270511220.jpg",
         "timestamp": 1771242660.0
-    },
-    {
-        "title_fa": "آمریکا و ایران مذاکرات هسته‌ای را از سر می‌گیرند؛ اسرائیل گزینه حمله را مطرح می‌کند",
-        "title_en": "US and Iran to resume nuclear talks as Israel presses strike option - Straight Arrow News",
-        "summary": [
-            "آمریکا و ایران تصمیم گرفته‌اند مذاکرات هسته‌ای را از سر بگیرند که نشانه‌ای از بازگشت مسیر دیپلماتیک بین دو طرف است.",
-            "همزمان اسرائیل گزینه نظامی را مطرح می‌کند و فشار بر ایران را از منظر تهدید به عملیات نظامی افزایش می‌دهد.",
-            "ترکیب دیپلماسی فعال و تهدید نظامی، ریسک‌های منطقه‌ای را بالا می‌برد و می‌تواند بر توازن داخلی قدرت در ایران تاثیر گذاشته و فضای فشار بر رژیم را تغییر دهد."
-        ],
-        "impact": "این هم‌زمانی دیپلماسی و فشار نظامی، موقعیتی ایجاد می‌کند که می‌تواند انسجام و مشروعیت رژیم را تضعیف کرده و فرصت‌های بیشتری برای مردم و نیروهای مخالف باز کند.",
-        "tag": "مذاکرات",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "Straight Arrow News - SAN",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVdGT0QzeC1GdjRSdGNaa2xUWGhYdUVlNHk0RHU4ZXBqWjJUNENNTUtxX1V1U1dnM050RDRqeFRpS1IySGU1NlhvTTlpQUhXN05aV2d4eWRYZkF0el85UC1Nc29sdDV6MEV5YnkyaDBweGhmczhtUGQ4cUpFODNWN0tyc0ZKamg2Z3lBQVQtMzI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVdGT0QzeC1GdjRSdGNaa2xUWGhYdUVlNHk0RHU4ZXBqWjJUNENNTUtxX1V1U1dnM050RDRqeFRpS1IySGU1NlhvTTlpQUhXN05aV2d4eWRYZkF0el85UC1Nc29sdDV6MEV5YnkyaDBweGhmczhtUGQ4cUpFODNWN0tyc0ZKamg2Z3lBQVQtMzI",
-        "image": null,
-        "timestamp": 1771241946.0
-    },
-    {
-        "title_fa": "استفاده از اینفلوئنسرها برای جا انداختن روایت رژیم",
-        "title_en": "Weaponizing influencers: How Iran is using access diplomacy to cement its narrative",
-        "summary": [
-            "چند شخصیت رسانه‌ای غربی این هفته به ایران دعوت شدند و روایت رسمی رژیم — اینکه «اغتشاشگران وابسته به بیگانگان» مسئول اعتراضات هستند — را بازتاب دادند.",
-            "رژیم از «دسترسی دیپلماسی» و میزبانی رسانه‌ای برای مشروعیت‌نمایی و تغییر تمرکز از مطالبات داخلی به ادعای دخالت خارجی بهره می‌برد.",
-            "این تاکتیک تبلیغاتی خود گواه ضعف حکومتی در مواجهه با اعتراضات داخلی است و تلاش می‌کند حمایت داخلی و توجه بین‌المللی به خواسته‌های مردم را تضعیف کند."
-        ],
-        "impact": "این دست‌کاری روایت‌ها نشانه ضعف رژیم است و هرچند تبلیغاتی کوتاه‌مدت ممکن است گمراه‌کننده باشد، در درازمدت قادر به فرونشاندن اراده و مطالبات مردم نخواهد بود.",
-        "tag": "پروپاگاندا",
-        "urgency": 4,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/weaponizing-influencers-how-iran-is-using-access-diplomacy-to-cement-its-narrative/ar-AA1WsWSL",
-        "clean_url": "https://www.msn.com/en-us/news/world/weaponizing-influencers-how-iran-is-using-access-diplomacy-to-cement-its-narrative/ar-AA1WsWSL",
-        "image": "http://www.bing.com/th?id=OVFT.BZruPQU1esjzhQvTSzpgcC&pid=News",
-        "timestamp": 1771241640.0
-    },
-    {
-        "title_fa": "صبر و چهرهٔ بی‌احساس: دیپلمات زیرک ایران آماده روبه‌رویی با آمریکا در مذاکرات هسته‌ای",
-        "title_en": "The patience and the poker face: Iran’s wily diplomat set to face the US in nuclear talks",
-        "summary": [
-            "مذاکرات در ژنو فرصتی برای جلوگیری از جنگ منطقه‌ای است و هر دو طرف باید امتیاز دهند و سبک‌های متفاوت چانه‌زنی را با هم هماهنگ کنند.",
-            "عباس عراقچی با نزدیک به ۱۵ سال تجربه در مذاکرات هسته‌ای و نویسندهٔ کتابی دربارهٔ فنون مذاکره، رویکرد «بازاری» و صبورانه‌ای دارد و پیش از هر گام، با طیف قدرت از جمله علی خامنه‌ای مشورت می‌کند.",
-            "تقابل سبک عراقچی با نمایندهٔ متمرکز و تک‌مأموری آمریکا نشان‌دهندهٔ فشار خارجی بر رژیم و البته آسیب‌پذیری درون‌حاکمیتی است؛ خود روند مذاکره می‌تواند شکاف‌ها و اهرم‌های فشار جدیدی علیه رژیم ایجاد کند."
-        ],
-        "impact": "اگر این مذاکرات با امتیازدهی همراه شود، می‌تواند تمرکز قدرت رژیم را تضعیف کرده و فضای سیاسی را برای مطالبات مردم و مسیر آزادی بازتر کند.",
-        "tag": "مذاکرات",
-        "urgency": 9,
-        "sentiment": 0.3,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/feb/16/the-patience-and-the-poker-face-irans-wily-diplomat-set-to-face-the-us-in-nuclear-talks",
-        "clean_url": "https://www.theguardian.com/world/2026/feb/16/the-patience-and-the-poker-face-irans-wily-diplomat-set-to-face-the-us-in-nuclear-talks",
-        "image": null,
-        "timestamp": 1771240200.0
     }
 ]
