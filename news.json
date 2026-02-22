@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ بررسی حملهٔ هدفمند علیه ایران و سپس حملهٔ بزرگ‌تر را در نظر دارد",
+        "title_en": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
+        "summary": [
+            "نیویورک تایمز گزارش می‌دهد که دولت ترامپ گزینهٔ انجام حملهٔ هدفمند علیه اهداف در ایران را بررسی می‌کند و این ضربه ممکن است پیش‌درآمدی برای حمله‌ای وسیع‌تر باشد.",
+            "تهدید به اقدام نظامی مستقیم فشار خارجی بر تهران را تشدید می‌کند و می‌تواند دسترسی رژیم به منابع اقتصادی و توان دیپلماتیک را محدود سازد؛ این فشار ساختاری ثبات داخلی را تضعیف می‌کند.",
+            "پیامدهای داخلی بالقوه شامل تشدید سرکوب، بسیج نهادهای امنیتی و افزایش ریسک واکنش‌های ملی‌گرایانه و نارضایتی اجتماعی است؛ همهٔ اینها می‌تواند فرایند تصمیم‌گیری رژیم را تحت‌فشار شدید قرار دهد."
+        ],
+        "impact": "تهدید به حملهٔ مستقیم، در کوتاه‌مدت احتمال تشدید بحران سیاسی-امنیتی و آسیب ساختاری به ثبات رژیم ایران را افزایش می‌دهد.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/22/us/politics/trump-considers-targeted-strike-against-iran-followed-by-larger-attack.html",
+        "clean_url": "https://www.nytimes.com/2026/02/22/us/politics/trump-considers-targeted-strike-against-iran-followed-by-larger-attack.html",
+        "image": null,
+        "timestamp": 1771795106.0
+    },
+    {
         "title_fa": "نشست بعدی مذاکرات هسته‌ای آمریکا و ایران روز پنج‌شنبه در ژنو",
         "title_en": "U.S. and Iran to hold next round of nuclear talks Thursday in Geneva",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.nbcnews.com/meet-the-press/video/trump-hints-at-limited-military-strikes-to-try-to-nudge-along-nuclear-talks-with-iran-258050117691",
         "image": null,
         "timestamp": 1771793703.0
+    },
+    {
+        "title_fa": "نخست‌وزیر اسرائیل مشورت‌های امنیتی درباره ایران و احتمال تشدید منطقه‌ای برگزار کرد",
+        "title_en": "Israeli prime minister holds security consultations on Iran, possible regional escalation",
+        "summary": [
+            "نخست‌وزیر اسرائیل جلسات مشورتی امنیتی درباره تهدیدات مرتبط با ایران و امکان تشدید تنش‌ها در منطقه برگزار کرده است.",
+            "این نشست‌ها نشان‌دهنده تمرکز تل‌آویو بر سناریوهای نظامی و دیپلماتیک علیه ایران است و می‌تواند در کوتاه‌مدت به افزایش آماده‌باش و تحرکات نظامی و دیپلماتیک منجر شود.",
+            "گزارش منبع به صراحت به تحریم‌ها، دخالت یا حمایت مستقیم بازیگران خارجی و نیز وضعیت اعتراضات یا بحران اقتصادی داخلی در ایران اشاره نکرد؛ هر تحلیل درباره آثار داخلی یا نقش تسهیل‌گران خارجی باید مبتنی بر شواهد مستقل باشد."
+        ],
+        "impact": "افزایش مشورت‌های امنیتی از سوی اسرائیل ریسک بروز رویارویی‌های محدود یا تشدید منطقه‌ای را بالا می‌برد و بسته به واکنش تهران می‌تواند فشارهای سیاسی و امنیتی بیشتری بر رژیم تحمیل کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbTNUOURQWEJiU2s1Vkd4Q1BCd0JoUkQ5NzMxNG9FWHp1Y1lpaXVYYTV4T0RpR2hzcUtlX29ZOGlyWl95cm1xaUpSdXdFTUNiUnM4ellndWJsOHN2V0RnYzRESUlSd1owY3FDblZwdDczYkZOdDNnemlTZk13WDJFRkdEeTFOQkJuRXF3LW9ZS1d1RS1wdnZoS0RENXJLWHNLV21JaDlVME9sRW5WRkl3Ym9EeC1ucHRjNjZWVGUzT2lvLXJQQkV2R3k3U0hGdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbTNUOURQWEJiU2s1Vkd4Q1BCd0JoUkQ5NzMxNG9FWHp1Y1lpaXVYYTV4T0RpR2hzcUtlX29ZOGlyWl95cm1xaUpSdXdFTUNiUnM4ellndWJsOHN2V0RnYzRESUlSd1owY3FDblZwdDczYkZOdDNnemlTZk13WDJFRkdEeTFOQkJuRXF3LW9ZS1d1RS1wdnZoS0RENXJLWHNLV21JaDlVME9sRW5WRkl3Ym9EeC1ucHRjNjZWVGUzT2lvLXJQQkV2R3k3U0hGdw",
+        "image": null,
+        "timestamp": 1771793188.0
     },
     {
         "title_fa": "واشنگتن و تهران دور جدید مذاکرات هسته‌ای برگزار می‌کنند؛ اعتراضات دانشجویی تجدید شد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUZlU3l6MHRxNC1Ha082V0FaVTVhOFQ3TGR2Yk0wOXJSXzR4eGlDMTQtWlZqdmJsZFNPQXJ0bXNGSnVRV0R5T0d6M1AxNUFsdzFhc1p1YV9nYngtb09PbHZOSDdzNHA1RXFVMW0zX0IzRjdtOXpKalVsVnBDN0NvYzdZR0JSYWJGUGZ1aA",
         "image": null,
         "timestamp": 1771300762.0
-    },
-    {
-        "title_fa": "ایران بخشی از تنگه هرمز را موقتاً بست؛ هم‌زمان مذاکرات آمریکا و ایران در ژنو جریان دارد",
-        "title_en": "Iran partially closes Strait of Hormuz, a vital oil chokepoint, as U.S. talks get underway",
-        "summary": [
-            "رسانه‌های دولتی ایران گزارش دادند تنگه هرمز به‌صورت جزئی و موقت به‌خاطر «اقدامات احتیاطی امنیتی» و مانور دریایی سپاه به نام «کنترل هوشمند تنگه هرمز» بسته شده است؛ هدف اعلام‌شده تقویت آمادگی عملیاتی و بازدارندگی است.",
-            "تنگه هرمز یکی از مهم‌ترین گلوگاه‌های نفتی جهان است (حدود ۱۳ میلیون بشکه در روز در ۲۰۲۵، نزدیک به ۳۱٪ جریان‌های نفتی دریایی)، و اقدام موقت تهران موجب افزایش اندک قیمت نفت و واکنش نزدیک ناظرین بازار شد.",
-            "بسته شدن تنگه در حالی رخ می‌دهد که مذاکرات هسته‌ای با آمریکا در ژنو در جریان است — نمایش نظامی رژیم برای بازدارندگی می‌تواند کوتاه‌مدت پیام قدرت بدهد اما در میان‌مدت فشارهای بین‌المللی و اقتصادی را تشدید کرده و در نهایت پایه‌های قدرت داخلی رژیم را تضعیف می‌کند."
-        ],
-        "impact": "اقدام نظامی و بستن موقت تنگه تنش منطقه‌ای و هزینه‌های اقتصادی را بالا می‌برد و در مجموع به تضعیف جایگاه رژیم و گشایش فرصت‌های بیشتر برای جنبش‌های اعتراضی داخلی کمک می‌کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html",
-        "clean_url": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html",
-        "image": "http://www.bing.com/th?id=OVFT.2mDosU9IOcnLomfjFR1gvy&pid=News",
-        "timestamp": 1771299120.0
-    },
-    {
-        "title_fa": "ترامپ پیش از مذاکرات هسته‌ای ژنو ایران را به «پیامد» تهدید کرد",
-        "title_en": "Trump warns Iran of consequences ahead of Geneva nuclear talks",
-        "summary": [
-            "دونالد ترامپ پیش از آغاز مذاکرات هسته‌ای در ژنو به ایران درباره «پیامدها» هشدار داد.",
-            "این هشدار فضای مذاکرات را تحت‌الشعاع قرار می‌دهد و نشانه ادامه فشار و تهدید ابزارهای آمریکا علیه تهران است.",
-            "برای اپوزیسیون ملی‌گرا، افزایش فشار بین‌المللی می‌تواند به تضعیف دستگاه سرکوب رژیم و گشودن فضای سیاسی برای مردم کمک کند."
-        ],
-        "impact": "هشدار ترامپ فشار بین‌المللی علیه رژیم را افزایش می‌دهد و می‌تواند در جهت تضعیف قبضه قدرت حکومت و تقویت مسیر مردم به آزادی اثرگذار باشد.",
-        "tag": "فشار",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXBXTGVpWTZRbHdWSGdKTmU0UXdLQXc1TjBVNm10ZWZmR19pbkJoYWgzMjB4SUcwVnJJeGxxa2ZBNXNDeEFoRDRodWtBNGdLS0dVWExxME91M3N3X2J3SUtpb3BkMUkwelRWRTBjTG5HY1NGQ0MxdmRIanRYVFB3WlIwVTBCcEdjNlhRd3lPTDJmcjhfZHVkVEZwT1RvWXlLNy1MX1dUS0N1WU5VRy0yYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXBXTGVpWTZRbHdWSGdKTmU0UXdLQXc1TjBVNm10ZWZmR19pbkJoYWgzMjB4SUcwVnJJeGxxa2ZBNXNDeEFoRDRodWtBNGdLS0dVWExxME91M3N3X2J3SUtpb3BkMUkwelRWRTBjTG5HY1NGQ0MxdmRIanRYVFB3WlIwVTBCcEdjNlhRd3lPTDJmcjhfZHVkVEZwT1RvWXlLNy1MX1dUS0N1WU5VRy0yYw",
-        "image": null,
-        "timestamp": 1771299120.0
     }
 ]
