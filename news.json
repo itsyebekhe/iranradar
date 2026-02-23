@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "دیپلماسی حساس در بن‌بست آمریکا و ایران",
+        "title_en": "High-stakes diplomacy in U.S.-Iran standoff",
+        "summary": [
+            "گزارش GIS نشان می‌دهد که یک مرحله دیپلماسی پرخطر برای مدیریت بن‌بست میان آمریکا و ایران در جریان است؛ جزئیات عملیاتی در گزارش ذکر نشده.",
+            "این سطح دیپلماسی نمایانگر خطر تصاعد نظامی و فشار خارجی است و تعادل میان جلوگیری از جنگ و حفظ منافع حکومت را پیچیده‌تر می‌کند.",
+            "پیامدهای داخلی شامل تضعیف ظرفیت عمل دولت و افزایش آسیب‌پذیری اقتصادی-سیاسی است؛ هرگونه استنادات به نارضایتی گسترده باید بر مدار شواهد تایید شود."
+        ],
+        "impact": "این دیپلماسی می‌تواند خطر درگیری نظامی فوری را کاهش دهد اما هم‌زمان فشارهای خارجی و تنگنای سیاسی-اقتصادی را بر حکومت تشدید می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "GIS Reports",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10N3hsaF8wcUppbkplVVBEVnlBalppeks0aVpiRFdCeWtVdG5vZzVNMVRrWHRzbTlGaDZTVmxneGJEdDNTQVFLLUxxR29QcWF5SURqbUxPRXU2QlZNMEw4cm1B?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10N3hsaF8wcUppbkplVVBEVnlBalppeks0aVpiRFdCeWtVdG5vZzVNMVRrWHRzbTlGaDZTVmxneGJEdDNTQVFLLUxxR29QcWF5SURqbUxPRXU2QlZNMEw4cm1B",
+        "image": null,
+        "timestamp": 1771830000.0
+    },
+    {
         "title_fa": "اگر امروز ایران خود را به جنگ طولانی و جهنمی با آمریکا پذیرفته باشد چه می‌شود؟",
         "title_en": "What if today's Iran is resigned to a long, hellish war with the US?",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHk5bm15S1hnQy0tRVoyUHlua0J6V0I3UUdKZzdmYnp1SWhMRm9vMmpFalZvWFItcGFXajFZdlh6OXg5TnhnSkVjNHFCeTVRa2hVaUgzX19jYV81SEgySUhIU3hEX3MyQjd6cU5ONnRpZjFUVWs0X1NoQkI3SVRFSFlnS1RKZ0FUaUZnbThXRGZoYjFjN3VtSnNzRmV3S0dLMks1OXdXcXZ0aElQclR4T0VZc9IBuAFBVV95cUxNa1dlVmVtLWcxdE9Za2tVSk5FODZ6RE5RWHRwLTJ3dnNaR3JvQ3AtRmtFZVFsTF9tRlV1aF9KODlJLXQxYTJjWWNoRk52eGZ3bDNsRDlzSkZPYTRtZ2hvMC10cGJUc19WcjRLa2x3NTRBbTZGa090b0NBd2QtNUgwRVZ5bWdJbVBGOEFocFdVTXBwcDEyTzFIb1ByTkh3RlJLRVlwUGNfdXFRMlIxOHRudEFtWUMxLTBI",
         "image": null,
         "timestamp": 1771799280.0
+    },
+    {
+        "title_fa": "اظهارنظر آمریکا: «یک هفته» تا مواد قابل ساخت بمب؛ ترامپ «کنجکاو» درباره رهبری ایران",
+        "title_en": "What's making Trump 'curious' about Iran? The nuclear puzzle that has raised stakes",
+        "summary": [
+            "ادعای واشنگتن: مقام‌های آمریکا اعلام کرده‌اند ایران احتمالاً «یک هفته» تا تولید مواد قابل ساخت بمب فاصله دارد؛ برآوردی که نگرانی‌های بین‌المللی درباره شتاب برنامه هسته‌ای تهران را تقویت می‌کند.",
+            "واکنش ترامپ: رئیس‌جمهور آمریکا گفت این موضوع او را «کنجکاو» کرده و این عبارت نشانه افزایش تمرکز سیاسی و اطلاعاتی کاخ سفید بر رفتار و تصمیم‌گیری‌های رهبری ایران است.",
+            "پیآمدهای راهبردی: این برآورد می‌تواند توجیه افزایش فشارهای دیپلماتیک و تحریمی علیه حکومت را فراهم کند و ریسک تشدید تنش منطقه‌ای و گزینه‌های نظامی را بالا ببرد."
+        ],
+        "impact": "افزایش احتمال تشدید تحریم‌ها و فشارهای نظامی-دیپلماتیک که منابع اقتصادی را بیشتر تضعیف و مشروعیت داخلی رژیم را کاهش خواهد داد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Times Now on MSN",
+        "url": "https://www.msn.com/en-in/news/world/what-s-making-trump-curious-about-iran-the-nuclear-puzzle-that-has-raised-stakes/ar-AA1WSgOq",
+        "clean_url": "https://www.msn.com/en-in/news/world/what-s-making-trump-curious-about-iran-the-nuclear-puzzle-that-has-raised-stakes/ar-AA1WSgOq",
+        "image": null,
+        "timestamp": 1771796845.0
     },
     {
         "title_fa": "ترامپ بررسی حملهٔ هدفمند علیه ایران و سپس حملهٔ بزرگ‌تر را در نظر دارد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2tXRTFDNEU4YnRsblFuZ01UaFNCWVpUT1JUWEZJa2JHZUFFMGQ1NWxqZXJUV29yMFNWZFYxbGUzX20zckpKVEdzbGdvWXdkaG5Ic2hkem9sOTFFeW9wb0JBdGJyX043TGRiTlBOWTRhY3FfMkpUMFl0Zy1VMDNLLTdhQ28ydw",
         "image": null,
         "timestamp": 1771315800.0
-    },
-    {
-        "title_fa": "ایران و آمریکا به «اصول راهنما» برای توافق هسته‌ای رسیدند، تهران می‌گوید",
-        "title_en": "Iran and US agree ‘guiding principles’ of nuclear deal, Tehran says",
-        "summary": [
-            "عباس عراقچی اعلام کرد در دور دوم مذاکرات در ژنو بر «مجموعه‌ای از اصول راهنما» برای پیش‌برد تدوین یک توافق احتمالی به اجماع رسیده‌اند، اما تأکید کرد این موضوع به معنی دست‌یابی سریع به توافق نهایی نیست و جزئیات اعلام نشده است.",
-            "دولت ترامپ خواستار گسترش مذاکرات به موضوع برنامه موشکی ایران و نحوه برخورد با معترضان داخلی شده است؛ تهران این موارد را خارج از دستور کار می‌داند و کاخ سفید تاکنون واکنشی رسمی نشان نداده است.",
-            "مذاکرات پس از گفت‌وگوهای غیرمستقیم در عمان ادامه یافت؛ همزمان آیت‌الله خامنه‌ای با لحن تند به تهدیدهای نظامی آمریکا پاسخ داد و اظهاراتی تهدیدآمیز علیه ناوهای آمریکایی مطرح کرد."
-        ],
-        "impact": "این پیشرفت مبهم دیپلماتیک می‌تواند اهرمی بین‌المللی علیه رژیم باشد و فشار برای پاسخگویی به سرکوب‌های داخلی و محدودسازی توان نظامی ـ موشکی حکومتی را افزایش دهد.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/02/17/us-news/iran-and-us-agree-guiding-principles-of-nuclear-deal-tehran-says/",
-        "clean_url": "https://nypost.com/2026/02/17/us-news/iran-and-us-agree-guiding-principles-of-nuclear-deal-tehran-says",
-        "image": null,
-        "timestamp": 1771311720.0
-    },
-    {
-        "title_fa": "ضربات نیمه‌شب: بازسازی هسته‌ای ایران به‌عنوان راه بقا برای رژیم",
-        "title_en": "Post Midnight Hammer Strikes: Iran’s Nuclear Reconstitution as Regime Survival",
-        "summary": [
-            "نویسندگان مقاله استدلال می‌کنند که بازسازی برنامه هسته‌ای ایران پاسخی بقاطلبانه به «حملات/ضربات نیمه‌شب» و فشارهای خارجی است که هدف آن حفظ اقتدار رژیم است.",
-            "افزایش ظرفیت هسته‌ای احتمال تشدید تقابل با آمریکا/غرب و موج جدیدی از تحریم‌ها و اقدامات امنیتی را افزایش می‌دهد؛ این فشارهای بین‌المللی و هزینه‌های سیاسی داخلی مشروعیت رژیم را تضعیف می‌کند و فضای سیاسی را برای مقاومت و مطالبات آزادی‌خواهانه مردم بازتر می‌سازد.",
-            "در عین حال شتاب گرفتن برنامه هسته‌ای ریسک تصاعد نظامی منطقه‌ای و بهانه‌گیری برای حملات پیشدستانه را بیشتر می‌کند و ممکن است رژیم را به سرکوب داخلی شدیدتر و اقدامات امنیتی وادارد — اما همین فشارها می‌توانند به افزایش بسیج و نارضایتی عمومی بینجامند."
-        ],
-        "impact": "بازسازی هسته‌ای به‌عنوان واکنشی بقاطلبانه، به‌طور همزمان رژیم را در سطح بین‌المللی منزوی‌تر و در داخل تضعیف می‌کند و فرصت‌های سیاسی برای مخالفان و مطالبات مردمی را افزایش می‌دهد.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The National Interest",
-        "url": "https://nationalinterest.org/blog/energy-world/post-midnight-hammer-strikes-irans-nuclear-reconstitution-as-regime-survival",
-        "clean_url": "https://nationalinterest.org/blog/energy-world/post-midnight-hammer-strikes-irans-nuclear-reconstitution-as-regime-survival",
-        "image": null,
-        "timestamp": 1771310940.0
     }
 ]
