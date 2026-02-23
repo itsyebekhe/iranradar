@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "آمریکا با چشمان بسته به سمت جنگ با ایران پیش می‌رود؛ ترامپ توضیح نمی‌دهد",
+        "title_en": "Opinion | The U.S. is sleepwalking into war with Iran. Trump won’t explain why.",
+        "summary": [
+            "نویسنده هشدار می‌دهد که سیاست خارجی ایالات متحده در مسیر تصاعدی و بدون توضیح روشن به سوی تقابل نظامی با ایران حرکت می‌کند؛ این وضعیت از منظر مقاله شبیه «خواب‌گردی» در آستانه جنگ توصیف شده است.",
+            "مقاله تأکید می‌کند که دونالد ترامپ از ارائه توجیه علنی یا استراتژی مشخص برای این فشارها خودداری می‌کند؛ خلأ توضیح‌دهی ریسک‌های محاسبه‌ناپذیری و تصمیم‌گیری‌های شتاب‌زده را افزایش می‌دهد.",
+            "اگر تنش‌ها و فشار خارجی (از جمله تحریم‌ها یا تهدید نظامی) تشدید شود، این امر می‌تواند شکنندگی ساختاری اقتصادی و سیاسی ایران را برجسته کند؛ هرچند مقاله به‌طور مشخص به اعتراضات داخلی اشاره نکرده، ضعف‌های مدیریتی و ناکارآمدی اقتصادی موجود می‌تواند اثر فشارها را تشدید کند."
+        ],
+        "impact": "ادامه این مسیر بی‌تدبیری خطر رویارویی نظامی مستقیم را بالا می‌برد و همزمان می‌تواند فشار اقتصادی و بی‌ثباتی سیاسی را در داخل ایران تشدید کند.",
+        "tag": "تصاعد",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXhXemR3QkMxcGY3V2xwVl92Yk5PY19mQU1BQzEyM2p0cnoydVIzNFZ0ZUhfTUl3YlU3WDFZNTF1S0lNTWJOZUNDVHE0TTNLTTY4alE2dFppMGQ3Zm1zald0N0xheUx5MHY5Z1N6R09DN0VBVTEzUWlkVE1fQlU1R1dvcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXhXemR3QkMxcGY3V2xwVl92Yk5PY19mQU1BQzEyM2p0cnoydVIzNFZ0ZUhfTUl3YlU3WDFZNTF1S0lNTWJOZUNDVHE0TTNLTTY4alE2dFppMGQ3Zm1zald0N0xheUx5MHY5Z1N6R09DN0VBVTEzUWlkVE1fQlU1R1dvcw",
+        "image": null,
+        "timestamp": 1771871526.0
+    },
+    {
+        "title_fa": "ایران روی «امین‌های» مبهم نفتی در آستانه جنگ با آمریکا حساب باز کرده",
+        "title_en": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
+        "summary": [
+            "گزارش می‌گوید رژیم برای دورزدن تحریم‌ها و حفظ جریان درآمد نفتی از شبکه‌ای از «امین‌ها» یا واسطه‌های مبهم استفاده می‌کند؛ این نشان‌دهنده فروریختن سازوکارهای رسمی و فقدان شفافیت است.",
+            "اتکا به این واسطه‌ها فساد سازمان‌یافته را تقویت و درآمدهای نفتی را غیرقابل‌ردیابی می‌کند؛ نتیجه، تضعیف مدیریت اقتصادی و تشدید نارضایتی عمومی است.",
+            "هشدار درباره احتمال تقابل نظامی با آمریکا ریسک‌ها را دو چندان می‌کند: هم احتمال تشدید تحریم‌ها و هم خطر برخورد نظامی را بالا می‌برد و ثبات داخلی را بیشتر به مخاطره می‌اندازد."
+        ],
+        "impact": "فشار تحریم‌ها رژیم را به سازوکارهای پنهانی سوق داده که کوتاه‌مدت درآمدزایی دارند اما بلندمدت مشروعیت، اقتصاد و امنیت داخلی را تضعیف می‌کنند.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon/ar-AA1WUNfk",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon/ar-AA1WUNfk",
+        "image": null,
+        "timestamp": 1771870540.0
+    },
+    {
         "title_fa": "وزارت خارجه آمریکا دستور خروج دیپلمات‌های غیرضروری از لبنان را صادر کرد؛ تنش‌ها با ایران افزایش یافته‌اند",
         "title_en": "State Department orders nonessential U.S. diplomats to leave Lebanon as tensions with Iran rise",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU5YM3EzYXQtU1h3VEEzTXZ1Zi1Jb0huN3dLTE1abnN2b0xvLTA5MmI5QjhiR1UwVzlqMy1EdmNuNm5vR2p0RDRNMXFXSUhTa1J3b01kd0pkQmI1eWtvZkpjTURFbTdvRTdIWVl6VkU5eGcxT0dZcWFkLXNteTQ2Z2Eyb0xVbjQ",
         "image": null,
         "timestamp": 1771356536.0
-    },
-    {
-        "title_fa": "ایران امتیازهای هسته‌ای پیشنهاد می‌دهد؛ مذاکرات با آمریکا پیشرفت کرده‌اند",
-        "title_en": "Iran Offers Nuclear Concessions as U.S. Talks Make Progress",
-        "summary": [
-            "پیشنهاد امتیازهای هسته‌ای از سوی ایران احتمالاً واکنشی به فشارهای تحریمی و دیپلماتیک است؛ تأثیر واقعی بستگی به گستردگی امتیازات و ضمانت اجرای توافق دارد.",
-            "از منظر داخلی، این امتیازدهی نشان ضعف مدیریتی و سیاسی است و می‌تواند شکاف میان رهبران و جناح‌های تندرو را عمیق‌تر کند؛ ناکارآمدی اقتصادی همچنان بستر نارضایتی عمومی را تقویت می‌کند.",
-            "پیشرفت در مذاکرات دیپلماتیک ممکن است کاهش محدودی در فشارهای بین‌المللی ایجاد کند، اما بدون مکانیزم‌های تحقق و نظارت دقیق، این پیشرفت پایداری رژیم را تضمین نمی‌کند."
-        ],
-        "impact": "در کوتاه‌مدت احتمال کاهش محدود تحریم‌ها وجود دارد، اما این امتیازدهی می‌تواند مشروعیت داخلی رژیم را تضعیف کرده و رقابت سیاسی و ناپایداری را افزایش دهد.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Wall Street Journal",
-        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNSldGZ0t5cnMzMUw2THZvZHdfaFY4Z1UxVW9EN0UyMHJ4Nmk2ZGY2WkxWQ2E2N3FTNHBNSnE1aldvdDJGR2lvS1BkMzhiRkk1UWV1bkxETU1vTTFYei1wWjQzQzhUSFlyeHE1RE0xOFE0cTQxSUVYRnF3TDhZVUNTbXNmZDJxaTRzM2hWS0duZVpvU3lRUWctdW5DMHM5TnNZRFRBUUFpQUJmejVlNjZkU3JKVFdwRlZsU1JVYUswWUdnaEhVeVFTa3pJVHd5eEVVOWx3WEVSV2xTSnBjeG5LZ1pUeFdhZmN3ME1fWVhDTmFidEFZeTJvQ091QzV1Q3dCUWZWaGlqUFpGY2ZuZ05YdDlzNmFOX0VkNzF4ZTVFMF94WWtPQ2gwNEoxOXN3S2RTWGM0UkhpQVB4TExpXzhPMUlyVHUzV0pYZzI2UjA5VUFXTUc1bjRmeWgyamliUC1pMXdZLURCVjZ1RFo1NW1wYVRqRFhxWG1oT3hrNFU3cnNzVzVmT2xVblowVWpTX3BkMEpoU1NHRUZjWmdhaTM5NXNuaERqUWZtNXlOMFh5TGVEVXZ4N2pDVDA0UDNuVkdpMHBlZXNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNSldGZ0t5cnMzMUw2THZvZHdfaFY4Z1UxVW9EN0UyMHJ4Nmk2ZGY2WkxWQ2E2N3FTNHBNSnE1aldvdDJGR2lvS1BkMzhiRkk1UWV1bkxETU1vTTFYei1wWjQzQzhUSFlyeHE1RE0xOFE0cTQxSUVYRnF3TDhZVUNTbXNmZDJxaTRzM2hWS0duZVpvU3lRUWctdW5DMHM5TnNZRFRBUUFpQUJmejVlNjZkU3JKVFdwRlZsU1JVYUswWUdnaEhVeVFTa3pJVHd5eEVVOWx3WEVSV2xTSnBjeG5LZ1pUeFdhZmN3ME1fWVhDTmFidEFZeTJvQ091QzV1Q3dCUWZWaGlqUFpGY2ZuZ05YdDlzNmFOX0VkNzF4ZTVFMF94WWtPQ2gwNEoxOXN3S2RTWGM0UkhpQVB4TExpXzhPMUlyVHUzV0pYZzI2UjA5VUFXTUc1bjRmeWgyamliUC1pMXdZLURCVjZ1RFo1NW1wYVRqRFhxWG1oT3hrNFU3cnNzVzVmT2xVblowVWpTX3BkMEpoU1NHRUZjWmdhaTM5NXNuaERqUWZtNXlOMFh5TGVEVXZ4N2pDVDA0UDNuVkdpMHBlZXNR",
-        "image": null,
-        "timestamp": 1771356180.0
-    },
-    {
-        "title_fa": "وزیر امور خارجه ایران: «اصول راهنما» با آمریکا پس از دور دوم مذاکرات هسته‌ای توافق شد",
-        "title_en": "Iran’s FM says ‘guiding principles’ agreed on with US after 2nd round of nuclear talks",
-        "summary": [
-            "خبر اصلی: وزیر امور خارجه ایران اعلام کرده که در پایان دور دوم مذاکرات هسته‌ای با آمریکا «اصول راهنما» درباره چارچوب مذاکرات توافق شده است.",
-            "پیامدهای ساختاری: اگر این اصول راهنما به توافق نهایی یا گام‌های عملی منجر شود، می‌تواند فشارهای خارجی و تحریمی را تضعیف کرده و به رژیم مجال تنفس بدهد؛ اما چنین تاثیراتی مشروط و وابسته به اجرای دقیق متن توافق است.",
-            "تبعات داخلی: حتی در صورت کاهش موقت فشارهای بین‌المللی، سوء‌مدیریت اقتصادی و ناکارآمدی نهادیِ موجود را برطرف نمی‌کند و نارضایتی عمومی همچنان می‌تواند منشأ بحران‌های سیاسی و اقتصادی باقی بماند."
-        ],
-        "impact": "در کوتاه‌مدت، اعلام وجود «اصول راهنما» می‌تواند مسیر دیپلماتیک را هموار کند و ظرفیت بقا و مانور سیاسی رژیم را تقویت کند، اما اثرات پایدار منوط به محتوای عملی و اجرای آن است.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXBGVmRWWjluRGdBUGFGLUNaTEhiVTIyeXRubG1TT3JkU0lCQnY4MXk0TnlSaDdlVW1pQS0zOHY1YndvbW9sR2dEVE1GYXNNejhlR0dpR2V4Y2lCRTNFd3BHMXhZOTJBanlXYTBwckwwMEVHdHNKOGN5cnJNOTZtNjZ2cC1mQVhMTnFESFE5a19wZXVjWjJjOGotaXlwYTVZdWx0T0d2M2lMT2NNeFR0eUp1MnrSAboBQVVfeXFMT3VSLVA5Ump2VUIxRHRobFplcXM3ckVyQk5FclplSWNKbHBmUTlSTzRzSVcyX0NaT2V1MDlEandVWENIdG1xZGVFaTRYZjVEaHRabzhmSVVmbHBBUUhlZXFwb0pTeURMV0dJcFd1eGVyNjVrNWJkTXlhbUJ5Y3JNVnF4aWpPMHJDdW9LZGJEUmJEdHpXMmM0TkNnXzdhV2liYW5lNTJlbHJldVF4Y2ZyazM1Ynl2TWhIX2xB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXBGVmRWWjluRGdBUGFGLUNaTEhiVTIyeXRubG1TT3JkU0lCQnY4MXk0TnlSaDdlVW1pQS0zOHY1YndvbW9sR2dEVE1GYXNNejhlR0dpR2V4Y2lCRTNFd3BHMXhZOTJBanlXYTBwckwwMEVHdHNKOGN5cnJNOTZtNjZ2cC1mQVhMTnFESFE5a19wZXVjWjJjOGotaXlwYTVZdWx0T0d2M2lMT2NNeFR0eUp1MnrSAboBQVVfeXFMT3VSLVA5Ump2VUIxRHRobFplcXM3ckVyQk5FclplSWNKbHBmUTlSTzRzSVcyX0NaT2V1MDlEandVWENIdG1xZGVFaTRYZjVEaHRabzhmSVVmbHBBUUhlZXFwb0pTeURMV0dJcFd1eGVyNjVrNWJkTXlhbUJ5Y3JNVnF4aWpPMHJDdW9LZGJEUmJEdHpXMmM0TkNnXzdhV2liYW5lNTJlbHJldVF4Y2ZyazM1Ynl2TWhIX2xB",
-        "image": null,
-        "timestamp": 1771354652.0
     }
 ]
