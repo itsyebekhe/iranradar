@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "منطقه برای تقابل آمریکا و ایران آماده می‌شود",
+        "title_en": "The Region Girds for U.S.-Iran Conflict",
+        "summary": [
+            "گزارش مرکز سُوفان عنوان می‌کند بازیگران منطقه‌ای و بین‌المللی مشغول آماده‌سازی ظرفیت‌های نظامی و دیپلماتیک برای سناریوی تقابل مستقیم بین آمریکا و ایران هستند.",
+            "فشارهای بین‌المللی و تحریم‌ها ساختارهای اقتصادی و مالی ایران را شکننده‌تر کرده‌اند؛ هر تشدید نظامی می‌تواند توان رژیم را برای مدیریت شوک‌های اقتصادی و سیاسی به‌طرز محسوسی کاهش دهد.",
+            "احتمال افزایش تقابل، فضای مخاطره‌آمیز منطقه‌ای و ریسک ناپایداری اقتصادی را بالا می‌برد و می‌تواند منجر به تشدید نارضایتی‌های اجتماعی ناشی از سوء‌مدیریت و کاهش رفاه شود."
+        ],
+        "impact": "تقابل مستقیم آمریکا و ایران می‌تواند ثبات داخلی رژیم را به مخاطره اندازد و زمینه‌ساز ناآرامی‌های گسترده و فروپاشی اقتصادی سریع‌تر شود.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Soufan Center",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeWV3N3RmM2JScWI2N1ZxRkRqYWxza09rUURHTS1ta0lZTUtFSXhfWlcwUGxWMS1oQ1NrbGQ3cEVySzlXRmNRUFozU0NkSVNtVkhENHNjVUdyLXh3Ri1HX3BQSldld2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeWV3N3RmM2JScWI2N1ZxRkRqYWxza09rUURHTS1ta0lZTUtFSXhfWlcwUGxWMS1oQ1NrbGQ3cEVySzlXRmNRUFozU0NkSVNtVkhENHNjVUdyLXh3Ri1HX3BQSldld2c",
+        "image": null,
+        "timestamp": 1771855928.0
+    },
+    {
         "title_fa": "اعتراضات تازه در ایران هم‌زمان با افزایش فشار آمریکا پیش از مذاکرات هسته‌ای",
         "title_en": "Iran hit by resurgent protests as U.S. builds pressure ahead of new nuclear talks",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblJLQkhVSjhYR0U3aEcyR2ZmRm9zMUg4SFUtTHpTNWNyOUtlNmVCV3BFa3dqc0lxaDFBLTBfVTFSbTVmS2dZTFlZanRicWc3T0NSUWkyVTVKQXJjZ3czMl9HeE95dXI4dnozZUdzRExmMUNFekhrZS0tOFpCQVhfdkROQmF4d0g1aVBwQnAzZWVROWNsQ2VOb1lCbFB1VGctZUE",
         "image": null,
         "timestamp": 1771849376.0
+    },
+    {
+        "title_fa": "درگیری بعدی",
+        "title_en": "The Next Conflict",
+        "summary": [
+            "ایالات متحده گروه‌های هواپیمابر و ده‌ها جنگنده و بمب‌افکن را در منطقه مستقر کرده و رئیس‌جمهور ترامپ تهدید به حمله محدود کرده که در صورت ناکامی ممکن است تا حمله‌ای بزرگ‌تر برای برکناری علی خامنه‌ای، رهبر جمهوری اسلامی، تشدید شود.",
+            "تهران هشدار داده هرگونه حمله باعث می‌شود \"تمام پایگاه‌ها، تسهیلات و دارایی‌های نیروی متخاصم در منطقه\" اهداف مشروع تلقی شوند؛ این تاخت‌و‌تاز می‌تواند به درگیری بزرگ‌تر، طولانی‌تر و کشنده‌تری منجر شود.",
+            "کاخ سفید حفاظت از معترضان سرکوب‌شده و پایان برنامه هسته‌ای را به‌عنوان توجیه مطرح کرده؛ این فشار خارجی همراه با سرکوب داخلی و ضعف مدیریتی رژیم می‌تواند مشروعیت آن را بیش از پیش تضعیف کند."
+        ],
+        "impact": "تحرک نظامی و تهدیدهای کاخ سفید ثبات داخلی رژیم را تضعیف و ریسک تبدیل بحران به یک جنگ منطقه‌ای گسترده و تسریع شکاف‌های سیاسی و اقتصادی درون نظام را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/23/briefing/potential-conflict-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/02/23/briefing/potential-conflict-iran.html",
+        "image": null,
+        "timestamp": 1771848717.0
     },
     {
         "title_fa": "کاهش قیمت نفت به‌خاطر پیشرفت مذاکرات هسته‌ای ایران و ابهام تعرفه‌ای آمریکا",
@@ -214,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10N3hsaF8wcUppbkplVVBEVnlBalppeks0aVpiRFdCeWtVdG5vZzVNMVRrWHRzbTlGaDZTVmxneGJEdDNTQVFLLUxxR29QcWF5SURqbUxPRXU2QlZNMEw4cm1B",
         "image": null,
         "timestamp": 1771830000.0
+    },
+    {
+        "title_fa": "تنش‌های ایران و آمریکا: مذاکرات هسته‌ای در ژنو این هفته، تجمع نظامی و اعتراضات تازه در تهران — آنچه می‌دانیم",
+        "title_en": "Iran-US Tensions: Nuclear talks this week in Geneva, military buildup and fresh protests in Tehran – what we know",
+        "summary": [
+            "مذاکرات هسته‌ای غیرمستقیم قرار است در 26 فوریه در ژنو از سر گرفته شود؛ عمان این نشست را تأیید کرده و عباس عراقچی (وزیر خارجه ایران) احتمال دستیابی به راه‌حل دیپلماتیک را مطرح کرده، در حالی که نماینده آمریکا، استیو ویتکوف، پیش‌تر فشار شدیدی بر تهران را علنی کرده بود.",
+            "آمریکا بزرگ‌ترین تجمع نظامی در خاورمیانه در دهه‌ها را انجام داده و تهدیدهای نظامی تقویت شده‌اند؛ این فشار خارجی همزمان با سرکوب اعتراضات سراسری است که سازمان‌های حقوق بشری می‌گویند هزاران کشته برجای گذاشته است (طبق گزارش‌ها).",
+            "اعتراضات داخلی در تهران و دانشگاه‌ها با تجمعات موافق و مخالف رژیم ادامه دارد؛ ریسک دستگیری یا بدتر برای معترضان وجود دارد و این نشان‌دهنده ناتوانی مدیریتی و فرسایش مشروعیت حاکمیت است."
+        ],
+        "impact": "فشار نظامی و دیپلماتیک خارجی همراه با ناآرامی‌های داخلی، ظرفیت بقاء رژیم را خرد می‌کند و هم احتمال تقابل نظامی و هم تشدید سرکوب داخلی را بالا می‌برد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/world/iranus-tensions-nuclear-talks-this-week-in-geneva-military-buildup-and-fresh-protests-in-tehran-what-we-know-trump-11771813765291.html",
+        "clean_url": "https://www.livemint.com/news/world/iranus-tensions-nuclear-talks-this-week-in-geneva-military-buildup-and-fresh-protests-in-tehran-what-we-know-trump-11771813765291.html",
+        "image": "http://www.bing.com/th?id=OVFT.OIve1P2l8EbA44lYgX4_QC&pid=News",
+        "timestamp": 1771827420.0
     },
     {
         "title_fa": "ترامپ در صورت شکست ضربه محدود و دیپلماسی، حمله گسترده‌تری به ایران را بررسی می‌کند: گزارش",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://nypost.com/2026/02/17/us-news/irans-supreme-leader-taunts-trump-us-as-high-stakes-nuclear-talks-begin",
         "image": "http://www.bing.com/th?id=OVFT.EXejJ-4likmu5DA3Xepj8i&pid=News",
         "timestamp": 1771345920.0
-    },
-    {
-        "title_fa": "وزیر امور خارجه ایران: در مذاکرات هسته‌ای با آمریکا در ژنو پیشرفت حاصل شد",
-        "title_en": "Iran foreign minister says progress made in nuclear talks with US in Geneva",
-        "summary": [
-            "وزیر امور خارجه ایران اعلام کرد که در ژنو طرفین به درکی درباره «اصول راهنما» برای حل مناقشه هسته‌ای رسیده‌اند.",
-            "بیانیه نشان‌دهنده پیشرفتی مرحله‌ای در مذاکرات دیپلماتیک است، اما خبر کوتاه است و جزییات فنی یا جدول زمانی ارائه نشده‌اند.",
-            "مسائل کلیدی همچون رفع تحریم‌ها، مکانیزم نظارت و زمان‌بندی اجرای تعهدات هنوز باز هستند و نیاز به توافق‌های عملی دارند."
-        ],
-        "impact": "این پیشرفت می‌تواند مسیر را برای کاهش تنش‌ها و بازشدن امکان توافق جامع هموار کند، اما تا حصول توافق نهایی فاصله قابل توجهی باقی است.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/iran-foreign-minister-says-progress-made-in-nuclear-talks-with-us-in-geneva/ar-AA1WwPGU",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-foreign-minister-says-progress-made-in-nuclear-talks-with-us-in-geneva/ar-AA1WwPGU",
-        "image": "https://www.reuters.com/resizer/v2/H4D6WHK2PVLETO47YBJ5IRZ3XI.jpg?auth=3a911bd604395a1dcb88fa3f7751cfbba5ba3d999594b3901ce2e9c2883c6de3&height=1005&width=1920&quality=80&smart=true",
-        "timestamp": 1771344942.0
-    },
-    {
-        "title_fa": "افزایش حملات ارتش اسرائیل به حزب‌الله در آستانه احتمال جنگ با ایران",
-        "title_en": "IDF ramps up strikes on Hezbollah as war with Iran looms",
-        "summary": [
-            "ارتش اسرائیل حملاتش به مواضع حزب‌الله را تشدید کرده و تنش‌ها در مرزهای شمالی افزایش یافته است.",
-            "این تشدید نظامی خطر گسترش درگیری به سوی برخورد مستقیم با ایران را بالا برده و فضای امنیتی و سیاسی منطقه را متشنج می‌کند.",
-            "برای مردم ایران و نیروهای اپوزیسیون، این بحران می‌تواند ضعف‌های حکومتی—از فشارهای اقتصادی تا فرسایش توان نظامی و مشروعیت سیاسی—را عیان کند و دریچه‌ای برای پیشبرد خواست آزادی و تغییرات دموکراتیک باز کند."
-        ],
-        "impact": "تشدید حملات می‌تواند اقتدار رژیم را تضعیف کند و فرصت سیاسی و اجتماعی برای تقویت جنبش‌های داخلی حمایت‌کننده از تغییر فراهم آورد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": 0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Tnh1VC02anViaHBDT2lSOVRvcmNFSVFRaC1KWW9lSnFiamZSWFd0eExJb1UwUnBCQ0g4Q2dsSGVaMlZ6bVBZS3h0Vm9CM0hWVnBiV1hpTkFBc25oanI3LUhGM0JSR2tWU09HN3dn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Tnh1VC02anViaHBDT2lSOVRvcmNFSVFRaC1KWW9lSnFiamZSWFd0eExJb1UwUnBCQ0g4Q2dsSGVaMlZ6bVBZS3h0Vm9CM0hWVnBiV1hpTkFBc25oanI3LUhGM0JSR2tWU09HN3dn",
-        "image": null,
-        "timestamp": 1771344367.0
-    },
-    {
-        "title_fa": "بستن تنگه هرمز توسط سپاه برای اولین‌بار از دهه ۱۹۸۰",
-        "title_en": "Iran closes Strait of Hormuz for first time since 1980s",
-        "summary": [
-            "سپاه بخش‌هایی از تنگه هرمز را برای مانورهای شلیک زنده بست؛ تصاویر پخش‌شده، پرتاب موشک کروز را نشان می‌دهد و این نخستین اقدام از این نوع از دهه ۱۹۸۰ است، هم‌زمان با تقویت حضور نظامی آمریکا (گروه ضربتی ناوهای هواپیمابر USS Abraham Lincoln و USS Gerald R Ford).",
-            "مذاکرات ژنو نتایج کامل نداشت؛ عباس عراقچی، وزیر امور خارجه معرفی‌شده در گزارش، گفت ایران ظرف دو هفته با پیشنهادهای جزئی‌تر بازخواهد گشت؛ اقدام نظامی در تنگه به‌وضوح تلاشی برای افزایش اهرم فشار در برابر درخواست‌های رفع تحریم‌هاست. ",
-            "بستن تنگه سیگنالی از اولویت‌دادن به نمایش نیروی نظامی به‌جای اصلاحات اقتصادی و دیپلماتیک است؛ این رفتار ریسک برخورد مستقیم با آمریکا و شوک به جریان تجارت نفت (حدود ۲۱ درصدِ سوخت جهان از این مسیر) را بالا می‌برد و ضعف مدیریتی رژیم را برجسته می‌کند."
-        ],
-        "impact": "اقدام سپاه، ثبات منطقه‌ای و موقعیت چانه‌زنی تهران را تضعیف می‌کند و احتمال تقابل نظامی با واشنگتن و تشدید فشارهای اقتصادی را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-join-iran-talks-indirectly-103806369.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-join-iran-talks-indirectly-103806369.html",
-        "image": "http://www.bing.com/th?id=OVFT.CqgXYX7jlzkunZzIarGnti&pid=News",
-        "timestamp": 1771342140.0
     }
 ]
