@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ترامپ چه می‌خواهد از ایران؟",
+        "title_en": "What does Trump want in Iran?",
+        "summary": [
+            "France 24 پرسشی را مطرح می‌کند درباره اهداف سیاست خارجی ترامپ نسبت به ایران؛ متن کامل مقاله در اختیار این خلاصه نیست بنابراین شواهد مستقیم از مقاله قابل استنتاج نیست.",
+            "از منظر فشار خارجی/تحریم: رویکردهای دوره ترامپ عموماً بر افزایش فشار اقتصادی و تحریم‌های هدفمند متمرکز بوده‌اند — کاهش درآمدهای ارزی و اهرم‌های مالی می‌تواند تاب‌آوری اقتصادی رژیم را تضعیف کند.",
+            "پیامدهای داخلی: ترکیب فشار خارجی با سوءمدیریت اقتصادی و ناکارآمدی حکمرانی، ظرفیت پاسخگرایی رژیم را کاهش داده و احتمال رشد نارضایتی و بی‌ثباتی اجتماعی را افزایش می‌دهد."
+        ],
+        "impact": "رویکرد آمریکا در قالب تحریم و انزوای دیپلماتیک می‌تواند پایه‌های اقتصادی و مشروعیت سیاسی رژیم را تضعیف کرده و احتمال بروز ناآرامی‌های گسترده را بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "France 24",
+        "url": "https://www.msn.com/en-us/news/world/what-does-trump-want-in-iran/ar-AA1WRBJo",
+        "clean_url": "https://www.msn.com/en-us/news/world/what-does-trump-want-in-iran/ar-AA1WRBJo",
+        "image": null,
+        "timestamp": 1771812562.0
+    },
+    {
+        "title_fa": "تنش‌های هسته‌ای آمریکا و ایران: چه چیزهایی در خطر است و گام بعدی چیست؟",
+        "title_en": "US-Iran Nuclear Tensions: What Is at Stake and What Comes Next?",
+        "summary": [
+            "گزارش شورای شیکاگو نگرانی‌های کلیدی درباره خطرات افزایش تنش‌های هسته‌ای میان آمریکا و ایران و پیامدهای احتمالی را مرور می‌کند.",
+            "مقاله گزینه‌های سیاست خارجی آمریکا از دیپلماسی تا فشار اقتصادی و گزینه‌های نظامی را بررسی می‌کند و تأثیر هر مسیر بر معادلات منطقه‌ای و ثبات داخلی در ایران را تحلیل می‌کند.",
+            "نتیجه‌گیری‌ها و سناریوهای پیش‌رو بر انتخاب بین مهار، مذاکره و احتمال تشدید نظامی تمرکز دارند و مسیرهای عملیاتی و ریسک‌های مرتبط را ترسیم می‌کنند."
+        ],
+        "impact": "تشدید تنش‌های هسته‌ای می‌تواند تحریم و انزوای بیشتر نظام را تسریع کند و فشار اقتصادی و نارضایتی داخلی را افزایش دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Chicago Council on Global Affairs",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnl2c3RDXzRBV3dIR3RYcHpoUkVUalhUNXBRS1ZabkhlRWJ3MzdqSkZmRUdZZTE3c2dUU2RjQTN6QWdwZF9BYkVjdTU3S0I2MGFnc1dfOUlDd2EwY0hfa2IxdHd0akpETXJMRWxxcl84VVpNcFpiUk9xLVRhdTJSUVNiSmlMVGNTeVRGQ2c4WENCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnl2c3RDXzRBV3dIR3RYcHpoUkVUalhUNXBRS1ZabkhlRWJ3MzdqSkZmRUdZZTE3c2dUU2RjQTN6QWdwZF9BYkVjdTU3S0I2MGFnc1dfOUlDd2EwY0hfa2IxdHd0akpETXJMRWxxcl84VVpNcFpiUk9xLVRhdTJSUVNiSmlMVGNTeVRGQ2c4WENCQQ",
+        "image": null,
+        "timestamp": 1771805664.0
+    },
+    {
         "title_fa": "آمریکا و ایران روز پنج‌شنبه گفتگو می‌کنند؛ تهران از «شانس خوب» حل دیپلماتیک سخن گفته است",
         "title_en": "US, Iran to hold talks Thursday as Tehran claims ‘good chance’ of diplomatic solution",
         "summary": [
@@ -106,6 +142,42 @@
         "clean_url": "https://www.devdiscourse.com/article/law-order/3813986-us-iran-talks-in-geneva-a-positive-push-for-diplomacy",
         "image": null,
         "timestamp": 1771785900.0
+    },
+    {
+        "title_fa": "ایران امتیازات تازه پیشنهاد داد؛ مذاکرات هسته‌ای آمریکا و ایران روز پنج‌شنبه در ژنو از سر گرفته می‌شود",
+        "title_en": "Iran offers fresh concessions as US-Iran nuclear talks resume this Thursday",
+        "summary": [
+            "مذاکرات غیرمستقیم آمریکا و ایران به میزبانی عمان روز پنج‌شنبه در ژنو از سر گرفته می‌شود؛ بدر البوسعیدی، وزیر خارجه عمان، این دور را تأیید کرد و نقش میانجی را ایفا می‌کند.",
+            "خبرها حاکی است تهران امتیازات جدیدی درباره برنامه هسته‌ای پیشنهاد کرده است، اما این امتیازات مشروط به رفع تحریم‌های اقتصادی و به رسمیت شناختن «حق غنی‌سازی صلح‌آمیز» از سوی طرف مقابل است؛ مسعود پزشک‌زاده این سیگنال‌ها را «دلگرم‌کننده» خواند.",
+            "آمریکا حضور نظامی خود در منطقه را تقویت کرده و دونالد ترامپ هشدار داده «اتفاقات بسیار بدی» ممکن است رخ دهد؛ نماینده ویژه آمریکا، استیو ویتکاف، در اظهاراتی از تعجب رئیس‌جمهور نسبت به عدم «تسلیم» ایران سخن گفته است."
+        ],
+        "impact": "پافشاری تهران بر رفع تحریم‌ها به‌عنوان شرط اصلی نشان می‌دهد تحریم‌ها به اهرم مرکزی برای تضعیف ظرفیت اقتصادی و چانه‌زنی سیاسی رژیم تبدیل شده‌اند و نتیجه مذاکرات تعیین‌کننده ثبات سیاسی-اقتصادی آینده خواهد بود.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/iran-offers-fresh-concessions-as-us-iran-nuclear-talks-resume-this-thursday-article-13839061.html",
+        "clean_url": "https://www.moneycontrol.com/world/iran-offers-fresh-concessions-as-us-iran-nuclear-talks-resume-this-thursday-article-13839061.html",
+        "image": null,
+        "timestamp": 1771784340.0
+    },
+    {
+        "title_fa": "تنش ایران-آمریکا: تهران در نامه به دبیرکل سازمان ملل تهدید به «انتقام شدید» کرد؛ احتمال حمله محدود آمریکا افزایش یافت",
+        "title_en": "Iran-US Tensions Highlights: Tehran warns US of strong retaliation in letter to UN chief",
+        "summary": [
+            "رئیس‌جمهور دونالد ترامپ تهدید به اجرای حملات محدود در چارچوب ضرب‌الاجل ۱۰ روزه برای توافق هسته‌ای کرد و گفت «در حال بررسی» است که آیا اقدام نظامی مجاز کند.",
+            "وزیر امور خارجه عباس عراقچی اعلام کرد تهران در حال تدوین پیش‌نویس پاسخ مبتنی بر «احترام متقابل» ظرف ۴۸ تا ۷۲ ساعت است؛ هنوز معلوم نیست آیا این متن خطوط قرمز آمریکا درباره غنی‌سازی را پوشش می‌دهد.",
+            "آمادگی نظامی منطقه‌ای افزایش یافته: دولت اسرائیل و آمریکا برنامه‌ریزی مشترک ضربه را تسریع کرده‌اند، دو ناو هواپیمابر آمریکا در منطقه متمرکز شده‌اند و تنگه هرمز پس از رزمایش‌های شلیک زنده سپاه به نقطه‌ای بحرانی تبدیل شده است."
+        ],
+        "impact": "این تشدید نظامی، پنجره دیپلماسی را تنگ و احتمال درگیری منطقه‌ای بزرگ را بالا می‌برد، ضمن اینکه هزینه‌های اقتصادی و فشار بر ثبات سیاسی در ایران را تشدید خواهد کرد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/world/us-news/us-iran-tensions-live-updates-donald-trump-military-action-nuclear-deal-10541874/",
+        "clean_url": "https://indianexpress.com/article/world/us-news/us-iran-tensions-live-updates-donald-trump-military-action-nuclear-deal-10541874",
+        "image": "http://www.bing.com/th?id=OVFT.rmR3JiRpKY0xOdGuU4Nw_i&pid=News",
+        "timestamp": 1771784160.0
     },
     {
         "title_fa": "مذاکرات آمریکا و ایران قرار است پنج‌شنبه برای بررسی پیشنهاد هسته‌ای برگزار شود",
@@ -718,6 +790,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFVKTnZkYkxqNjExdEVMdkUzRkUzY0tuSGZtNHZfdWtzWk00cHRNYkpBbzc3bmo2NFJETy0xM2hEa3h5VHJjbllGZWlJcE9RLWNqR2ZHTnlGR0lRWG11eUpDUU9LUEZNd0poQThHZk8xTlJqaWNyYl9WYklvWHAzNzc4TFg4MHlxZ3J2N3hrWGVuWVlSUDNwTjBHVnU",
         "image": null,
         "timestamp": 1771731183.0
+    },
+    {
+        "title_fa": "رئیس سابق سیا: حملات احتمالی به ایران «متأسفانه تغییر رژیم نخواهد آورد»",
+        "title_en": "Former CIA director: Potential Iran strikes ‘will not bring about a regime change, sadly’",
+        "summary": [
+            "دیوید پترئوس، رئیس سابق سیا، هشدار داده که حملات نظامی احتمالی آمریکا علیه ایران به احتمال زیاد به تغییر رژیم نخواهد انجامید.",
+            "این ارزیابی نشان می‌دهد فشار نظامی و حملات محدود ساختارهای قدرت را جابجا نمی‌کنند؛ در عوض می‌توانند ساختارهای رژیم را تضعیف کرده و هزینه‌های اقتصادی و سیاسی را تشدید کنند که ثبات بلندمدت را مختل می‌سازد.",
+            "اجرای حملات احتمالاً واکنش‌های تامینی و سرکوب داخلی را افزایش می‌دهد و فضای نارضایتی را مهار می‌کند، بنابراین برای اپوزیسیون داخلی مسیر مؤثری جهت براندازی ایجاد نخواهد کرد."
+        ],
+        "impact": "اظهارنظر پترئوس واقع‌گرایانه نشان می‌دهد راهبرد نظامی نه تنها برای براندازی بی‌اثربخش است بلکه می‌تواند تضعیف اقتصادی و افزایش سرکوب را تشدید کند و در نتیجه ثبات نسبی رژیم را حفظ کند.",
+        "tag": "حمله",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Hill",
+        "url": "https://thehill.com/blogs/in-the-know/5749330-petraeus-says-iran-strikes-wont-work/",
+        "clean_url": "https://thehill.com/blogs/in-the-know/5749330-petraeus-says-iran-strikes-wont-work",
+        "image": null,
+        "timestamp": 1771729200.0
     },
     {
         "title_fa": "«می‌ترسم»: تهرانی‌ها خود را برای جنگ «اجتناب‌ناپذیر» ایران و آمریکا آماده می‌کنند",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.aol.com/articles/us-iran-set-high-stakes-050320679.html",
         "image": "http://www.bing.com/th?id=OVFT.YAPlg7iShrAFgSrbJWETcS&pid=News",
         "timestamp": 1771307460.0
-    },
-    {
-        "title_fa": "روز پرشتاب دیپلماسی؛ آمریکا در ژنو درباره ایران و اوکراین گفت‌وگو می‌کند",
-        "title_en": "Whirlwind day of diplomacy as US holds talks on Iran and Ukraine in Geneva",
-        "summary": [
-            "در ژنو نماینده ویژه آمریکا استیو ویتکوف و جارد کوشنر با مقام‌های ایرانی دیدار کردند؛ مقام‌های ایرانی اعلام کرده‌اند هیأت امشب به تهران بازمی‌گردد و دور جدید مذاکرات غیرمستقیم دنبال شد.",
-            "ایران بخش‌هایی از تنگه هرمز را موقتاً به‌دلیل رزمایش‌های نیروی دریایی سپاه بست؛ رسانه‌های رسمی گفتند مانورها برای شبیه‌سازی «تهدیدات دریایی واقعی» و رعایت پروتکل‌های ایمنی چند ساعت طول خواهد کشید، هم‌زمان با افزایش حضور نظامی آمریکا در منطقه.",
-            "همزمان در ژنو گفتگوهای مربوط به اوکراین جریان داشت و اوکراین از حمله گسترده به زیرساخت‌های انرژی‌اش توسط روسیه پیش از مذاکرات خبر داد؛ حضور روسیه در اخبار دیپلماتیک، یادآور نقش بازیگران بین‌المللی در فضای امنیتی است که رژیم تهران از روابط منطقه‌ای و جهانی‌اش بهره می‌برد. "
-        ],
-        "impact": "از منظر مخالفان داخلی، مذاکرات غیرمستقیم و نمایش نظامی همزمان فشارهای بین‌المللی را بر رژیم افزایش می‌دهد و می‌تواند فضای سیاسی را برای گشودن مسیر به سوی آزادی و تضعیف کنترل رژیم کمی بازتر کند.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/politics/live-news/trump-administration-iran-talks-02-17-26",
-        "clean_url": "https://edition.cnn.com/politics/live-news/trump-administration-iran-talks-02-17-26",
-        "image": null,
-        "timestamp": 1771306080.0
-    },
-    {
-        "title_fa": "آمریکا و ایران برای مذاکرات هسته‌ای حساس در ژنو آماده می‌شوند؛ تهدید جنگ مطرح است",
-        "title_en": "US and Iran set for high-stakes nuclear talks in Geneva as threat of war looms",
-        "summary": [
-            "آمریکا و ایران در آستانه مذاکرات هسته‌ای پرمخاطره در ژنو قرار دارند که هدف آن کاهش تنش‌ها و جلوگیری از تشدید نظامی است.",
-            "ابراز وجود تهدید جنگ نشان می‌دهد که احتمال درگیری مستقیم واقعی است و پیامدهای منطقه‌ای و بین‌المللی سنگینی دارد.",
-            "این دیپلماسی هم می‌تواند خطر درگیری را کاهش دهد و هم با افزایش فشار بین‌المللی، اقتدار رژیم را تضعیف کند و فضای امید و مقاومت مردم را تقویت نماید."
-        ],
-        "impact": "مذاکرات ژنو می‌توانند هم از فروپاشی مستقیم امنیتی جلوگیری کنند و هم با تحت فشار گذاشتن رژیم، راه را برای تقویت مطالبات مردمی و تضعیف پایه‌های اقتدار حکومت باز کنند.",
-        "tag": "مذاکرات",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWE1UlNhcko3WGRlb254RHV1OEZydExSVDlFclhQZHd5SUMySHgxV25GZXNNQVQwQmNUMDhQQ0lOZGYtcmtyOEhYWmYxdTd4eTA0VWI2NDBHNmxyOWxUaWJManBPQ3k3Skstd1hPd1NVRFFnVEFaQ01fcHN6dDZmUFZjV01pdS1PQThKemN0dFBucnlfWlZhaThOYVdGUkhCdTdTQmo5dEpGWkNjazE4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWE1UlNhcko3WGRlb254RHV1OEZydExSVDlFclhQZHd5SUMySHgxV25GZXNNQVQwQmNUMDhQQ0lOZGYtcmtyOEhYWmYxdTd4eTA0VWI2NDBHNmxyOWxUaWJManBPQ3k3Skstd1hPd1NVRFFnVEFaQ01fcHN6dDZmUFZjV01pdS1PQThKemN0dFBucnlfWlZhaThOYVdGUkhCdTdTQmo5dEpGWkNjazE4",
-        "image": null,
-        "timestamp": 1771304580.0
-    },
-    {
-        "title_fa": "آماده‌باش آمریکا و ایران برای آغاز مذاکرات هسته‌ای در میان افزایش تنش‌ها؛ ترامپ تهدید به حمله کرد",
-        "title_en": "U.S. and Iran Gear Up for Nuclear Talks Amid Rising Tensions",
-        "summary": [
-            "مذاکرات هسته‌ای بین آمریکا و ایران در حال تدارک است اما فضا به‌خاطر افزایش تنش‌ها و هشدارهای نظامی متشنج شده است.",
-            "پرزیدنت ترامپ از ایران خواسته فوراً به توافق برسد و هشدار داده در صورت عدم حصول توافق احتمال اقدام نظامی از سوی آمریکا وجود دارد.",
-            "این فشار خارجی می‌تواند ناتوانی رژیم ولایت‌فقیه در تضمین امنیت و ثبات را برجسته کند و به‌عنوان فرصتی برای تقویت جنبش‌های آزادی‌خواهی مردم و تضعیف پایه‌های اقتدار داخلی عمل کند."
-        ],
-        "impact": "تهدید صریح آمریکا فشار بین‌المللی را بر رژیم افزایش می‌دهد و احتمالاً توان سرکوب و مشروعیت داخلی حکومت را تضعیف کرده و فضای سیاسی را برای مطالبات مردم بازتر می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/17/us/politics/us-and-iran-gear-up-for-nuclear-talks-amid-rising-tensions.html",
-        "clean_url": "https://www.nytimes.com/2026/02/17/us/politics/us-and-iran-gear-up-for-nuclear-talks-amid-rising-tensions.html",
-        "image": null,
-        "timestamp": 1771304460.0
-    },
-    {
-        "title_fa": "خامنه‌ای: ناوهای جنگی ترامپ قابل غرق شدن‌اند؛ هشدار همزمان با مذاکرات هسته‌ای در ژنو",
-        "title_en": "Iran's supreme leader warns Trump warships can be sunk as nuclear talks held in Geneva",
-        "summary": [
-            "آیت‌الله علی خامنه‌ای در اظهارنظری تند گفت «قوی‌ترین ارتش جهان گاهی چنان سیلی می‌خورد که دیگر قادر به برخاستن نیست» و به‌طور ضمنی ناوهای جنگی آمریکا را هدف قرار داد، اظهار نظر او همزمان با برگزاری مذاکرات هسته‌ای در ژنو انجام شد.",
-            "این لحن تهدیدآمیز می‌تواند تلاش‌های دیپلماتیک برای کاهش تنش را تضعیف کند و خطر تشدید تقابل نظامی با آمریکا را بالا ببرد، امری که ریسک بروز رویارویی‌های مستقیم یا پیامدهای امنیتی بلندمدت را افزایش می‌دهد.",
-            "در داخل ایران چنین رجزخوانی‌هایی علامت تزلزل و نمایش قدرت از سوی رژیم است؛ این رفتار می‌تواند اعتبار بین‌المللی حکومت را کاهش داده و به‌عنوان فرصتی برای تقویت صدای مخالفت‌ها و امید به تغییر نزد مردم عمل کند."
-        ],
-        "impact": "تهدید علنی مقابل آمریکا، به‌جای افزایش امنیت، احتمالاً موقعیت بین‌المللی رژیم را تضعیف و فضای داخلی را برای انتقاد و مطالبات آزادی‌خواهانه بازتر می‌کند.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/us-iran-hold-high-stakes-nuclear-talks-geneva-threat-war-looms-rcna259304",
-        "clean_url": "https://www.nbcnews.com/world/iran/us-iran-hold-high-stakes-nuclear-talks-geneva-threat-war-looms-rcna259304",
-        "image": null,
-        "timestamp": 1771303380.0
-    },
-    {
-        "title_fa": "ایران تنگه هرمز را موقتا برای رزمایش تیراندازی زنده بست؛ دور جدید مذاکرات هسته‌ای با آمریکا آغاز شد",
-        "title_en": "Iran temporarily closing Strait of Hormuz for live fire drills as nuclear talks with US begin",
-        "summary": [
-            "ایران برای چند ساعت تنگه هرمز را به‌خاطر رزمایش تیراندازی زنده بست؛ رسانه‌های شبه‌دولتی از پرتاب موشک و اصابت به اهداف در این تنگه خبر دادند.",
-            "این اقدام هم‌زمان با آغاز دور جدید مذاکرات غیرمستقیم ایران و آمریکا در ژنو درباره برنامه هسته‌ای بود؛ گزارش‌ها می‌گویند مذاکرات تنها روی موضوع هسته‌ای متمرکز بود و به سرکوب اعتراضات داخلی اشاره نمی‌شود.",
-            "بستن مسیر دریایی و نمایش نظامی اقدامی پرخطر است که می‌تواند تشدید درگیری‌ها را به‌همراه داشته باشد و احتمالاً برای منحرف‌سازی افکار عمومی از فشارها و اعتراضات داخلی به‌کار رود."
-        ],
-        "impact": "این نمایش نظامی ریسک‌زا رژیم را در صحنه بین‌المللی منفعل‌تر و در داخل آسیب‌پذیرتر می‌کند و فرصت‌هایی برای افزایش فشار بین‌المللی و تداوم مقاومت مردمی ایجاد می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Morning Call",
-        "url": "https://www.mcall.com/2026/02/17/iran-temporarily-closing-strait-of-hormuz-for-live-fire-drills-as-nuclear-talks-with-us-begin/",
-        "clean_url": "https://www.mcall.com/2026/02/17/iran-temporarily-closing-strait-of-hormuz-for-live-fire-drills-as-nuclear-talks-with-us-begin",
-        "image": null,
-        "timestamp": 1771303140.0
     }
 ]
