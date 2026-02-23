@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اعتراضات تازه در ایران هم‌زمان با افزایش فشار آمریکا پیش از مذاکرات هسته‌ای",
+        "title_en": "Iran hit by resurgent protests as U.S. builds pressure ahead of new nuclear talks",
+        "summary": [
+            "بیداری مجدد اعتراضات نشان‌دهنده بازگشت نارضایتی عمومی و خلأهای مدیریتی در حل مسائل اقتصادی و سیاسی است؛ نشانه‌ای از ناتوانی حکمرانی در پاسخ به مطالبات مردم.",
+            "افزایش فشار آمریکا پیش از مذاکرات هسته‌ای ساختارهای بین‌المللی و اقتصادی حکومت را تضعیف می‌کند: محدودیت دیپلماتیک و اقتصادی دسترسی نخبگان به منابع و اهرم‌های چانه‌زنی را کاهش داده و بار بحران اقتصادی را بر مردم سنگین‌تر می‌کند.",
+            "هم‌زمانی تنش‌های خیابانی و فشار خارجی توان چانه‌زنی حکومت را کاهش می‌دهد و احتمال واکنش‌های امنیتی شدید از سوی حکومت را افزایش می‌دهد که می‌تواند به تشدید ناآرامی‌ها و فروپاشی کنترل اقتصادی بینجامد."
+        ],
+        "impact": "این هم‌پوشانی اعتراضات داخلی و فشار آمریکایی، مشروعیت و ظرفیت عملیاتی حکومت را کاهش می‌دهد و شانس دستیابی به توافق هسته‌ای به نفع تهران را کم می‌کند.",
+        "tag": "بحران",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblJLQkhVSjhYR0U3aEcyR2ZmRm9zMUg4SFUtTHpTNWNyOUtlNmVCV3BFa3dqc0lxaDFBLTBfVTFSbTVmS2dZTFlZanRicWc3T0NSUWkyVTVKQXJjZ3czMl9HeE95dXI4dnozZUdzRExmMUNFekhrZS0tOFpCQVhfdkROQmF4d0g1aVBwQnAzZWVROWNsQ2VOb1lCbFB1VGctZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblJLQkhVSjhYR0U3aEcyR2ZmRm9zMUg4SFUtTHpTNWNyOUtlNmVCV3BFa3dqc0lxaDFBLTBfVTFSbTVmS2dZTFlZanRicWc3T0NSUWkyVTVKQXJjZ3czMl9HeE95dXI4dnozZUdzRExmMUNFekhrZS0tOFpCQVhfdkROQmF4d0g1aVBwQnAzZWVROWNsQ2VOb1lCbFB1VGctZUE",
+        "image": null,
+        "timestamp": 1771849376.0
+    },
+    {
         "title_fa": "کاهش قیمت نفت به‌خاطر پیشرفت مذاکرات هسته‌ای ایران و ابهام تعرفه‌ای آمریکا",
         "title_en": "Oil slides on Iran nuclear talks, fresh U.S. tariff uncertainty",
         "summary": [
@@ -198,6 +216,24 @@
         "timestamp": 1771830000.0
     },
     {
+        "title_fa": "ترامپ در صورت شکست ضربه محدود و دیپلماسی، حمله گسترده‌تری به ایران را بررسی می‌کند: گزارش",
+        "title_en": "Trump weighs broader attack on Iran if limited strike and talks fail: report",
+        "summary": [
+            "مذاکرات احیا در ژنو از سر گرفته شده و مقام‌ها می‌گویند واشینگتن هم‌زمان با دیپلماسی، گزینه‌های نظامی «کالیبره‌شده» را برای مهار برنامه هسته‌ای تهران بررسی می‌کند.",
+            "تهدید نظامی و فشار خارجی ساختار شکننده اقتصادی-سیاسی رژیم را بیشتر تضعیف می‌کند؛ تداوم تحریم‌ها و امکان عملیات نظامی مستقیم هزینه‌های اقتصادی را بالا برده و توجه عمومی به ناکارآمدی حکمرانی را تشدید خواهد کرد.",
+            "اگر تلاش برای یک ضربه محدود و موازی با گفتگوها ناکام بماند، احتمال روی آوردن آمریکا به عملیات گسترده‌تر بالا می‌رود و ریسک تقابل مستقیم و بی‌ثباتی منطقه‌ای به‌طور محسوسی افزایش می‌یابد."
+        ],
+        "impact": "همزمانی مذاکره و تهدید نظامی توازن قدرت علیه تهران را تغییر داده و احتمال رویارویی مستقیم و تشدید بی‌ثباتی منطقه‌ای را به‌شدت بالا می‌برد.",
+        "tag": "تقابل",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "TRT World",
+        "url": "https://www.trtworld.com/article/2d7859641bac",
+        "clean_url": "https://www.trtworld.com/article/2d7859641bac",
+        "image": null,
+        "timestamp": 1771825620.0
+    },
+    {
         "title_fa": "اگر امروز ایران خود را به جنگ طولانی و جهنمی با آمریکا پذیرفته باشد چه می‌شود؟",
         "title_en": "What if today's Iran is resigned to a long, hellish war with the US?",
         "summary": [
@@ -252,6 +288,24 @@
         "timestamp": 1771819549.0
     },
     {
+        "title_fa": "ایران نیروهای هوایی و دریایی مرتبط با اعضای اتحادیه اروپا را سازمان‌های تروریستی نامید؛ پرسش‌های دیپلماتیک مطرح شد",
+        "title_en": "Iran designates EU air and naval forces as terrorist organizations raising diplomatic questions",
+        "summary": [
+            "رژیم ایران رسماً نیروهای هوایی و دریایی مرتبط با کشورهای عضو اتحادیه اروپا را به عنوان سازمان‌های تروریستی اعلام کرد؛ اعلامیه واکنش‌ها و پرسش‌های حقوقی و دیپلماتیک گسترده‌ای برانگیخت.",
+            "اقدام حاضر می‌تواند به تشدید تنش دیپلماتیک با اتحادیه اروپا و اعضای آن منجر شود و احتمال اقدامات حقوقی متقابل یا فشارهای اقتصادی و تحریمی را افزایش دهد؛ اثرات ساختاری این فشارها می‌تواند ثبات رژیم را هدف بگیرد.",
+            "این انتخاب سیاست خارجی پرتنش به‌عنوان راهبردی برای نمایش قدرت بیرونی عمل می‌کند و در صورت تشدید واکنش‌های بین‌المللی، احتمال افزایش انزوا و فشارهای اقتصادی وجود دارد که می‌تواند نارضایتی عمومی و آسیب‌پذیری سیاسی داخلی را تشدید کند."
+        ],
+        "impact": "این تصمیم، مسیر روابط با اروپا را به بن‌بست دیپلماتیک می‌کشاند و در صورت پاسخ‌های حقوقی یا تحریمی، می‌تواند انزوای بین‌المللی و فشار اقتصادی بر رژیم را تشدید کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Regtechtimes on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-designates-eu-air-and-naval-forces-as-terrorist-organizations-raising-diplomatic-questions/ar-AA1WTnzx",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-designates-eu-air-and-naval-forces-as-terrorist-organizations-raising-diplomatic-questions/ar-AA1WTnzx",
+        "image": null,
+        "timestamp": 1771819522.0
+    },
+    {
         "title_fa": "آمریکا در آستانه برخورد با ایران",
         "title_en": "US on the brink of conflict with Iran",
         "summary": [
@@ -304,6 +358,24 @@
         "clean_url": "https://www.theguardian.com/us-news/2026/feb/23/trump-news-latest-administration-updates",
         "image": null,
         "timestamp": 1771817640.0
+    },
+    {
+        "title_fa": "تحلیلگران: ایران ممکن است در جنگ با آمریکا اقلیم کردستان عراق را هدف قرار دهد",
+        "title_en": "Iran Might Target Iraqi Kurdistan During War With U.S., Analysts Warn",
+        "summary": [
+            "هشدار کارشناسی: سطح تهدید برای اقلیم کردستان بالا توصیف شده؛ اهداف حساس شامل فرودگاه اربیل، کنسولگری آمریکا، هتل‌های اصلی، سدها و راه‌ها هستند.",
+            "پیامد راهبردی: هر ضربه به این اهداف می‌تواند خطر تشدید مستقیم درگیری با آمریکا را افزایش دهد و منطقه را به یک میدان تقابلی فراتر از مرزهای ایران تبدیل کند.",
+            "خسارت داخلی و بین‌المللی: درگیری گسترده احتمالاً موجب تحریم‌ها و فشار خارجی بیشتر، فشار بر منابع مالی رژیم و تشدید نارضایتی‌های عمومی خواهد شد؛ این نتایج بازتاب شکست در مدیریت راهبردی و سیاست خارجی رژیم است."
+        ],
+        "impact": "هدف‌گیری اقلیم کردستان می‌تواند درگیری را گسترش دهد، هزینه‌های سیاسی و اقتصادی رژیم را بالا ببرد و مشروعیت داخلی آن را بیش از پیش تضعیف کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/pauliddon/2026/02/23/iran-might-target-iraqi-kurdistan-during-war-with-us-analysts-warn/",
+        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/02/23/iran-might-target-iraqi-kurdistan-during-war-with-us-analysts-warn",
+        "image": null,
+        "timestamp": 1771815360.0
     },
     {
         "title_fa": "ترامپ چه می‌خواهد از ایران؟",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-join-iran-talks-indirectly-103806369.html",
         "image": "http://www.bing.com/th?id=OVFT.CqgXYX7jlzkunZzIarGnti&pid=News",
         "timestamp": 1771342140.0
-    },
-    {
-        "title_fa": "وزیر خارجه: آمریکا و ایران در مذاکرات ژنو «پیشرفت خوبی» داشته‌اند",
-        "title_en": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
-        "summary": [
-            "وزیر خارجه گزارش داد که آمریکا و ایران در مذاکرات ژنو «پیشرفت خوبی» داشته‌اند.",
-            "جزئیات و دامنهٔ موضوعات مطرح‌شده تا کنون اعلام نشده؛ اما توصیفِ «پیشرفت» نشان‌دهنده یک حرکت دیپلماتیک ملموس بین دو طرف است.",
-            "اگر این روند ادامه یابد و به نتایج عملی منتهی شود، می‌تواند انزوای بین‌المللی رژیم را کاهش دهد و پایه‌های قدرت آن را تضعیف کرده و فرصت‌های سیاسی بیشتری برای مطالبات آزادی‌خواهانهٔ مردم فراهم آورد."
-        ],
-        "impact": "این پیشرفت دیپلماتیک می‌تواند انزوای رژیم را کم کند و به تضعیف بنیهٔ اقتدار آن کمک کند، که در نهایت می‌تواند فضای بیشتری برای خواست‌های آزادی‌خواهانهٔ مردم ایجاد نماید.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHbXVSVkNOd3pVU3NSSHJEU1lDVTZjVE4yX19VZUlUam1MTnBQd3lPMXNuMEdsVUtLb2N2ZlpaZ0MwYmkxOEZxUi1NMXVXbDBSUENpZDNFcWM0WkxCbG10aEZxZ0sxV2stMjBmWHR5SVF2emxDODY5cFY0Q1lqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHbXVSVkNOd3pVU3NSSHJEU1lDVTZjVE4yX19VZUlUam1MTnBQd3lPMXNuMEdsVUtLb2N2ZlpaZ0MwYmkxOEZxUi1NMXVXbDBSUENpZDNFcWM0WkxCbG10aEZxZ0sxV2stMjBmWHR5SVF2emxDODY5cFY0Q1lqdw",
-        "image": null,
-        "timestamp": 1771341839.0
-    },
-    {
-        "title_fa": "مذاکرات ژنو؛ خواست آمریکا برای پیشنهادات تفصیلی از ایران ظرف دو هفته",
-        "title_en": "February 17, 2026",
-        "summary": [
-            "مذاکرات هسته‌ای ایران و آمریکا در ژنو «پیشرفت جهت‌دار» داشت و واشنگتن خواستار دریافت پیشنهادات تفصیلی از تهران ظرف دو هفته است؛ این ضرب‌الاجل نشان‌دهنده فشار ساختاری خارجی و تلاش آمریکا برای قفل‌کردن ایران در چارچوب زمان‌بندی دیپلماتیک است.",
-            "نشست‌های سه‌جانبه درباره اوکراین با حضور آمریکا و روسیه نیز در ژنو برگزار شد؛ دخالت روسیه به عنوان بازیگری که می‌تواند گزینه‌های دیپلماتیک و تعادل‌بخشی منطقه‌ای را برای تهران تقویت کند، باید به عنوان یک عامل راهبردی در ارزیابی توان بقا و چانه‌زنی رژیم مدنظر قرار گیرد.",
-            "گزارش حاضر اطلاعات مشخصی درباره اوضاع داخلی اقتصادی یا اعتراضات در ایران ارائه نمی‌دهد، اما الزام تهران به ارائه طرح‌های تفصیلی در ضرب‌الاجل کوتاه‌مدت انعکاسی از ضعف ساختاری در مواجهه با فشارهای بین‌المللی و محدودیت‌های مدیریتی رژیم است."
-        ],
-        "impact": "تقاضای آمریکا برای پیشنهادات تفصیلی ظرف دو هفته، فشار خارجی را متمرکز می‌کند و اگر ایران نتواند شروط را برآورده کند، این بن‌بست می‌تواند به تضعیف بیشتر موقعیت حکومتی و افزایش هزینه‌های سیاسی داخلی بینجامد.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "CNN",
-        "url": "https://www.cnn.com/politics/live-news/trump-administration-iran-talks-02-17-26",
-        "clean_url": "https://www.cnn.com/politics/live-news/trump-administration-iran-talks-02-17-26",
-        "image": null,
-        "timestamp": 1771341420.0
-    },
-    {
-        "title_fa": "ایران گفت‌وگوها با آمریکا را «سازنده‌تر» خواند؛ تهدید ترامپ همچنان مطرح است",
-        "title_en": "Iran calls talks with U.S. \"more constructive\" as Trump's threat looms",
-        "summary": [
-            "علیرغم تبادل تهدید و هشدار میان تهران و واشینگتن، مذاکره‌کنندگان پشت میز نشستند تا از تبدیل تنش‌ها به جنگ جلوگیری کنند.",
-            "ایران اعلام کرد «اکنون راه روشن‌تری پیش‌رو داریم» و مذاکرات را سازنده‌تر توصیف کرد که نشان‌دهنده تلاش رژیم برای کاهش فشار خارجی است.",
-            "تهدیدات ترامپ همچنان به قوت خود باقی است؛ هرگونه عقب‌نشینی یا توافق موقت رژیم را در معرض انتقاد داخلی قرار می‌دهد و می‌تواند ضعف سیاسی آن را آشکار و فرصت‌هایی برای جنبش‌های آزادی‌خواه فراهم کند."
-        ],
-        "impact": "این مذاکرات هرچند از رویارویی نظامی فوری جلوگیری می‌کند، اما رژیم تهران را در موضع ضعف قرار می‌دهد و فضای سیاسی را برای تقویت مطالبات مردمی و فشار بر حاکمیت بازتر می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 9,
-        "sentiment": 0.2,
-        "source": "CBS News",
-        "url": "https://www.msn.com/en-us/news/world/iran-calls-talks-with-us-more-constructive-as-trumps-threat-looms/ar-AA1WwaAh",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-calls-talks-with-us-more-constructive-as-trumps-threat-looms/ar-AA1WwaAh",
-        "image": null,
-        "timestamp": 1771340627.0
-    },
-    {
-        "title_fa": "تعلیق مذاکرات ایران-آمریکا؛ خطر پایان صبر ترامپ و افزایش تنش در خلیج",
-        "title_en": "As Iran talks drag on, questions emerge over how long Trump will indulge diplomacy",
-        "summary": [
-            "گفت‌وگوهای غیرمستقیم در ژنو با وساطت عمان به «مجموعه‌ای از اصول راهنما» ختم شد؛ دامنه مباحث (هسته‌ای یا موشکی) نامشخص است و نمایندگان آمریکا از جزئیات بیشتر سخن گفتند—مقدمات مذاکرات ادامه دارد اما نتیجه مشخص نیست.",
-            "هم‌زمان با مذاکرات، ایران مانورهای موشکی کروز و شناور انجام داد که به بستن کوتاه‌مدت تنگه هرمز انجامید؛ این اقدام نه تنها تضعیف امنیت منطقه‌ای را نشان می‌دهد بلکه نشانه نگرانی رژیم و تلاش برای کسب اهرم فشاری در مذاکره است.",
-            "فضای سیاسی آمریکا ناهمگون است: مقام‌های کاخ سفید و متحدان منطقه‌ای (از جمله فشار نخست‌وزیر اسرائیل) هشدار داده‌اند که ترامپ هر زمان دیپلماسی را «به پایان طبیعی» خود برساند، اقدام نظامی را مجاز می‌داند؛ وعده ترامپ برای حمایت از معترضان ایرانی که تقریباً دو ماه قدمت دارد نیز نشان‌دهنده استمرار ناآرامی داخلی است."
-        ],
-        "impact": "مذاکرات فعلی ممکن است به رژیم مدتی تنفس بدهد، اما فشار خارجی همراه با مانورهای نظامی رژیم، ثبات داخلی را بیشتر تضعیف و خطر تقابل نظامی منطقه‌ای را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-talks-drag-questions-emerge-220402782.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-talks-drag-questions-emerge-220402782.html",
-        "image": "http://www.bing.com/th?id=OVFT.j9Tk87XBAtjXHOYef2Hrny&pid=News",
-        "timestamp": 1771339980.0
     }
 ]
