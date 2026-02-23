@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "کاهش قیمت نفت به‌خاطر پیشرفت مذاکرات هسته‌ای ایران و ابهام تعرفه‌ای آمریکا",
+        "title_en": "Oil slides on Iran nuclear talks, fresh U.S. tariff uncertainty",
+        "summary": [
+            "بازار نفت به دو عامل واکنش نشان داد: سیگنال‌های مثبت از مذاکرات هسته‌ای ایران که احتمال کاهش یا تعدیل تحریم‌ها و افزایش عرضه را مطرح می‌کند، و ابهام جدید درباره تعرفه‌های آمریکا که چشم‌انداز تقاضا را تضعیف کرده و فشار نزولی بر قیمت‌ها ایجاد کرده است.",
+            "در چارچوب تحریم‌ها و فشار خارجی، کاهش قیمت نفت در کوتاه‌مدت درآمدهای ارزی رژیم را کاهش می‌دهد؛ اما هرگونه پیشرفت واقعی در مذاکرات که منجر به برداشتن تحریم‌ها شود می‌تواند اهرم‌های فشار خارجی را تضعیف و منابع مالی رژیم را بازیابی کند — امری که ثبات ساختاری رژیم را تحت تاثیر قرار می‌دهد.",
+            "حتی اگر مذاکرات به کاهش تحریم‌ها بینجامد، سوء‌مدیریت اقتصادی ساختاری و ناکارآمدی حکومت مانع از انتقال سریع مزایا به مردم خواهد شد؛ نوسان درآمدهای نفتی بدون اصلاح نهادی، فشارهای اقتصادی و خشم اجتماعی را تشدید می‌کند."
+        ],
+        "impact": "کاهش قیمت نفت فشار مالی کوتاه‌مدت بر بودجه رژیم وارد می‌کند؛ در عین حال هرگونه بهبود ناشی از مذاکرات بدون اصلاحات ساختاری منافع را به مردم منتقل نخواهد کرد و ثبات سیاسی را تضمین نمی‌کند.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/money/markets/oil-pulls-back-as-us-iran-talks-set-to-resume-here-s-where-negotiations-stand/ar-AA1WTBaW",
+        "clean_url": "https://www.msn.com/en-us/money/markets/oil-pulls-back-as-us-iran-talks-set-to-resume-here-s-where-negotiations-stand/ar-AA1WTBaW",
+        "image": null,
+        "timestamp": 1771845219.0
+    },
+    {
         "title_fa": "کارشناسان: ایران احتمالاً به حملات تازه آمریکا واکنشی قاطع‌تر از قبل نشان می‌دهد",
         "title_en": "Iran likely to respond to renewed US strikes more forcefully than last time, experts say",
         "summary": [
@@ -304,6 +322,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/what-does-trump-want-in-iran/ar-AA1WRBJo",
         "image": null,
         "timestamp": 1771812562.0
+    },
+    {
+        "title_fa": "تجدید مذاکرات آمریکا و ایران در ژنو؛ عقب‌نشینی نفت از اوج شش‌ماهه",
+        "title_en": "Oil pulls back as U.S.–Iran talks set to resume: Here’s where negotiations stand",
+        "summary": [
+            "مذاکرات غیرمستقیم دور سوم بین آمریکا و ایران قرار است در ژنو ادامه یابد؛ شرکت‌کنندگان اعلام‌شده عبارتند از عباس عراقچی (نماینده ایران) و استیو ویتکوف (نماینده ویژه آمریکا) با میانجی‌گری وزیر خارجه عمان بدر البوسعیدی.",
+            "قیمت نفت پس از رسیدن برنت به 71 دلار (اوُج شش‌ماهه) به‌خاطر اعلام ادامه مذاکرات و گزارش‌ها درباره احتمال حمله محدود عقب‌نشینی کرد؛ گلدمن‌ساکس حدود 6 دلار ریسک‌پرمیوم مرتبط با تنش‌های ایران را در قیمت نفت محاسبه کرده است.",
+            "از منظر فشار خارجی و اقتصادی، دولت آمریکا برای گرفتن امتیاز در برنامه هسته‌ای ایران فشار می‌آورد و تهران با حضور عراقچی در شبکه‌های آمریکایی سعی در تبیین مواضع خود دارد؛ هم‌زمان وابستگی درآمدی به نفت و تحریم‌های پس از خروج آمریکا از برجام همچنان آسیب‌پذیری رژیم را حفظ می‌کند."
+        ],
+        "impact": "از سرگیری مذاکرات احتمال تشدید فوری نظامی را کاهش می‌دهد اما به رژیم زمان تنفس می‌دهد در حالی که آسیب‌پذیری اقتصادی ناشی از نوسان قیمت نفت و فشار تحریم‌ها باقی می‌ماند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/23/iran-us-talks-oil-falls-nuclear-negotiations.html",
+        "clean_url": "https://www.cnbc.com/2026/02/23/iran-us-talks-oil-falls-nuclear-negotiations.html",
+        "image": null,
+        "timestamp": 1771811280.0
     },
     {
         "title_fa": "علی لاریجانی که خامنه‌ای برای رهبری در صورت ترور انتخاب کرده کیست؟",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-talks-drag-questions-emerge-220402782.html",
         "image": "http://www.bing.com/th?id=OVFT.j9Tk87XBAtjXHOYef2Hrny&pid=News",
         "timestamp": 1771339980.0
-    },
-    {
-        "title_fa": "سؤال کلیدی در مذاکرات ایران: ترامپ تا چه‌وقت پنجره دیپلماتیک را باز نگه می‌دارد؟",
-        "title_en": "A major question in Iran talks: How long will Trump keep the diplomatic window open?",
-        "summary": [
-            "مذاکره‌کنندگان ایرانی و آمریکایی پس از نشست‌های غیرمستقیم در ژنو توافق کردند گفتگوها را ادامه دهند.",
-            "این توافق کوتاه‌مدت نتوانست نگرانی‌ها درباره احتمال بروز یک جنگ منطقه‌ای را کاهش دهد.",
-            "عدم‌قطعیت نسبت به مدت‌زمان «پنجره دیپلماتیک» دولت ترامپ، محور اصلی سؤال درباره چشم‌انداز مذاکرات است."
-        ],
-        "impact": "ادامه یا بسته شدن این پنجره دیپلماتیک بستگی مستقیم به سیاست فشار خارجی و تهدیدهای تحریمی دارد که می‌تواند ثبات سیاسی و اقتصادی رژیم را شدیدتر تضعیف کند.",
-        "tag": "مذاکرات",
-        "urgency": 9,
-        "sentiment": -0.4,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/a-major-question-in-iran-talks-how-long-will-trump-keep-the-diplomatic-window-open/ar-AA1WxwsS",
-        "clean_url": "https://www.msn.com/en-us/news/world/a-major-question-in-iran-talks-how-long-will-trump-keep-the-diplomatic-window-open/ar-AA1WxwsS",
-        "image": "http://www.bing.com/th?id=OVFT.eAuJi_ACfzbSa3VCfO-Hvy&pid=News",
-        "timestamp": 1771337042.0
-    },
-    {
-        "title_fa": "ایران می‌گوید در مذاکرات هسته‌ای پیشرفت شده؛ رهبر انقلاب به ترامپ درباره تقویت نظامی هشدار داد",
-        "title_en": "Iran says progress made in nuclear talks as supreme leader warns Trump over military buildup",
-        "summary": [
-            "تهران اعلام کرده در مذاکرات هسته‌ای پیشرفت‌هایی حاصل شده و طرف‌های مرتبط درباره برخی مسائل به حرکت رو به جلو اشاره کرده‌اند.",
-            "رهبر عالی نظام به‌طور مستقیم به ترامپ درباره «تقویت نظامی» هشدار داده و لحن مقتدرانه‌ای برای بازداشتن هرگونه اقدام تحریک‌آمیز اتخاذ کرده است.",
-            "ترکیب ادعاهای دیپلماتیک و لفاظی‌های تهدیدآمیز نشان می‌دهد رژیم همزمان در تلاش است وجهه بین‌المللی خود را بهبود دهد و با بازی ملی‌گرایانه حمایت داخلی را حفظ کند — اما همین تنش‌ها می‌تواند پایه‌های قدرت رژیم را آسیب‌پذیر کند."
-        ],
-        "impact": "تنش با آمریکا و تحولات پیرامون مذاکرات، رژیم را در موضعی ناپایدار قرار می‌دهد و می‌تواند فضای بیشتری برای فشار بین‌المللی و پیشروی مطالبات آزادی‌خواهانه مردم فراهم آورد.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmhmTDI5TjE3QUV0c3VwY29JdzI1OTdiVnIzV0o0Yy03RGVhSWtUSllsaEdxU0RUWkUzbW54eFgwNWl4R0pCY21FcDAzWHM0SEFRa05Eb0JaRXZpUDA4U2gxd2IycG9qTDhTaUlIUmxMc3dfUUJPalNSNlktQU5tTmFJWm9oQk1WRGwxd1ZlSk5ETzE5bTNoR2hzZGxzclhzbVN6bUpnbXNKeC15?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmhmTDI5TjE3QUV0c3VwY29JdzI1OTdiVnIzV0o0Yy03RGVhSWtUSllsaEdxU0RUWkUzbW54eFgwNWl4R0pCY21FcDAzWHM0SEFRa05Eb0JaRXZpUDA4U2gxd2IycG9qTDhTaUlIUmxMc3dfUUJPalNSNlktQU5tTmFJWm9oQk1WRGwxd1ZlSk5ETzE5bTNoR2hzZGxzclhzbVN6bUpnbXNKeC15",
-        "image": null,
-        "timestamp": 1771336200.0
     }
 ]
