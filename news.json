@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اگر امروز ایران خود را به جنگ طولانی و جهنمی با آمریکا پذیرفته باشد چه می‌شود؟",
+        "title_en": "What if today's Iran is resigned to a long, hellish war with the US?",
+        "summary": [
+            "مقاله این فرض را مطرح می‌کند که رژیم ممکن است استراتژی بقا را با پذیرش جنگ فرسایشی و نامتقارن در برابر آمریکا تطبیق داده باشد، یعنی آماده تحمل هزینه‌های بلندمدت برای حفظ بقای سیاسی شود.",
+            "تحریم‌ها و فشار خارجی در یک سناریوی جنگ طولانی ساختار مالی دولت را فرسوده می‌کنند، توان تأمین تجهیزات و خدمات پایه را کاهش می‌دهند و ظرفیت حکمرانی را تضعیف می‌کنند.",
+            "از منظر داخلی، فرسایش اقتصادی و هدررفت منابع می‌تواند نارضایتی عمومی را تشدید کند؛ رژیم را به سرکوب گسترده‌تر و بسیج‌های اجباری وامی‌دارد و خطر تشدید بی‌ثباتی و بحران‌های سیاسی را افزایش می‌دهد."
+        ],
+        "impact": "اگر رژیم چنین مسیری را پذیرفته باشد، کشور وارد چرخه‌ای از ضعف اقتصادی و سیاسی می‌شود که هم توان بازدارندگی واقعی را کاهش می‌دهد و هم احتمال شدت گرفتن درگیری‌های منطقه‌ای و فروپاشی مقطعی مشروعیت داخلی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUVZ1U2lyeEY3azNwc1BWeHh4T3ZfRXZZNVMwbnZDekM3S0l5aWM0R1dUWXc2Qm10TWd5UnpJNV9CSzZZeE5VdEVYdFJLYi1Yb3VhRWZUaVV1aGVqbXg4YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUVZ1U2lyeEY3azNwc1BWeHh4T3ZfRXZZNVMwbnZDekM3S0l5aWM0R1dUWXc2Qm10TWd5UnpJNV9CSzZZeE5VdEVYdFJLYi1Yb3VhRWZUaVV1aGVqbXg4YQ",
+        "image": null,
+        "timestamp": 1771823656.0
+    },
+    {
         "title_fa": "عمان تأیید کرد: دور جدید مذاکرات آمریکا و ایران روز پنج‌شنبه برگزار می‌شود",
         "title_en": "Oman confirms new round of US-Iran talks will be held on Thursday",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://nationalinterest.org/blog/energy-world/post-midnight-hammer-strikes-irans-nuclear-reconstitution-as-regime-survival",
         "image": null,
         "timestamp": 1771310940.0
-    },
-    {
-        "title_fa": "ایران از «توافق کلی» در مذاکرات هسته‌ای با آمریکا استقبال کرد",
-        "title_en": "Iran Hails ‘General Agreement’ in US Nuclear Talks",
-        "summary": [
-            "ایران اعلام کرد در مذاکرات هسته‌ای غیرمستقیم با آمریکا در ژنو به یک «توافق کلی» دست یافته است.",
-            "مذاکرات به‌صورت غیرمستقیم بین تهران و واشینگتن برگزار شد، در حالی که دونالد ترامپ تهدید به حملات نظامی در صورت عدم حصول توافق کرده بود.",
-            "وجود تهدید نظامی و فشار خارجی موقعیت رژیم را آسیب‌پذیر نشان می‌دهد و می‌تواند به تضعیف قبضه قدرت حاکم و تقویت مطالبات مردمی منجر شود."
-        ],
-        "impact": "این تحولات می‌تواند موقعیت بین‌المللی و داخلی رژیم را تحت فشار قرار دهد و فضای سیاسی را برای پیشبرد خواست‌های آزادی‌طلبانه مردم بازتر کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": 0.4,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/iran-us-nuclear-talks-trump-strikes-war-11535311",
-        "clean_url": "https://www.newsweek.com/iran-us-nuclear-talks-trump-strikes-war-11535311",
-        "image": null,
-        "timestamp": 1771310700.0
     }
 ]
