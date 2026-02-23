@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "وزارت خارجه آمریکا دستور خروج دیپلمات‌های غیرضروری از لبنان را صادر کرد؛ تنش‌ها با ایران افزایش یافته‌اند",
+        "title_en": "State Department orders nonessential U.S. diplomats to leave Lebanon as tensions with Iran rise",
+        "summary": [
+            "وزارت خارجه آمریکا دستور داد کارکنان دیپلماتیک غیرضروری از لبنان خارج شوند؛ اقدامی که نشانه افزایش ریسک و احتمال تشدید تنش‌ها میان واشنگتن و تهران است و ظرفیت‌های دیپلماتیک میدانی را کاهش می‌دهد.",
+            "این رفتار به عنوان فشار دیپلماتیک عمل می‌کند: کاهش حضور و کانال‌های ارتباطی آمریکا، فضای مذاکره و کاهش تنش را تضعیف کرده و هزینه‌های سیاسی و دیپلماتیک برای جمهوری اسلامی را افزایش می‌دهد، در عین حال راه‌های کاهش خطر برخورد اشتباهی را محدود می‌کند.",
+            "برای لبنان، خروج کارکنان خارجی بحران‌زده پیامدهایی عملی دارد—کاهش هماهنگی کمک‌ها و نظارت، افزایش آسیب‌پذیری نهادهای دولتی ناکارآمد و احتمال افزایش نفوذ گروه‌های وابسته به تهران در خلأ دیپلماتیک."
+        ],
+        "impact": "خروج کارکنان غیرضروری آمریکا کانال‌های دیپلماتیک کاهش تنش را تضعیف کرده و ریسک تشدید مواجهه منطقه‌ای را بالا می‌برد، در حالی که توانایی جامعه بین‌المللی برای مدیریت اثرات داخلی لبنان را کاهش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "PBS",
+        "url": "https://www.msn.com/en-us/politics/international-relations/state-department-orders-nonessential-us-diplomats-to-leave-lebanon-as-tensions-with-iran-soar/ar-AA1WU4dp",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/state-department-orders-nonessential-us-diplomats-to-leave-lebanon-as-tensions-with-iran-soar/ar-AA1WU4dp",
+        "image": null,
+        "timestamp": 1771865918.0
+    },
+    {
+        "title_fa": "بنیامین نتانیاهو: اسرائیل در صورت حمله ایران از نیرویی غیرقابل‌تصور استفاده خواهد کرد",
+        "title_en": "Benjamin Netanyahu: Israel to use unimaginable force if Iran attacks",
+        "summary": [
+            "هشدار نتانیاهو به‌صراحت اعلام می‌کند که در صورت حمله ایران، اسرائیل آماده استفاده از «نیرویی غیرقابل‌تصور» است؛ پیام روشن افزایش تهدید به اقدام نظامی مستقیم علیه ایران است.",
+            "موردی از تحریم‌ها یا فشار خارجی در گزارش ذکر نشده است؛ بنابراین ارزیابی اثرات ساختاری تحریم‌ها بر ثبات رژیم بر اساس این منبع ممکن نیست، اما این لحن تهاجمی ریسک تشدید تقابل نظامی را بالا می‌برد.",
+            "گزارش اشاره‌ای به وضعیت داخلی، اعتراض‌ها یا اقتصاد ایران ندارد؛ با این حال چنین تهدیداتی می‌تواند به‌عنوان پوششی برای تقویت سرکوب داخلی یا بسیج ملی توسط حاکمیت مورد استفاده قرار گیرد — امری که بر توان معیشتی و فضای سیاسی مردم فشار می‌آورد."
+        ],
+        "impact": "این اعلامیه احتمال رویارویی نظامی مستقیم و تشدید تنش منطقه‌ای را بالا می‌برد و هم برای ثبات رژیم و هم برای فضای سیاسی و اقتصادی داخل ایران خطرزا است.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zc1VBSE04SktyN1FMSW5aVnFsVkZDWkdHdzBDR2JzUGtLanR3M0hrcWRNMGFaWnJaSFJUTzlSUjZnUnk4NUFsY01JQ01RaWZWLTZzMWJGOTJSZHliS3ZIT29qbDZURjdyZWpDaFRzYVhDUWM4ZV9sLUhtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zc1VBSE04SktyN1FMSW5aVnFsVkZDWkdHdzBDR2JzUGtLanR3M0hrcWRNMGFaWnJaSFJUTzlSUjZnUnk4NUFsY01JQ01RaWZWLTZzMWJGOTJSZHliS3ZIT29qbDZURjdyZWpDaFRzYVhDUWM4ZV9sLUhtdw",
+        "image": null,
+        "timestamp": 1771862911.0
+    },
+    {
         "title_fa": "سیاست ترامپ نسبت به ایران جمع‌پذیر نیست",
         "title_en": "Trump’s Iran Policy Does Not Add Up",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXBGVmRWWjluRGdBUGFGLUNaTEhiVTIyeXRubG1TT3JkU0lCQnY4MXk0TnlSaDdlVW1pQS0zOHY1YndvbW9sR2dEVE1GYXNNejhlR0dpR2V4Y2lCRTNFd3BHMXhZOTJBanlXYTBwckwwMEVHdHNKOGN5cnJNOTZtNjZ2cC1mQVhMTnFESFE5a19wZXVjWjJjOGotaXlwYTVZdWx0T0d2M2lMT2NNeFR0eUp1MnrSAboBQVVfeXFMT3VSLVA5Ump2VUIxRHRobFplcXM3ckVyQk5FclplSWNKbHBmUTlSTzRzSVcyX0NaT2V1MDlEandVWENIdG1xZGVFaTRYZjVEaHRabzhmSVVmbHBBUUhlZXFwb0pTeURMV0dJcFd1eGVyNjVrNWJkTXlhbUJ5Y3JNVnF4aWpPMHJDdW9LZGJEUmJEdHpXMmM0TkNnXzdhV2liYW5lNTJlbHJldVF4Y2ZyazM1Ynl2TWhIX2xB",
         "image": null,
         "timestamp": 1771354652.0
-    },
-    {
-        "title_fa": "مذاکرات هسته‌ای ایران و آمریکا ممکن است به‌خاطر خطوط قرمز دو طرف شکست بخورند — اما این شکست لزوماً بی‌فایده نیست",
-        "title_en": "Iran-US nuclear talks may fail due to both nations’ red lines – but that doesn’t make them futile",
-        "summary": [
-            "خطوط قرمز سیاسی در تهران و واشینگتن محدودیت واقعی مذاکرات را تعیین می‌کند؛ تردیدها و ملاحظات داخلی هر دو طرف شانس دستیابی به توافق جامع را کاهش می‌دهد.",
-            "حتی در صورت شکست، مذاکرات ارزش راهبردی دارند: مشخص‌سازی مواضع طرفین، ایجاد زمان برای کاهش خطرات شتاب‌زدگی نظامی و به‌دست آوردن اطلاعات سیاسی که امکان فشار هدفمندتر را فراهم می‌کند.",
-            "فشار تحریم‌ها و تنگناهای اقتصادی ساختاری رژیم را ضعیف می‌کند و همان‌طور که مقاله اشاره می‌کند، این فشارها به محدودتر شدن گزینه‌های سیاسی و افزایش نارضایتی عمومی می‌انجامند که ثبات داخلی را تضعیف می‌کند."
-        ],
-        "impact": "شکست یا استمرار مذاکرات هر دو سناریو به‌طور مستقیم فضای سیاست خارجی و قوت یا ضعف خط دفاع سیاسی رژیم را شکل می‌دهد و می‌تواند سرنوشت فشارهای داخلی و بین‌المللی علیه حاکمیت را تعیین کند.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0M1eGkxbXNXQjByVzdsRE5OVllFWERTLWM0VF9kSnJ1V1JxSURYb1NIa3ZSMk92ajhmbXZ4QlkyNm5ycHFiWXNrMUxvUWU0LVFpbmlrekxJVVpCbDFfLTBBY2xFdjFtS25uVjBfM1Q2b2dlcEFfVkdxYjlNakJ0TjdkUUN3ZEFxOFZhRmVUcUN3d0syaDZERmprdVlWbW1acXpSWlBRVGExV3JxNVU1a2JEb3gwRmdKalpFSnd6dUxMZnpVY01R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0M1eGkxbXNXQjByVzdsRE5OVllFWERTLWM0VF9kSnJ1V1JxSURYb1NIa3ZSMk92ajhmbXZ4QlkyNm5ycHFiWXNrMUxvUWU0LVFpbmlrekxJVVpCbDFfLTBBY2xFdjFtS25uVjBfM1Q2b2dlcEFfVkdxYjlNakJ0TjdkUUN3ZEFxOFZhRmVUcUN3d0syaDZERmprdVlWbW1acXpSWlBRVGExV3JxNVU1a2JEb3gwRmdKalpFSnd6dUxMZnpVY01R",
-        "image": null,
-        "timestamp": 1771354649.0
-    },
-    {
-        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران در ژنو — به‌روزرسانی زنده",
-        "title_en": "Trump Administration Live Updates: U.S. and Iran Hold Nuclear Talks in Geneva",
-        "summary": [
-            "ایالات متحده و ایران در ژنو نشست‌هایی درباره برنامه هسته‌ای برگزار کردند؛ گزارش بر اساس به‌روزرسانی زنده نیویورک‌تایمز است.",
-            "از منظر فشار خارجی، چنین گفتگوهایی می‌تواند راه‌های کاهش تحریم یا تخفیف اثرات فوری آنها را باز کند و به‌عنوان مکانیزمی برای تضعیف فشار اقتصادی که به بی‌ثباتی نظام منتهی می‌شود عمل کند؛ نتایج بسته به محتوا و ضمانت‌های توافق خواهد بود.",
-            "در داخل کشور، حکومت ممکن است از مذاکرات برای کسب پیچ‌و‌تاب سیاسی و تسکین موقت مشکلات اقتصادی ناشی از سوءمدیریت استفاده کند؛ این تاکتیک می‌تواند خواست‌های عمومی برای پاسخگویی و اصلاح ساختاری را تشدید کند."
-        ],
-        "impact": "مذاکرات در ژنو می‌تواند به‌صورت مشروط فشارهای خارجی را کاهش دهد و بقای موقتی رژیم را تسهیل کند، در حالی که مسأله اصلی سوءمدیریت داخلی همچنان دست‌نخورده باقی می‌ماند.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUm9hUGN3dUhzT0EzS0s1bE9wOUVoT0Fpc0pDcjFfdFFCQjA1MmhJZDhUc05GclZsYmotU1I2bG9Gb3dXLUl3NVRhaEpIVUoxWmNmSHd4UEVLTW1heUFHekZKYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUm9hUGN3dUhzT0EzS0s1bE9wOUVoT0Fpc0pDcjFfdFFCQjA1MmhJZDhUc05GclZsYmotU1I2bG9Gb3dXLUl3NVRhaEpIVUoxWmNmSHd4UEVLTW1heUFHekZKYw",
-        "image": null,
-        "timestamp": 1771352081.0
     }
 ]
