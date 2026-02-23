@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "برای حکمرانان ایران، رد خواست‌های آمریکا ریسکی است که ارزش گرفتن دارد",
+        "title_en": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+        "summary": [
+            "عنوان نیویورک‌تایمز حاکی است که رهبری ایران حاضر به رد مستقیم خواست‌های آمریکا است و ریسک‌های ناشی از این ایستادگی را قابل‌ قبول می‌داند.",
+            "چنین موضعی احتمال افزایش فشارهای خارجی—از جمله تشدید تحریم‌ها و انزوای دیپلماتیک—را بالا می‌برد و می‌تواند ساختار اقتصادی و ثبات سیاسی رژیم را در بلندمدت تضعیف کند.",
+            "پذیرش این ریسک به احتمال زیاد ناشی از محاسبه‌هایی برای بقا و کنترل داخلی در برابر نارضایتی‌های مردمی است؛ اما استمرار آن ریشه‌های سوءمدیریت اقتصادی و نارضایتی اجتماعی را عمق می‌بخشد."
+        ],
+        "impact": "این انتخاب تقابلی احتمال تشدید تحریم‌ها و فشار اقتصادی را افزایش می‌دهد که به مرور ظرفیت بقای رژیم را تضعیف و نارضایتی‌های داخلی را تشدید خواهد کرد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOGp1aTVkb2JFdzI5M3hveW14LUc3dVRWYUdqckZWSGN2b1c1TXBjTGJMbElQSEd4R2dJbXl5RWQ0ZFlwSDJ0XzE4U1ZOSzIzbHFmSXZSdmZqdjBGNGVKNGFNUWx5U29kTE42UFktaUw1RG9KSUtkM0Q2ZFluWldRb1JPNjNOZFFRUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOGp1aTVkb2JFdzI5M3hveW14LUc3dVRWYUdqckZWSGN2b1c1TXBjTGJMbElQSEd4R2dJbXl5RWQ0ZFlwSDJ0XzE4U1ZOSzIzbHFmSXZSdmZqdjBGNGVKNGFNUWx5U29kTE42UFktaUw1RG9KSUtkM0Q2ZFluWldRb1JPNjNOZFFRUGc",
+        "image": null,
+        "timestamp": 1771841051.0
+    },
+    {
+        "title_fa": "اسرائیل در آستانه جنگی دیگر؛ دونالد ترامپ حمله به ایران را بررسی می‌کند",
+        "title_en": "Israelis brace for another war as Trump mulls strikes on Iran",
+        "summary": [
+            "واشنگتن پست گزارش می‌دهد که اسرائیلی‌ها خود را برای احتمال جنگی جدید آماده می‌کنند چون دونالد ترامپ، رئیس‌جمهور آمریکا، گزینه حمله یا ضربات محدود علیه ایران را در نظر گرفته است.",
+            "هرگونه تصمیم به حمله یا افزایش فشار نظامی-دیپلماتیک آمریکا ساختار آسیب‌پذیر اقتصادی و سیاسی ایران را هدف خواهد گرفت و به منزوی‌تر شدن بیشتر تهران و افزایش هزینه‌های نظامی آن منجر می‌شود.",
+            "این دور جدید تهدیدهای خارجی، در حالی که دولت ایران مسئول مدیریت ناکارآمد اقتصادی و هزینه‌های امنیتی است، می‌تواند نارضایتی‌های داخلی را تشدید کند و ضعف‌های حکمرانی را برجسته سازد."
+        ],
+        "impact": "اثر اصلی این خبر افزایش احتمال تشدید نظامی و فشارهای خارجی است که پایداری اقتصادی و سیاسی حکومت ایران را از طریق بالا بردن هزینه‌های امنیتی و عمیق‌تر شدن انزوای بین‌المللی تضعیف می‌کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/israelis-brace-for-another-war-as-trump-mulls-strikes-on-iran/ar-AA1WTg8d",
+        "clean_url": "https://www.msn.com/en-us/news/world/israelis-brace-for-another-war-as-trump-mulls-strikes-on-iran/ar-AA1WTg8d",
+        "image": null,
+        "timestamp": 1771840903.0
+    },
+    {
         "title_fa": "آمریکا و ایران برای گفتگو در ژنو آماده می‌شوند",
         "title_en": "US, Iran set for Geneva talks",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-says-nuclear-talks-with-trump-s-envoy-to-resume-this-week/ar-AA1WR2n8",
         "image": null,
         "timestamp": 1771838820.0
+    },
+    {
+        "title_fa": "رد توافق موقت در مذاکرات با آمریکا؛ نیروهای نظامی در حالت آماده‌باش حین دیپلماسی",
+        "title_en": "Iran rules out interim deal in US talks, keeps military on alert during diplomacy",
+        "summary": [
+            "ایران ضمن رد پیشنهاد توافق موقت در گفت‌وگوها با آمریکا، به‌صراحت نشان داد که دنبال حفظ اهرم فشار بلندمدت است؛ چنین رویکردی احتمال حصول تسکین سریع تحریم‌ها را کاهش می‌دهد.",
+            "اعلام آماده‌باش نظامی هم‌زمان با دیپلماسی، ترکیب فشار نظامی و مذاکره را نشان می‌دهد که ریسک اشتباه محاسباتی و تشدید تنش را افزایش می‌دهد و فضای مذاکرات را خصمانه‌تر می‌سازد.",
+            "این سیاست‌ها هزینه اقتصادی و سیاسی داخلی را تشدید می‌کنند؛ نگه داشتن موضع سخت‌گیرانه در برابر مصالحه کوتاه‌مدت نشانه‌ای از سوءمدیریت استراتژیک که می‌تواند نارضایتی عمومی و فشار معیشتی را افزایش دهد."
+        ],
+        "impact": "رد توافق موقت و همزمان حفظ حالت آماده‌باش نظامی شانس تسهیل فوری تحریم‌ها را کاهش می‌دهد و ریسک تشدید تنش و فشار اقتصادی داخلی را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qaERmRVc0SGZrNGl3WWFPNTBmOV9Gakg4a1FURzZrbTBXYVR0dXFHRXE4bm1CNGljc1Qtc25SN0hlRWVzNTNLcm9Ec1lKWkhKUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qaERmRVc0SGZrNGl3WWFPNTBmOV9Gakg4a1FURzZrbTBXYVR0dXFHRXE4bm1CNGljc1Qtc25SN0hlRWVzNTNLcm9Ec1lKWkhKUXc",
+        "image": null,
+        "timestamp": 1771838612.0
     },
     {
         "title_fa": "چه زمانی ترامپ ممکن است به ایران حمله کند؟ چهار گزینه محتمل",
@@ -196,6 +250,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/what-does-trump-want-in-iran/ar-AA1WRBJo",
         "image": null,
         "timestamp": 1771812562.0
+    },
+    {
+        "title_fa": "علی لاریجانی که خامنه‌ای برای رهبری در صورت ترور انتخاب کرده کیست؟",
+        "title_en": "Who is Ali Larijani, picked by Supreme Leader Khamenei to lead Iran if he is assassinated?",
+        "summary": [
+            "خامنه‌ای علی لاریجانی، دبیر شورای عالی امنیت ملی را به‌عنوان گزینه جایگزین برای هدایت کشور در صورت ترور یا تشدید جنگ اعلام کرده و حکومت نقشه‌های اضطراری برای بقای نظام تهیه می‌کند.",
+            "تهدید نظامی آمریکا و احتمال درگیری، رژیم را به اتکای بیشتر به سازوکارهای امنیتی و اتخاذ تدابیر اضطراری وادار می‌کند؛ چنین فشار خارجی می‌تواند ساختار سیاسی-اقتصادی رژیم را تضعیف و آسیب‌پذیری مالی آن را افزایش دهد.",
+            "اعلام چنین جانشینی عملی نشان‌دهنده اعتراف به ضعف در مدیریت و آسیب‌پذیری داخلی است؛ در صورت تشدید جنگ یا تحریم‌ها، امکان تشدید بحران اقتصادی و افزایش نارضایتی اجتماعی وجود دارد."
+        ],
+        "impact": "تعیین لاریجانی به‌عنوان گزینه جایگزین، تمرکز قدرت بر سازوکارهای امنیتی را تشدید و مشروعیت داخلی رژیم را بیش از پیش تضعیف می‌کند.",
+        "tag": "امنیت",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/explainers/iran-us-conflict-ali-larijani-supreme-leader-ayatollah-ali-khamenei-13982746.html",
+        "clean_url": "https://www.firstpost.com/explainers/iran-us-conflict-ali-larijani-supreme-leader-ayatollah-ali-khamenei-13982746.html",
+        "image": null,
+        "timestamp": 1771810920.0
     },
     {
         "title_fa": "تنش‌های هسته‌ای آمریکا و ایران: چه چیزهایی در خطر است و گام بعدی چیست؟",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://nypost.com/2026/02/17/world-news/iran-and-us-agree-guiding-principles-of-nuclear-deal-tehran-says",
         "image": "http://www.bing.com/th?id=OVFT.MnKwin56pq5MmteyRyS3Ky&pid=News",
         "timestamp": 1771330080.0
-    },
-    {
-        "title_fa": "آمریکا و ایران مذاکرات هسته‌ای را از سر می‌گیرند در حالی که تقویت نظامی سنگینی جریان دارد",
-        "title_en": "U.S. and Iran resume nuclear talks amid heavy military buildup",
-        "summary": [
-            "نمایندگان آمریکایی استیو ویتکوف و جارد کوشنر هدایت تیم مذاکره‌کننده را برعهده دارند و در جریان از سرگیری مذاکرات هسته‌ای حضور دارند.",
-            "این فرستادگان هم‌زمان مسئول پیگیری موضوعات مرتبط با روسیه-اوکراین نیز هستند و ممکن است بین محل‌های مذاکرات جابه‌جا شوند که لایه‌های ژئوپلیتیکی اضافه می‌کند.",
-            "بازگشت به میز مذاکرات در شرایط تقویت نظامی سنگین هم فرصت‌هایی برای فشار دیپلماتیک فراهم می‌کند و هم خطر تشدید تنش را بالا می‌برد؛ ذکر روسیه نیز نقش هم‌پیمانان منطقه‌ای رژیم را برجسته می‌سازد."
-        ],
-        "impact": "از منظر عملی، از سرگیری مذاکرات همراه با فشار دیپلماتیک و حضور بازیگران ژئوپلیتیک می‌تواند اقتدار رژیم را تضعیف کند و درهای بیشتری برای فشار بین‌المللی و حمایت از خواست‌های مردم برای آزادی بگشاید.",
-        "tag": "مذاکرات",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/world/us-and-iran-resume-nuclear-talks-amid-heavy-military-buildup/ar-AA1WvCYN",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-resume-nuclear-talks-amid-heavy-military-buildup/ar-AA1WvCYN",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YKNBLZKTOUC5PYZ33XMK3GLXIQ.JPG&w=1440",
-        "timestamp": 1771329412.0
-    },
-    {
-        "title_fa": "پناهندگان ایرانی: توافق هسته‌ای جلوی اعدام‌های جاری را نخواهد گرفت",
-        "title_en": "Nuclear deal will not stop ongoing executions, Iran refugees say",
-        "summary": [
-            "پناهندگان حاضر در گزارش می‌گویند که حتی در صورت پیشرفت توافق هسته‌ای، موج اعدام‌ها و سرکوب معترضان ادامه خواهد یافت؛ یک پناهنده ناشناس از «از دست‌دادن امید» پس از تأخیر واکنش آمریکا به کشتار معترضان سخن گفت.",
-            "تمرکز دیپلماتیک روی پرونده هسته‌ای و هرگونه کاهش فشار بین‌المللی می‌تواند به رژیم فضای مالی و سیاسی بدهد بی‌آنکه سازوکارهای قوه‌قضائیه و دستگاه سرکوب داخلی را تضعیف کند؛ این ساختارها همچنان تهدیدی مستقیم علیه معترضان محسوب می‌شوند.",
-            "ادامه اعدام‌ها و بی‌پاسخی به مطالبات معترضان بازتاب شکست مدیریتی و بحران مشروعیت رژیم است و نشان می‌دهد مسائل حقوق‌بشری و نارضایتی عمومی فراتر از مسئله هسته‌ای است."
-        ],
-        "impact": "توافق هسته‌ای بدون الزام‌های حقوق‌بشری می‌تواند به بقای مالی و مشروعیت بین‌المللی رژیم کمک کند در حالی که موج اعدام‌ها و سرکوب‌های داخلی به تضعیف بیش‌تر ثبات اجتماعی و تشدید نارضایتی منجر می‌شود.",
-        "tag": "اعدام‌ها",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "NewsNation",
-        "url": "https://www.newsnationnow.com/world/nuclear-deal-ongoing-executions-iran-refugees/",
-        "clean_url": "https://www.newsnationnow.com/world/nuclear-deal-ongoing-executions-iran-refugees",
-        "image": null,
-        "timestamp": 1771327500.0
-    },
-    {
-        "title_fa": "ایران هم‌زمان با آغاز دور جدید مذاکرات هسته‌ای موشک‌هایی به تنگه هرمز شلیک کرد",
-        "title_en": "Iran fires missiles into the Strait of Hormuz as a new round of nuclear talks begins",
-        "summary": [
-            "تهدید نظامی: تهران موشک‌هایی به سمت تنگه هرمز شلیک کرد — اقدامی که امنیت کشتیرانی و ثبات منطقه را به مخاطره می‌اندازد و هم‌زمان مذاکرات هسته‌ای را تحت‌الشعاع قرار می‌دهد.",
-            "پوشش رسانه‌ای و انگیزه‌ها: این نمایش قدرت احتمالاً تلاشی حساب‌شده برای افزایش اهرم فشار در میز مذاکره و تقویت روایت‌های ملی‌گرایانه رژیم است؛ هرگونه پمپاژ پیام «دفاعی» از سوی رسانه‌های حکومتی مصداق پروپاگاندا برای منحرف کردن افکار عمومی از مشکلات داخلی است.",
-            "پیامدها برای داخل و خارج: چنین لفاظی و عملیات‌های نظامی احتمالاً به منزوی‌تر شدن بین‌المللی، افزایش فشارهای اقتصادی و تحریمی منجر می‌شود — فشارهایی که بار اصلی آن را مردم خواهند برد اما در عین حال مشروعیت رژیم را تضعیف و بستر مقاومت اجتماعی را تقویت می‌کند."
-        ],
-        "impact": "این اقدام نظامی ریسک درگیری مستقیم و تحریم‌های جدید را بالا می‌برد و در نهایت با افزایش هزینه‌های روزمره برای شهروندان، مشروعیت رژیم را تضعیف کرده و مسیر اعتراضات و خواست تغییر را تقویت می‌کند.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/iran-us-nuclear-talks-iaea-dbed41b78ce2ddabc8a04349e72abeba",
-        "clean_url": "https://apnews.com/article/iran-us-nuclear-talks-iaea-dbed41b78ce2ddabc8a04349e72abeba",
-        "image": "https://dims.apnews.com/dims4/default/73c0551/2147483647/strip/true/crop/3200x2132+0+85/resize/980x653!/quality/90/?url=https://assets.apnews.com/03/9a/6f1c6cd261a46c891761bca3a91d/8710b09f9aa5488eab6317f99f7511da",
-        "timestamp": 1771323780.0
-    },
-    {
-        "title_fa": "مانور دریایی مشترک ایران، روسیه و چین در تنگه هرمز همزمان با مذاکرات هسته‌ای؛ نمایش قدرت مقابل کشتی‌های آمریکایی",
-        "title_en": "Iran, Russia And China Stage Show Of Force Near US Warships As Nuclear Talks Wrap",
-        "summary": [
-            "ایران، به همراه نیروی دریایی روسیه و چین، مانور زنده-آتش «کمربند امنیت دریایی-۲۰۲۶» را در تنگه هرمز اجرا کردند و بخش‌هایی از تنگه برای چند ساعت بسته شد؛ زمان‌بندی مانور همزمان با مذاکرات هسته‌ای ایران و آمریکا در ژنو بود و واشنگتن نیز در واکنش ناوها و صدها هواگرد به منطقه ارسال کرده است.",
-            "مشاور ریاست‌جمهوری روسیه، نیکلای پاتروشف، این اقدام را بخشی از تلاش مسکو برای ساخت «ابعاد راهبردی دریایی» بلوک‌های چندقطبی عنوان کرد؛ روسیه و چین در این عملیات نقش عملیاتی و سیاسی پشتیبانی‌کننده را ایفا می‌کنند و عملاً به روند بقا و تقویت موضع تهران کمک می‌کنند.",
-            "جلسات ژنو با هدایت نماینده ویژه آمریکا استیو ویتکاف و مشاور کاخ‌سفید جارد کوشنر و هیأت ایرانی به ریاست وزیر امور خارجه عباس عراقچی پایان یافت؛ همزمانی مذاکرات و نمایش نظامی، همراه با تهدید رهبر ایران علی خامنه‌ای به هدف قرار دادن کشتی‌های آمریکایی و اشاره به عملیات مخفیانه ارسال اینترنت ماهواره‌ای به معترضان، خطر لغزش از دیپلماسی به تقابل نظامی و تشدید انزوای بین‌المللی را افزایش می‌دهد."
-        ],
-        "impact": "این نمایش نیروی دریایی، شانس موفقیت مذاکرات دیپلماتیک را تضعیف و احتمال رویارویی مستقیم با کشتی‌های آمریکایی را بالا می‌برد؛ همزمان حضور روسیه و چین کارایی تحریم‌ها را کاهش داده و ظرفیت تهران برای فشارزایی خارجی را تقویت می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/iran-russia-china-stage-show-173647229.html",
-        "clean_url": "https://www.aol.com/articles/iran-russia-china-stage-show-173647229.html",
-        "image": "http://www.bing.com/th?id=OVFT.OEg4QuVZBhaW2CY5bEkdbS&pid=News",
-        "timestamp": 1771317360.0
     }
 ]
