@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "سیاست ترامپ نسبت به ایران جمع‌پذیر نیست",
+        "title_en": "Trump’s Iran Policy Does Not Add Up",
+        "summary": [
+            "تیتر مقاله ادعا می‌کند که سیاست ترامپ در قبال ایران از نظر راهبردی ناسازگار و فاقد انسجام است.",
+            "نویسنده، توماس رایت، پژوهشگر ارشد در بروکینگز و سابقه‌دار در مقام مدیر ارشد برنامه‌ریزی استراتژیکِ شورای امنیت ملی در دولت بایدن است.",
+            "مقاله در آتلانتیک منتشر شده و هدف آن بازکردن بحث پیرامون ضرورت یک استراتژی متحد و قابل‌پایدار نسبت به تهران است."
+        ],
+        "impact": "اگر استدلال مقاله پذیرفته شود، می‌تواند توجیه سیاسی برای تشدید یا بازطراحی فشارها و تحریم‌ها علیه ایران فراهم آورد و بحث درباره پیامدهای اقتصادی و ناپایداری سیاسی داخلی را تشدید کند.",
+        "tag": "ایران",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/international/2026/02/trump-iran-nuclear-deal-war/686108/",
+        "clean_url": "https://www.theatlantic.com/international/2026/02/trump-iran-nuclear-deal-war/686108",
+        "image": null,
+        "timestamp": 1771861920.0
+    },
+    {
         "title_fa": "ترامپ بررسی حمله محدود به ایران و احتمال تلاش برای تغییر رژیم در آینده — گزارش",
         "title_en": "Trump mulling limited Iran strike, could try for regime change later – report",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUm9hUGN3dUhzT0EzS0s1bE9wOUVoT0Fpc0pDcjFfdFFCQjA1MmhJZDhUc05GclZsYmotU1I2bG9Gb3dXLUl3NVRhaEpIVUoxWmNmSHd4UEVLTW1heUFHekZKYw",
         "image": null,
         "timestamp": 1771352081.0
-    },
-    {
-        "title_fa": "خامنه‌ای لحن تند علیه آمریکا را حفظ می‌کند؛ همزمان دیپلمات ارشد تهران از پیشرفت در مذاکرات هسته‌ای خبر می‌دهد",
-        "title_en": "Iran's Khamenei maintains tough rhetoric with US despite nuclear talks",
-        "summary": [
-            "دیپلمات ارشد تهران می‌گوید برخی «اصول راهنما» در مذاکرات هسته‌ای مورد توافق قرار گرفته و نشانه‌هایی از پیشرفت وجود دارد.",
-            "با این حال رهبر معظم رویه‌ای تند و هشدارآمیز نسبت به آمریکا اتخاذ کرده که پیام‌های تیم مذاکره‌کننده را نقض و تضعیف می‌کند.",
-            "این شکاف در گفتار حکومتی اعتبار رژیم را کاهش می‌دهد و می‌تواند فرصت‌هایی برای تقویت فشارهای داخلی و امیدبخشی به معترضان فراهم کند."
-        ],
-        "impact": "تضاد علنی بین لحن رهبر و پیام تیم مذاکره‌کننده، اهرم حکومت را تضعیف کرده و در کوتاه‌مدت به نفع مخالفان و جنبش‌های اعتراضی تمام می‌شود.",
-        "tag": "شکاف",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks/ar-AA1WxelU",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks/ar-AA1WxelU",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WxbMv.img?w=2496&h=1664&m=4&q=93",
-        "timestamp": 1771346950.0
     }
 ]
