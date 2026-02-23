@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ویتکاف: ایران «یک هفته» با مواد ساخت بمب هسته‌ای فاصله دارد",
+        "title_en": "Witkoff says Iran ‘a week away’ from nuclear bomb-making material",
+        "summary": [
+            "ویتکاف اعلام کرده ایران «یک هفته» تا دستیابی به مواد لازم برای ساخت بمب هسته‌ای فاصله دارد؛ این ادعا فعلاً به عنوان ادعای یک منبع گزارش شده و نیاز به راستی‌آزمایی مستقل دارد.",
+            "در صورت تایید این ادعا، احتمال افزایش شدید فشارهای بین‌المللی و تحریم‌ها وجود دارد که ساختار اقتصادی و توان بقای سیاسی رژیم را بیشتر تضعیف خواهد کرد.",
+            "چنین ارزیابی‌هایی همچنین می‌تواند بی‌اعتمادی عمومی نسبت به مدیریت برنامه هسته‌ای و اقتصادی را تشدید کند و ریسک واکنش‌های امنیتی یا نظامی از سوی بازیگران منطقه‌ای و فرامنطقه‌ای را بالا ببرد."
+        ],
+        "impact": "این ادعا، در صورت صحت، آستانه واکنش بین‌المللی را به سطح بحرانی می‌برد و شانس تحریم‌های سخت و حتی عملیات نظامی محدود را افزایش می‌دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/international/5751330-witkoff-iran-nuclear-threat/",
+        "clean_url": "https://thehill.com/policy/international/5751330-witkoff-iran-nuclear-threat",
+        "image": null,
+        "timestamp": 1771880580.0
+    },
+    {
+        "title_fa": "آمریکا و ایران هنوز می‌توانند از جنگ پرهیز کنند",
+        "title_en": "The U.S. and Iran Can Still Avoid a War",
+        "summary": [
+            "گزارش تاکید می‌کند که جنگ بین آمریکا و ایران قابل اجتناب است اگر دو طرف فوراً کانال‌های ارتباطی را برقرار کرده، از تشدید نظامی و حملات نیابتی خودداری کنند و تضمین‌های عملی برای کاهش تنش ارائه دهند؛ راه‌حل سیاسی ممکن است اما به اراده و گام‌های ملموس نیاز دارد.",
+            "تحریم‌ها و فشار خارجی ساختارهای اقتصادی و ظرفیت‌های دولتی را تضعیف کرده و در کوتاه‌مدت هم توانایی نظامی و هم مشروعیت داخلی را کاهش می‌دهند؛ این فشارها هم می‌توانند حکومت را به رفتارهای مخاطره‌آمیز برای انحراف افکار عمومی سوق دهند و هم منابع لازم برای ادامه تقابل را تضعیف کنند.",
+            "مشکلات اقتصادی و مدیریت ضعیف حکمرانی باعث افزایش نارضایتی اجتماعی شده که خطر محاسبات اشتباه را بالا می‌برد؛ خروجی‌های گزارش نشان می‌دهد که بدون پرداخت جدی به معضلات داخلی و کاهش تنش خارجی، ثبات بلندمدت ایران تضمین‌پذیر نیست."
+        ],
+        "impact": "اجتناب از جنگ احتمالاً ثبات نسبی کوتاه‌مدت را حفظ می‌کند اما فشار تحریم‌ها و مدیریت ناکارآمد داخلی تهدیدی ساختاری علیه بقای سیاسی رژیم ایجاد می‌کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "International Crisis Group",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHJpcmMwMk9KOVVKNklMd1Y0bUNZQTE3dGNjVlRPRHM4NWRGTmc5d3dIa2xLMUNPQXE1TVlPVG9Ua2lrdnpmeDRJX1lKYlFUYzRNeFhpVEhpeHF1aGhqTjRtS0wxLUZpa0JTbnRUODBJR1JKMi1vUXQzWEtnUl9Kck92a2ttNl9xUWFRTlFnTTd1U29ha0xFUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHJpcmMwMk9KOVVKNklMd1Y0bUNZQTE3dGNjVlRPRHM4NWRGTmc5d3dIa2xLMUNPQXE1TVlPVG9Ua2lrdnpmeDRJX1lKYlFUYzRNeFhpVEhpeHF1aGhqTjRtS0wxLUZpa0JTbnRUODBJR1JKMi1vUXQzWEtnUl9Kck92a2ttNl9xUWFRTlFnTTd1U29ha0xFUg",
+        "image": null,
+        "timestamp": 1771878155.0
+    },
+    {
         "title_fa": "اجماع راهبردی اسرائیل درباره ایران — و مخاطرات آن",
         "title_en": "Israel’s Strategic Consensus on Iran — and Its Risks",
         "summary": [
@@ -160,6 +196,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeWV3N3RmM2JScWI2N1ZxRkRqYWxza09rUURHTS1ta0lZTUtFSXhfWlcwUGxWMS1oQ1NrbGQ3cEVySzlXRmNRUFozU0NkSVNtVkhENHNjVUdyLXh3Ri1HX3BQSldld2c",
         "image": null,
         "timestamp": 1771855928.0
+    },
+    {
+        "title_fa": "ایران حق انرژی هسته‌ای صلح‌آمیز را «غیرقابل مذاکره» می‌داند؛ ترامپ تهدیدها را تشدید می‌کند",
+        "title_en": "Iran insists right to peaceful nuclear energy 'non-negotiable' as Trump escalates threats",
+        "summary": [
+            "ازسرگیری مذاکرات: ایران و آمریکا قرار است در ژنو برای ازسرگیری مذاکرات دیدار کنند؛ مقامات آن را «آخرین فرصت» برای جلوگیری از حملات نظامی آمریکا معرفی می‌کنند.",
+            "موضع تهران: جمهوری اسلامی تأکید کرده که حق دستیابی به انرژی هسته‌ای صلح‌آمیز را غیرقابل مذاکره می‌داند و این شرط را محور هر توافق احتمالی قرار داده است.",
+            "افزایش تهدیدها: دولت ترامپ تهدیدهای نظامی را تشدید کرده و همین امر فشار بر طرفین را افزایش داده و روند مذاکرات را به فرایندی فوری و حساس بدل کرده است."
+        ],
+        "impact": "تشدید تهدیدهای نظامی و فشار خارجی ریسک رویارویی نظامی را بالا می‌برد، فضای دیپلماتیک را تنگ می‌کند و توان مانور سیاسی و اقتصادی تهران را محدود می‌سازد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "TRT World",
+        "url": "https://www.trtworld.com/article/2b042a865b5b",
+        "clean_url": "https://www.trtworld.com/article/2b042a865b5b",
+        "image": null,
+        "timestamp": 1771852860.0
     },
     {
         "title_fa": "اعتراضات تازه در ایران هم‌زمان با افزایش فشار آمریکا پیش از مذاکرات هسته‌ای",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wMW40cDJzQWx6ei1hQjFtVS1yUFhRVEpjUGl6VlpIM01QeEsxZTQ1VVhnRWp6X1RYSEo1bVlzdi1qY29KeTRFaDJOMjZiRDR4dVpjNEZnLWp4S3RrUkxfbU1ETzRPYm10V2UtLVdOU0laY1hpci16dlpsaWHSAYIBQVVfeXFMT0RJVnctckx5dnBfWWVndldCMFZSYUJZeUhBc1NoM1QydVMxMzNaMU9aQU9OOXVMY21JMnV2X2luVXJUd3NlamphTnVGcE5PV2pubEFDRlBveTR0d2xqX3diTTdjUmo2ZHNQcjRhNW93cGpJcG9vRXZnbVFHUm9pTExxUQ",
         "image": null,
         "timestamp": 1771376356.0
-    },
-    {
-        "title_fa": "ایالات متحده و ایران از «پیشرفت» در مذاکرات هسته‌ای پس از تهدیدهای ترامپ تمجید کردند",
-        "title_en": "US, Iran Praise Progress In Nuclear Talks After Trump Threats",
-        "summary": [
-            "ایالات متحده و ایران هر دو از وجود «پیشرفت» در مذاکرات هسته‌ای خبر دادند؛ این اظهارنظرها بلافاصله پس از تهدیدهای دونالد ترامپ صورت گرفته است.",
-            "اظهارنظرها نشان‌دهنده فشار سیاسی و تهدیدهای مستقیم از سوی واشنگتن است؛ چنین فشارهایی ساختارهای اقتصادی و سیاسی رژیم را به‌صورت ساختاری تضعیف می‌کنند و ظرفیت بقا را در بلندمدت کاهش می‌دهند.",
-            "متن گزارش جزئیات امتیازات، زمان‌بندی یا تضمین‌های طرفین را ارائه نمی‌دهد؛ بنابراین مقدار واقعی این «پیشرفت» و دوام آن نامشخص است و ممکن است ابزاری برای کاهش موقت فشار خارجی بدون اصلاحات بنیادین باشد."
-        ],
-        "impact": "احتمالاً اعلام پیشرفت دیپلماتیک موقتاً تنش و فشار تحریم‌ها را کاهش می‌دهد اما بدون تغییر در مدیریت اقتصادی و سیاسی، تأثیر پایداری بر تزلزل رژیم نخواهد داشت.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/world-news/us-iran-praise-progress-in-nuclear-talks-after-trump-threats-11052744",
-        "clean_url": "https://www.ndtv.com/world-news/us-iran-praise-progress-in-nuclear-talks-after-trump-threats-11052744",
-        "image": "http://www.bing.com/th?id=OVFT.Mn8CByenDV6JwfO7szUFOC&pid=News",
-        "timestamp": 1771373760.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده تنش‌های آمریکا و ایران: آمریکا حضور نظامی خود را در نزدیکی ایران افزایش داد",
-        "title_en": "US Iran tensions live updates: US increases military presence near Iran amid tensions",
-        "summary": [
-            "مقامات آمریکایی و ایرانی می‌گویند مذاکرات ژنو «پیشرفت» داشته اما هم‌زمان واشنگتن حضور نظامی خود در منطقه را افزایش داده تا از توسعه احتمالی سلاح هسته‌ای توسط ایران جلوگیری کند.",
-            "افزایش حضور نظامی آمریکا فشار خارجی بر رژیم تهران را تشدید می‌کند؛ این فشار ساختاری می‌تواند دسترسی به سرمایه و تجارت خارجی را محدودتر و ریسک تحریم‌ها یا محدودیت‌های اقتصادی جدید را افزایش دهد.",
-            "ادامه تنش در کنار مذاکرات نیمه‌پیشرفته می‌تواند نارضایتی داخلی را تشدید کند؛ ضعف‌های ساختاری حکومت در مدیریت بحران، ظرفیت کاهش اثرگذاری این فشارها را برای حفظ مشروعیت کاهش می‌دهد."
-        ],
-        "impact": "افزایش حضور نظامی آمریکا احتمال تشدید تنش‌ها و محدود شدن فضای دیپلماتیک و اقتصادی برای تهران را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-iran-tensions-live-updates-donald-trump-ali-khamenei-geneva-nuclear-talks-reza-pahlavi-february-18-latest-news-101771383631412.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-tensions-live-updates-donald-trump-ali-khamenei-geneva-nuclear-talks-reza-pahlavi-february-18-latest-news-101771383631412.html",
-        "image": null,
-        "timestamp": 1771372320.0
-    },
-    {
-        "title_fa": "ونس می‌گوید ایران خواست‌های اصلی آمریکا در مذاکرات را نادیده می‌گیرد",
-        "title_en": "Vance Says Iran Is Ignoring Core U.S. Demands in Talks",
-        "summary": [
-            "ونِس اعلام کرده که ایران مطالبات محوری ایالات متحده را در جریان مذاکرات نادیده می‌گیرد.",
-            "این اظهارنظر نشان می‌دهد مذاکرات در موضوعات کلیدی بن‌بست دارند و پیشرفت قابل‌توجهی ثبت نشده است.",
-            "بن‌بستی از این نوع شانس حل و فصل دیپلماتیک را کاهش می‌دهد و احتمال تشدید فشارهای اقتصادی و دیپلماتیک علیه تهران را افزایش می‌دهد."
-        ],
-        "impact": "نادیده گرفتن خواست‌های محوری آمریکا، بر اساس گزارش ونس، احتمال بازگشت یا تشدید تحریم‌ها و فشارهای طولانی‌مدت اقتصادی را افزایش داده و ظرفیت بقا و مشروعیت حکمرانی را تضعیف می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Wall Street Journal",
-        "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxORXFmUFg5clktUFBhOUM5NVVxY3BuRHVVdGNGSjVBZWZ5QVQwZFQxZUVQRWFJOXIwcmJFWWJWaUljQmJmU295OUQweDFuRUpTSVk2WEljOTA3MDhuTGIwdkVPeG41dW04N0lxaVZodDdFNFJNOGNudkNsVnAxZlRnY0xsQmlGYXV2QjZkQUNVX1NJNUFETkNHVnV3QnhrcXdZeVkyN3dQckx1eGhlRnpmMHY4QXd5Z0l0SFVuR29NdVhaNHZ1RTFRRzR5VHFENURFbGJsb3o4ZnpCMzdXbGJaamRUOEVIRjAxamNMb0JLOTVLY251Zm9LWXZLX1daclRTZ1pQRVI3T0VDdmpISEt1RHUwSEZQV0Y1QTdCQ2RFbWREZ0N3Rk44Q1lieks0cTJ3QW1XekhBbWNyOFN4b2tCSDZaQmFiR19pMERZck94S05CbFZiT0RYbE9QcV9Ea09tNEtNTTNmTDY1RjVhMnNnMlp3dkxpbDNGTVBlLThSTHZrUXR6WjQxVDIwVTFzV0tWMVF0WFg5RHRRQkZRMVZPakxhbWh6RTlibDl1azVLRVZzM1RLMzJxVG1xN0hwOEJJSUk2ZXFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxORXFmUFg5clktUFBhOUM5NVVxY3BuRHVVdGNGSjVBZWZ5QVQwZFQxZUVQRWFJOXIwcmJFWWJWaUljQmJmU295OUQweDFuRUpTSVk2WEljOTA3MDhuTGIwdkVPeG41dW04N0lxaVZodDdFNFJNOGNudkNsVnAxZlRnY0xsQmlGYXV2QjZkQUNVX1NJNUFETkNHVnV3QnhrcXdZeVkyN3dQckx1eGhlRnpmMHY4QXd5Z0l0SFVuR29NdVhaNHZ1RTFRRzR5VHFENURFbGJsb3o4ZnpCMzdXbGJaamRUOEVIRjAxamNMb0JLOTVLY251Zm9LWXZLX1daclRTZ1pQRVI3T0VDdmpISEt1RHUwSEZQV0Y1QTdCQ2RFbWREZ0N3Rk44Q1lieks0cTJ3QW1XekhBbWNyOFN4b2tCSDZaQmFiR19pMERZck94S05CbFZiT0RYbE9QcV9Ea09tNEtNTTNmTDY1RjVhMnNnMlp3dkxpbDNGTVBlLThSTHZrUXR6WjQxVDIwVTFzV0tWMVF0WFg5RHRRQkZRMVZPakxhbWh6RTlibDl1azVLRVZzM1RLMzJxVG1xN0hwOEJJSUk2ZXFB",
-        "image": null,
-        "timestamp": 1771365540.0
     }
 ]
