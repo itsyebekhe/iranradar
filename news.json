@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "اجماع راهبردی اسرائیل درباره ایران — و مخاطرات آن",
+        "title_en": "Israel’s Strategic Consensus on Iran — and Its Risks",
+        "summary": [
+            "عنوان نشان می‌دهد که نویسنده وجود یک اجماع راهبردی اسرائیل در قبال ایران را شناسایی کرده و مقاله به بررسی پیامدها و ریسک‌های مرتبط با این اجماع می‌پردازد.",
+            "از عنوان برمی‌آید که مخاطرات مطرح‌شده احتمالاً شامل تشدید نظامی و محاسبات اشتباه است؛ چنین اجماعی می‌تواند فشار دیپلماتیک و اقتصادی بر تهران را افزایش دهد که به تضعیف ساختارهای اقتصادی و تشدید نارضایتی داخلی بینجامد.",
+            "تبعات منطقه‌ای عبارتند از محدود شدن گزینه‌های راهبردی تهران و افزایش احتمال درگیری‌های فرعی یا بحرانی که ثبات منطقه و داخلی را پیچیده‌تر می‌کند؛ مدیریت این ریسک‌ها نیازمند تحلیل دقیق گزینه‌های سیاسی و اقتصادی است."
+        ],
+        "impact": "این اجماع می‌تواند فشارها و ریسک‌های نظامی-دیپلماتیک علیه تهران را بالا ببرد و در شرایط کنونی به تضعیف بیشتر ثبات سیاسی و اقتصادی رژیم بینجامد.",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Stimson Center",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd256Ry1JM2RTemxjVzVROVVzLXItX1lGcmExV29JbzA0aGIxU2E0dUZaRzlISjBaQ2IzQWN6Sm9LdmxUZDA2THlmWGx2M2JZOUlwVWFUZ0V4QkdpR3ZsN3l1QW9OWk4yeExGTlVyMjRvUTVJLVFYTkFNOXc2S1lIdm5wN2llUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd256Ry1JM2RTemxjVzVROVVzLXItX1lGcmExV29JbzA0aGIxU2E0dUZaRzlISjBaQ2IzQWN6Sm9LdmxUZDA2THlmWGx2M2JZOUlwVWFUZ0V4QkdpR3ZsN3l1QW9OWk4yeExGTlVyMjRvUTVJLVFYTkFNOXc2S1lIdm5wN2llUQ",
+        "image": null,
+        "timestamp": 1771877135.0
+    },
+    {
+        "title_fa": "استقرار بزرگ‌ترین ناوگان جنگی و هوایی آمریکا در خاورمیانه در چند دهه اخیر",
+        "title_en": "US military builds up the largest force of warships and aircraft in the Middle East in decades",
+        "summary": [
+            "گسترش بزرگ‌ترین نیروی دریایی و هوایی آمریکا در منطقه نشانه آماده‌باش برای مهار تهدیدها و بازدارندگی است و احتمال تشدید تقابل منطقه‌ای را بالا می‌برد.",
+            "این تقویت نظامی فشار راهبردی بر رژیم ایران را افزایش می‌دهد؛ توان مانور تهران در منطقه محدود شده و خطر واکنش از طریق شبکه‌های نیابتی یا عملیات نامتقارن بیشتر می‌شود.",
+            "تبعات داخلی می‌تواند شامل تشدید هزینه‌های امنیتی، افزایش سرکوب برای مهار نارضایتی و هم‌زمان تشدید فشار اقتصادی-سیاسی بر حکومت باشد که مشروعیت آن را تضعیف می‌کند."
+        ],
+        "impact": "برای رژیم ایران این تقویت نظامی به معنای محدودشدن گزینه‌های راهبردی، افزایش هزینه‌های امنیتی و بالاتر رفتن ریسک برخورد مستقیم با آمریکا یا متحدان منطقه‌ای است.",
+        "tag": "امنیت",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40",
+        "clean_url": "https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40",
+        "image": "https://dims.apnews.com/dims4/default/e39e0da/2147483647/strip/true/crop/3345x2229+0+1/resize/980x653!/quality/90/?url=https://assets.apnews.com/03/bb/fdfb1a4290196da65f6caa6813a8/e63f70f913ad47568e4e04968f0e5a44",
+        "timestamp": 1771873920.0
+    },
+    {
         "title_fa": "آمریکا با چشمان بسته به سمت جنگ با ایران پیش می‌رود؛ ترامپ توضیح نمی‌دهد",
         "title_en": "Opinion | The U.S. is sleepwalking into war with Iran. Trump won’t explain why.",
         "summary": [
@@ -160,6 +196,42 @@
         "clean_url": "https://www.nytimes.com/2026/02/23/briefing/potential-conflict-iran.html",
         "image": null,
         "timestamp": 1771848717.0
+    },
+    {
+        "title_fa": "پنتاگون درباره ریسک عملیات گسترده علیه ایران هشدار داد",
+        "title_en": "Pentagon flags risks of a major operation against Iran",
+        "summary": [
+            "Dan Caine، رئیس ستاد مشترک نیروهای مسلح آمریکا در داخل وزارت دفاع و در جلسات شورای امنیت ملی هشدار داده که اجرای یک عملیات عمده علیه ایران ریسک‌های قابل‌توجهی دارد.",
+            "هشدارهای پنتاگون نشان‌دهنده ملاحظه‌کاری واشنگتن نسبت به پیامدهای نظامی و سیاسی یک اقدام بزرگ است؛ از جمله افزایش تلفات، تشدید بی‌ثباتی منطقه‌ای و پیچیدگی‌های عملیاتی که هزینه عملیات را بالا می‌برد.",
+            "برای رژیم ایران این ارزیابی دو اثر ساختاری خواهد داشت: تقویت فشار و انزوای بین‌المللی که ثبات سیاسی را تضعیف می‌کند و تحمیل هزینه‌های امنیتی و اقتصادی بیشتر که می‌تواند نارضایتی‌های داخلی را تشدید نماید."
+        ],
+        "impact": "پیام فوری این است که آمریکا ریسک‌های عملیاتی یک رویارویی گسترده را روشن کرده؛ تهدید عملیات بزرگ همچنان عامل فشار بر ثبات ساختاری و اقتصاد ایران است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/pentagon-flags-risks-of-a-major-operation-against-iran/ar-AA1WV2BO",
+        "clean_url": "https://www.msn.com/en-us/news/world/pentagon-flags-risks-of-a-major-operation-against-iran/ar-AA1WV2BO",
+        "image": null,
+        "timestamp": 1771847340.0
+    },
+    {
+        "title_fa": "دن کین، رئیس ستاد مشترک آمریکا: کمبود مهمات و حمایت متحدان خطر حمله به ایران را تشدید می‌کند",
+        "title_en": "Trump’s top general foresees acute risks in an attack on Iran",
+        "summary": [
+            "دن کین، رئیس ستاد مشترک ارتش آمریکا هشدار داده کمبود مهمات و فقدان حمایت متحدان می‌تواند نیروهای آمریکایی را در صورت حمله به ایران در معرض خطر بیشتری قرار دهد.",
+            "این اظهارنظر نشان‌دهنده محدودیت‌های لجستیکی و تردیدهای ائتلافی در برنامه‌ریزی نظامی آمریکاست که توانایی انجام عملیات گسترده را کاهش می‌دهد.",
+            "نتیجهٔ عملی این است که احتمال حملهٔ گستردهٔ مستقیم کمتر شده اما ممکن است به جای آن به عملیات محدود، اقدامات پنهان یا تشدید درگیری‌های نیابتی در منطقه بینجامد."
+        ],
+        "impact": "هشدار فرماندهی ارشد نظامی آمریکا موقتا احتمال تهاجم مستقیم را کاهش می‌دهد، اما فشارهای تحریمی و انزوای بین‌المللی همچنان بنیان‌های اقتصادی و مشروعیت رژیم را تضعیف کرده و آن را به تکیه بر سرکوب و تاکتیک‌های نامتقارن برای حفظ قدرت سوق می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-s-top-general-foresees-acute-risks-in-an-attack-on-iran/ar-AA1WVcqe",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-s-top-general-foresees-acute-risks-in-an-attack-on-iran/ar-AA1WVcqe",
+        "image": "http://www.bing.com/th?id=OVFT.-HcmTkscwd2HtQwUc7-whS&pid=News",
+        "timestamp": 1771847084.0
     },
     {
         "title_fa": "کاهش قیمت نفت به‌خاطر پیشرفت مذاکرات هسته‌ای ایران و ابهام تعرفه‌ای آمریکا",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxORXFmUFg5clktUFBhOUM5NVVxY3BuRHVVdGNGSjVBZWZ5QVQwZFQxZUVQRWFJOXIwcmJFWWJWaUljQmJmU295OUQweDFuRUpTSVk2WEljOTA3MDhuTGIwdkVPeG41dW04N0lxaVZodDdFNFJNOGNudkNsVnAxZlRnY0xsQmlGYXV2QjZkQUNVX1NJNUFETkNHVnV3QnhrcXdZeVkyN3dQckx1eGhlRnpmMHY4QXd5Z0l0SFVuR29NdVhaNHZ1RTFRRzR5VHFENURFbGJsb3o4ZnpCMzdXbGJaamRUOEVIRjAxamNMb0JLOTVLY251Zm9LWXZLX1daclRTZ1pQRVI3T0VDdmpISEt1RHUwSEZQV0Y1QTdCQ2RFbWREZ0N3Rk44Q1lieks0cTJ3QW1XekhBbWNyOFN4b2tCSDZaQmFiR19pMERZck94S05CbFZiT0RYbE9QcV9Ea09tNEtNTTNmTDY1RjVhMnNnMlp3dkxpbDNGTVBlLThSTHZrUXR6WjQxVDIwVTFzV0tWMVF0WFg5RHRRQkZRMVZPakxhbWh6RTlibDl1azVLRVZzM1RLMzJxVG1xN0hwOEJJSUk2ZXFB",
         "image": null,
         "timestamp": 1771365540.0
-    },
-    {
-        "title_fa": "ارغچی از «پیشرفت خوب» در مذاکرات هسته‌ای با آمریکا خبر داد",
-        "title_en": "Iran’s Araghchi hails ‘good progress’ in nuclear talks with US",
-        "summary": [
-            "نشست غیرمستقیم میان ایران و آمریکا در ژنو با میانجی‌گری عمان، به «توافق روی اصول راهنما» رسید؛ ارغچی می‌گوید پیشرفت نسبت به دور قبلی وجود دارد و متن پیش‌نویس‌ها قرار است تبادل شود.",
-            "معاون رئیس‌جمهور آمریکا، جی‌دی وِنس، تأکید کرد تهران هنوز حاضر به پذیرش «خطوط قرمز» واشنگتن نیست؛ این نشان‌دهنده اختلاف واقعی در محدوده امتیازات مورد قبول طرفین است.",
-            "گفت‌وگوها در حالی دنبال می‌شود که تنها چند هفته پس از سرکوب مرگبار اعتراضات داخلی است و مهم‌ترین محرک تهران برای مذاکره، فشار تحریم‌ها و نیاز به رفع موانع اقتصادی عنوان شده است."
-        ],
-        "impact": "ادامه این مذاکرات می‌تواند احتمال مداخله نظامی آمریکا را کاهش دهد اما صرف گفت‌وگو و پیشرفت اصولی به‌تنهایی بحران مشروعیت و نتایج اقتصادی ناشی از مدیریت ضعیف و سرکوب داخلی را حل نخواهد کرد.",
-        "tag": "مذاکرات",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/2/18/irans-araghchi-hails-good-progress-in-nuclear-talks-with-us",
-        "clean_url": "https://www.aljazeera.com/news/2026/2/18/irans-araghchi-hails-good-progress-in-nuclear-talks-with-us",
-        "image": "http://www.bing.com/th?id=OVFT.VXkG9JSx7NuAw0L3Oc1dXC&pid=News",
-        "timestamp": 1771360860.0
-    },
-    {
-        "title_fa": "رهبر جمهوری اسلامی تهدید به غرق کردن ناوشکن‌های آمریکایی کرد؛ مذاکره‌های هسته‌ای ادامه دارد",
-        "title_en": "Iran’s supreme leader threatens to sink US warships as nuclear talks continue",
-        "summary": [
-            "رهبر جمهوری اسلامی تهدید کرده است ناوشکن‌های آمریکا را غرق خواهد کرد در حالی که گفتگوهای هسته‌ای جریان دارد — گزارش The Hill.",
-            "چنین لفاظی‌ای مذاکره‌کنندگان ایران را تضعیف می‌کند، اعتبار گفت‌وگوها را پایین می‌آورد و احتمال افزایش تحریم‌ها و تقویت حضور نظامی آمریکا در منطقه را بالا می‌برد.",
-            "این نوع ژست‌های جنگ‌طلبانه معمولاً برای جلب حمایت داخلی و منحرف کردن افکار عمومی از مشکلات اقتصادی و ناکارآمدی حکمرانی به کار می‌رود، اما همزمان رژیم را در معرض انزوای بیشتر و هزینه‌های اقتصادی و سیاسی اضافی قرار می‌دهد."
-        ],
-        "impact": "تهدید مستقیم به کشتی‌های جنگی آمریکایی تنش‌ها را تشدید می‌کند و شانس واکنش نظامی یا تشدید فشارهای تحریمی علیه رژیم را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnhObUo0S1Vzc0EzV1FPYlpjNVBOS1Z5enBpYndIQkF3QlRubXhHYzZJT0pXbGpMTkZiVmk4T1lXemdXVFZaNHlZR1p5TkxGTks4eUlmRlRzWi04cDBVeUs0MWRUSnBER0FUVXNhLUttRXlyQkN2em5KdEZJMzdJZFFpRzZzR3k3N0E1M09TVW9OZ9IBlwFBVV95cUxQd1ktRURtOFloak5SRXlnTnFaVllyYjZsOEZXVFZZWWZScU9yNlh6OHZzWVFLMi1DNTFSVjFzSTI0LVp0elJuSnhDa2tmX2tUM0ZyQVhuV21QVDJmNkhnOUtPVmdBUFdVUlBFSkoydWVHZjVHcHRfYnphV3ZzSk9XMHlIZ1NCVUZtalNUTVlqbzdYSlJUQXFr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnhObUo0S1Vzc0EzV1FPYlpjNVBOS1Z5enBpYndIQkF3QlRubXhHYzZJT0pXbGpMTkZiVmk4T1lXemdXVFZaNHlZR1p5TkxGTks4eUlmRlRzWi04cDBVeUs0MWRUSnBER0FUVXNhLUttRXlyQkN2em5KdEZJMzdJZFFpRzZzR3k3N0E1M09TVW9OZ9IBlwFBVV95cUxQd1ktRURtOFloak5SRXlnTnFaVllyYjZsOEZXVFZZWWZScU9yNlh6OHZzWVFLMi1DNTFSVjFzSTI0LVp0elJuSnhDa2tmX2tUM0ZyQVhuV21QVDJmNkhnOUtPVmdBUFdVUlBFSkoydWVHZjVHcHRfYnphV3ZzSk9XMHlIZ1NCVUZtalNUTVlqbzdYSlJUQXFr",
-        "image": null,
-        "timestamp": 1771359120.0
-    },
-    {
-        "title_fa": "پیشرفت اما نه مصالحه؛ آخرین دور مذاکرات هسته‌ای آمریکا و ایران پایان یافت",
-        "title_en": "Progress but not compromise as latest U.S.-Iran nuclear talks end",
-        "summary": [
-            "دور تازه مذاکرات هسته‌ای آمریکا و ایران به پایان رسید؛ گزارش‌ها از وجود «پیشرفت» خبر می‌دهند اما هیچ مصالحه محوری حاصل نشده است — یعنی گام‌های محدود بی‌اتفاق کلی.",
-            "تحریم‌ها و فشار خارجی همچنان اهرم اصلی مقابل تهران خواهند ماند؛ فقدان توافق باعث می‌شود این فشار ساختاری به تضعیف بلندمدت ظرفیت اقتصادی و مانور سیاسی رژیم ادامه دهد.",
-            "در سطح داخلی، ادامه بن‌بست مذاکرات احتمالاً بار معیشتی و نارضایتی عمومی را تشدید می‌کند و می‌تواند ضعف مدیریتی و ناکارآمدی اقتصادی را برجسته‌تر سازد."
-        ],
-        "impact": "ادامه وضعیت فعلی — پیشرفت جزئی بدون مصالحه — به حفظ فشار تحریمی و تشدید مشکلات اقتصادی منجر می‌شود که ثبات سیاسی رژیم را به‌تدریج تضعیف خواهد کرد.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Christian Science Monitor",
-        "url": "https://www.csmonitor.com/World/Middle-East/2026/0217/Iran-US-nuclear-talks",
-        "clean_url": "https://www.csmonitor.com/World/Middle-East/2026/0217/Iran-US-nuclear-talks",
-        "image": null,
-        "timestamp": 1771358520.0
-    },
-    {
-        "title_fa": "در بحبوحه تهدید حمله آمریکا، مذاکرات هسته‌ای ایران بدون پیشرفت ادامه یافت",
-        "title_en": "Amid threat of U.S. attack, Iran nuclear talks proceed without breakthrough",
-        "summary": [
-            "مذاکرات هسته‌ای ادامه یافته اما گزارش می‌دهد که هیچ پیشرفتی کلیدی به دست نیامده؛ تهدید صریح به حمله آمریکا فشار دیپلماتیک و نظامی بر میز مذاکره را افزایش داده است.",
-            "افزایش فشار خارجی (تهدید حمله) ساختار اقتدار سیاسی را تحت فشار می‌گذارد و توان مانور دولت در عرصه دیپلماسی و اقتصاد را محدود می‌کند؛ این وضع شانس حصول توافق سریع را کاهش می‌دهد.",
-            "بن‌بست کنونی می‌تواند هزینه‌های اقتصادی و سیاسی داخلی را بالا برده و نارضایتی عمومی را تشدید کند، چرا که راه‌حل سیاسی قابل‌مشاهده‌ای از مذاکرات فعلی بیرون نیامده است."
-        ],
-        "impact": "ترکیب تهدید نظامی آمریکا با عدم دستیابی به توافق، ثبات سیاسی و توان اقتصادی حکومت را تضعیف کرده و گزینه‌های استراتژیک آن را محدود می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU5YM3EzYXQtU1h3VEEzTXZ1Zi1Jb0huN3dLTE1abnN2b0xvLTA5MmI5QjhiR1UwVzlqMy1EdmNuNm5vR2p0RDRNMXFXSUhTa1J3b01kd0pkQmI1eWtvZkpjTURFbTdvRTdIWVl6VkU5eGcxT0dZcWFkLXNteTQ2Z2Eyb0xVbjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU5YM3EzYXQtU1h3VEEzTXZ1Zi1Jb0huN3dLTE1abnN2b0xvLTA5MmI5QjhiR1UwVzlqMy1EdmNuNm5vR2p0RDRNMXFXSUhTa1J3b01kd0pkQmI1eWtvZkpjTURFbTdvRTdIWVl6VkU5eGcxT0dZcWFkLXNteTQ2Z2Eyb0xVbjQ",
-        "image": null,
-        "timestamp": 1771356536.0
     }
 ]
