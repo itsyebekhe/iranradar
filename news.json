@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ بررسی حمله محدود به ایران و احتمال تلاش برای تغییر رژیم در آینده — گزارش",
+        "title_en": "Trump mulling limited Iran strike, could try for regime change later – report",
+        "summary": [
+            "گزارش: ترامپ در حال بررسی گزینه حمله محدود به ایران و احتمال اقدام بعدی برای تغییر رژیم است.",
+            "تهدید یا اجرای حمله محدود فشار خارجی را تشدید می‌کند؛ این امر سازوکارهای اقتصادی و سیاسی رژیم را بیشتر تضعیف کرده و ریسک افزایش تحریم‌ها و انزوای بین‌المللی را بالا می‌برد.",
+            "چنین سناریویی ضعف ساختاری در مدیریت حکومتی و ناکارآمدی اقتصادی را برجسته می‌کند و می‌تواند نارضایتی‌های اجتماعی موجود را بالا برده و احتمال بروز ناآرامی‌های گسترده را افزایش دهد."
+        ],
+        "impact": "تهدید اجرای حمله محدود و ایده تغییر رژیم می‌تواند ثبات سیاسی حاکم را به‌طور قابل‌توجهی تضعیف کرده و خطر بحران و تشدید درگیری‌های داخلی و منطقه‌ای را بالا ببرد.",
+        "tag": "تهدید",
+        "urgency": 10,
+        "sentiment": 0.5,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWERpZVpvSGh4U3JFT0d3ZnROR3BxYW1PVzh4UVJ0aEt5UVlUT2h0ZXNJbXF4MFg1b0QzNHBuY1RfRDZ5a0E3WjlEYU9zNE44NTUtcTloTnY4ay1sOGlUUjFWV2U1Wnlucmx0MHpZaFEwMDd5OFdZQnBYMFY5RjZKOXRlY2NVSzJBWElxVl9fVkdpOTNsYWpvVzFOcFd5bWZpWjVqNjNIZ2zSAa4BQVVfeXFMTlo0enlBeW5nd2ZfMjJMSDVOTl9rMldmVFhIR0NpVnpNbFQ0QUt4eDIzdG4tU0RJZ3RaUzhOUFRrNGk0bUc4dnludlZPa0dnS0NYYWZkZWFzZ3BiYnJyVURpb0J1SDEyZFB1RFNxMkc0U0R3LWtheVd3MUI0TjdqdElvQzJqcWh2dW9uV0NiNlRkUWtObmVYWUhrWXhPSkhtdHRzWFRncHNfQl9XMGZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWERpZVpvSGh4U3JFT0d3ZnROR3BxYW1PVzh4UVJ0aEt5UVlUT2h0ZXNJbXF4MFg1b0QzNHBuY1RfRDZ5a0E3WjlEYU9zNE44NTUtcTloTnY4ay1sOGlUUjFWV2U1Wnlucmx0MHpZaFEwMDd5OFdZQnBYMFY5RjZKOXRlY2NVSzJBWElxVl9fVkdpOTNsYWpvVzFOcFd5bWZpWjVqNjNIZ2zSAa4BQVVfeXFMTlo0enlBeW5nd2ZfMjJMSDVOTl9rMldmVFhIR0NpVnpNbFQ0QUt4eDIzdG4tU0RJZ3RaUzhOUFRrNGk0bUc4dnludlZPa0dnS0NYYWZkZWFzZ3BiYnJyVURpb0J1SDEyZFB1RFNxMkc0U0R3LWtheVd3MUI0TjdqdElvQzJqcWh2dW9uV0NiNlRkUWtObmVYWUhrWXhPSkhtdHRzWFRncHNfQl9XMGZR",
+        "image": null,
+        "timestamp": 1771856955.0
+    },
+    {
         "title_fa": "منطقه برای تقابل آمریکا و ایران آماده می‌شود",
         "title_en": "The Region Girds for U.S.-Iran Conflict",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-s-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks/ar-AA1WxelU",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WxbMv.img?w=2496&h=1664&m=4&q=93",
         "timestamp": 1771346950.0
-    },
-    {
-        "title_fa": "خامنه‌ای تهدید کرد؛ ایران بخش‌هایی از تنگه هرمز را برای رزمایش آتش‌زنده بست",
-        "title_en": "Iran closes parts of Strait of Hormuz for live-fire drills after ayatollah taunts Trump, US",
-        "summary": [
-            "سپاه پاسداران اعلام کرد که موشک‌های زنده شلیک و بخش‌هایی از تنگه هرمز برای چند ساعت به‌خاطر «ملاحظات ایمنی و دریانوردی» بسته شد؛ تنگه‌ای که حدود ۲۰٪ تجارت نفتی دریایی جهان از آن می‌گذرد.",
-            "علی خامنه‌ای در حالی که مذاکره‌کنندگان در ژنو درباره برنامه هسته‌ای ایران دیدار کردند، دونالد ترامپ و حضور نظامی آمریکا را علناً تمسخر و تهدید به غرق کردن ناوهای آمریکایی کرد؛ این رخداد هم‌زمان با اعزام ناوهای هواپیمابر و تهدیدهای واشینگتن علیه رژیم بود.",
-            "بسته شدن تنگه و تهدیدهای لفظی در بستر سرکوب داخلی رخ می‌دهد؛ سازمان‌های حقوق بشری از کشته شدن دست‌کم ۷۰۰۰ نفر در اعتراضات اخیر خبر داده‌اند که نشان‌دهنده بحران داخلی و شکست مدیریت حکومتی است."
-        ],
-        "impact": "این اقدام موقتی، ریسک تشدید تقابل نظامی با آمریکا و اختلال در صادرات نفت را بالا می‌برد و هم‌زمان ضعف ساختاری رژیم در عرصه سیاسی و اقتصادی را بیشتر افشا می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/02/17/us-news/irans-supreme-leader-taunts-trump-us-as-high-stakes-nuclear-talks-begin/",
-        "clean_url": "https://nypost.com/2026/02/17/us-news/irans-supreme-leader-taunts-trump-us-as-high-stakes-nuclear-talks-begin",
-        "image": "http://www.bing.com/th?id=OVFT.EXejJ-4likmu5DA3Xepj8i&pid=News",
-        "timestamp": 1771345920.0
     }
 ]
