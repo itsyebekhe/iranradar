@@ -1,5 +1,95 @@
 [
     {
+        "title_fa": "عمان تأیید کرد: دور جدید مذاکرات آمریکا و ایران روز پنج‌شنبه برگزار می‌شود",
+        "title_en": "Oman confirms new round of US-Iran talks will be held on Thursday",
+        "summary": [
+            "عمان اعلام کرده دور جدید مذاکرات بین آمریکا و ایران روز پنج‌شنبه برگزار خواهد شد.",
+            "خبر منبع جزئیات دستور کار، مکان جلسه یا فهرست شرکت‌کنندگان را ارائه نمی‌کند و از نتایج احتمالی چیزی گزارش نشده است.",
+            "ازسرگیری این کانال دیپلماتیک علامت تعامل مجدد است اما هیچ مدرکی در متن مبنی بر توافق، رفع تحریم‌ها یا تغییرات ساختاری ارائه نشده است."
+        ],
+        "impact": "این دور مذاکره می‌تواند به‌طور موقت فشار خارجی را تعدیل کند، اما متن خبر هیچ دلیلی برای انتظار کاهش بلندمدت تحریم‌ها یا حل بحران‌های داخلی رژیم نشان نمی‌دهد.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Euronews.com",
+        "url": "https://www.msn.com/en-us/politics/international-relations/oman-confirms-new-round-of-us-iran-nuclear-talks-will-be-held-on-thursday-in-geneva/ar-AA1WS3wJ",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/oman-confirms-new-round-of-us-iran-nuclear-talks-will-be-held-on-thursday-in-geneva/ar-AA1WS3wJ",
+        "image": null,
+        "timestamp": 1771819921.0
+    },
+    {
+        "title_fa": "عراقچی از «نشانه‌های امیدبخش» در مذاکرات هسته‌ای با آمریکا خبر داد",
+        "title_en": "Iran hails ‘encouraging signals’ from US ahead of nuclear talks in Geneva",
+        "summary": [
+            "در مذاکرات غیرمستقیم میان ایران و آمریکا در ژنو که عمان میانجیگری کرد، عباس عراقچی، وزیر خارجه ایران، از «پیشرفت خوب» و «توافق کلی بر اصول راهنما» خبر داد و طرفین قرار است پیش‌نویس متن و زمان دور سوم را تبادل کنند.",
+            "پیام‌های واشنگتن متناقض بود: کارولین لیویت، سخنگوی کاخ سفید، تنها «پیشرفت جزئی» را تایید کرد و دونالد ترامپ بار دیگر احتمال اقدام نظامی علیه ایران را مطرح کرد؛ نمایش قدرت نظامی دو طرف در خلیج فارس ریسک تشدید بحران را حفظ می‌کند.",
+            "محور ایران گرفتن تخفیف تحریم‌ها و منافع اقتصادی در برابر مسائل مربوط به غنی‌سازی است؛ این تلاش نشان‌دهنده فشار اقتصادی ساختاری بر رژیم است و مذاکرات فعلی بیش از حل مشکلات مدیریتی داخلی، تلاشی برای کسب تنفس اقتصادی سریع محسوب می‌شود."
+        ],
+        "impact": "مذاکرات ممکن است به تسکین موقت فشار اقتصادی منجر شود اما بدون اصلاحات ساختاری قادر به برطرف کردن ضعف‌های اقتصادی و سیاسی رژیم نیست و در صورت شکست، احتمال تشدید نظامی و افزایش بی‌ثباتی وجود دارد.",
+        "tag": "مذاکرات",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/iran-araghchi-hails-good-progress-042615804.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-araghchi-hails-good-progress-042615804.html",
+        "image": null,
+        "timestamp": 1771819549.0
+    },
+    {
+        "title_fa": "آمریکا در آستانه برخورد با ایران",
+        "title_en": "US on the brink of conflict with Iran",
+        "summary": [
+            "گزارش WUSA9 می‌گوید آمریکا در آستانه برخورد مستقیم نظامی با ایران قرار گرفته؛ نشانه‌ای از تشدید فوری تنش‌های بین‌المللی.",
+            "برخورد نزدیک با آمریکا می‌تواند به تشدید تحریم‌ها و فشارهای اقتصادی منجر شود که سازوکارهای بقا و اداره‌گری رژیم را تضعیف خواهد کرد.",
+            "خطر درگیری مستقیم ریسک گسترش بحران منطقه‌ای و افزایش هزینه‌های اجتماعی-اقتصادی برای مردم ایران را بالا می‌برد و ناکارآمدی مدیریتی رژیم را برجسته می‌کند."
+        ],
+        "impact": "تنش رو به جنگ ظرفیت دولت برای مدیریت اقتصاد و امنیت داخلی را تضعیف و احتمال آشفتگی و نارضایتی‌های گسترده را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "WUSA9",
+        "url": "https://www.msn.com/en-us/politics/international-relations/on-gps-are-the-us-and-iran-on-the-brink-of-war/vi-AA1WQSTE",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/on-gps-are-the-us-and-iran-on-the-brink-of-war/vi-AA1WQSTE",
+        "image": null,
+        "timestamp": 1771818420.0
+    },
+    {
+        "title_fa": "دونالد ترامپ: در صورت شکست دیپلماسی یا حمله هدفمند، حمله بزرگ‌تر به ایران را بررسی می‌کنم",
+        "title_en": "Breaking News: President Trump told advisers he would consider a larger attack on Iran if diplomacy or a targeted strike failed to deter its nuclear program.",
+        "summary": [
+            "دونالد ترامپ به مشاوران گفته است که اگر دیپلماسی یا یک ضربه هدفمند نتواند برنامه هسته‌ای ایران را بازدار کند، بررسی حمله‌ای بزرگ‌تر را در نظر خواهد گرفت.",
+            "چنین تهدیدهایی ساختار انزوای بین‌المللی و فشار اقتصادی بر رژیم را تشدید می‌کند؛ افزایش فشار خارجی و احتمال تشدید تحریم‌ها می‌تواند منابع مالی رژیم و توان تأمین هزینه‌های امنیتی را تضعیف کند و به ناپایداری سیاسی دامن بزند.",
+            "از منظر داخلی، اولویت‌دادن به برنامه هسته‌ای در حالی که بحران‌های اقتصادی و نارضایتی عمومی پابرجاست نشانه‌ای از شکست مدیریت حکومتی است؛ باید تأکید کرد که گزارش موجود صرفاً حاکی از «بررسی» گزینه است و اعلان اقدام قطعی نیست، اما تبدیل شدن تهدید به عمل می‌تواند هزینه‌های اقتصادی و اجتماعی را به‌سرعت بالا ببرد."
+        ],
+        "impact": "این اعلامیه ریسک تشدید درگیری نظامی را بالا می‌برد و هم‌زمان فشار اقتصادی و سیاسی بر رژیم را افزایش می‌دهد.",
+        "tag": "تهاجم",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "facebook.com",
+        "url": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html",
+        "clean_url": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html",
+        "image": null,
+        "timestamp": 1771818298.0
+    },
+    {
+        "title_fa": "بروزرسانی‌های دولت ترامپ؛ تیراندازی در مارا-لاگو و ازسرگیری مذاکرات هسته‌ای با ایران",
+        "title_en": "February 22, 2026 — Trump administration updates",
+        "summary": [
+            "سرویس مخفی ایالات متحده یک نفوذگر مسلح را که پیرامون حصار مارا-لاگو را شکسته بود، به ضرب گلوله کشت؛ دونالد ترامپ و ملانیا ترامپ در زمان حادثه در محل حضور نداشتند.",
+            "واشنگتن و تهران قرار است دور تازه‌ای از مذاکرات هسته‌ای را در ژنو برگزار کنند؛ تیم ترامپ معتقد است تهران پیشنهادهایی برای رقیق‌سازی ذخیره اورانیوم غنی‌شده بسیار بالا ارائه کرده است که نشان‌دهنده پذیرش دست‌کم بخشی از فشار دیپلماتیک است.",
+            "اعتراض‌ها در ایران دوباره شعله‌ور شده‌اند؛ این هم‌زمانی مذاکرات هسته‌ای و بازگشت ناآرامی‌های داخلی نشان‌دهنده تداوم نارضایتی عمومی و ضعف مدیریتی در ساختار حکمرانی است."
+        ],
+        "impact": "تلاقی فشار خارجی در پرونده هسته‌ای با تشدید اعتراض‌های داخلی، اعتبار و ظرفیت بازدارندگی سیاسی-اقتصادی نظام را کاهش داده و احتمال تشدید بحران داخلی را بالا می‌برد.",
+        "tag": "بحران",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.theguardian.com/us-news/2026/feb/23/trump-news-latest-administration-updates",
+        "clean_url": "https://www.theguardian.com/us-news/2026/feb/23/trump-news-latest-administration-updates",
+        "image": null,
+        "timestamp": 1771817640.0
+    },
+    {
         "title_fa": "ترامپ چه می‌خواهد از ایران؟",
         "title_en": "What does Trump want in Iran?",
         "summary": [
@@ -214,6 +304,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-to-resume-nuclear-talks-as-israel-presses-strike-option/ar-AA1WrYz1",
         "image": null,
         "timestamp": 1771781545.0
+    },
+    {
+        "title_fa": "ازسرگیری مذاکرات هسته‌ای پس از اعلام گزینه حمله توسط ترامپ",
+        "title_en": "Iran talks to resume after Trump goes public on strike option",
+        "summary": [
+            "مذاکرات هسته‌ای آمریکا و ایران این هفته از سر گرفته می‌شود؛ موقعیتی سرنوشت‌ساز که اعلام علنی گزینه حمله از سوی رئیس‌جمهور آمریکا دونالد ترامپ فضای گفتگو را تحت‌الشعاع قرار می‌دهد.",
+            "اظهارنظر علنی درباره گزینه حمله فشار خارجی را تشدید می‌کند و احتمال تندتر شدن مواضع تهران یا واکنش تلافی‌جویانه را افزایش می‌دهد، که روند مذاکرات را پیچیده‌تر می‌سازد.",
+            "واکنش واشنگتن به‌صورت نمایش قدرت، تهران را بین دادن امتیاز برای حفظ دیپلماسی یا پایبندی به خط‌مشی‌ِ دفاع از وجهه رژیم قرار می‌دهد؛ هر انتخاب هزینه‌های سیاسی و امنیتی داخلی را بالا می‌برد."
+        ],
+        "impact": "تهدید علنی به حمله مذاکرات را به نقطه‌ای تعیین‌کننده برده و فشار خارجیِ افزایشی می‌تواند ثبات سیاسی-اقتصادی رژیم را بیش از پیش تضعیف کند.",
+        "tag": "مذاکرات",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-talks-to-resume-after-trump-goes-public-on-strike-option/ar-AA1WRhqg",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-talks-to-resume-after-trump-goes-public-on-strike-option/ar-AA1WRhqg",
+        "image": null,
+        "timestamp": 1771779620.0
     },
     {
         "title_fa": "آمادگی آمریکا برای دور جدید مذاکرات در صورت دریافت پیشنهاد هسته‌ای ظرف ۴۸ ساعت",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.newsweek.com/iran-us-nuclear-talks-trump-strikes-war-11535311",
         "image": null,
         "timestamp": 1771310700.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده دولت ترامپ: اشاره‌های مبهم به «پیشرفت» پس از مذاکرات هسته‌ای آمریکا و ایران",
-        "title_en": "Trump Administration Live Updates: Vague Hints of ‘Progress’ After U.S.-Iran Nuclear Talks",
-        "summary": [
-            "مقامات آمریکا و ایران سه ساعت درباره برنامه هسته‌ای تهران گفت‌وگو کردند.",
-            "وزیر امور خارجه ایران ارزیابی‌ای مبهم اما مثبت از این مذاکرات ارائه داد؛ جزئیات ملموس یا توافق مشخص گزارش نشد.",
-            "این ارزیابی مبهم به‌احتمال زیاد تاکتیکی است برای کاهش موقت فشار تحریم‌ها و کسب زمان، نه نشان‌دهنده تغییر ساختاری در سیاست‌های رژیم یا حل مشکلات داخلی."
-        ],
-        "impact": "هرگونه «پیشرفت» مبهم ممکن است فشار خارجی را موقتاً کاهش دهد و به رژیم تنفسی کوتاه‌مدت بدهد، اما اصلاً نشانه رفع ناکارآمدی ساختاری یا بهبود مشروعیت داخلی نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/02/17/us/trump-news",
-        "clean_url": "https://www.nytimes.com/live/2026/02/17/us/trump-news",
-        "image": "http://www.bing.com/th?id=OVFT.KgdXBoty9QxAip09DdNkii&pid=News",
-        "timestamp": 1771310280.0
-    },
-    {
-        "title_fa": "دور دوم مذاکرات هسته‌ای ایران و آمریکا در ژنو آغاز می‌شود (پوشش زنده)",
-        "title_en": "US-Iran talks live: Second round of nuclear negotiations to begin in Geneva",
-        "summary": [
-            "دور دوم مذاکرات هسته‌ای بین ایران و آمریکا در ژنو آغاز می‌شود و رسانه‌ها پوشش زنده خبر را منتشر می‌کنند.",
-            "این نشست تلاشی برای ادامه گفت‌وگوها درباره جنبه‌های فنی و سیاسی برنامه هسته‌ای است و می‌تواند زمینه‌ساز پیشرفت یا بن‌بست در روند دیپلماتیک شود.",
-            "نتیجه این دور می‌تواند بر فشارهای بین‌المللی، تحریم‌ها و موازنه سیاسی منطقه‌ای تأثیر بگذارد."
-        ],
-        "impact": "نتیجه مذاکرات می‌تواند مسیر دیپلماسی بین‌المللی را تعیین کند و هم کاهش فشارهای خارجی و هم افزایش فشار سیاسی داخلی را برای رژیم به‌همراه داشته باشد.",
-        "tag": "مذاکره",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSk9LSTJzWE5xVVVncFZkWGdHMU9LZ3lMcDhZWUhFMS0xUW5wRUg3eFBZZkx5amFuRHpNaWdpSDRWSGNBU0U5TjB6TF9PSkhzWWJQTnJqYmh6NWdtQjk5QjBVLVlNZHJtTVp4QzZ1UUpfd1dJY3Y2R21jSW1pRmY1ajY1WVNuYWNKN3B2eWlyZzhBazFhTEt5aEdtMm9NdWxaVHprTVNCcnJPZU1w0gGyAUFVX3lxTFBHbU5GQ2dCcFF3c1FKSzJ3NTZvanVFQnhsdlYtYUFEemIzS19iOWtjMjRkOGx5V053ckRucmJGbzUtOTJiV0dzMmtMcUpLSlgzbktLeEJ6blNGdFlTR01mMGs1S2lKZDlLUTVFV3EtUElaU0pzNURxMFNkX3ZObjhXSnl2RTZtRVJqSWZQMVRpcFhwVE1xY0hkbGlhQ3h5cTc0YzlNdHJabjdnbHI5RFY5NEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSk9LSTJzWE5xVVVncFZkWGdHMU9LZ3lMcDhZWUhFMS0xUW5wRUg3eFBZZkx5amFuRHpNaWdpSDRWSGNBU0U5TjB6TF9PSkhzWWJQTnJqYmh6NWdtQjk5QjBVLVlNZHJtTVp4QzZ1UUpfd1dJY3Y2R21jSW1pRmY1ajY1WVNuYWNKN3B2eWlyZzhBazFhTEt5aEdtMm9NdWxaVHprTVNCcnJPZU1w0gGyAUFVX3lxTFBHbU5GQ2dCcFF3c1FKSzJ3NTZvanVFQnhsdlYtYUFEemIzS19iOWtjMjRkOGx5V053ckRucmJGbzUtOTJiV0dzMmtMcUpLSlgzbktLeEJ6blNGdFlTR01mMGs1S2lKZDlLUTVFV3EtUElaU0pzNURxMFNkX3ZObjhXSnl2RTZtRVJqSWZQMVRpcFhwVE1xY0hkbGlhQ3h5cTc0YzlNdHJabjdnbHI5RFY5NEE",
-        "image": null,
-        "timestamp": 1771310186.0
-    },
-    {
-        "title_fa": "ایران در تنگه هرمز موشک‌های زنده شلیک کرد؛ مذاکرات هسته‌ای با آمریکا از سر گرفته شد و تنش‌ها در گلوگاه نفتی جهانی افزایش یافت",
-        "title_en": "Iran vs US Latest News LIVE Updates: Iran Fires Live Missiles in Strait of Hormuz as Nuclear Talks Resume, Tensions Surge at Global Oil Chokepoint",
-        "summary": [
-            "نیروهای ایرانی در تنگه هرمز موشک‌های زنده شلیک کردند؛ منطقه‌ای کلیدی برای عبور نفت و تجارت جهانی که هر نشانه‌ای از تشدید نظامی ریسک‌های اقتصادی و امنیتی بالایی دارد.",
-            "دور دوم مذاکرات هسته‌ای میان ایران و آمریکا با میانجیگری عمان برگزار و روز سه‌شنبه به پایان رسید؛ این نشست همزمان با اقدام نظامی تهران انجام شد.",
-            "خامنه‌ای در جریان مذاکرات اعلام کرد که آمریکا «نخواهد توانست» تهران را نابود کند؛ ترکیب رجزخوانی و عملیات نظامی نشان‌دهنده ریسک‌پذیری و بی‌ثباتی راهبردی رژیم است و موقعیت داخلی‌اش را تضعیف می‌کند."
-        ],
-        "impact": "تشدید هم‌زمان رفتار نظامی و دیپلماتیک ریسک برخورد مستقیم و آسیب به اقتصاد نفتی را بالا می‌برد و در عین حال مشروعیت رژیم را کاهش داده و فضا را برای مطالبات مردمی و فرصت‌های سیاسی بازتر می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/iran-united-states-donald-trump-vs-ali-khamenei-latest-news-on-war-article-153630505",
-        "clean_url": "https://www.timesnownews.com/world/iran-united-states-donald-trump-vs-ali-khamenei-latest-news-on-war-article-153630505",
-        "image": "http://www.bing.com/th?id=OVFT.rc_570j3IGWNA74eh05Uui&pid=News",
-        "timestamp": 1771309680.0
-    },
-    {
-        "title_fa": "دور دوم مذاکرات پراهمیت میان آمریکا و ایران امروز در ژنو برگزار می‌شود",
-        "title_en": "Second round of high-stakes talks between US, Iran to be held in Geneva today",
-        "summary": [
-            "دور دوم مذاکرات میان آمریکا و ایران که رسانه‌ها آن را «پرمخاطره/پراهمیت» توصیف کرده‌اند، امروز در ژنو برگزار می‌شود.",
-            "تا کنون جزئیات مشخصی درباره دستور کار یا نتایج مورد انتظار این نشست‌ها منتشر نشده است.",
-            "حضور مستقیم تهران در گفت‌وگو با واشنگتن می‌تواند بازتاب‌هایی در سیاست خارجی و فضای سیاسی داخلی ایران داشته باشد. "
-        ],
-        "impact": "برای اپوزیسیون ملی‌گرا: هر مذاکره‌ای که رژیم را به امتیازدهی یا عقب‌نشینی وادارد، ضعف ساختاری حاکمیت را آشکارتر کرده و می‌تواند به تقویت خواست مردم برای تغییر کمک کند.",
-        "tag": "مذاکرات",
-        "urgency": 3,
-        "sentiment": 0.3,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KclZyZ2RLVlhNcWptX3ZZTDE4WktzUkFsZjZHVzk3bE9Rd2xDMEZMUG9nUWZSdEpxZXBocXBIQkNNdS1VUVd5bS04OTJjVU1ybzJxVWMzQ2xXQ0o4T3hRNGpiV0p2NjjSAWxBVV95cUxQSlJZRk1iTkJBMHdmTmxoLXlYT0hwUnZscmVzRzhBQUNrTTNqUm9UdElCd0tXWnJoQVM5NlRfclJrVW85bmxiZjI1bUdwcEcxcURzQnotTTJod0dDbUpFa3BFVjl4QkdCeW9Bekk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KclZyZ2RLVlhNcWptX3ZZTDE4WktzUkFsZjZHVzk3bE9Rd2xDMEZMUG9nUWZSdEpxZXBocXBIQkNNdS1VUVd5bS04OTJjVU1ybzJxVWMzQ2xXQ0o4T3hRNGpiV0p2NjjSAWxBVV95cUxQSlJZRk1iTkJBMHdmTmxoLXlYT0hwUnZscmVzRzhBQUNrTTNqUm9UdElCd0tXWnJoQVM5NlRfclJrVW85bmxiZjI1bUdwcEcxcURzQnotTTJod0dDbUpFa3BFVjl4QkdCeW9Bekk",
-        "image": null,
-        "timestamp": 1771308147.0
-    },
-    {
-        "title_fa": "از سرگیری مذاکرات آمریکا و ایران در سایه رو به افزایش تهدید نظامی ترامپ",
-        "title_en": "US.-Iran talks resume under growing shadow of Trump's military threat",
-        "summary": [
-            "مذاکره‌کنندگان ایالات متحده و ایران برای جلوگیری از جنگ بار دیگر پشت میز نشستند، هرچند هدف از دیدار روشن‌تر شدن راه‌های دیپلماتیک است.",
-            "همزمان، تبادل تهدیدها و هشدارها ادامه دارد و تهدید نظامی آشکار از سوی ترامپ سایه سنگینی بر روند مذاکرات انداخته است.",
-            "این هم‌زمانی گفت‌وگوها و تهدیدها ضعف داخلی رژیم را نمایان می‌سازد و می‌تواند امکان‌های سیاسی جدیدی را برای مخالفان ملی و خواست‌های مردمی فراهم کند."
-        ],
-        "impact": "تهدید نظامی آمریکا در حالی که مذاکرات جریان دارد، فشار بر حاکمیت را افزایش داده و می‌تواند دریچه‌های سیاسی برای اپوزیسیون و مطالبات مردم بازتر کند.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/us-iran-talks-resume-under-growing-shadow-of-trump-s-military-threat/ar-AA1WwaAh",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-iran-talks-resume-under-growing-shadow-of-trump-s-military-threat/ar-AA1WwaAh",
-        "image": "http://www.bing.com/th?id=OVFT.X6HAIe1mjAuD2ylKT1Rq9y&pid=News",
-        "timestamp": 1771307784.0
-    },
-    {
-        "title_fa": "بخش‌هایی از تنگه هرمز در حین مذاکرات هسته‌ای با آمریکا بسته می‌شود",
-        "title_en": "Iran to shut parts of Strait of Hormuz as it holds nuclear talks with US",
-        "summary": [
-            "صداوسیمای ایران گزارش داد بخش‌هایی از تنگه هرمز برای چند ساعت به‌عنوان «احتیاطات امنیتی» در جریان مانورهای سپاه بسته خواهد شد، همزمان با دور دوم مذاکرات هسته‌ای در ژنو.",
-            "آمریکا نیروهای رزمی به منطقه اعزام کرده و ترامپ گزینه «تغییر رژیم» را مطرح کرده؛ نمایندگان آمریکایی (از جمله استیو ویتکاف و جارد کوشنر) و ایرانی (عباس عراقچی) در ژنو درباره مسائل هسته‌ای و رفع تحریم‌ها گفتگو کردند و طرف ایرانی از فقدان اعتماد متقابل و پیچیدگی موضوعات خبر داد.",
-            "ترکیب فشار دیپلماتیک و نمایش نظامی موقعیت بین‌المللی و داخلی رژیم را تضعیف می‌کند و در عین حال اهرم فشاری فراهم می‌آورد که می‌تواند در جهت تسریع خواست‌های مردم و اپوزیسیون برای کاهش سرکوب و تغییر سیاسی به‌کار رود."
-        ],
-        "impact": "این همگرایی فشار نظامی و سیاسی، فضای مانور رژیم را محدود و اهرمی برای تسریع مطالبات مردم و اپوزیسیون در مسیر آزادی فراهم می‌آورد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": 0.5,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/us-iran-set-high-stakes-050320679.html",
-        "clean_url": "https://www.aol.com/articles/us-iran-set-high-stakes-050320679.html",
-        "image": "http://www.bing.com/th?id=OVFT.YAPlg7iShrAFgSrbJWETcS&pid=News",
-        "timestamp": 1771307460.0
     }
 ]
