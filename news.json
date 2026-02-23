@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تحشید ترامپ علیه ایران، به‌اختصار توضیح داده شده",
+        "title_en": "Trump’s Iran buildup, briefly explained",
+        "summary": [
+            "مقاله تحشید نظامی دولت ترامپ در منطقه را تشریح می‌کند و پرسش محوری را مطرح می‌سازد: آیا آمریکا در آستانه حمله به ایران است؟",
+            "نویسنده سناریوهای نظامی و دیپلماتیک مختلف را بررسی می‌کند و می‌گوید درگیری تمام‌عیار قطعی نیست؛ اما خطر درگیری محدود، حملات هدفمند و خطای محاسباتی افزایش یافته است.",
+            "متن تأکید دارد که فشار نظامی خارجی می‌تواند بار فشارهای اقتصادی و نارضایتی داخلی را بر حکومت ایران تشدید کند و کوتاهی‌های مدیریتی داخلی را برجسته‌تر سازد."
+        ],
+        "impact": "تحشید نظامی آمریکا خطر تشدید فشار بیرونی را افزایش می‌دهد و به‌احتمال بالا ثبات داخلی رژیم ایران را بیش از پیش تضعیف می‌کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.1,
+        "source": "vox.com",
+        "url": "https://www.vox.com/the-logoff-newsletter-trump/480230/donald-trump-iran-war-nuclear-deal-military-buildup",
+        "clean_url": "https://www.vox.com/the-logoff-newsletter-trump/480230/donald-trump-iran-war-nuclear-deal-military-buildup",
+        "image": null,
+        "timestamp": 1771887505.0
+    },
+    {
         "title_fa": "تصمیم ترامپ درباره حملات هوایی به ایران تحت هدایت مشاوره‌های جارد کوشنر و استیو ویتکوف",
         "title_en": "Trump Iran airstrikes decision to be guided by Jared Kushner and Steve Witkoff’s advice",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://thehill.com/policy/international/5751330-witkoff-iran-nuclear-threat",
         "image": null,
         "timestamp": 1771880580.0
+    },
+    {
+        "title_fa": "واکنش «وحشیانه» ایران به هر حمله آمریکا؛ هشدار درباره احتمال درگیری منطقه‌ای",
+        "title_en": "Iran would react 'ferociously' to any US attack, warns of regional conflict",
+        "summary": [
+            "ایران اعلام کرده که در صورت هر حمله‌ای از سوی آمریکا «وحشیانه» واکنش خواهد داد؛ لحن تهدیدآمیز بر احتمال تقابل نظامی مستقیم دلالت دارد.",
+            "تهدید تهران شامل هشدار به گسترش درگیری به سطح منطقه‌ای است؛ این رویکرد ریسک تصاعد بحران را برای بازیگران منطقه‌ای و خطوط ارتباط نظامی افزایش می‌دهد.",
+            "ایجاد روایت تهدید خارجی می‌تواند به‌عنوان ابزار سیاسی برای مهار نارضایتی داخلی و توجیه تدابیر امنیتی به‌کار رود؛ همزمان هر مواجهه نظامی یا افزایش فشار خارجی می‌تواند موجب تشدید تحریم‌ها و تضعیف بیشتر اقتصاد شود."
+        ],
+        "impact": "این اعلام تهدید ریسک تشدید تنش‌های نظامی و تشدید فشارهای بین‌المللی را بالا می‌برد که به‌سرعت ثبات داخلی و وضعیت اقتصادی را بدتر خواهد کرد.",
+        "tag": "تصاعد",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "France 24",
+        "url": "https://www.barrons.com/news/iran-would-react-ferociously-to-any-us-attack-warns-of-regional-conflict-dc5ca625",
+        "clean_url": "https://www.barrons.com/news/iran-would-react-ferociously-to-any-us-attack-warns-of-regional-conflict-dc5ca625",
+        "image": null,
+        "timestamp": 1771880115.0
     },
     {
         "title_fa": "آمریکا و ایران هنوز می‌توانند از جنگ پرهیز کنند",
@@ -214,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeWV3N3RmM2JScWI2N1ZxRkRqYWxza09rUURHTS1ta0lZTUtFSXhfWlcwUGxWMS1oQ1NrbGQ3cEVySzlXRmNRUFozU0NkSVNtVkhENHNjVUdyLXh3Ri1HX3BQSldld2c",
         "image": null,
         "timestamp": 1771855928.0
+    },
+    {
+        "title_fa": "ترامپ ایران را به پاسخ شدیدتر تهدید کرد",
+        "title_en": "Trump warns Iran of harsher response",
+        "summary": [
+            "دونالد ترامپ هشدار داد هر حمله‌ای از سوی تهران با پاسخی «بسیار بدتر» از حملات هوایی ژوئن گذشته علیه تأسیسات هسته‌ای مواجه خواهد شد.",
+            "این موضع علنی نشان‌دهنده تشدید فشار نظامی و استراتژیک واشنگتن است که هدف آن افزایش هزینه هر اقدام تهاجمی یا هسته‌ای از سوی ایران است.",
+            "با توجه به ضعف‌های ساختاری حکمرانی، مشکلات اقتصادی و نارضایتی عمومی، تهدید به پاسخ سخت می‌تواند ریسک بی‌ثباتی داخلی و تشدید فشار بر حکومت را افزایش دهد."
+        ],
+        "impact": "هشدار صریح آمریکا احتمال بالا رفتن تنش‌های نظامی و فشار خارجی بر رژیم را افزایش می‌دهد و این فشارها می‌توانند اقتصاد آسیب‌دیده و مشروعیت داخلی حکومت را بیشتر متزلزل کنند.",
+        "tag": "تهدید",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Under30CEO on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-warns-iran-of-harsher-response/ar-AA1WVe8B",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-warns-iran-of-harsher-response/ar-AA1WVe8B",
+        "image": null,
+        "timestamp": 1771855273.0
     },
     {
         "title_fa": "ایران حق انرژی هسته‌ای صلح‌آمیز را «غیرقابل مذاکره» می‌داند؛ ترامپ تهدیدها را تشدید می‌کند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.npr.org/2026/02/18/nx-s1-5717095/us-and-iran-say-theyll-continue-nuclear-talks-as-both-build-up-their-military-forces",
         "image": null,
         "timestamp": 1771386720.0
-    },
-    {
-        "title_fa": "وزیر امور خارجه ایران «پنجره فرصت» برای مذاکرات تازه هسته‌ای با آمریکا می‌بیند",
-        "title_en": "Iran FM Sees ‘Window of Opportunity’ in Fresh US Nuclear Talks",
-        "summary": [
-            "وزیر امور خارجه ایران اعلام کرده که در آغاز مجدد مذاکرات هسته‌ای با آمریکا یک «پنجره فرصت» وجود دارد؛ گزارش جزئیات بیشتری از پیشنهادات یا جدول زمان‌بندی ارائه نکرده است.",
-            "از منظر فشار خارجی، مذاکرات احتمالی می‌تواند راهی برای کاهش موقت تحریم‌ها و تخفیف اقتصادی پیش روی رژیم باز کند، اما این امر به امتیازات دوطرفه و تضمین‌های اجرایی بستگی دارد.",
-            "بدون اصلاحات ساختاری در اقتصاد و حکمرانی، هر کاهش فشار خارجی محتمل به احتمال زیاد مقطعی خواهد بود و تاثیری اساسی بر تزلزل بلندمدت رژیم ایجاد نخواهد کرد."
-        ],
-        "impact": "این اعلام می‌تواند فشار تحریمی را به‌صورت کوتاه‌مدت کاهش دهد، اما تغییری بنیادین در ضعف ساختاری رژیم ایجاد نخواهد کرد مگر اینکه همراه با اصلاحات داخلی واقعی باشد.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Defense Post",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZT2JmMXdfRG9NODFWTm5nZFpiZWdGZVd5b1R2TjNvVUtFWmVJTWhiVWFIVUxvLWVobTNmUHFwbVgzdnlPdkR0OTZCd2RRQ2pBdVgwMVRCOFdrQ3U1NUstVUpqblVyeUJlLVRaeW1pYUhnWFpoUkxkMWVLZ2LSAYIBQVVfeXFMUGFaYV9zQjF0OElwT1p5Z0ttOXkwQklMcFdIVjF6VENFV3NManBnUHBWbG4tU3ZnVmRacmNOMDZvbXVTWjdCN2JrSDFkUmhQLW9vMENGVG5QSTFYRkxCR2VpQVNNZWJtUUlDTWhkUXBFS04xeDQ1ZTRSSkdRMzhwQmJ4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZT2JmMXdfRG9NODFWTm5nZFpiZWdGZVd5b1R2TjNvVUtFWmVJTWhiVWFIVUxvLWVobTNmUHFwbVgzdnlPdkR0OTZCd2RRQ2pBdVgwMVRCOFdrQ3U1NUstVUpqblVyeUJlLVRaeW1pYUhnWFpoUkxkMWVLZ2LSAYIBQVVfeXFMUGFaYV9zQjF0OElwT1p5Z0ttOXkwQklMcFdIVjF6VENFV3NManBnUHBWbG4tU3ZnVmRacmNOMDZvbXVTWjdCN2JrSDFkUmhQLW9vMENGVG5QSTFYRkxCR2VpQVNNZWJtUUlDTWhkUXBFS04xeDQ1ZTRSSkdRMzhwQmJ4QQ",
-        "image": null,
-        "timestamp": 1771386535.0
-    },
-    {
-        "title_fa": "ادعای وزیر خارجه عمان: «پیشرفت خوب» در دور دوم مذاکرات هسته‌ای ایران و آمریکا",
-        "title_en": "Iran, US made 'good progress' in second round of nuclear talks",
-        "summary": [
-            "وزیر خارجه عمان گفت در دور دوم مذاکرات هسته‌ای در ژنو بین ایران و آمریکا پیشرفت «خوبی» حاصل شده؛ گزارش رسمی دیگر جزئیات بیشتری ارائه نمی‌دهد.",
-            "هرگونه پیشرفت دیپلماتیک که به کاهش فشار تحریمی بینجامد، می‌تواند به‌طور ساختاری توان بقای سیاسی رژیم را تقویت کند؛ کاهش فشار اقتصادی احتمالاً اثر مستقیم بر ثبات داخلی خواهد داشت.",
-            "بدون داده‌های تکمیلی نمیتوان تأثیر دقیق داخلی را ارزیابی کرد؛ با این وجود سابقه سوءمدیریت اقتصادی و نارضایتی عمومی نشان می‌دهد هر بهبود اقتصادی محتمل است موقتی باشد و رژیم از آن برای محکم‌تر کردن موقعیت سیاسی خود بهره‌برداری کند."
-        ],
-        "impact": "پیشرفت گزارش‌شده می‌تواند مسیر کاهش تحریم‌ها و تقویت موقت ثبات اقتصادی-سیاسی رژیم را باز کند، اما شواهد فعلی ناکافی و زمینه‌های نارضایتی ساختاری پابرجاست.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-us-made-good-progress-second-round-nuclear-talks",
-        "clean_url": "https://www.newarab.com/news/iran-us-made-good-progress-second-round-nuclear-talks",
-        "image": "http://www.bing.com/th?id=OVFT.lI7GWYuOhP9dtb0eX_49wy&pid=News",
-        "timestamp": 1771386180.0
-    },
-    {
-        "title_fa": "مذاکرات ایران-آمریکا با «هماهنگی خامنه‌ای»؛ دور دوم گفت‌وگوها سازنده اما شکننده اعلام شد",
-        "title_en": "US-Iran Tensions Live Updates: Negotiations with US carried out with ‘utmost support, coordination of Khamenei’, says President Pezeshkian",
-        "summary": [
-            "رئیس‌جمهور پزشکیان اعلام کرد مذاکرات با «بالاترین حمایت و هماهنگی خامنه‌ای» انجام شده؛ عباس عراقچی آن را «سازنده» خواند و طرفین قرار گذاشتند روی پیش‌نویس متن یک توافق احتمالی کار کنند.",
-            "معاون رئیس‌جمهور آمریکا جی.دی. ونس هشدار داد ایران هنوز «خطوط قرمز» دونالد ترامپ را نپذیرفته و آمریکا امکان افزایش فشار یا استفاده از «گزینه دیگر» را مطرح کرده است؛ این نشان می‌دهد فشار ایالات متحده عامل مرکزی در فرایند مذاکره باقی مانده است.",
-            "تاکید رئیس‌جمهور بر هماهنگی با خامنه‌ای نمایانگر استمرار تصمیم‌گیری‌های متمرکز و بسته است؛ این ساختار هم انعطاف سیاسی لازم برای تسریع توافق را محدود می‌کند و هم توان رژیم در مدیریت مسائل اقتصادی و اجتماعی را تضعیف می‌کند."
-        ],
-        "impact": "مذاکرات مقدماتی ممکن است موقتاً فضای دیپلماتیک را باز کند اما تأکید بر هماهنگی با خامنه‌ای و پافشاری آمریکا روی خطوط قرمز، ثبات رژیم را شکننده نگه داشته و ریسک تشدید فشارها یا تنش نظامی را حفظ می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/iran-us-tensions-live-updates-tehran-washington-donald-trump-10538085/",
-        "clean_url": "https://indianexpress.com/article/world/iran-us-tensions-live-updates-tehran-washington-donald-trump-10538085",
-        "image": "http://www.bing.com/th?id=OVFT.jDqpvtyCsL64ahJkVCYoQS&pid=News",
-        "timestamp": 1771383480.0
     }
 ]
