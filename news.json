@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تصمیم ترامپ درباره حملات هوایی به ایران تحت هدایت مشاوره‌های جارد کوشنر و استیو ویتکوف",
+        "title_en": "Trump Iran airstrikes decision to be guided by Jared Kushner and Steve Witkoff’s advice",
+        "summary": [
+            "رسانه گزارش داده تصمیم احتمالی دونالد ترامپ برای حملات هوایی علیه ایران قرار است بر اساس مشورت جارد کوشنر و استیو ویتکوف باشد؛ نشان‌دهنده نقش مشاوران غیرنظامی و تجاری در تصمیم‌گیری‌های امنیتی.",
+            "انتقال اقتدار تصمیم‌گیری به مشاوران غیربریگادی/غیرنظامی می‌تواند احتمال تصمیمات شتاب‌زده یا مبتنی بر انگیزه‌های سیاسی و اقتصادی را افزایش دهد و فرایند عقلانی‌سازی نظامی را تضعیف کند.",
+            "برای حکومت ایران این پیش‌روی رسانه‌ای درباره نقشه تصمیم‌گیری واشنگتن به معنی افزایش فشار خارجی و احتمال تشدید تنش‌های نظامی ـ دیپلماتیک است که ظرفیت پاسخگویی و مشروعیت داخلی رژیم را به آزمون می‌کشد."
+        ],
+        "impact": "اعلام اینکه تصمیم حمله هوایی قرار است بر اساس مشاوره دو چهره غیرنظامی اتخاذ شود، احتمال تشدید فوری تنش و فشار خارجی بر رژیم ایران را بالا می‌برد و ثبات منطقه‌ای را تهدید می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": 0.6,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanVqNmpkRzJSSWt2ZXk3TzhtTjlpZFZXNUk4eUh3cFZpRU5mcWJEeHpJSldueVRpeC05VndadktzN1k2cUFwXzRTR29xU2Z5NDV3TjVlNWFZMUgxUHlZZUM1MXNMa2RXZ1dLaEtTSlBzZ3U3cV9LNXAtVlpKaHotMEhUZGtUT0ZHY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanVqNmpkRzJSSWt2ZXk3TzhtTjlpZFZXNUk4eUh3cFZpRU5mcWJEeHpJSldueVRpeC05VndadktzN1k2cUFwXzRTR29xU2Z5NDV3TjVlNWFZMUgxUHlZZUM1MXNMa2RXZ1dLaEtTSlBzZ3U3cV9LNXAtVlpKaHotMEhUZGtUT0ZHY3c",
+        "image": null,
+        "timestamp": 1771880902.0
+    },
+    {
         "title_fa": "ویتکاف: ایران «یک هفته» با مواد ساخت بمب هسته‌ای فاصله دارد",
         "title_en": "Witkoff says Iran ‘a week away’ from nuclear bomb-making material",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://indianexpress.com/article/world/iran-us-tensions-live-updates-tehran-washington-donald-trump-10538085",
         "image": "http://www.bing.com/th?id=OVFT.jDqpvtyCsL64ahJkVCYoQS&pid=News",
         "timestamp": 1771383480.0
-    },
-    {
-        "title_fa": "ایران: «راه روشن‌تری» به توافق هسته‌ای با آمریکا پس از مذاکرات ژنو در سایه تهدیدهای ترامپ",
-        "title_en": "Iran says \"clearer path ahead\" to nuclear deal with U.S. after talks in Geneva under shadow of Trump's threats",
-        "summary": [
-            "مقامات ایرانی پس از مذاکراتی در ژنو اعلام کردند مسیر روشن‌تری برای دستیابی به توافق هسته‌ای با آمریکا مشاهده می‌شود؛ گزارش محدود به همین اعلام و محل مذاکرات است.",
-            "خبر تصریح می‌کند که مذاکرات در سایه تهدیدهای دونالد ترامپ برگزار شد؛ این تهدیدها بخشی از فشار خارجی‌اند که فرایند گفت‌وگوها را شکل می‌دهد.",
-            "از منظر تحلیلی، چنین تهدیدها و فشارهای خارجی ساختاراً اهرمی برای تضعیف موقعیت اقتصادی و سیاسی حکومت ایجاد می‌کنند و می‌توانند نارضایتی‌های اقتصادی موجود را تشدید کنند؛ همین فشارها احتمالاً انگیزه‌ای برای پذیرش امتیازات از سوی تهران فراهم می‌آورند (با احتیاط در مواجهه با محدودیت‌های اطلاعاتی خبر)."
-        ],
-        "impact": "پیشرفت اعلام‌شده در ژنو ممکن است فشار دیپلماتیک را موقتاً کاهش دهد، اما تهدیدها و تحریم‌های آمریکا همچنان اهرم اصلی تضعیف اقتصادی و سیاسی حکومت باقی می‌مانند.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wMW40cDJzQWx6ei1hQjFtVS1yUFhRVEpjUGl6VlpIM01QeEsxZTQ1VVhnRWp6X1RYSEo1bVlzdi1qY29KeTRFaDJOMjZiRDR4dVpjNEZnLWp4S3RrUkxfbU1ETzRPYm10V2UtLVdOU0laY1hpci16dlpsaWHSAYIBQVVfeXFMT0RJVnctckx5dnBfWWVndldCMFZSYUJZeUhBc1NoM1QydVMxMzNaMU9aQU9OOXVMY21JMnV2X2luVXJUd3NlamphTnVGcE5PV2pubEFDRlBveTR0d2xqX3diTTdjUmo2ZHNQcjRhNW93cGpJcG9vRXZnbVFHUm9pTExxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wMW40cDJzQWx6ei1hQjFtVS1yUFhRVEpjUGl6VlpIM01QeEsxZTQ1VVhnRWp6X1RYSEo1bVlzdi1qY29KeTRFaDJOMjZiRDR4dVpjNEZnLWp4S3RrUkxfbU1ETzRPYm10V2UtLVdOU0laY1hpci16dlpsaWHSAYIBQVVfeXFMT0RJVnctckx5dnBfWWVndldCMFZSYUJZeUhBc1NoM1QydVMxMzNaMU9aQU9OOXVMY21JMnV2X2luVXJUd3NlamphTnVGcE5PV2pubEFDRlBveTR0d2xqX3diTTdjUmo2ZHNQcjRhNW93cGpJcG9vRXZnbVFHUm9pTExxUQ",
-        "image": null,
-        "timestamp": 1771376356.0
     }
 ]
