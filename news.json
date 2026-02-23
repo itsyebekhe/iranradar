@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "چه زمانی ترامپ ممکن است به ایران حمله کند؟ چهار گزینه محتمل",
+        "title_en": "When could Trump decide to strike Iran? These are the four most likely options - analysis",
+        "summary": [
+            "تیترِ تحلیل از احتمال تصمیم ترامپ برای اقدام نظامی علیه ایران صحبت می‌کند؛ هر اقدام نظامی مستقیمِ آمریکا ساختار توانایی‌های مالی و سیاسی رژیم را تضعیف و فشارهای بین‌المللی را تشدید خواهد کرد، که به کاهش ظرفیت تأمین واردات کلیدی و فرسایش پذیرش داخلی منجر می‌شود.",
+            "متن منبع در این نسخه خلاصه‌شده جزئیات چهار گزینه را ارائه نمی‌دهد و هیچ اشاره‌ای به اتکای رژیم به بازیگر خارجی خاص (روسیه، چین، کره‌شمالی) در این گزارش نشده است؛ بنابراین نمی‌توان از این مقاله نتیجه‌گیری قاطع درباره نقشِ این کشورها کرد.",
+            "هرچه احتمال برخورد نظامی افزایش یابد، اثرات اقتصادی و اجتماعیِ ناشی از تحریم‌ها و هزینه‌های دفاعی بیشتر خواهد شد؛ مدیریت ضعیف اقتصادی و بی‌ثباتی سیاسی کنونی رژیم ایران را در برابر این شوک‌ها آسیب‌پذیرتر می‌سازد و می‌تواند نارضایتی عمومی و فشارهای داخلی را تشدید کند."
+        ],
+        "impact": "هر تصمیمی به سوی حملهٔ مستقیم آمریکا، ثبات منطقه‌ای را به شدت کاهش داده و ساختارهای داخلی رژیم را به مرحلهٔ آسیب‌پذیری بحرانی می‌رساند.",
+        "tag": "تهاجم",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sbUJXZ2dHekZIZk5zU3MybXBwWkFnTGo5Z01UNXBtQS1XekduWE1rbGc2aEw1V1VCUThLQ3dOdW4xT0ZKSkV4Yld3Mk1JcFI4WFNyRU9aOVFOdTE5azVWVmJ1SE5Ha1JQZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sbUJXZ2dHekZIZk5zU3MybXBwWkFnTGo5Z01UNXBtQS1XekduWE1rbGc2aEw1V1VCUThLQ3dOdW4xT0ZKSkV4Yld3Mk1JcFI4WFNyRU9aOVFOdTE5azVWVmJ1SE5Ha1JQZmc",
+        "image": null,
+        "timestamp": 1771833417.0
+    },
+    {
+        "title_fa": "کاهش قیمت نفت در حالی که معامله‌گران چشم‌انداز توافق هسته‌ای ایران را می‌سنجند",
+        "title_en": "Oil Drops as Traders Weigh Outlook for Iran Nuclear Agreement",
+        "summary": [
+            "بازار نفت کاهش یافت زیرا معامله‌گران در حال قیمت‌گذاری نتایج احتمالی یک توافق هسته‌ای با ایران هستند و پیامدهای عرضه و تحریم را بازبینی می‌کنند.",
+            "این واکنش بازار بازتاب انتظاراتِ کاهش تدریجی تحریم‌ها است؛ هر گونه توافق بالقوه می‌تواند به بازگشت عرضه ایران به بازار بینجامد و ساختار فشار خارجی بر رژیم را تضعیف کند.",
+            "حتی در صورت بهبود درآمدهای نفتی، مدیریت اقتصادی ناکارآمد و فساد ساختاری می‌تواند از تاثیر مثبتِ موقتی بر معیشت عمومی بکاهد و نارضایتی‌های داخلی را پابرجا نگه دارد."
+        ],
+        "impact": "در صورت تحقق این انتظارات، کاهش فشار تحریمی و افزایش درآمد نفتی می‌تواند به تقویت توان سیاسی و اقتصادی حکومت منجر شود و فضای عمل اپوزیسیون را تنگ‌تر سازد.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Bloomberg",
+        "url": "https://www.theedgesingapore.com/news/oil-gas/oil-drops-traders-weigh-outlook-iran-nuclear-agreement",
+        "clean_url": "https://www.theedgesingapore.com/news/oil-gas/oil-drops-traders-weigh-outlook-iran-nuclear-agreement",
+        "image": null,
+        "timestamp": 1771830360.0
+    },
+    {
         "title_fa": "دیپلماسی حساس در بن‌بست آمریکا و ایران",
         "title_en": "High-stakes diplomacy in U.S.-Iran standoff",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-increases-military-pressure-iran-204641886.html",
         "image": "http://www.bing.com/th?id=OVFT.UwYGGVubJtXcgoZUHuEURy&pid=News",
         "timestamp": 1771317240.0
-    },
-    {
-        "title_fa": "ایران و آمریکا در مذاکرات ژنو بر «اصول راهنما» توافق کردند، وزیر خارجه می‌گوید",
-        "title_en": "Iran, US agree on 'guiding principles' in Geneva talks, minister says",
-        "summary": [
-            "عباس عراقچی گفت طرفین در ژنو بر «یک مجموعه اصول راهنما» برای ادامه مذاکرات هسته‌ای به توافق کلی رسیده‌اند؛ جلسه بیش از سه ساعت در نمایندگی دائم عمان برگزار شد و او فضای گفت‌وگو را سازنده توصیف کرد و تأکید کرد روند تنظیم توافق زمان‌بر است و تاریخ جدیدی تعیین نشده است.",
-            "نماینده‌های آمریکایی در ژنو شامل فرستاده ویژه استیو ویتهکوف و جارد کوشنر حضور داشتند. تهران اعلام کرده حاضر است برنامه هسته‌ای غیرنظامی‌اش را در ازای لغو تحریم‌ها محدود کند اما درباره موشک‌ها و حمایت از گروه‌های منطقه‌ای مذاکره نخواهد کرد.",
-            "مذاکرات در ادامهِ تشدید تنش‌ها میان واشنگتن و تهران جریان دارد؛ پس از سرکوب اعتراضات ژانویه — که رسانه‌ها از کشته‌شدن هزاران نفر گزارش دادند — ترامپ گفته به طور غیرمستقیم در روند دخالت خواهد داشت و عمان میانجی بوده است."
-        ],
-        "impact": "این دور مذاکرات می‌تواند هم فشار تحریم‌ها را کاهش دهد و هم ضعف و تزلزل رژیم را آشکارتر کند و در نتیجه به تضعیف حلقه قدرت و تقویت مطالبات آزادی‌خواهانه مردم کمک کند.",
-        "tag": "مذاکره",
-        "urgency": 8,
-        "sentiment": 0.45,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-us-agree-guiding-principles-161338492.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-us-agree-guiding-principles-161338492.html",
-        "image": "http://www.bing.com/th?id=OVFT.kWfQSqQino1HDcb-HMbqMi&pid=News",
-        "timestamp": 1771317060.0
-    },
-    {
-        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران قرار است در ژنو آغاز شود",
-        "title_en": "Nuclear talks between US and Iran set to begin in Geneva",
-        "summary": [
-            "مذاکرات هسته‌ای میان ایالات متحده و جمهوری اسلامی ایران قرار است در ژنو آغاز شود.",
-            "انتظار می‌رود محور گفتگوها پرونده هسته‌ای و پیامدهای مرتبط با تحریم‌ها باشد، هرچند نتیجه و دامنه توافق هنوز نامشخص است.",
-            "این دور گفتگوها برای داخل کشور آزمونی سیاسی است که می‌تواند شکاف میان جناح‌های حاکم را آشکار کند و معادلات فشار بین‌المللی را تغییر دهد."
-        ],
-        "impact": "پیشرفت هرگونه مذاکرات دیپلماتیک می‌تواند موقعیت سیاسی و مشروعیت نظام را تضعیف کند و فضای بیشتری برای خواست‌های آزادی‌خواهانه مردم ایجاد نماید.",
-        "tag": "مذاکرات",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2tXRTFDNEU4YnRsblFuZ01UaFNCWVpUT1JUWEZJa2JHZUFFMGQ1NWxqZXJUV29yMFNWZFYxbGUzX20zckpKVEdzbGdvWXdkaG5Ic2hkem9sOTFFeW9wb0JBdGJyX043TGRiTlBOWTRhY3FfMkpUMFl0Zy1VMDNLLTdhQ28ydw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2tXRTFDNEU4YnRsblFuZ01UaFNCWVpUT1JUWEZJa2JHZUFFMGQ1NWxqZXJUV29yMFNWZFYxbGUzX20zckpKVEdzbGdvWXdkaG5Ic2hkem9sOTFFeW9wb0JBdGJyX043TGRiTlBOWTRhY3FfMkpUMFl0Zy1VMDNLLTdhQ28ydw",
-        "image": null,
-        "timestamp": 1771315800.0
     }
 ]
