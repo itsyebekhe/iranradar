@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ هشدار داد: «روز بسیار بدی» در انتظار ایران است اگر با توافق هسته‌ای موافقت نکند",
+        "title_en": "Trump warns of 'very bad day' if Iran doesn't agree to a nuclear deal",
+        "summary": [
+            "هشدار ترامپ نشان‌دهنده تهدید به پیامدهای شدید در صورت رد توافق هسته‌ای است و احتمال تشدید تنش‌های دیپلماتیک و نظامی را افزایش می‌دهد.",
+            "این نوع لحن سیاسی، توجیه بیشتری برای اعمال فشار اقتصادی و تحریم‌های سخت‌تر یا گزینه‌های نظامی فراهم می‌کند که ساختارهای اقتصادی و سیاسی رژیم را بیش از پیش تضعیف خواهد کرد.",
+            "در سطح داخلی این پیام می‌تواند روندهای سیاسی را به نفع تندروها تغییر دهد، روایت ملی درباره محاصره خارجی را تقویت کند و پویایی ثبات حکومتی را به شکل نامعلومی جابه‌جا سازد."
+        ],
+        "impact": "هشدار ترامپ ریسک تشدید فشارهای بین‌المللی و احتمال تقابل نظامی را بالا می‌برد و به تضعیف بیشتر مشروعیت و توان اقتصادی رژیم منجر می‌شود.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXZySkpGNnhsT1UxSE45Tl9BZWZkUmxLLUZQVVBBZUVhRUJaZDM0ZEozVjBCU055dWJ3aWFDdGFPeEl4c3d4b2ZJX0Z4ZWE4c29jenpQTXdmVVdfdm5WTDVwV0I0M2k1VlRqMTBxZTZYakpBV0JBc1JnSHpEMDBVTk5uMHVzbGR3MlFKZUhyaUdiUTFaRm16amhidTF0cmViLVhHRkJZVi0wa2V1Vmc1SUM5MXNLZ1EzM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXZySkpGNnhsT1UxSE45Tl9BZWZkUmxLLUZQVVBBZUVhRUJaZDM0ZEozVjBCU055dWJ3aWFDdGFPeEl4c3d4b2ZJX0Z4ZWE4c29jenpQTXdmVVdfdm5WTDVwV0I0M2k1VlRqMTBxZTZYakpBV0JBc1JnSHpEMDBVTk5uMHVzbGR3MlFKZUhyaUdiUTFaRm16amhidTF0cmViLVhHRkJZVi0wa2V1Vmc1SUM5MXNLZ1EzM0E",
+        "image": null,
+        "timestamp": 1771913935.0
+    },
+    {
         "title_fa": "ترامپ گفت برنامه هسته‌ای ایران 'نابود شده.' پس چرا به دنبال حمله مجدد است؟",
         "title_en": "Trump said Iran’s nuclear program was ‘obliterated.’ So why is he looking to strike again?",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-hits-out-at-reports-that-top-general-flagged-risks-of-attacking-iran/ar-AA1WVVhY",
         "image": null,
         "timestamp": 1771897554.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده تنش‌های ایران-آمریکا: وزیر جنگ آمریکا می‌گوید ایران «عاقلانه است که توافق کند»",
+        "title_en": "Iran-US Tensions LIVE Updates: US war secretary says Iran ‘would be wise to make a deal’",
+        "summary": [
+            "وزیر جنگ آمریکا با اعلام اینکه ایران «عاقلانه است که توافق کند» پیام آشکاری از فشار دیپلماتیک و تهدید به هزینه بیشتر مطرح کرده است؛ این اظهار نظر بخشی از تلاش برای وادار کردن تهران به امتیازدهی است.",
+            "هند در اطلاعیه‌ای از اتباع خود خواست به‌دلیل «وضعیت در حال تغییر» در ایران از طریق وسایل قابل دسترس کشور را ترک کنند؛ این هشدار نشان‌دهنده افزایش نگرانی‌های امنیتی و پیامدهای دیپلماتیک ملموس برای رژیم است.",
+            "ترکیب این فشارهای خارجی و هشدارهای خروج اتباع خارجی نمایانگر ضعف مدیریت بحران در تهران است؛ این وضعیت ریسک تضعیف بیشتر اقتصادی و تضعیف مشروعیت حکمرانی را بالا می‌برد."
+        ],
+        "impact": "هشدار خروج اتباع خارجی به‌علاوه فشار مستقیم واشنگتن دامنه انزوای بین‌المللی رژیم را افزایش می‌دهد و ظرفیت دیپلماتیک و اقتصادی آن را تحت فشار قرار می‌دهد.",
+        "tag": "تنش",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-tehran-protests-donald-trump-ayatollah-khamenei-geneva-nuclear-talks-middle-east-101771897039667.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-tehran-protests-donald-trump-ayatollah-khamenei-geneva-nuclear-talks-middle-east-101771897039667.html",
+        "image": null,
+        "timestamp": 1771889880.0
     },
     {
         "title_fa": "ترامپ، خامنه‌ای را بین تسلیم یا ریسک جنگ قرار داده است",
@@ -376,6 +412,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/state-department-orders-nonessential-us-diplomats-to-leave-lebanon-as-tensions-with-iran-soar/ar-AA1WU4dp",
         "image": null,
         "timestamp": 1771865918.0
+    },
+    {
+        "title_fa": "انباشت نظامی علیه ایران سایه‌ای بر سخنرانی سالانه ترامپ انداخته است",
+        "title_en": "Iran buildup hangs over Trump State of the Union address",
+        "summary": [
+            "قانون‌گذاران انتظار دارند ترامپ در سخنرانی سالانه درباره افزایش نیروهای نظامی آمریکا در نزدیکی ایران صحبت کند؛ این موضوع واشنگتن را به‌شدت دوقطبی حزبی کرده است.",
+            "این افزایش نیروها به‌عنوان فشار خارجی مستقیم عمل می‌کند و می‌تواند هزینه‌های امنیتی رژیم را بالا برده و توان مانور منطقه‌ای آن را محدود سازد؛ در عین حال خطر محاسبات غلط و تشدید بحران را بالا می‌برد.",
+            "تقسیمات حزبی در آمریکا احتمالاً باعث ناپایداری و عدم‌شفافیت در سیاست‌گذاری می‌شود که هم امکان سوء‌تعبیر فرماندهی را افزایش می‌دهد و هم فرصت‌های هم‌زمان برای بهره‌برداری تهران پدید می‌آورد."
+        ],
+        "impact": "انباشت نظامی آمریکا، با افزایش فشار خارجی و هزینه‌های امنیتی برای رژیم، احتمال تشدید بحران یا فروپاشی محاسبات راهبردی را بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/iran-buildup-hangs-over-trump-state-of-the-union-address/ar-AA1WVKYT",
+        "clean_url": "https://www.msn.com/en-us/news/politics/iran-buildup-hangs-over-trump-state-of-the-union-address/ar-AA1WVKYT",
+        "image": null,
+        "timestamp": 1771863974.0
     },
     {
         "title_fa": "بحث بر سر حمله به ایران: پنتاگون هشدار می‌دهد، ترامپ پاسخ می‌دهد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.cbsnews.com/news/trump-possible-timeline-iran-strikes",
         "image": null,
         "timestamp": 1771420320.0
-    },
-    {
-        "title_fa": "ثبات منطقه خلیج فارس تحت فشار",
-        "title_en": "The Gulf Regional Stability under Strain",
-        "summary": [
-            "فشار فزاینده آمریکا و موضع مقابله‌جویانه ایران؛ دونالد ترامپ، رئیس‌جمهور آمریکا، ناوگان هواپیمابر یو‌اس‌اس آبراهام لینکلن را به خلیج فارس اعزام کرد و واشنگتن چهار موضوع اصلی—برنامه هسته‌ای، برد و توسعه موشک‌های بالیستیک، حمایت تهران از گروه‌های نیابتی و نحوه برخورد با معترضان—را به‌عنوان محور مذاکرات تعیین کرد.",
-            "ناآرامی‌های داخلی که از دسامبر ۲۰۲۵ با سقوط شتابان ارزش پول ملی آغاز شد، ضعف مدیریت اقتصادی و بحران مشروعیت حکومت را برجسته کرده؛ تهران دخالت خارجی از جمله آمریکا و اسرائیل را متهم می‌کند و در مقابل واشنگتن سرکوب معترضان را محکوم کرده است.",
-            "ایران اعلام آمادگی برای مذاکره درباره پرونده هسته‌ای دارد اما با گسترده‌تر کردن دستور کار—به‌ویژه مسئله موشک‌های بالیستیک—مخالف است؛ در غیاب نیروی هوایی مدرن، موشک‌های بالیستیک به‌عنوان ابزار بازدارنده اصلی باقی مانده که خود پتانسیل تشدید تنش را افزایش می‌دهد."
-        ],
-        "impact": "ترکیب فشار خارجی نظامی-سیاسی و بحران اقتصادی داخلی ثبات منطقه را آسیب‌پذیر کرده و احتمال سرریز تنش به تقابل نظامی یا تشدید بی‌ثباتی داخلی را افزایش می‌دهد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Manohar Parrikar Institute for Defence Studies and Analyses",
-        "url": "https://idsa.in/publisher/issuebrief/the-gulf-regional-stability-under-strain",
-        "clean_url": "https://idsa.in/publisher/issuebrief/the-gulf-regional-stability-under-strain",
-        "image": null,
-        "timestamp": 1771418040.0
-    },
-    {
-        "title_fa": "وینس: ترامپ ابزارهای زیادی برای متوقف کردن ایران هسته‌ای دارد",
-        "title_en": "Vance: Trump has ‘many tools’ to stop nuclear Iran",
-        "summary": [
-            "اظهارنظر وینس بر این ادعا تأکید می‌کند که ترامپ «ابزارهای متعدد» برای مقابله با برنامه هسته‌ای ایران دارد؛ این سخن نشان‌دهنده امکان به‌کارگیری فشارهای اقتصادی، دیپلماتیک و احتمالا اقدامات فراتر از دیپلماسی است.",
-            "تشدید فشارهای اعلامی می‌تواند ساختار اقتصادی آسیب‌پذیر ایران را بیشتر تضعیف کند و هزینه‌های مدیریتی و معیشتی را بالا ببرد؛ این فشارها به‌صورت بالقوه ثبات سیاسی را هدف قرار می‌دهند.",
-            "در صورت اجرای عملی این ابزارها، ضعف‌های ساختاری حکومت در اداره اقتصاد و امنیت داخلی برجسته می‌شوند و ظرفیتی برای افزایش نارضایتی عمومی فراهم می‌آورند؛ اما سطح و ماهیت اقدامات باید از منابع موثق تأیید شود."
-        ],
-        "impact": "این موضع‌گیری احتمال تشدید فشارهای اقتصادی و سیاسی آمریکا علیه ایران را افزایش می‌دهد و می‌تواند به تضعیف بیشتر ثبات داخلی رژیم منجر شود.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByOWo4dDlpb3h3UXZDMVpXbFpGTjAwMTZWVldJMUlYalNQUlJtUnpGaUo0U0ZzaDNIRVBVZzBMeVJMLUsxNl80M3FEeG55c2VmcHp4UmluRVVHSTlIZWtEbVd0eHpqM19taXR6QllsS1ZGMnBQbjVN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByOWo4dDlpb3h3UXZDMVpXbFpGTjAwMTZWVldJMUlYalNQUlJtUnpGaUo0U0ZzaDNIRVBVZzBMeVJMLUsxNl80M3FEeG55c2VmcHp4UmluRVVHSTlIZWtEbVd0eHpqM19taXR6QllsS1ZGMnBQbjVN",
-        "image": null,
-        "timestamp": 1771413476.0
-    },
-    {
-        "title_fa": "گزارش: عملیات گسترده چندهفته‌ای آمریکا و اسرائیل علیه ایران ممکن است قریب‌الوقوع باشد",
-        "title_en": "Major, weeks-long US-Israel operation against Iran could be imminent — report",
-        "summary": [
-            "گزارش حاکی از آن است که یک عملیات نظامی بزرگ مشترک آمریکا و اسرائیل که ممکن است هفته‌ها به طول انجامد، در آستانه اجرا قرار دارد؛ تحقق آن سطح تقابل مستقیم را به‌طور چشمگیر افزایش می‌دهد.",
-            "یک عملیات طولانی‌مدت این‌چنینی ساختار استراتژیک رژیم را هدف می‌گیرد؛ افزایش فشار خارجی و خسارت به زیرساخت‌ها می‌تواند تضعیف ساختاری ثبات سیاسی و تنگنای مالی بلندمدت را شتاب دهد.",
-            "در عرصه داخلی، تشدید تهدیدهای نظامی و اقتصادی می‌تواند اختلال‌های بیشتر در بازارها و خدمات عمومی را رقم بزند و ضعف مدیریت حکومتی را برجسته کند؛ این وضعیت فضای نارضایتی و بی‌ثباتی را تقویت می‌کند."
-        ],
-        "impact": "احتمال اجرای چنین عملیاتی ریسک تشدید تقابل مستقیم، ضربه به توانمندی‌های اقتصادی-نظامی رژیم و افزایش شتاب بی‌ثباتی داخلی را به‌شدت بالا می‌برد.",
-        "tag": "درگیری",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUh5MUZnRi1zaDQxdEVJaldWZ0Z3RTdzdWp1czRyTko2aFZQd0dZRkpKSTFLMk8wODRzX2VRdVNneFdGSFg5Uk9rd2QxYS11eGJHZWlyNXcteXhxbGlZTDdFZU5tRmlBdHU1WUxUWGhBZ09CdWRWalRlNXk5T2JfZzgzMjFxTG95bDF6ZWdqUXZHbEhlN093SlFyUm51LVdwYTlqbHdIS2tCZW1MUGFNMHB1NDNoRUlOY2x5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUh5MUZnRi1zaDQxdEVJaldWZ0Z3RTdzdWp1czRyTko2aFZQd0dZRkpKSTFLMk8wODRzX2VRdVNneFdGSFg5Uk9rd2QxYS11eGJHZWlyNXcteXhxbGlZTDdFZU5tRmlBdHU1WUxUWGhBZ09CdWRWalRlNXk5T2JfZzgzMjFxTG95bDF6ZWdqUXZHbEhlN093SlFyUm51LVdwYTlqbHdIS2tCZW1MUGFNMHB1NDNoRUlOY2x5QQ",
-        "image": null,
-        "timestamp": 1771412813.0
     }
 ]
