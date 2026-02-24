@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ گفت برنامه هسته‌ای ایران 'نابود شده.' پس چرا به دنبال حمله مجدد است؟",
+        "title_en": "Trump said Iran’s nuclear program was ‘obliterated.’ So why is he looking to strike again?",
+        "summary": [
+            "تناقض آشکار بین ادعای ترامپ درباره «نابودی» برنامه هسته‌ای ایران و پیگیری گزینه‌های حمله جدید؛ این تضاد نشان می‌دهد که اظهارات سیاسی و نمایشی می‌توانند با برآوردهای عملیاتی یا نگرانی‌های اطلاعاتی همخوان نباشند.",
+            "دلایل محتمل اقدام یا تهدید مجدد شامل اهداف سیاسی داخلی، تلاش برای بازدارندگی یا تخریب قابلیت‌های مشخص، و همچنین وجود خلأهای اطلاعاتی یا ادراک تهدید است؛ هر کدام پیامدهای متفاوتی برای ثبات راهبردی منطقه دارند.",
+            "حمله یا تهدید به حمله می‌تواند فشارهای خارجی و تحریمی را تشدید کند، اقتصاد ایران را بیشتر متزلزل سازد و نارضایتی‌های داخلی را عمیق‌تر کند؛ در مجموع این روندها ساختار سیاسی را ضعیف‌تر و آسیب‌پذیرتر می‌کنند."
+        ],
+        "impact": "تصمیم به حمله یا تهدید مجدد احتمال تشدید نظامی و فشار بین‌المللی را افزایش می‌دهد که به‌سرعت می‌تواند ثبات منطقه‌ای و تاب‌آوری داخلی رژیم را کاهش دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UblRnWUkwNjhmNC1oYkdGY3ZGMXk1RGFuTDhiUE5jVTVfdGNwbVBSZ3UxX0hCdFVKTzNDdS1ucVpJUTdHY2tpSUJRblVNYnJXS1hvNmljamZ2MUNrOTFUNWZpOVd6N2l3ZW1UQ2hoLW1BbzR5NFhGZmoweXRqUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UblRnWUkwNjhmNC1oYkdGY3ZGMXk1RGFuTDhiUE5jVTVfdGNwbVBSZ3UxX0hCdFVKTzNDdS1ucVpJUTdHY2tpSUJRblVNYnJXS1hvNmljamZ2MUNrOTFUNWZpOVd6N2l3ZW1UQ2hoLW1BbzR5NFhGZmoweXRqUQ",
+        "image": null,
+        "timestamp": 1771909293.0
+    },
+    {
         "title_fa": "ترامپ: یک فرمانده ارشد مخالف جنگ با ایران نیست و فکر می‌کند جنگ «به‌راحتی پیروز می‌شود»",
         "title_en": "Trump: Top general doesn’t oppose Iran war, thinks it would be ‘easily won’",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://thehill.com/policy/international/5751330-witkoff-iran-nuclear-threat",
         "image": null,
         "timestamp": 1771880580.0
+    },
+    {
+        "title_fa": "ترامپ میان سه گزینه علیه ایران: از دیپلماسی تا تلاش برای سرنگونی رژیم",
+        "title_en": "Trump confronts his 3 main options on Iran — from diplomacy to trying to topple a regime",
+        "summary": [
+            "کاخ سفید سه مسیر روشن را بررسی می‌کند: بازگشت به مذاکرات زیر پوشش نمایش قدرت نیروی دریایی، حملات محدود برای هدف قراردادن تاسیسات نظامی و هسته‌ای، یا گزینه ماکزیمم برای تلاش به سرنگونی حاکمیت — هر کدام پیامدها و ریسک‌های جدی دارند.",
+            "ایالات متحده بزرگ‌ترین تجمع نظامی در خاورمیانه از زمان جنگ عراق را ایجاد کرده (دو ناو هواپیمابر، ده‌ها کشتی و صدها جنگنده)؛ اهداف دقیق، ماندگاری ماموریت و توجیهات قانونی برای اقدام نظامی روشن نیست و میان مشاوران اختلاف نظر وجود دارد.",
+            "ترامپ تلویحاً می‌گوید ترجیحش «معامله» است اما تهدید به «روز بسیار بد» برای ایران کرده؛ گزینه سرنگونی مطرح است اما رسانه‌ها و منابع می‌گویند نتایج جایگزین و پیامدهای پساشرکتِ احتمالی نامعلوم‌اند."
+        ],
+        "impact": "فشار نظامی و تهدید به تهاجم می‌تواند سازوکارهای بقای رژیم را تضعیف کند اما همزمان ریسک ورود به جنگ فراگیر، تشدید هزینه‌های اقتصادی و پیامدهای سنگین انسانی و سیاسی برای مردم ایران را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": 0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/02/24/politics/iran-trump-military-options-nuclear",
+        "clean_url": "https://www.cnn.com/2026/02/24/politics/iran-trump-military-options-nuclear",
+        "image": null,
+        "timestamp": 1771880400.0
     },
     {
         "title_fa": "واکنش «وحشیانه» ایران به هر حمله آمریکا؛ هشدار درباره احتمال درگیری منطقه‌ای",
@@ -520,6 +556,24 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/oil-pulls-back-as-us-iran-talks-set-to-resume-here-s-where-negotiations-stand/ar-AA1WTBaW",
         "image": null,
         "timestamp": 1771845219.0
+    },
+    {
+        "title_fa": "آمریکا بخشی از کارکنان سفارت در بیروت را به‌خاطر افزایش تنش‌ها با ایران خارج می‌کند",
+        "title_en": "US partially evacuates Beirut embassy amid rising Iran tensions",
+        "summary": [
+            "وزارت خارجه آمریکا پس از بازبینی امنیتی دستور داده است کارکنان غیرضروری سفارت در بیروت ترک کنند؛ اقدامی رو به کاهش حضور دیپلماتیک آمریکاست.",
+            "این اقدام علامتی از تشدید نگرانی واشنگتن نسبت به امکان گسترش تنش‌های مرتبط با ایران است و به‌عنوان فشار دیپلماتیک می‌تواند مانور منطقه‌ای بازیگران وابسته به تهران را محدود یا مخاطره‌آمیز کند.",
+            "کاهش حضور دیپلماتیک و افزایش فضای امنیتی فشار خارجی را بر ساختارهای محاسبه‌شده رژیم بالا می‌برد؛ هم‌زمان سیاست‌های منطقه‌گرایانه و هزینه‌های نظامی می‌توانند به تشدید نارضایتی داخلی و فرسایش اقتصادی دامن بزنند."
+        ],
+        "impact": "کاهش کارکنان سفارت پیامی عملی از افزایش فشار دیپلماتیک است که می‌تواند توان عملیات منطقه‌ای رژیم و شرکای آن را تضعیف کند و فشارهای سیاسی-اقتصادی داخلی را تشدید نماید.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "BBC on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-partially-evacuates-beirut-embassy-amid-rising-iran-tensions/ar-AA1WUQN7",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-partially-evacuates-beirut-embassy-amid-rising-iran-tensions/ar-AA1WUQN7",
+        "image": null,
+        "timestamp": 1771844935.0
     },
     {
         "title_fa": "کارشناسان: ایران احتمالاً به حملات تازه آمریکا واکنشی قاطع‌تر از قبل نشان می‌دهد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpXeDVxTU1STEhLVG41YkROQTAtZEdPMW40eFdrbmE2LUlFX2l4UXk3Njd4dWk4VndCM3JiS0t2TUN4RHhrdVVxaE9xM29XQ1dnVEdvdl9qSG94OHNOOWx1ZjlMV2N0OGZZX1FBVkFLNDkyaUhadkVlZ25ObkhOV2tjQ3c",
         "image": null,
         "timestamp": 1771408893.0
-    },
-    {
-        "title_fa": "تحویل Mi-28 و Su-35 روسیه ارتش فرسوده ایران را احیا نخواهد کرد",
-        "title_en": "Russian Mi-28s And Su-35s Won’t Revitalize Iran’s Dilapidated Military",
-        "summary": [
-            "گزارش می‌گوید تحویل گسترده و به‌موقع هلی‌کوپترهای Mi-28 و جنگنده‌های Su-35 از روسیه برای بازگرداندن فروپاشی خودساخته نیروی مسلح ایران خیلی کم و دیر است.",
-            "روسیه به‌عنوان تسهیل‌گر استراتژیک بقای رژیم با فروش تسلیحات فرصت‌زایی تاکتیکی می‌کند، اما این کمک‌ها قادر به جبران ضعف‌های ساختاری و پایدار نگه داشتن توان رزمی نیستند.",
-            "فرسودگی «خودساخته» ارتش نشانه ناکارآمدی مدیریتی در تخصیص منابع، کوتاهی در نگهداری و زنجیره تدارکات و ضعف در بازسازی توان ملی است که زمینه افزایش نارضایتی عمومی و تضعیف ثبات داخلی را فراهم می‌کند."
-        ],
-        "impact": "تحویل سلاح روسی تنها مرهمی کوتاه‌مدت است و نه تنها توان عملیاتی را بازیابی نمی‌کند بلکه آسیب‌پذیری داخلی و فشارهای سیاسی-اقتصادی بر رژیم را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/pauliddon/2026/02/18/russian-mi-28s-and-su-35s-wont-revitalize-irans-dilapidated-military/",
-        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/02/18/russian-mi-28s-and-su-35s-wont-revitalize-irans-dilapidated-military",
-        "image": "http://www.bing.com/th?id=OVFT.DyTlqqpLTWuNIHkDaNrPkC&pid=News",
-        "timestamp": 1771406940.0
-    },
-    {
-        "title_fa": "ایران و روسیه مانور دریایی در خلیج عمان و شمال اقیانوس هند برگزار می‌کنند",
-        "title_en": "Iran and Russia to conduct navy drill in Gulf of Oman and northern Indian Ocean",
-        "summary": [
-            "طبق گزارش، ایران و روسیه قرار است مانور دریایی مشترک در خلیج عمان و قسمت شمالی اقیانوس هند برگزار کنند.",
-            "حضور روسیه به‌عنوان تأمین‌کننده و هم‌پیمان راهبردی تفسیر می‌شود؛ چنین همکاری‌هایی ابزار تهران برای کاهش انزوای بین‌المللی و نمایش قابلیت‌های نظامی فراتر از تنگه هرمز است.",
-            "صرف منابع و توجه به نمایش نظامی در شرایط تحریم و بحران اقتصادی نشانه سوءمدیریت است و می‌تواند نارضایتی عمومی را افزایش دهد؛ مانورها قادر به رفع آسیب‌های ساختاری تحریم‌ها نیستند."
-        ],
-        "impact": "این مانور با اتکا به پشتیبانی روسیه پیامی سیاسی-نظامی به دنبال دارد اما توان کاستن از فشار تحریم‌ها و مشکلات اقتصادی داخلی را ندارد و ممکن است نارضایتی داخلی را تشدید کند.",
-        "tag": "روسیه",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzFGWjJhbjJnR1lRUUxGcmhFV0s0ckNkMUx0b0V0dUVlYjRfczl2N0lzOVZVaDRZTGxicWFZOWVPS0wyZ2QyNW1wZWxEMkZGcUV2c0tlVk1pRlNwRkcxZ2h3NWVWU2VfUmttRDBTMktmT0hTUktRV1lXekNscll5WS0xUGZxalNVZUROeEw1bkVUYVdLNUtPNUlHNGJYNzdpaURKOWV5WU13VWVJdldyd0RIYlJPeVJ5M1dUS1F5U3hJQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzFGWjJhbjJnR1lRUUxGcmhFV0s0ckNkMUx0b0V0dUVlYjRfczl2N0lzOVZVaDRZTGxicWFZOWVPS0wyZ2QyNW1wZWxEMkZGcUV2c0tlVk1pRlNwRkcxZ2h3NWVWU2VfUmttRDBTMktmT0hTUktRV1lXekNscll5WS0xUGZxalNVZUROeEw1bkVUYVdLNUtPNUlHNGJYNzdpaURKOWV5WU13VWVJdldyd0RIYlJPeVJ5M1dUS1F5U3hJQQ",
-        "image": null,
-        "timestamp": 1771405263.0
-    },
-    {
-        "title_fa": "جک کین: گزینه محتمل مذاکرات آمریکا با ایران حمله جامع به رژیم است",
-        "title_en": "Former US Army vice chief of staff General Jack Keane says the preferred and most likely option out of the US-Iran negotiations is a US “comprehensive attack” on the regime.",
-        "summary": [
-            "جک کین، معاون سابق ستاد ارتش ایالات متحده، در اظهارنظری اعلام کرده که گزینه ترجیحی و محتمل از نتیجه مذاکرات آمریکا با ایران، «حمله جامع» به رژیم است.",
-            "این اظهارنظر از سوی یک مقام سابق است و لزوماً به معنای سیاست رسمی دولت آمریکا نیست، اما نشان‌دهنده وجود گرایش در میان بخش‌هایی از نخبه‌های دفاعی به راه‌حل نظامی است.",
-            "خطر عملیاتی شدن چنین رویکردی احتمالاً مذاکرات را تضعیف می‌کند، ریسک تشدید تقابل نظامی را بالا می‌برد و فشارهای خارجی و نامطمئنی اقتصادی را بر رژیم بیشتر خواهد کرد."
-        ],
-        "impact": "این اظهارنظر احتمال افزایش تنش نظامی و تشدید شکنندگی سیاسی-اقتصادی رژیم را بالا می‌برد و فضای تصمیم‌گیری داخلی را به سود گزینه‌های سرکوبگر و نظامی سوق می‌دهد.",
-        "tag": "تهاجم",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUUFkUlBuRHRKOFotSE9kUVJIQnBXaUZSYm1EbVRTWFVvR0RlMWJlR2pIQzNsLTFiUFNYamJOS0I2VHdiRGdKSVowbnZzci12T3k5Um5zUFAtS0lBWi1zNXlYVENCTnhGSlFRWEZrSGl1azlaS0ZqQ1BzUFctR1k2VFI2ZF9RTklnNlJQQ05XQkhpbkZTSlFLMUhLd2pfbHRFUzVtbVBxRkpWOWxPLXBWeEtqOEdVWE8wcFRxTzVIQUY0WGx4UHVnTC1LNTlsamRfX19jMmIxbGZOQUxlam5Z?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUUFkUlBuRHRKOFotSE9kUVJIQnBXaUZSYm1EbVRTWFVvR0RlMWJlR2pIQzNsLTFiUFNYamJOS0I2VHdiRGdKSVowbnZzci12T3k5Um5zUFAtS0lBWi1zNXlYVENCTnhGSlFRWEZrSGl1azlaS0ZqQ1BzUFctR1k2VFI2ZF9RTklnNlJQQ05XQkhpbkZTSlFLMUhLd2pfbHRFUzVtbVBxRkpWOWxPLXBWeEtqOEdVWE8wcFRxTzVIQUY0WGx4UHVnTC1LNTlsamRfX19jMmIxbGZOQUxlam5Z",
-        "image": null,
-        "timestamp": 1771402011.0
     }
 ]
