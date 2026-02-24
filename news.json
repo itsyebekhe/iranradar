@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "معمای ترامپ درباره ایران: جنگ یا یک توافق توخالی",
+        "title_en": "Trump's Iran Dilemma: War or a Hollow Deal",
+        "summary": [
+            "عنوان معما را حول دو گزینه کلیدی سیاست خارجی ترامپ قرار می‌دهد: استفاده از زور نظامی یا تلاش برای توافقی که احتمالاً التزامات محدود و تضمین‌نشده‌ای دارد.",
+            "تحلیل فشار خارجی/تحریم‌ها: اگر توافق توخالی منجر به کاهش واقعی تحریم‌ها نشود، ساختارهای تضعیف‌کننده رژیم تغییر نخواهند کرد و فشار اقتصادی همچنان عامل بالقوه‌ای برای تضعیف مشروعیت حکمرانی باقی می‌ماند.",
+            "ابعاد داخلی و ریسک‌های ثبات: اقدام نظامی می‌تواند به سرکوب بیشتر و بسیج ملی منجر شود، در حالی که توافق ضعیف احتمال افزایش بی‌اعتمادی و نارضایتی عمومی را دارد؛ هر دو مسیر خطر تشدید بی‌ثباتی سیاسی را در پی دارند."
+        ],
+        "impact": "تصمیم بین عمل نظامی یا توافق سطحی، محتوای فشار اقتصادی و ظرفیت بازدارندگی را تغییر می‌دهد و می‌تواند ثبات سیاسی داخلی ایران را به‌طور معناداری تحت‌تأثیر قرار دهد.",
+        "tag": "ایران",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Quillette",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0Jra0VqakN1Mm5TNmZRYUwtUGhreTF1Q1lCdThLcE16ZVRuR2pNVnRrbTdUeDF5QWdoaVhwVl9xaW1icENBUTFfRzZ6VC1fQWwxT3pQUnd4bk9DRG9wRF9MVmE2N2NoNVBDbENPa0FsTDAwd2lwXzJtRlRObkUyYzVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0Jra0VqakN1Mm5TNmZRYUwtUGhreTF1Q1lCdThLcE16ZVRuR2pNVnRrbTdUeDF5QWdoaVhwVl9xaW1icENBUTFfRzZ6VC1fQWwxT3pQUnd4bk9DRG9wRF9MVmE2N2NoNVBDbENPa0FsTDAwd2lwXzJtRlRObkUyYzVR",
+        "image": null,
+        "timestamp": 1771914397.0
+    },
+    {
         "title_fa": "ترامپ هشدار داد: «روز بسیار بدی» در انتظار ایران است اگر با توافق هسته‌ای موافقت نکند",
         "title_en": "Trump warns of 'very bad day' if Iran doesn't agree to a nuclear deal",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.vox.com/the-logoff-newsletter-trump/480230/donald-trump-iran-war-nuclear-deal-military-buildup",
         "image": null,
         "timestamp": 1771887505.0
+    },
+    {
+        "title_fa": "ترامپ نگرانی‌ها درباره حمله به ایران را تکذیب کرد",
+        "title_en": "President Donald Trump denies Iran attack concerns",
+        "summary": [
+            "گزارش: فرماندهی نظامی آمریکا نگران اجرای عملیاتی علیه ایران بوده است؛ دونالد ترامپ این ادعا را «۱۰۰٪ نادرست» خواند — خبر در وال‌استریت‌ژورنال بازتاب یافته است.",
+            "معنای راهبردی: اختلاف بین هشدارهای نظامی و تکذیب رئیس‌جمهور نشان‌دهنده وجود هشدارهای اطلاعاتی یا عملیاتی و افزایش فشار امنیتی خارجی بر حکومت ایران است؛ حتی تکذیب رسمی، بار سیاسی و فشار خارجی را از بین نمی‌برد.",
+            "محدودیت‌ها: متن منبع جزئیات فنی، اشاره به تحریم‌های جدید یا دخالت صریح بازیگران خارجی دیگر و اطلاعات درباره اعتراضات داخلی یا تأثیرات اقتصادی ارائه نمی‌دهد؛ هر نتیجه‌گیری گسترده‌تر نیازمند شواهد بیشتر است."
+        ],
+        "impact": "همین گزارش و واکنش متقابل واشنگتن به‌عنوان فشار خارجی عمل کرده و در کوتاه‌مدت توان بازدارندگی و مشروعیت داخلی حکومت ایران را تضعیف می‌کند، هرچند دامنه و ثبات این اثر نامطمئن است.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/politics/government/president-donald-trump-denies-iran-attack-concerns/ar-AA1WWNgJ",
+        "clean_url": "https://www.msn.com/en-xl/politics/government/president-donald-trump-denies-iran-attack-concerns/ar-AA1WWNgJ",
+        "image": "http://www.bing.com/th?id=OVFT.NXqUs562wv8z-X_WFqB_ZC&pid=News",
+        "timestamp": 1771883510.0
     },
     {
         "title_fa": "تصمیم ترامپ درباره حملات هوایی به ایران تحت هدایت مشاوره‌های جارد کوشنر و استیو ویتکوف",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/terror-sponsor-iran-gets-un-leadership-overseeing-charter-principles/ar-AA1WCag0",
         "image": null,
         "timestamp": 1771421534.0
-    },
-    {
-        "title_fa": "احتمال قریب‌الوقوع جنگ میان آمریکا و ایران؛ درگیری‌ای که ممکن است هفته‌ها طول بکشد",
-        "title_en": "US-Iran war could be imminent and take weeks, sources warn after latest nuclear talks",
-        "summary": [
-            "منابع گزارش می‌دهند که پس از تازه‌ترین مذاکرات هسته‌ای احتمال وقوع یک جنگ مستقیم میان آمریکا و ایران بالا رفته و در صورت شروع می‌تواند چند هفته طول بکشد.",
-            "این هشدار نشان‌دهنده خطر تشدید سریع کارزارهای نظامی است که می‌تواند به درگیری‌های گسترده و متقابل بین دو کشور منجر شود؛ پیامدهای فوری برای امنیت منطقه‌ای خواهد داشت.",
-            "هرچند مقاله جزئیاتی درباره تحریم‌ها یا واکنش‌های داخلی ارائه نمی‌کند، اما تشدید تهدید نظامی و فشار خارجی به‌طور بالقوه ساختارهای اقتصادی و سیاسی رژیم را تضعیف و نارضایتی داخلی را افزایش خواهد داد."
-        ],
-        "impact": "اگر این ارزیابی منابع درست باشد، تنش هسته‌ای به سرعت می‌تواند به یک جنگ طولانی‌مدت بدل شود که ثبات منطقه‌ای و ثبات داخلی رژیم را به خطر می‌اندازد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0d3LUhWeENQU0p4b3BGSkhDYUY1Y05TQ2w4TzhNTXBJY3YyMFJQaG5mYVhnR0Z4MnlrSklMeTEtY3pSTDlLck01NV9tdWp2WXFTTUlLbzBHM0JSNE4yQkhIWlFyU3BlX21ycHM1NG5Qc3dnNjFrei0teGlKV2hpQVY2WjY1TVVZa2NWMmdSWjl2WUo4UGwyX3l3NTJaT1VVNHI0aHZqSmd2bnR0UTVJdVM3cFo4UdIBuwFBVV95cUxQQnBvRnItcGVyRG1mbmZHdW1JenQ4V1JoakhXVUhKbllsVWNkbTJqdXB6Q3ByRDZMWlBkMldGQTBVWkw4N0dEZ1BJZlNjY0M0OUMzam04UWJBcUJNemhZWFkwMk9mT0s5aXhscUtrOWxhTDktVjlZYUdEZU9DYmhOVG54bjhOeDdqdDFBNjlMUkd2NzlZZ29lbkVwQ1IxTzZ5NGlrRnpIbXc3RlV2SlJYQkxqb3Z5RlhLbzJj?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0d3LUhWeENQU0p4b3BGSkhDYUY1Y05TQ2w4TzhNTXBJY3YyMFJQaG5mYVhnR0Z4MnlrSklMeTEtY3pSTDlLck01NV9tdWp2WXFTTUlLbzBHM0JSNE4yQkhIWlFyU3BlX21ycHM1NG5Qc3dnNjFrei0teGlKV2hpQVY2WjY1TVVZa2NWMmdSWjl2WUo4UGwyX3l3NTJaT1VVNHI0aHZqSmd2bnR0UTVJdVM3cFo4UdIBuwFBVV95cUxQQnBvRnItcGVyRG1mbmZHdW1JenQ4V1JoakhXVUhKbllsVWNkbTJqdXB6Q3ByRDZMWlBkMldGQTBVWkw4N0dEZ1BJZlNjY0M0OUMzam04UWJBcUJNemhZWFkwMk9mT0s5aXhscUtrOWxhTDktVjlZYUdEZU9DYmhOVG54bjhOeDdqdDFBNjlMUkd2NzlZZ29lbkVwQ1IxTzZ5NGlrRnpIbXc3RlV2SlJYQkxqb3Z5RlhLbzJj",
-        "image": null,
-        "timestamp": 1771420738.0
-    },
-    {
-        "title_fa": "ترامپ جدول زمانی حمله به ایران را بررسی کرد — احتمال اقدام از این شنبه، تصمیم نهایی گرفته نشده است",
-        "title_en": "Trump has discussed timeline for Iran strikes — including as soon as this weekend — but no decision yet",
-        "summary": [
-            "مقامات ارشد امنیت ملی به دونالد ترامپ اطلاع داده‌اند که نیروهای نظامی آماده‌اند برای حمله به ایران حتی از شنبه وارد عمل شوند، اما رئیس‌جمهور هنوز تصمیم نهایی را اتخاذ نکرده و بحث‌ها جاری و متغیر توصیف می‌شوند.",
-            "پنتاگون در آستانه هرگونه عملیات، برخی نیروها را از خاورمیانه به اروپا یا آمریکا منتقل می‌کند؛ ناوگروه یو‌اس‌اس آبراهام لینکلن در منطقه حاضر است و یو‌اس‌اس جرالد فورد در مسیر است؛ منابع همچنین می‌گویند مارکو روبیو حدود دو هفته دیگر با بنیامین نتانیاهو دیدار خواهد کرد.",
-            "کارولین لیویت گفت دیپلماسی گزینه اول ترامپ است و به «عملیات موفق» ماه ژوئن اشاره کرد؛ علی خامنه‌ای تصویری تولیدشده با هوش مصنوعی از فرو رفتن ناو جرالد فورد در بستر دریا منتشر کرده است."
-        ],
-        "impact": "تهدید فوری نظامی و افزایش حضور دریایی در منطقه می‌تواند فشار خارجی و احتمال تحریم‌های شدیدتر را افزایش دهد، هزینه‌های اقتصادی و سیاسی را تشدید کند و در بلندمدت ثبات رژیم را تضعیف نماید.",
-        "tag": "تهاجم",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-possible-timeline-iran-strikes/",
-        "clean_url": "https://www.cbsnews.com/news/trump-possible-timeline-iran-strikes",
-        "image": null,
-        "timestamp": 1771420320.0
     }
 ]
