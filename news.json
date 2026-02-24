@@ -18,6 +18,42 @@
         "timestamp": 1771909293.0
     },
     {
+        "title_fa": "«بحرانی که خود ساخته است»: دونالد ترامپ احتمال جنگی دیگر با ایران را بررسی می‌کند",
+        "title_en": "‘Crisis of his own making’: Donald Trump weighs another war with Iran",
+        "summary": [
+            "روزنامه فایننشال تایمز گزارش می‌دهد که ترامپ در حال سنجش گزینه‌ای برای درگیری نظامی مجدد با ایران — رسانه بحران را «بحرانی که خود ساخته است» توصیف کرده است.",
+            "هرگونه اقدام نظامی آتی از سوی آمریکا فشار خارجی و تحریم‌ها را تشدید خواهد کرد و به‌طور ساختاری توان اداره کشور را تضعیف می‌کند؛ این فشارها می‌توانند تأثیرات اقتصادی و سیاسی ملموسی بر ثبات داخلی داشته باشند.",
+            "در داخل ایران، بازگشت تنش نظامی می‌تواند نارضایتی عمومی را تشدید و ناکارآمدی حکمرانی را برجسته کند؛ با این حال، اندازه‌گیری دقیق پیامدها مستلزم داده‌های بیشتر است و نباید فراتر از گزارش فایننشال تایمز نتیجه‌گیری شود."
+        ],
+        "impact": "گزینه جنگ از سوی ترامپ فشار خارجی را بالا می‌برد و خطر گسترش بی‌ثباتی داخلی و تشدید بحران اقتصادی-سیاسی در ایران را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/0408deca-ecca-49ab-bff6-985ef83897ce",
+        "clean_url": "https://www.ft.com/content/0408deca-ecca-49ab-bff6-985ef83897ce",
+        "image": null,
+        "timestamp": 1771909250.0
+    },
+    {
+        "title_fa": "نفت زیر اوج هفت‌ماهه باقی می‌ماند؛ معامله‌گران منتظر مذاکرات آمریکا و ایران و سیاست تجاری",
+        "title_en": "Oil hovers below seven-month high as traders eye U.S.–Iran talks, trade policy",
+        "summary": [
+            "قیمت نفت نزدیک به بالاترین سطح هفت‌ماهه معامله می‌شود و معامله‌گران تمرکز خود را روی مذاکرات آمریکا و ایران و تحولات سیاست تجاری آمریکا گذاشته‌اند.",
+            "هرگونه پیشرفت در مذاکرات آمریکا و ایران می‌تواند چارچوب تحریم‌ها و دسترسی رژیم به منابع ارزی را دگرگون کند؛ کاهش تحریم‌ها ساختار فشار خارجی را تضعیف می‌کند و افزایش یا تداوم تحریم‌ها فشار اقتصادی و سیاسی را تشدید خواهد کرد.",
+            "خبر به اعتراضات داخلی اشاره‌ای ندارد؛ با این حال تغییرات در درآمدهای نفتی و سیاست‌های تجاری مستقیماً بر توان مالی حکومت اثر می‌گذارد و هر تنش اقتصادی می‌تواند نارضایتی عمومی را افزایش دهد."
+        ],
+        "impact": "نوسان قیمت نفت در کنار مذاکرات آمریکا–ایران می‌تواند محور تعیین‌کننده‌ای برای توان مالی رژیم و شدت فشارهای خارجی باشد و پیامدهای مستقیم اقتصادی بر ثبات داخلی خواهد داشت.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/money/economy/oil-rises-to-near-seven-month-high-on-us-iran-tensions-trade-policy/ar-AA1WWlVH",
+        "clean_url": "https://www.msn.com/en-us/money/economy/oil-rises-to-near-seven-month-high-on-us-iran-tensions-trade-policy/ar-AA1WWlVH",
+        "image": null,
+        "timestamp": 1771907220.0
+    },
+    {
         "title_fa": "ترامپ: یک فرمانده ارشد مخالف جنگ با ایران نیست و فکر می‌کند جنگ «به‌راحتی پیروز می‌شود»",
         "title_en": "Trump: Top general doesn’t oppose Iran war, thinks it would be ‘easily won’",
         "summary": [
@@ -286,6 +322,24 @@
         "clean_url": "https://www.msn.com/en-in/news/world/iran-us-tensions-live-updates-trump-says-would-rather-have-deal-before-issuing-very-bad-day-warning-for-iran/ar-AA1WVW0z",
         "image": "http://www.bing.com/th?id=OVFT.Lb7kEFPFVMq5ss-IMtChJy&pid=News",
         "timestamp": 1771870445.0
+    },
+    {
+        "title_fa": "ترامپ می‌گوید فرمانده ارشد پیروزی آسان علیه ایران را پیش‌بینی کرده؛ او در جلسات خصوصی خلاف آن را می‌گوید",
+        "title_en": "Trump Says Top General Predicts Easy Victory Over Iran; He Says Otherwise in Private",
+        "summary": [
+            "گزارش نیویورک‌تایمز می‌گوید دونالد ترامپ در اظهارات علنی ادعا کرده است که ژنرال دن کِین، رئیس کمیته رؤسای ستاد مشترک، پیروزی «آسان» بر ایران را پیش‌بینی کرده؛ اما در جلسات ارشد کاخ سفید، کِین به رئیس‌جمهور دیدگاهی متفاوت ارائه کرده است.",
+            "این شکاف بین پیام علنی و محتوای جلسات خصوصی نشان‌دهنده سردرگمی راهبردی در واشنگتن است که می‌تواند به محاسبات اشتباه، تشدید گفتار تهاجمی یا فشارهای سیاسی-نظامی منجر شود.",
+            "مستندات مقاله نشانه‌ای از تأثیر مستقیم بر اعتراضات داخلی یا وضعیت اقتصادی ایران ارائه نمی‌دهد، اما چنین لفاظی‌هایی می‌تواند به بهانه‌ای برای افزایش فشار خارجی تبدیل شود و به تضعیف بیشتر توانایی حکومت در مدیریت بحران‌ها بینجامد."
+        ],
+        "impact": "تناقض میان پیام علنی و هشدارهای خصوصی، ریسک محاسباتی را بالا می‌برد و احتمال افزایش فشارهای خارجی علیه ایران را بیشتر می‌کند، بی‌آنکه مقاله دلیلی بر فروپاشی داخلی ارائه دهد.",
+        "tag": "تناقض",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/23/us/politics/general-caine-iran-strikes-trump.html",
+        "clean_url": "https://www.nytimes.com/2026/02/23/us/politics/general-caine-iran-strikes-trump.html",
+        "image": "http://www.bing.com/th?id=OVFT.RjpMx7c5gs1yu_65mM-tgS&pid=News",
+        "timestamp": 1771870080.0
     },
     {
         "title_fa": "ترامپ دوباره در آستانه حمله به ایران؛ برنامه هسته‌ای که ادعا می‌کند «نابود» شده هدف مناقشه",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUh5MUZnRi1zaDQxdEVJaldWZ0Z3RTdzdWp1czRyTko2aFZQd0dZRkpKSTFLMk8wODRzX2VRdVNneFdGSFg5Uk9rd2QxYS11eGJHZWlyNXcteXhxbGlZTDdFZU5tRmlBdHU1WUxUWGhBZ09CdWRWalRlNXk5T2JfZzgzMjFxTG95bDF6ZWdqUXZHbEhlN093SlFyUm51LVdwYTlqbHdIS2tCZW1MUGFNMHB1NDNoRUlOY2x5QQ",
         "image": null,
         "timestamp": 1771412813.0
-    },
-    {
-        "title_fa": "«قبل از پرواز یک‌بار دیگر فکر کنید»: کارشناس هشدار می‌دهد که پس از گفتگوهای ژنو احتمال درگیری با ایران «بسیار نزدیک‌تر» شده است",
-        "title_en": "'I would think twice about flying': Iran conflict 'much closer' post Geneva talks, expert warns",
-        "summary": [
-            "یک کارشناس در گزارش جی‌پست هشدار داده که درپی گفتگوهای ژنو خطر وقوع درگیری با ایران به‌مراتب نزدیک‌تر شده است.",
-            "او به‌طور خاص ریسک امنیتی خطوط هوایی و ایمنی پروازها را برجسته کرده و گفته است مسافران باید «دوبار فکر کنند» قبل از سوار شدن به هواپیما.",
-            "متن خبر رابطه علّی مستقیم یا شواهد مفصل درباره عوامل مؤثر را ارائه نمی‌دهد؛ هشدارها بیشتر بر افزایش احتمال تنش منطقه‌ای مبتنی‌اند."
-        ],
-        "impact": "هشدار کارشناس می‌تواند ظرف کوتاه‌مدت به افزایش احتیاط در حمل‌ونقل هوایی و تقویت نگرانی‌ها درباره تشدید تنش‌های منطقه‌ای منجر شود.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZVlnTlJPaVFUMXNnckk4LVlqUUdJaW12U3ZjRU1QTFgweklXTERjVHZlQzhkUlBVWXRlY2lVVkt6VkZIdkxXSEp2MDEwLWZSWTZiX3RPVWVpSGF2WnBRYjhTdFBKbzE3X3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZVlnTlJPaVFUMXNnckk4LVlqUUdJaW12U3ZjRU1QTFgweklXTERjVHZlQzhkUlBVWXRlY2lVVkt6VkZIdkxXSEp2MDEwLWZSWTZiX3RPVWVpSGF2WnBRYjhTdFBKbzE3X3c",
-        "image": null,
-        "timestamp": 1771411558.0
-    },
-    {
-        "title_fa": "جی‌دی ونس: ایران خطوط قرمز آمریکا را در مذاکرات هسته‌ای نخواهد پذیرفت",
-        "title_en": "JD Vance: Iran will not accept US red lines in nuclear talks",
-        "summary": [
-            "اظهارنظر جی‌دی ونس (منبع: جروزالم پست)؛ او می‌گوید ایران حاضر به پذیرش «خطوط قرمز» تعیین‌شده توسط آمریکا در مذاکرات هسته‌ای نیست.",
-            "این موضع نشان‌دهنده سخت‌تر شدن فضای مذاکرات و افزایش احتمال طولانی‌شدن گفتگوها و تداوم بن‌بست دیپلماتیک است؛ در کوتاه‌مدت راه‌حل‌های فنی یا سیاسی توافق را پیچیده‌تر می‌کند.",
-            "مقاله به‌طور مستقیم به تأثیرات داخلی یا تحریم‌ها اشاره نکرده؛ با این حال، اگر فشارهای خارجی و تحریم‌ها ادامه یابند، این وضعیت می‌تواند ساختار بقای رژیم را از نظر اقتصادی و سیاسی مشروطاً تضعیف کند—اما شواهد مستقیم در متن گزارش وجود ندارد."
-        ],
-        "impact": "اظهارنظر ونس ریسک پیچیده‌تر شدن روند مذاکرات هسته‌ای را افزایش می‌دهد و احتمال تداوم فشارهای بین‌المللی و بن‌بست سیاسی را بالا می‌برد.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRk5GWjh0Ti01cWhwRFZrUTZURlFBMy1EZTRrYWJKdEVKOXNtdXRlUVdod3FFYjg3cVg1S3VwTmdaVFFuMUlKaUd3N3ZOcTc2a0t1aVNlSFh6RXJycmJEZDBGWWpMNWEzTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRk5GWjh0Ti01cWhwRFZrUTZURlFBMy1EZTRrYWJKdEVKOXNtdXRlUVdod3FFYjg3cVg1S3VwTmdaVFFuMUlKaUd3N3ZOcTc2a0t1aVNlSFh6RXJycmJEZDBGWWpMNWEzTFE",
-        "image": null,
-        "timestamp": 1771409826.0
-    },
-    {
-        "title_fa": "ترامپ به آستانه جنگی بزرگ با ایران نزدیک‌تر می‌شود",
-        "title_en": "Trump moves closer to a major war with Iran",
-        "summary": [
-            "تیتر نشان می‌دهد خطر تقابل نظامی مستقیم میان آمریکا و ایران افزایش یافته و حرکت ترامپ وضعیت را به سمت درگیری بزرگ‌تری سوق می‌دهد.",
-            "افزایش احتمال جنگ می‌تواند فشارهای خارجی و تحریم‌ها را تشدید کند و به‌طور ساختاری ثبات سیاسی و اقتصادی رژیم را تضعیف نماید.",
-            "هر تشدید نظامی بالقوه بار اقتصادی و اجتماعی بر مردم را سنگین‌تر می‌کند و احتمال گسترش نارضایتی و اختلالات داخلی را بالا می‌برد."
-        ],
-        "impact": "خطر فوری تشدید جنگ منطقه‌ای که ثبات سیاسی-اقتصادی ایران را تسریعاً فرسایش می‌دهد و فضای استراتژیک را علیه رژیم سخت‌تر می‌کند.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpXeDVxTU1STEhLVG41YkROQTAtZEdPMW40eFdrbmE2LUlFX2l4UXk3Njd4dWk4VndCM3JiS0t2TUN4RHhrdVVxaE9xM29XQ1dnVEdvdl9qSG94OHNOOWx1ZjlMV2N0OGZZX1FBVkFLNDkyaUhadkVlZ25ObkhOV2tjQ3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFpXeDVxTU1STEhLVG41YkROQTAtZEdPMW40eFdrbmE2LUlFX2l4UXk3Njd4dWk4VndCM3JiS0t2TUN4RHhrdVVxaE9xM29XQ1dnVEdvdl9qSG94OHNOOWx1ZjlMV2N0OGZZX1FBVkFLNDkyaUhadkVlZ25ObkhOV2tjQ3c",
-        "image": null,
-        "timestamp": 1771408893.0
     }
 ]
