@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "۷ کارشناس درباره خطر گسترش جنگ با ایران",
+        "title_en": "7 Experts on the Risk of a Wider War with Iran",
+        "summary": [
+            "پلیتیكو دیدگاه هفت کارشناس را درباره احتمال گسترش درگیری با ایران گردآوری کرده؛ تمرکز مقاله بر سناریوهای احتمالی و نقطه‌های خطر است.",
+            "مقاله به سناریوهایی اشاره می‌کند که می‌تواند منجر به تعمیم درگیری شود—از جمله اشتباه محاسباتی و تشدید عملیات نیابتی—که ریسک تبدیل یک درگیری محدود به منازعه‌ای regional را افزایش می‌دهد.",
+            "گسترش درگیری در کوتاه‌مدت فشارهای بین‌المللی و احتمال تحریم‌های بیشتر را به دنبال خواهد داشت و مخاطرات امنیتی و اقتصادی رژیم را افزایش می‌دهد."
+        ],
+        "impact": "اگر این ریسک‌ها محقق شوند، تشدید نظامی به‌طور مستقیم ثبات سیاسی و اقتصادی رژیم را تضعیف و فشارهای امنیتی و بین‌المللی بر تهران را شدت می‌بخشد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Politico",
+        "url": "https://www.msn.com/en-us/news/world/7-experts-on-the-risk-of-a-wider-war-with-iran/ar-AA1WZ7tI",
+        "clean_url": "https://www.msn.com/en-us/news/world/7-experts-on-the-risk-of-a-wider-war-with-iran/ar-AA1WZ7tI",
+        "image": null,
+        "timestamp": 1771952828.0
+    },
+    {
+        "title_fa": "نگرانی ایرانیان از تقویت حضور نظامی آمریکا هم‌زمان با نزدیک شدن دور آخر مذاکرات با ایالات متحده",
+        "title_en": "Iranians worry over American military buildup as next, last-chance round of talks with the US nears",
+        "summary": [
+            "تیتر خبر نشان می‌دهد که عمومی از تقویت نیروی نظامی آمریکا نگران است؛ این تحرک نظامی در آستانه «دور آخر» مذاکرات، ظرفیت‌های فشار واشنگتن را در میز مذاکره افزایش می‌دهد و فضای تصمیم‌گیری مقام‌های رژیم را تنگ‌تر می‌کند.",
+            "از منظر فشار خارجی و تحریم‌ها: تقویت نظامی-دیپلماتیک آمریکا می‌تواند اثر تضعیف ساختاری بر رژیم داشته باشد — فشارهای خارجی ترکیبی با محدودیت دسترسی به بازارها و سرمایه، هزینه بقا برای حاکمیت را بالا می‌برد و احتمال کندی یا توقف جریان‌های اقتصادی حیاتی را افزایش می‌دهد.",
+            "ابعاد داخلی: حتی بدون جزئیات خبری، بازتاب نگرانی عمومی نشان‌دهنده خشم و نارضایتی ناشی از سوءمدیریت اقتصادی و شکست سیاست‌گذاری است؛ این وضعیت احتمال تشدید اعتراضات محلی، فرار سرمایه و ضعف مشروعیت حکمرانان را بالا می‌برد."
+        ],
+        "impact": "نتیجهٔ محتمل این مجموعه فشارها افزایش ریسک بی‌ثباتی سیاسی و اقتصادی در کوتاه‌مدت است که توان نظام را برای اتکا به ابزارهای داخلی برای کنترل اوضاع تضعیف می‌کند.",
+        "tag": "فشار",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3",
+        "clean_url": "https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3",
+        "image": null,
+        "timestamp": 1771952520.0
+    },
+    {
+        "title_fa": "آمریکا بار دیگر اعلام کرد حملات ۲۰۲۵ «برنامه هسته‌ای ایران را نابود کرد»",
+        "title_en": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
+        "summary": [
+            "واشنگتن مجدداً ادعا کرده که حملات سال ۲۰۲۵ برنامه هسته‌ای ایران را «نابود» کرده؛ بازتأکیدی که ماهیت نظامی و قاطع عملیات را برجسته می‌کند.",
+            "این ادعا نشان می‌دهد آمریکا حاضر به به‌کارگیری زور مستقیم علیه تاسیسات حیاتی رژیم است؛ چنین ضربه‌هایی ساختار بازدارندگی و اهرم‌های دیپلماتیک حکومت را تضعیف می‌کند و فشار خارجی روی رژیم را تشدید می‌نماید.",
+            "در داخل، حتی اگر ادعا کاملاً اثبات‌پذیر نباشد، خودِ وقوع یا موفقیتِ چنین عملیات‌هایی سندی از ناتوانی حکومت در حفاظت از منافع حیاتی است که می‌تواند بی‌اعتمادی عمومی را تشدید و فرصت‌های سیاسی برای اپوزیسیون را افزایش دهد؛ هم‌زمان خطر تشدید عملیات نیابتی و پاسخ‌های منطقه‌ای را بالا می‌برد."
+        ],
+        "impact": "بازتأکید آمریکا ریسک تشدید نظامی منطقه‌ای و فرسایش بیشتر مشروعیت داخلی رژیم را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZFX1QwLTd6VUxLc1ViVzExb0h3SENpWGVCcUpPMFV6QmJvbEc4bmk3QzBJMEpZU3F3bzVBRzg5TFZXNFR1Mm5Pek1qenRIMldjNTB4ZndObmNJNjV3QzFNZ2NwNmdiVGVQYnYzWVpXTVRGeThMclJJTFlqeEx3Zm9sWGh1aWZVZGROYXZoX0RGUmdrT2Q3RzNyYXVNVjYySDljT2dB0gGrAUFVX3lxTE1VU3VTQTNuX1VmMEU5T0YxN1pzeEZmU21KWWtKRVpZeFR3YS1iSXNzSXg1OXlUNFRrdHBhSU9qdHBJM2lKX0g5cV9WVldvTnNhSW84YlIzbjh5OXZHcHN1ZGNkZThXQm9EV2k0T21Bck5fVFNsRVlkVlIyR3VjY2NTbEdwZ2g2M1JpZEFaNnlic0lUci1FZEtFTWNqaFkySVEtb2NRbUFjOEZJaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZFX1QwLTd6VUxLc1ViVzExb0h3SENpWGVCcUpPMFV6QmJvbEc4bmk3QzBJMEpZU3F3bzVBRzg5TFZXNFR1Mm5Pek1qenRIMldjNTB4ZndObmNJNjV3QzFNZ2NwNmdiVGVQYnYzWVpXTVRGeThMclJJTFlqeEx3Zm9sWGh1aWZVZGROYXZoX0RGUmdrT2Q3RzNyYXVNVjYySDljT2dB0gGrAUFVX3lxTE1VU3VTQTNuX1VmMEU5T0YxN1pzeEZmU21KWWtKRVpZeFR3YS1iSXNzSXg1OXlUNFRrdHBhSU9qdHBJM2lKX0g5cV9WVldvTnNhSW84YlIzbjh5OXZHcHN1ZGNkZThXQm9EV2k0T21Bck5fVFNsRVlkVlIyR3VjY2NTbEdwZ2g2M1JpZEFaNnlic0lUci1FZEtFTWNqaFkySVEtb2NRbUFjOEZJaw",
+        "image": null,
+        "timestamp": 1771951026.0
+    },
+    {
         "title_fa": "طرح ترامپ برای حمله به ایران خطرات عمده‌ای دارد — و ارتش آمریکا از آن آگاه است",
         "title_en": "Trump’s plan for strikes on Iran carries major risks – and the US military knows it",
         "summary": [
@@ -180,6 +234,42 @@
         "timestamp": 1771928671.0
     },
     {
+        "title_fa": "چرا اسرائیل خواستار محدودیت برد در برنامه موشک‌های بالستیک ایران است",
+        "title_en": "Why Israel Advocates Range Limitations On Iran’s Ballistic Missiles",
+        "summary": [
+            "نتانیاهو خواستار گنجاندن محدودیت‌های قابل‌توجه روی برد موشک‌های بالستیک ایران در هر توافق احتمالی جدیدی است که ترامپ ممکن است قبول کند.",
+            "محدودیت برد، فشار فنی-استراتژیک مستقیم بر توانایی تهران برای تهدید اهداف منطقه‌ای و حفظ عمق بازدارندگی ایجاد می‌کند.",
+            "اضافه شدن چنین بندی به توافق، ابزارهای فشار و امتیازگیری بین‌المللی را علیه دولت ایران تقویت می‌کند و موقعیت مذاکراتی حکومت را تضعیف می‌سازد."
+        ],
+        "impact": "گنجاندن محدودیت‌های برد در توافق جدید، فشار خارجی ساختاری بر توان موشکی ایران وارد می‌کند و ظرفیت بازدارندگی و نفوذ منطقه‌ای حکومت را کاهش خواهد داد.",
+        "tag": "موشک",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/pauliddon/2026/02/24/why-israel-advocates-range-limitations-on-irans-ballistic-missiles/",
+        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/02/24/why-israel-advocates-range-limitations-on-irans-ballistic-missiles",
+        "image": "http://www.bing.com/th?id=OVFT.yD3_ewBEpUow_EMfwfQwjy&pid=News",
+        "timestamp": 1771928640.0
+    },
+    {
+        "title_fa": "هشدار به دانشجویان برای رعایت «خطوط قرمز» پس از اعتراضات",
+        "title_en": "Iran says students must respect 'red lines' after protests",
+        "summary": [
+            "دولت ایران پس از اعتراضات اخیر از دانشجویان خواسته است «خطوط قرمز» را رعایت کنند؛ بیانیه‌ای روشن درباره محدودسازی فعالیت‌های دانشگاهی و اعتراضات.",
+            "این هشدار نشان‌دهنده تلاش برای مهار مراکز اعتراض در دانشگاه‌ها و افزایش کنترل امنیتی است تا از گسترش ناآرامی‌ها جلوگیری شود.",
+            "اقدام، بازتاب شکست‌های مدیریتی و نگرانی از تشدید نارضایتی اجتماعی است؛ سرکوب یا فشار افزوده به احتمال زیاد نارضایتی را فرسایشی‌تر می‌کند."
+        ],
+        "impact": "این موضع‌گیری نمایانگر استیصال رژیم در مدیریت بحران‌های داخلی است: تشدید کنترل بر دانشجویان ممکن است مشروعیت حکمرانی را بیش‌تر تضعیف کند و در مقابل فشارهای بین‌المللی و پیامدهای اقتصادی آسیب‌پذیری ساختاری را کاهش نمی‌دهد.",
+        "tag": "سرکوب",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-us-protests-trump-warning-students-5950446",
+        "clean_url": "https://www.channelnewsasia.com/world/iran-us-protests-trump-warning-students-5950446",
+        "image": null,
+        "timestamp": 1771927860.0
+    },
+    {
         "title_fa": "تصاویر ماهواره‌ای افزایش سریع هواپیماهای نظامی آمریکا در نزدیکی ایران را نشان می‌دهد",
         "title_en": "Satellite imagery shows rapid increase of U.S. military planes near Iran",
         "summary": [
@@ -214,6 +304,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/exclusive-iran-nears-deal-to-buy-supersonic-anti-ship-missiles-from-china/ar-AA1WXKIT",
         "image": null,
         "timestamp": 1771926295.0
+    },
+    {
+        "title_fa": "چین در حال ارسال موشک‌های CM‑302 به ایران برای هدف‌گیری ناوهای هواپیمابر",
+        "title_en": "China to send Iran aircraft carrier killing missiles",
+        "summary": [
+            "رویترز گزارش داده مذاکرات پیشرفته ایران و چین برای خرید موشک کروز فوق‌صوت CM‑302 — طراحی‌شده برای آسیب‌رساندن به کشتی‌های جنگی، با سرعت تا چهار برابر صوت و محمولهٔ نزدیک به یک‌چهارم تن — جریان دارد و پس از جنگ ۱۲ روزه با اسرائیل تشدید شده است.",
+            "نقش چین به‌عنوان تسهیل‌گر: فروش این سامانه‌ها پکن را به عاملی کلیدی در تقویت قابلیت‌های نظامی رژیم تبدیل می‌کند و عملاً به افزایش ظرفیت بقا و بازدارندگی جمهوری اسلامی می‌انجامد.",
+            "پیامدهای خارجی و داخلی: این خرید می‌تواند فشار غربی‌ها و ریسک تحریم‌ها را بالا ببرد؛ در داخل، تخصیص منابع به تسلیحات سنگین به جای اصلاحات اقتصادی یا پاسخ به مطالبات عمومی احتمالاً نارضایتی‌ها را تشدید خواهد کرد."
+        ],
+        "impact": "در کوتاه‌مدت قابلیت‌های تهاجمی رژیم را افزایش می‌دهد ولی در بلندمدت فشارهای بین‌المللی و هزینه‌های نظامیِ افزوده اقتصاد سیاسی را تضعیف و پایه‌های مشروعیت رژیم را شکننده‌تر خواهد کرد.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/china-send-iran-aircraft-carrier-155206523.html",
+        "clean_url": "https://www.yahoo.com/news/articles/china-send-iran-aircraft-carrier-155206523.html",
+        "image": "http://www.bing.com/th?id=OVFT.nqI3NVCr6M2KhDRxga9jxy&pid=News",
+        "timestamp": 1771924740.0
     },
     {
         "title_fa": "مروری بر جدول زمانی طولانی و پرتنش تنش‌های هسته‌ای ایران در آستانه مذاکرات با آمریکا",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-strike-tehran-ayatollah-ali-khamenei-negotiations-geneva-nuclear-deal-latest-news-101771469276338.html",
         "image": null,
         "timestamp": 1771463040.0
-    },
-    {
-        "title_fa": "ترامپ هشدار داد؛ رزمایش مشترک ایران و روسیه همزمان با نزدیک شدن ناوبندر آمریکایی دوم به خاورمیانه",
-        "title_en": "Trump warns of 'bad things' if Iran doesn't make a deal, as US carrier nears Mideast",
-        "summary": [
-            "ایران رزمایش سالانه مشترک با روسیه برگزار کرد و همزمان یک ناوبندر هوایی آمریکایی دیگر به خاورمیانه نزدیک می‌شود؛ هر دو طرف پیام‌هایی که آمادگی برای رویارویی را نشان می‌دهد ارسال کردند.",
-            "ترامپ هشدار داد «چیزهای بد» رخ خواهد داد اگر ایران توافق نکند؛ حضور نیروی دریایی آمریکا فشار خارجی و امکان تشدید نظامی را بالا می‌برد.",
-            "روابط نظامی با روسیه در کوتاه‌مدت قابلیت‌های دفاعی و سیاسی رژیم را تقویت می‌کند و به‌عنوان نیروی کمکی استراتژیک عمل می‌کند؛ در عین حال تشدید تنش فشار اقتصادی و سیاسی بیشتری بر ساختار حکومت وارد می‌آورد."
-        ],
-        "impact": "ترکیب مانور روسیه-ایران و تقویت حضور نظامی آمریکا احتمال تشدید رویارویی منطقه‌ای را بالا می‌برد و همزمان وابستگی رژیم به حامیان خارجی و آسیب‌پذیری داخلی آن را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-warns-of-bad-things-if-iran-doesnt-make-a-deal-as-us-carrier-nears-mideast/ar-AA1WE8vL",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-warns-of-bad-things-if-iran-doesnt-make-a-deal-as-us-carrier-nears-mideast/ar-AA1WE8vL",
-        "image": "http://www.bing.com/th?id=OVFT.Mf8ls2ZANtJUfIyvcN7oMC&pid=News",
-        "timestamp": 1771459482.0
-    },
-    {
-        "title_fa": "گزینه‌های نظامی ترامپ در سایه ترس از جنگ با ایران: چهار سناریو",
-        "title_en": "Trump’s Military Options As Iran War Feared: Four Scenarios",
-        "summary": [
-            "نیوزویک چهار سناریوی نظامی احتمالی را بررسی می‌کند و یک تحلیلگر سیا استراتژی احتمالی ترامپ را این‌گونه توصیف کرده است: «ضربات ادامه خواهد داشت تا زمانی که پیشنهاد شما بهتر شود.»",
-            "وجود چند گزینه نظامی نشان می‌دهد که راه‌حل نظامی می‌تواند به سرعت به اشتباه محاسباتی و تشدید بحران بینجامد؛ بازیگری که به گزینه‌های متعدد دسترسی دارد، انعطاف‌پذیری را به قیمت ریسک افزایش می‌دهد.",
-            "ادامه فشارها و تهدیدات نظامی به همراه تحریم‌ها ساختار اقتصادی و سیاسی رژیم را ضعیف‌تر می‌کند و می‌تواند نارضایتی‌های عمومی موجود را تشدید کند؛ این فشارها بیش از همه ضعف مدیریت و شکنندگی نهادهای حاکم را برجسته می‌سازد."
-        ],
-        "impact": "بستن مسیر دیپلماسی و پیشبرد گزینه‌های نظامی، شانس محاسبه غلط و تشدید بی‌ثباتی داخلی و منطقه‌ای را به طور قابل‌توجهی افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.5,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/trump-iran-war-military-strikes-nuclear-deal-diplomacy-11543754",
-        "clean_url": "https://www.newsweek.com/trump-iran-war-military-strikes-nuclear-deal-diplomacy-11543754",
-        "image": null,
-        "timestamp": 1771459200.0
-    },
-    {
-        "title_fa": "کاخ سفید: ایران در حالی که توان نظامی‌اش را افزایش می‌دهد، بهتر است توافق را بپذیرد",
-        "title_en": "White House says Iran would be ‘wise’ to take deal amid military buildup",
-        "summary": [
-            "کاخ سفید به طور علنی گفته است ایران «عاقلانه» است که توافق را بپذیرد، این پیشنهاد هم‌زمان با اشاره به تقویت توان نظامی تهران مطرح شده است.",
-            "این لحنی از فشار دیپلماتیک است که واشینگتن از آن به‌عنوان اهرمی برای محدود کردن گزینه‌های راهبردی رژیم استفاده می‌کند؛ چنین فشار خارجی ساختار سیاسی را آسیب‌پذیرتر می‌سازد.",
-            "خبر به صراحت به وضعیت اقتصادی یا اعتراضات داخلی اشاره نمی‌کند، اما ترکیب فشار بین‌المللی و نمایش نظامی معمولاً بازتاب ناکارآمدی مدیریتی و تلاش رژیم برای منحرف‌سازی افکار عمومی است و می‌تواند نارضایتی‌ها را تشدید کند."
-        ],
-        "impact": "پیشنهاد توافق از سوی کاخ سفید در کنار نمایش نظامی می‌تواند ثبات سیاسی رژیم را تضعیف کند و ظرفیت آن برای بازسازی مشروعیت را محدود سازد.",
-        "tag": "فشار",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzNxR3htNUoyQXBhdF95VVhCVW5lbmUxSUlNUDBNV2E1bEprdWZldVVkd0hIRFpyUlFhRU5oelJ6Nk1aNHl1MHRNSDNsWF96XzI4TGRRbWtxek1LUFd4Wmlad2ZNQnhDeHN2XzBlX0JKTllfajdyY0x0TnlHYmJmSkRNQ3ZGRFFKOVhaSlNCZnJTemlOeHEwMjR0dVRQMlFBSTdtRURLRFRjZi1JYm9ueQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzNxR3htNUoyQXBhdF95VVhCVW5lbmUxSUlNUDBNV2E1bEprdWZldVVkd0hIRFpyUlFhRU5oelJ6Nk1aNHl1MHRNSDNsWF96XzI4TGRRbWtxek1LUFd4Wmlad2ZNQnhDeHN2XzBlX0JKTllfajdyY0x0TnlHYmJmSkRNQ3ZGRFFKOVhaSlNCZnJTemlOeHEwMjR0dVRQMlFBSTdtRURLRFRjZi1JYm9ueQ",
-        "image": null,
-        "timestamp": 1771458525.0
-    },
-    {
-        "title_fa": "آخرهفته‌ای که خاورمیانه را تغییر می‌دهد: آمادگی حمله آمریکا و گزینه‌های ایران",
-        "title_en": "A weekend that could change the Middle East: Trump’s final call, US military buildup and Iran’s options | Explained",
-        "summary": [
-            "آمادگی نظامی سریع آمریکا: نیروی دریایی ایالات متحده دو ناو هواپیمابر بزرگ (USS Abraham Lincoln و USS Gerald R. Ford)، جنگنده‌های پیشرفته، ناوشکن‌های موشک‌انداز و تانکرهای سوخت‌رسان را به منطقه گسیل کرده‌اند و منابع می‌گویند فرمان حمله می‌تواند ظرف روزهای آینده صادر شود؛ این حجم از تجمیع نیرو احتمال رویارویی مستقیم را به شکل چشمگیری افزایش داده است.",
-            "فشار خارجی و دیپلماسی معلق: مذاکرات هسته‌ای عملاً در بن‌بست قرار دارد هرچند جلساتی در ژنو با میانجی‌گری عمان و حضور استیو ویتکوف و جارد کاشنر روی «اصول راهنما» پیشرفت محدودی نشان داده‌اند؛ این همزمانی فشار نظامی و دیپلماتیک ساختار بقا و توان اقتصادی-سیاسی رژیم را تضعیف می‌کند و فضای تصمیم‌گیری را تنگ می‌کند.",
-            "ریسک‌های داخلی و مدیریت ناکارا: هرچند گزارش به اعتراضات داخلی اشاره مستقیم نمی‌کند، اما ترکیب تهدید نظامی و فرسایش دیپلماتیک، توان مدیریت اقتصادی و سیاسی حکومت را کاهش می‌دهد و احتمال تشدید نارضایتی عمومی در صورت اختلالات اقتصادی یا شکست دیپلماتیک را بالا می‌برد."
-        ],
-        "impact": "پیامد فوری: افزیش احتمال تقابل نظامی مستقیم و فشار دیپلماتیک ثبات سیاسی-اقتصادی حکومت را در کوتاه‌مدت به‌طرز قابل‌توجهی تضعیف می‌کند.",
-        "tag": "تصعید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/a-weekend-that-could-change-the-middle-east-trump-s-final-call-us-military-buildup-and-iran-s-options-explained-article-13835551.html",
-        "clean_url": "https://www.moneycontrol.com/world/a-weekend-that-could-change-the-middle-east-trump-s-final-call-us-military-buildup-and-iran-s-options-explained-article-13835551.html",
-        "image": null,
-        "timestamp": 1771457820.0
-    },
-    {
-        "title_fa": "کاخ سفید: دلایل زیادی برای حمله به ایران وجود دارد؛ برای تهران عاقلانه است که توافق کند",
-        "title_en": "White House: Many arguments for a strike on Iran, they’d be wise to make a deal",
-        "summary": [
-            "کاخ سفید صراحتاً می‌گوید که دلایل متعددی برای اجرای حمله علیه ایران وجود دارد، اما در عین حال به تهران توصیه کرده‌اند که برای جلوگیری از تشدید، وارد معامله شود.",
-            "بیانیه واشنگتن عملاً فشار دیپلماتیک و تهدید نظامی را برجسته می‌کند؛ چنین اظهارنظری می‌تواند به تقویت اهرم‌های بین‌المللی علیه رژیم منجر شود و فضای تحریمی/فشار خارجی را تشدید کند.",
-            "برای حکومت ایران این پیام معانی روشنی دارد: فضای مانور سیاسی و اقتصادی تنگ‌تر می‌شود و در صورت عدم مدیریت کارآمد، این فشارها به تضعیف بیشتر مشروعیت و تشدید نارضایتی‌های اجتماعی می‌انجامد."
-        ],
-        "impact": "این اظهارنظر احتمال تشدید رویارویی را بالا می‌برد و همزمان توان چانه‌زنی تهران را کاهش داده و فشارها بر ثبات رژیم را تشدید می‌کند.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": 0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWtBRWNscEJTUnZPaDJrSk9oQ2NUcUpPN1FxdzR5TXVzb05zblRpd0c0QkhNQnJUZmZadGxSdW8zaWt1VzN4SjFhS1RrRFNYNUQ1bHBXZW5VTG5XcUhoMlVoWkF5ME1lSWVKRHZOVjA0NmE0b3lncjYtbHlTMl9XU3FIX2lTZXg2QWlQR3o1UVR5UHF1YkZteWU1V28tcVhGSFdTNGQ1WWp2UFHSAbABQVVfeXFMTnhoLWhvWHhxc1I4UzZjWHl4b0gyNVU5dXhRRDlORnFtYXJXZmV1VE5uS0lrclhsOWt2eExZTkYzZm9uajRvVWV1T09KendYMUpZWGRkVjB2VXUyOXh4X1hXUGxxdUZHbUpfbWdIZHdsMkIwaTdvNWxkNHJNTWFBYlFsTHJNc01hQ0ZWeGplYWp6VEs3Uko5dTFENDdvQWl2ZjVoY0FCLWZHYlhzZUFDaVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWtBRWNscEJTUnZPaDJrSk9oQ2NUcUpPN1FxdzR5TXVzb05zblRpd0c0QkhNQnJUZmZadGxSdW8zaWt1VzN4SjFhS1RrRFNYNUQ1bHBXZW5VTG5XcUhoMlVoWkF5ME1lSWVKRHZOVjA0NmE0b3lncjYtbHlTMl9XU3FIX2lTZXg2QWlQR3o1UVR5UHF1YkZteWU1V28tcVhGSFdTNGQ1WWp2UFHSAbABQVVfeXFMTnhoLWhvWHhxc1I4UzZjWHl4b0gyNVU5dXhRRDlORnFtYXJXZmV1VE5uS0lrclhsOWt2eExZTkYzZm9uajRvVWV1T09KendYMUpZWGRkVjB2VXUyOXh4X1hXUGxxdUZHbUpfbWdIZHdsMkIwaTdvNWxkNHJNTWFBYlFsTHJNc01hQ0ZWeGplYWp6VEs3Uko5dTFENDdvQWl2ZjVoY0FCLWZHYlhzZUFDaVE",
-        "image": null,
-        "timestamp": 1771455240.0
-    },
-    {
-        "title_fa": "اخبار تازه ترامپ: مذاکرات با ایران در وضعیت نامشخص، تأمین بودجه DHS در بن‌بست",
-        "title_en": "Latest Trump news: Iran talks face uncertainty, DHS funding remains at impasse",
-        "summary": [
-            "مذاکراتی که به ایران ارتباط دارد در حالت عدم قطعیت قرار دارد؛ خبر اشاره به پیشرفت مشخص یا توافق نداشته است.",
-            "تصمیم‌گیری درباره بودجه وزارت امنیت داخلی آمریکا (DHS) در بن‌بست مانده و تأمین مالی این نهاد به تعویق افتاده است.",
-            "پیامدهای محتمل: استمرار بی‌نتیجه ماندن مذاکرات می‌تواند به حفظ یا تشدید فشارها و تحریم‌های خارجی منجر شود و بن‌بست بودجه‌ای در واشنگتن کارایی عملیاتی DHS را کاهش دهد."
-        ],
-        "impact": "تداوم عدم‌قطعیت دیپلماتیک در کنار بن‌بست بودجه‌ای داخلی احتمال ادامه فشار خارجی و تشدید ریسک‌های اقتصادی-سیاسی برای ایران را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoS1hmMUJiWi1DRGFCSmduQ3Q1enJBNExQR052LVg2cmRsVGZ6UVY2RE9hNXNySTUzRW9ZY0JVdjd5N2swYnYxWWRaRTA3R1BvSThENGIxNFMtNENNS2FiTHMyOE82WjFNSi16c3lrRFBGSWxQVzNDZEdMVVhudw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoS1hmMUJiWi1DRGFCSmduQ3Q1enJBNExQR052LVg2cmRsVGZ6UVY2RE9hNXNySTUzRW9ZY0JVdjd5N2swYnYxWWRaRTA3R1BvSThENGIxNFMtNENNS2FiTHMyOE82WjFNSi16c3lrRFBGSWxQVzNDZEdMVVhudw",
-        "image": null,
-        "timestamp": 1771453080.0
     }
 ]
