@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "ایرانیان زیرِ نقابِ روزمرگی برای جنگ آماده می‌شوند",
+        "title_en": "Iranians Brace for War Beneath Veneer of Normalcy",
+        "summary": [
+            "مبادلات تهدید و دیپلماسی میان مقام‌های آمریکایی و ایرانی و مذاکرات غیرمستقیم پیش‌رو در ژنو به عنوان آخرین فرصت برای جلوگیری از درگیری، مردم را میان انتظار جنگ یا صلحِ هولناک قرار داده است.",
+            "شهروندان به‌طور پراکنده خود را آماده می‌کنند — بسته‌های اضطراری، خرید ژنراتورهای پشتیبان و برنامه‌ریزی برای فرار به مناطق روستایی یا خروج از کشور — که نشان‌دهنده فروپاشی پوشش امنیتی و ضعف زیرساخت‌ها است (ازدحام جاده‌ها در تجربهٔ قبلی درگیری نمونه‌ای آشکار).",
+            "ترس از تلافی‌جویی حکومتی و ناتوانی مردم در برنامه‌ریزی جمعی بازتابِ فروپاشی مدیریت بحران؛ این آشفتگی روانی و عملی، ضربه‌ای مستقیم به مشروعیت و کارآمدی رژیم وارد می‌کند."
+        ],
+        "impact": "فشار خارجی و تهدید به درگیری، همراه با ناتوانی دولت در حفاظت از شهروندان و زیرساخت‌ها، می‌تواند از طریق فرار جمعی، کاهشِ سرمایه و تشدید بی‌اعتمادی عمومی، ثبات سیاسی رژیم را به‌شدت تضعیف کند.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/24/world/middleeast/iran-preparations-war.html",
+        "clean_url": "https://www.nytimes.com/2026/02/24/world/middleeast/iran-preparations-war.html",
+        "image": null,
+        "timestamp": 1771937820.0
+    },
+    {
+        "title_fa": "ایران هم به دنبال حل و فصل است و هم برای جنگ آماده می‌شود",
+        "title_en": "Iran Signals It Seeks a Resolution, But Is Also Prepared for War",
+        "summary": [
+            "بیانیه: حکایت از سیگنال دوگانه—اعلام تمایل به حل و فصل در کنار نمایش آمادگی نظامی؛ این رفتار ابزار بازدارندگی و تجارت امتیاز در میدان دیپلماسی و مانور داخلی است.",
+            "فشارهای خارجی/تحریم‌ها (شرطی): اگر این موضع‌گیری در بستر فشارهای بین‌المللی و تحریم‌ها قرار گرفته باشد، می‌تواند ساختارهای سیاسی-اقتصادی رژیم را بیشتر فرسوده کرده و ترجیح به استفاده از گزینه‌های نظامی را افزایش دهد.",
+            "ضعف مدیریتی داخلی: دوگانه‌گویی سیاستی نشانه ناتوانی در ارائه راه‌حل‌های مدیریتی و اقتصادی است؛ تمایل به نظامی‌سازی پاسخ‌ها ریسک تشدید نارضایتی عمومی و فرسایش مشروعیت را بالا می‌برد."
+        ],
+        "impact": "پیام همزمان «صلح‌طلبی» و «آمادگی برای جنگ» احتمال افزایش تنش منطقه‌ای، تشدید فشارهای اقتصادی-سیاسی بر رژیم و بالا رفتن خطر محاسبه اشتباه را تقویت می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Middle East Council on Global Affairs",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFB0ODUxWjRYWEJfNHpIWFlWX3IwWGs3RjlJMl9iVVcyTGVqZ0EzLUFTa0NybHQ0Q25hV2cyVG5VcGxBdHZNYWNDWkU3Ym8wLS1fTnhsOTM3bjRqZVM5d2FMajdDdE1DMUJsMWxubEx5YkV3WDZ5MG5WdFVpVFVMR1dYa05WVjFJZ3ZYZHJMWHRnVXBCYkk4ejhyUGN1UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFB0ODUxWjRYWEJfNHpIWFlWX3IwWGs3RjlJMl9iVVcyTGVqZ0EzLUFTa0NybHQ0Q25hV2cyVG5VcGxBdHZNYWNDWkU3Ym8wLS1fTnhsOTM3bjRqZVM5d2FMajdDdE1DMUJsMWxubEx5YkV3WDZ5MG5WdFVpVFVMR1dYa05WVjFJZ3ZYZHJMWHRnVXBCYkk4ejhyUGN1UQ",
+        "image": null,
+        "timestamp": 1771934730.0
+    },
+    {
+        "title_fa": "دولت لبنان از حزب‌الله خواست در صورت حمله آمریکا به ایران وارد درگیری نشود",
+        "title_en": "Lebanese government urges Hezbollah militant group to avoid getting involved if the US strikes Iran",
+        "summary": [
+            "یوسف رجّی، وزیر خارجه لبنان، در ژنو از حزب‌الله خواست که اگر آمریکا به ایران حمله کند وارد درگیری نشود و هشدار داد که اسرائیل ممکن است این‌بار زیرساخت‌های غیرنظامی از جمله فرودگاه بیروت را هدف قرار دهد.",
+            "ایران همراه با روسیه مانور نظامی برگزار کرد و هم‌زمان یک ناو هواپیمابر آمریکایی به منطقه نزدیک‌تر شده است؛ تمرین‌های روسیه را می‌توان به‌عنوان عاملی دانست که توان بازدارندگی تهران را تقویت و گزینه‌های آمریکا را پیچیده‌تر می‌کند.",
+            "لبنان از شرکای غربی خواسته تا به اسرائیل فشار بیاورند از حمله به زیرساخت‌های غیرنظامی خودداری کند؛ تجربه جنگ‌های ۲۰۰۶ و ۲۰۲۴ نشان داده درگیری با حزب‌الله تلفات گسترده و تضعیف مؤلفه‌های سیاسی-نظامی لبنان را در پی داشته و اسرائیل پس از آتش‌بس نوامبر ۲۰۲۴ حملات نزدیک‌به‌روزانه‌ای در لبنان انجام می‌دهد."
+        ],
+        "impact": "این وضعیت احتمال تقابل منطقه‌ای آمریکا و ایران را افزایش می‌دهد و حزب‌الله را در معرض انتخاب دشواری قرار می‌دهد — واکنش که می‌تواند به ضربات شدیدتر علیه زیرساخت‌های لبنان منجر شود یا انفعال که به تضعیف نفوذ ایران در لبنان بینجامد — در حالی که حمایت روسیه، فضای اجتناب از تشدید تمام‌عیار را محدودتر می‌کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://www.newsday.com/news/nation/hezbollah-iran-lebanon-us-israel-g04511",
+        "clean_url": "https://www.newsday.com/news/nation/hezbollah-iran-lebanon-us-israel-g04511",
+        "image": null,
+        "timestamp": 1771934520.0
+    },
+    {
         "title_fa": "اطلاعات اسرائیل: آمریکا تنها به اندازه پنج روز توان حمله فشرده به ایران دارد",
         "title_en": "Israeli intel said to assess that US only has enough firepower for 5 days of intense assault on Iran",
         "summary": [
@@ -16,6 +70,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUHRic1ZsenFTVTFBUkhUUzNZX3U3dzZYZWZkZDdGbU1uUTFTRkEtaVJmUXdIM0FtZ0dfRWVNNmc3d1d3RXNvYzNtNVdmblpVOXl3ZkY2VXNGODEtckRSTjJfSHdIcmN5M3F5N3BSakVranpDUU5fRmZaTENUS29KdDJMVVh2ZzBqLWlCUkxUZ0hveGdSWnRDcmRlRENybDZEV29mRDF5MHdFVWZ3UEVGTWJpWWJGNG1kNmxXRUFDdFJ2N0ZaaFk1VC0wR3QxRmdObXc1WGxnWFZLdnhsUXhR",
         "image": null,
         "timestamp": 1771933329.0
+    },
+    {
+        "title_fa": "اسرائیل به لبنان هشدار داد در صورت دخالت حزب‌الله در هر جنگ آمریکا و ایران، ضربه شدیدی خواهد زد",
+        "title_en": "Israel warns Lebanon it would hit hard if Hezbollah gets involved in any US-Iran war, Lebanese officials say",
+        "summary": [
+            "طبق گزارش مقام‌های لبنانی، اسرائیل به دولت لبنان هشدار داده که اگر حزب‌الله در هر جنگ احتمالی بین آمریکا و ایران وارد شود، خاک لبنان را هدف «ضربه شدید» قرار خواهد داد.",
+            "این هشدار عملاً لبنان را به‌عنوان ابزار بازدارندگی هدف قرار می‌دهد و پیام روشنی به حزب‌الله و مقامات لبنانی ارسال می‌کند که هر مداخله نیابتی هزینه مستقیم و فوری برای قلمرو لبنان خواهد داشت؛ نتیجه مستقیم افزایش ریسک نظامی و فشار منطقه‌ای است.",
+            "تشدید چنین تهدیدهایی می‌تواند تبعات اقتصادی و انسانی برای لبنان را تشدید کند و احتمالاً هزینه‌های سیاسی و امنیتی را برای بازیگران منطقه‌ای از جمله ایران بالا می‌برد؛ هرگونه گسترش درگیری به سرعت بار فشار بر دولت‌ها و زیرساخت‌ها را افزایش می‌دهد."
+        ],
+        "impact": "این هشدار، احتمال گسترش درگیری منطقه‌ای را افزایش داده و لبنان را در معرض ضربات نظامی مستقیم و پیامدهای اقتصادی-انسانی فوری قرار می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmdQd2hiQ2Q4MjRRLTJ1X3dSSTBQT19jX1FLYUVQUFZuWTUwTnpwdzNUNTFWdWpxMEJNR1R2MXNEcVhzSDg1ZmJTeldrdTFHdjBEOWswSFZwZURWQ1MtN25SemVkc1ZFSjEwUzFKaWZZVWp6ZkpIZjJJM2hidDN5WDNjMm9zSi1GSjAybjA2cnVfdFZJLWJ2YkF3R2FjeWFqVnVuVHVoVGpnOUFhOTI3V0RUVURpNlp1WjluYmk0V09NOFFrVUFWSzBQaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmdQd2hiQ2Q4MjRRLTJ1X3dSSTBQT19jX1FLYUVQUFZuWTUwTnpwdzNUNTFWdWpxMEJNR1R2MXNEcVhzSDg1ZmJTeldrdTFHdjBEOWswSFZwZURWQ1MtN25SemVkc1ZFSjEwUzFKaWZZVWp6ZkpIZjJJM2hidDN5WDNjMm9zSi1GSjAybjA2cnVfdFZJLWJ2YkF3R2FjeWFqVnVuVHVoVGpnOUFhOTI3V0RUVURpNlp1WjluYmk0V09NOFFrVUFWSzBQaw",
+        "image": null,
+        "timestamp": 1771933126.0
+    },
+    {
+        "title_fa": "ساعات سرنوشت‌ساز: پیشرفت در توافق هسته‌ای جدید یا شمارش معکوس تا حمله آمریکا؟",
+        "title_en": "Decisive hours: Progress on a new nuclear deal, or countdown to a US strike?",
+        "summary": [
+            "تیتر گزارش می‌دهد که مذاکرات هسته‌ای به نقطهٔ حساسی رسیده‌اند و دو مسیر متضاد ممکن است: پیشرفت به سوی توافق یا تشدید تنش که حتی به حملهٔ آمریکا منتهی شود.",
+            "تحریم‌ها و فشار خارجی ساختارهای رژیم را تضعیف کرده‌اند؛ هرگونه کاهش فوری تحریم‌ها ممکن است تنش‌های اقتصادی را موقتا کاهش دهد، اما وابستگی به اقتصاد رانتی و سوءمدیریت ساختاری مانع بهبود پایدار خواهد شد.",
+            "در صورت ناتمام ماندن توافق یا تشدید نظامی، احتمال افزایش بی‌ثباتی داخلی و تشدید نارضایتی عمومی بالا می‌رود؛ اقتصاد شکننده و فقدان اصلاحات واقعی توان رژیم را برای جذب شوک‌ها محدود می‌کند."
+        ],
+        "impact": "نتیجهٔ این ساعات یا راه را به سمت کاهش فشارهای اقتصادی از طریق رفع نسبی تحریم‌ها باز می‌کند یا با تشدید نظامی، موجب شوک سیاسی-اقتصادی وسیع و تشدید نارضایتی داخلی خواهد شد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/politics/international-relations/trump-weighs-major-new-strike-on-iran-as-nuclear-discussions-show-no-progress/ar-AA1Vcj8X",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-weighs-major-new-strike-on-iran-as-nuclear-discussions-show-no-progress/ar-AA1Vcj8X",
+        "image": null,
+        "timestamp": 1771931477.0
     },
     {
         "title_fa": "حمله اسرائیل به سایت فردو همزمان با اشاره ترامپ به تغییر رژیم",
@@ -214,6 +304,24 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/oil-rises-to-near-seven-month-high-on-us-iran-tensions-trade-policy/ar-AA1WWlVH",
         "image": null,
         "timestamp": 1771907220.0
+    },
+    {
+        "title_fa": "مردم می‌گویند توقف ایران؟ بله. اقدام یک‌جانبه؟ عمدتاً نه.",
+        "title_en": "Stop Iran? Yes. Go it alone? Mostly no. Passions flow on possible war: The Readers Write",
+        "summary": [
+            "خوانندگان آمریکایی موافق جلوگیری از تهدیدات ایران هستند ولی اکثراً با اقدام نظامی یک‌جانبه آمریکا مخالفت می‌کنند؛ این گرایش ضرورت ائتلاف‌بندی را برجسته می‌کند.",
+            "تصویر همراه گزارش از مانور مشترک نیروی دریایی ایران و روسیه نشان می‌دهد مسکو همچنان نقش تسهیل‌کننده و بازوان عملیاتی رژیم را ایفا می‌کند و ظرفیت تهران برای خنثی‌سازی فشار خارجی را افزایش می‌دهد.",
+            "تحریم‌ها و فشار خارجی در صورت تداوم می‌توانند ساختارهای اقتصادی و مشروعیت سیاسی رژیم را تضعیف کنند، اما اثرگذاری واقعی وابسته به هماهنگی بین‌المللی و توان طرف‌های حامی ایران است؛ گزارش مستند داخلی درباره اعتراضات یا فروپاشی اقتصادی ارائه نمی‌دهد."
+        ],
+        "impact": "در غیاب ائتلاف بین‌المللی قوی، تکیه رژیم بر پشتیبانی روسیه می‌تواند فشارها را خنثی کند و گزینه‌های سیاسی برای تغییر رفتار تهران را محدود سازد.",
+        "tag": "جنگ",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/02/stop-iran-yes-go-it-alone-mostly-no-passions-flow-on-possible-war-the-readers-write.html",
+        "clean_url": "https://www.cleveland.com/news/2026/02/stop-iran-yes-go-it-alone-mostly-no-passions-flow-on-possible-war-the-readers-write.html",
+        "image": null,
+        "timestamp": 1771905600.0
     },
     {
         "title_fa": "پیامک «ترامپ مرد عمل است؛ صبر کنید» ایران را به هراس انداخت",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2FGbDFOekJadFZNN25ZSW0wb214Z2wteU5oQkJybkNSNlpXWjRUS1BlTTVIOFBFNDVkQzQwWFpOWlNtWmxMWDFIaUg3dVVXaThQb1BpQV9ZWDNkZVpIX1BUYlBLUnRIZUhON0MyWVo5b2FMeFp2TzVjQmE3Yk13c0tOd3Q2TGN2dHlUeEdjdw",
         "image": null,
         "timestamp": 1771446803.0
-    },
-    {
-        "title_fa": "افزایش قیمت نفت همزمان با ارزیابی معامله‌گران از خطر درگیری آمریکا و ایران پس از مذاکرات",
-        "title_en": "Oil Rises as Traders Weigh Risk of US-Iran Conflict After Talks",
-        "summary": [
-            "قیمت نفت افزایش یافته زیرا معامله‌گران پس از مذاکرات اخیر احتمال بروز درگیری نظامی بین آمریکا و ایران را محتمل می‌دانند.",
-            "این افزایش نشان‌دهنده افزوده شدن پریمیوم ریسک عرضه به بازار است و باعث نوسان قیمت‌ها و واکنش سریع سرمایه‌گذاران در بازار انرژی شد.",
-            "در سطح داخلی، حتی اگر قیمت‌های بالاتر نفت درآمدهای کوتاه‌مدت را افزایش دهد، این شوک‌های خارجی قادر به جبران سوءمدیریت ساختاری و ضعف‌های اقتصادی رژیم نیستند و تشدید فشار خارجی می‌تواند شرایط سیاسی-اقتصادی را پیچیده‌تر کند."
-        ],
-        "impact": "افزایش ریسک ژئوپلیتیک قیمت نفت را بالا برده و اگر تنش‌ها تشدید شود، فشار خارجی و نوسانات درآمد نفتی می‌توانند ثبات سیاسی و اقتصادی ایران را بیشتر تضعیف کنند.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Hb05ORmdSVXRObUxsajhkSlJUbm4wbF9UeDlpQTJHRF96OWZaLXNVQ3hVVGV0X3pzYmRmb1kwR05odGVWOU9uaVVkanhPTkJTbzhVSm9BX2tHek1SQ3NvREd3djdzSS1oSll0akJfZjIyejI5LU93?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Hb05ORmdSVXRObUxsajhkSlJUbm4wbF9UeDlpQTJHRF96OWZaLXNVQ3hVVGV0X3pzYmRmb1kwR05odGVWOU9uaVVkanhPTkJTbzhVSm9BX2tHek1SQ3NvREd3djdzSS1oSll0akJfZjIyejI5LU93",
-        "image": null,
-        "timestamp": 1771446627.0
-    },
-    {
-        "title_fa": "خامنه‌ای: ایران از سلاح کوتاه نمی‌آید؛ کابینه اسرائیل تشکیل جلسه داد؛ آمریکا دارایی‌ها را منتقل می‌کند",
-        "title_en": "Khamenei: Iran won’t give up arms; Israel cabinet meets; US moves assets TV7 Israel News 18 Feb.",
-        "summary": [
-            "اظهارات خامنه‌ای مبنی‌بر عدم چشم‌پوشی از تسلیحات؛ موضعی آشکار از سمت رهبری برای مشروعیت‌بخشی به توان نظامی در برابر فشار خارجی و جلب حمایت داخلی.",
-            "نشست کابینه اسرائیل همزمان با این اظهارات؛ نشان‌دهنده افزایش سطح هشیاری و احتمال هماهنگی تصمیمات امنیتی ـ دفاعی در منطقه است.",
-            "اقدام آمریکا در «انتقال دارایی‌ها» به‌عنوان فشار مالی/امنیتی عمل می‌کند و در صورت تعمیق می‌تواند منابع مالی رژیم برای پروژه‌های منطقه‌ای و توان دفاعی آن را محدود کند."
-        ],
-        "impact": "ترکیب این تحرکات نشانه تشدید فشار خارجی و تضعیف تدریجی توان مالی و مشروعیت داخلی رژیم است که ریسک کاهش ظرفیت‌های عملیاتی و افزایش ضعف کنترلی داخلی را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByU1FiY0Q4SlBBVzJnTzBfY243RzVJZFhpQTNpS2cxaEY4SmxuUEVCS3hzLVIzd1AzYjhmYmZud0RuM0lLNkpqXzZGM3FNY19RQlNmZm1JdV9NRGU4aXlza3VteFZmeDZCVi0wd2lDcGh2clhmYTFF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByU1FiY0Q4SlBBVzJnTzBfY243RzVJZFhpQTNpS2cxaEY4SmxuUEVCS3hzLVIzd1AzYjhmYmZud0RuM0lLNkpqXzZGM3FNY19RQlNmZm1JdV9NRGU4aXlza3VteFZmeDZCVi0wd2lDcGh2clhmYTFF",
-        "image": null,
-        "timestamp": 1771441550.0
-    },
-    {
-        "title_fa": "آیا پس از مذاکرات ژنو درگیری با ایران رخ خواهد داد؟",
-        "title_en": "Will there be an Iran conflict after Geneva nuclear talks?",
-        "summary": [
-            "مذاکرات ژنو می‌تواند یا احتمال تشدید نظامی را کاهش دهد یا در صورت شکست، محرکی برای اقدام‌های تند خارجی و منطقه‌ای شود؛ پرسش اصلی این است که آیا توافق پایداری حاصل می‌آید یا بازگشتی به تنش.",
-            "فشارهای خارجی و تحریم‌ها در سناریوی شکست مذاکرات ساختار اقتصادی رژیم را تضعیف می‌کنند و این تضعیف، ظرفیت دولت برای حفظ بازدارندگی و مدیریت بحران را کاهش می‌دهد—پیامدی که می‌تواند ثبات سیاسی را تضعیف کند.",
-            "نابسامانی اقتصادی و مدیریت ضعیف حکومتی در کنار پیامدهای مذاکرات تعیین‌کننده واکنش عمومی خواهد بود؛ تاریخ معاصر نشان داده است که مشکلات معیشتی و سوءمدیریت، بستر افزایش نارضایتی و ناآرامی اجتماعی را فراهم می‌آورد."
-        ],
-        "impact": "نتیجه مذاکرات ژنو می‌تواند نقطه‌عطفی برای کاهش یا تشدید خطر درگیری مستقیم با ایران باشد و پیامدهای اقتصادی و سیاسی آن به‌سرعت سطح رضایت عمومی و ثبات رژیم را تعیین خواهد کرد.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVVOVzFZUlM1bEg0QWZ1TmVncEl6ZTh6YXh2NExURHViMW1PRTFRc2dEeHNrVEZCZjRTMTFneHdqNnNOR1U5TktRWUNMT0JYVm1HTnVGV1pvcjB2SEFqaVNPY2N6VHVfSWRmY045WjF0LXJRZG9hYmhHY2dvQWtDSzVGTUlNU18zNlN5MHRPYjNKSzVtM25YX3F5RFhiWVJkNzBZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVVOVzFZUlM1bEg0QWZ1TmVncEl6ZTh6YXh2NExURHViMW1PRTFRc2dEeHNrVEZCZjRTMTFneHdqNnNOR1U5TktRWUNMT0JYVm1HTnVGV1pvcjB2SEFqaVNPY2N6VHVfSWRmY045WjF0LXJRZG9hYmhHY2dvQWtDSzVGTUlNU18zNlN5MHRPYjNKSzVtM25YX3F5RFhiWVJkNzBZ",
-        "image": null,
-        "timestamp": 1771440980.0
-    },
-    {
-        "title_fa": "توافق ترامپ و ایران از اسرائیل در برابر موشک‌ها محافظت نخواهد کرد",
-        "title_en": "Trump-Iran nuke deal will not protect Israel from missiles",
-        "summary": [
-            "تیتر می‌گوید توافق هسته‌ای پیشنهادی، تهدید موشکی ایران علیه اسرائیل را کاهش نمی‌دهد و در نتیجه خلأ امنیتی علیه تهدیدهای بالستیک باقی می‌ماند.",
-            "از منظر فشار خارجی، یک توافق محدود به هسته‌ای ممکن است برخی تحریم‌ها را تضعیف کند اما اگر شامل محدودیت‌های موشکی نشود، ساختارهای بازدارندگی رژیم در حوزه موشکی بدون مانع باقی خواهد ماند و فشارهای هدفمند برای کاهش قابلیت‌های موشکی باید مستقل از توافق دنبال شود.",
-            "در سطح داخلی، ادامه برنامهٔ موشکی بدون مزایای ملموس برای مردم افزایش نارضایتی را تشدید می‌کند؛ حکمرانی ناکارآمد در مدیریت منابع و اولویت‌بندی نظامی می‌تواند شکاف‌های اقتصادی-اجتماعی را بیشتر کند و به بحران مشروعیت دامن بزند."
-        ],
-        "impact": "نتیجه عملی این است که اسرائیل و متحدانش باید به‌جای اتکا به توافق هسته‌ای صرف، راهکارهای غیرهسته‌ای (تحریم‌های هدفمند، فشار دیپلماتیک و تقویت سامانه‌های دفاعی) را برای مهار تهدید موشکی ایران تقویت کنند.",
-        "tag": "موشک",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nVUpPTmdXVi1TRlQ5QVctdW1TU1VIdDZTd3h5WHdLNzN4NVk4ZlFBakgtMTdCOE5oMWZ4MzRqZEpDd0VZLUpHRHpUenI2RXk0eGZjWTMxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nVUpPTmdXVi1TRlQ5QVctdW1TU1VIdDZTd3h5WHdLNzN4NVk4ZlFBakgtMTdCOE5oMWZ4MzRqZEpDd0VZLUpHRHpUenI2RXk0eGZjWTMxUQ",
-        "image": null,
-        "timestamp": 1771437600.0
-    },
-    {
-        "title_fa": "افزایش سطح هشدار در اسرائیل؛ نشانه‌های احتمال حمله قریب‌الوقوع آمریکا-اسرائیل به ایران",
-        "title_en": "Israel raises alert level amid signs of imminent US-Israeli strike on Iran: Report",
-        "summary": [
-            "اسرائیل سطح هشدار را بالا برده که در گزارش‌ها به احتمال عملیات مشترک آمریکا و اسرائیل علیه اهداف ایرانی اشاره شده — گزارش فقط هشدار را منعکس می‌کند، نه تأیید حمله.",
-            "افزایش احتمال حمله خارجی ساختار فشار بین‌المللی را تشدید خواهد کرد: کاهش درآمدهای صادراتی و محدودیت دسترسی به بازارها فشار مالی رژیم را بیشتر و ظرفیت مدیریت بحران را تضعیف می‌کند.",
-            "حتی تهدید به ضربه نظامی می‌تواند شوک اقتصادی و افزایش نارضایتی اجتماعی را سرعت دهد و ضعف مدیریت اقتصادی و سیاسی حکومت را برجسته کند؛ این امر خطر گسترش ناآرامی داخلی را افزایش می‌دهد."
-        ],
-        "impact": "این هشدار نشان‌دهنده احتمال تشدید رویارویی نظامی است که ثبات منطقه‌ای و تاب‌آوری اقتصادی رژیم را به‌طور قابل‌توجهی تضعیف می‌کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMThHMk9CZklEQ0lmWkpqVW9ZcUM3NS0wTTgwZVFJckRkOGtkUkJXdlVNZ0Y3NDBoNEx5RnN6MmwtdEoyTmdHQTNidUVjUmE0Y0Q2c1ZzUGdlT1FKbU1TbmZNLV9Cdm5mRW5BRGdZc3lIODNzb2I3c3ppdElBbklGbTN5S1duOEtnN1RqZGFyOUFDVTR1UGpudVNVVm9kZUZhSlFhSnlkZjRNbjJSQjlORHlyU1dUZTllTGkzX1dlMXY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMThHMk9CZklEQ0lmWkpqVW9ZcUM3NS0wTTgwZVFJckRkOGtkUkJXdlVNZ0Y3NDBoNEx5RnN6MmwtdEoyTmdHQTNidUVjUmE0Y0Q2c1ZzUGdlT1FKbU1TbmZNLV9Cdm5mRW5BRGdZc3lIODNzb2I3c3ppdElBbklGbTN5S1duOEtnN1RqZGFyOUFDVTR1UGpudVNVVm9kZUZhSlFhSnlkZjRNbjJSQjlORHlyU1dUZTllTGkzX1dlMXY",
-        "image": null,
-        "timestamp": 1771436229.0
-    },
-    {
-        "title_fa": "استقرار نیروهای نظامی آمریکا برای ضربات احتمالی به ایران",
-        "title_en": "U.S. Military Moves Into Place for Possible Strikes in Iran",
-        "summary": [
-            "گزارش‌ها حاکی از جابه‌جایی و استقرار نیروهای نظامی آمریکا در موقعیت‌هایی است که در صورت تصمیم‌گیری بتوانند حملاتی علیه اهدافی در ایران انجام دهند؛ دونالد ترامپ، رئیس‌جمهور آمریکا، تاکنون تصمیم نگرفته و مذاکرات دیپلماتیک ادامه دارد.",
-            "فشار نظامی مستقیم می‌تواند به عنوان عاملی ساختاری حکومت را تضعیف کند: افزایش هزینه‌های امنیتی، اختلال در سرمایه‌گذاری و مبادلات خارجی و فشار بر منابع خزانه که توان مدیریتی و اقتدار داخلی را کاهش می‌دهد.",
-            "این تحرک‌ها احتمال تشدید نارضایتی عمومی و نمایان شدن ناکارآمدی اقتصادی و امنیتی حکومت را افزایش می‌دهند و در صورت ادامه‌دار شدن تنش، ریسک وقوع ناآرامی‌های گسترده یا بحران‌های محلی بیشتر می‌شود."
-        ],
-        "impact": "این استقرار نظامی چشم‌انداز تشدید تنش را بالا می‌برد و می‌تواند روند فرسایش ساختارهای داخلی حکومت را تسریع کند.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": 0.5,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
-        "clean_url": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
-        "image": null,
-        "timestamp": 1771436160.0
     }
 ]
