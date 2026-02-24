@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ضرب‌الاجل در برابر مقاومت: چرا آمریکا و ایران یکدیگر را درک نمی‌کنند",
+        "title_en": "Ultimatum vs. resistance: Why US and Iran are talking past each other",
+        "summary": [
+            "عنوان نشان می‌دهد تمرکز گزارش بر شکاف میان رویکرد فشار حداکثری آمریکا (ضرب‌الاجل) و رویکرد مقاومت حکومت ایران است؛ متن کامل مقاله در دسترس نیست تا جزئیات مستقیم را تصدیق کنیم.",
+            "اگر مقاله به تحریم‌ها پرداخته باشد، باید تأکید کرد که فشارهای خارجی ساختاری می‌توانند ثبات رژیم را تضعیف کرده و پیامدهای اقتصادی و سیاسی داخلی را تشدید کنند؛ اما ادعای آثار مشخص نیازمند ارجاع به شواهد مقاله است.",
+            "بدون دسترسی به محتوای کامل، نمی‌توان ارتباط قطعی با بازیگران خارجی (روسیه/چین/کره‌شمالی) یا روندهای اعتراض داخلی را تأیید کرد؛ هر تحلیل باید تنها بر شواهد منتشرشده متکی باشد."
+        ],
+        "impact": "پیامد: ادامه این شکاف دیپلماتیک به بن‌بست سیاستی و احتمال تشدید تنش‌های منطقه‌ای و افزایش هزینه‌های داخلی برای رژیم منجر خواهد شد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Christian Science Monitor",
+        "url": "https://www.csmonitor.com/World/Middle-East/2026/0224/trump-ultimatum-iran-resistance-nuclear-geneva",
+        "clean_url": "https://www.csmonitor.com/World/Middle-East/2026/0224/trump-ultimatum-iran-resistance-nuclear-geneva",
+        "image": null,
+        "timestamp": 1771973480.0
+    },
+    {
+        "title_fa": "ایران: توافق با آمریکا «در دسترس» پیش از مذاکرات ژنو",
+        "title_en": "Iran says deal with US 'within reach' ahead of talks in Geneva",
+        "summary": [
+            "عباس عراقچی، وزیر خارجه، اعلام کرد توافقی برای جلوگیری از برخورد نظامی با آمریکا «در دسترس» است و تأکید کرد دیپلماسی باید اولویت یابد؛ او همچنین گفت ایران «تحت هیچ شرایطی» سلاح هسته‌ای نخواهد ساخت اما حق بهره‌برداری از فناوری صلح‌آمیز هسته‌ای را محفوظ می‌داند.",
+            "استقرار گسترده نیروهای نظامی آمریکا در منطقه و تهدید دونالد ترامپ به حمله فضای مذاکرات را تحت فشار قرار داده و وزارت خارجه ایران هشدار داده هر حمله‌ای حتی محدود «عمل تجاوز» محسوب خواهد شد ـ این فشار خارجی هزینه‌های سیاسی و امنیتی رژیم را افزایش می‌دهد.",
+            "تجمع‌های چندروزه دانشجویی در دانشگاه تهران، از جمله سوزاندن پرچم جمهوری اسلامی و واکنش سخنگوی دولت با یادآوری «خط قرمزها»، نشان‌دهنده تشدید نارضایتی داخلی و احتمال تشدید پاسخ‌های امنیتی از سوی حکومت است."
+        ],
+        "impact": "همپوشانی تهدید نظامی خارجی و بروز اعتراضات داخلی، فضای مذاکره را تنگ و شکننده کرده و رژیم را در معرض فشار سیاسی-امنیتی شدیدتر قرار می‌دهد.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "France 24",
+        "url": "https://www.yahoo.com/news/videos/iran-says-deal-within-reach-193009018.html",
+        "clean_url": "https://www.yahoo.com/news/videos/iran-says-deal-within-reach-193009018.html",
+        "image": null,
+        "timestamp": 1771972819.0
+    },
+    {
         "title_fa": "چه کسانی از تنش آمریکا-ایران بهره می‌برند و چرا؟",
         "title_en": "Who utilizes the US-Iran tension, and for what reason? | Daily Sabah",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-trump-live-us-military-ready-to-strike-within-days/ar-AA1WEzGk",
         "image": null,
         "timestamp": 1771481855.0
-    },
-    {
-        "title_fa": "منطق نامشخص ترامپ در آستانه کشیده‌شدن به جنگ با ایران",
-        "title_en": "Trump's rationale is still opaque as he slides closer to war with Iran",
-        "summary": [
-            "ایالات متحده ممکن است در آستانه اجرای اقدام نظامی باشد؛ تصمیمی که منطق آن برای ناظران و حتی متحدان آمریکا همچنان مبهم است.",
-            "اگر عملیات اجرا شود، این مهم‌ترین نقطه عطف در تقریباً نیم‌قرن تقابل با رژیم خواهد بود و احتمال گسترش و تشدید تنش‌های منطقه‌ای را بالا می‌برد.",
-            "پیامدهای داخلی برای رژیم نامشخص است اما به‌احتمال زیاد با افزایش سرکوب امنیتی، تشدید کنترل‌های داخلی و رشد نارضایتی عمومی همراه خواهد شد."
-        ],
-        "impact": "حمله نظامی آمریکا می‌تواند فشار خارجی و اقتصادی را تشدید کند و ساختار سیاسی-اقتصادی رژیم را به‌طور قابل‌توجهی تضعیف نماید.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "CNN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/trump-s-rationale-is-still-opaque-as-he-slides-closer-to-war-with-iran/ar-AA1WDvLn",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-s-rationale-is-still-opaque-as-he-slides-closer-to-war-with-iran/ar-AA1WDvLn",
-        "image": null,
-        "timestamp": 1771480440.0
-    },
-    {
-        "title_fa": "آمریکا و ایران در آستانه درگیری مسلحانه؛ مذاکرات متوقف شده‌اند",
-        "title_en": "U.S. And Iran Edge Toward Armed Conflict As Talks Stall",
-        "summary": [
-            "مذاکرات بین آمریکا و ایران متوقف شده و توقف روند دیپلماتیک خطر حرکت به سمت درگیری مسلحانه را افزایش داده است.",
-            "بن‌بست دیپلماتیک ریسک اشتباه محاسباتی و تشدید عملیات نظامی محدود یا گسترده را بالا می‌برد و فضای بازگشت به خویشتنداری را تنگ‌تر می‌کند.",
-            "ادامه تنش بدون راه‌حل دیپلماتیک می‌تواند فشار خارجی و پیامدهای اقتصادی-سیاسی داخلی را تشدید کند و کارآیی حکمرانی را بیش از پیش تضعیف نماید."
-        ],
-        "impact": "تعطیلی روند دیپلماتیک، فضای ریسک رویارویی نظامی مستقیم را افزایش می‌دهد و ثبات منطقه‌ای و منافع ملی را در معرض تهدید قرار می‌دهد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "Evrim Ağacı",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9lT0NvaFhhOVdwQk5OY1l2dnJjZ0Zmd3pScy1mT2dKWHYwOURmWkNCQ2Q3aUxhMG50bjNhcmw3aTdDUlBhZjRMX0pmNXc5ZG9yUUVKb0MxN1h1R1FxeEM1eUF3T3UxeEttWUxWUUdsLWIwejQ2WVRpSl9OT1FmWFhqTHFZRGRoVDNCdnlCTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9lT0NvaFhhOVdwQk5OY1l2dnJjZ0Zmd3pScy1mT2dKWHYwOURmWkNCQ2Q3aUxhMG50bjNhcmw3aTdDUlBhZjRMX0pmNXc5ZG9yUUVKb0MxN1h1R1FxeEM1eUF3T3UxeEttWUxWUUdsLWIwejQ2WVRpSl9OT1FmWFhqTHFZRGRoVDNCdnlCTGc",
-        "image": null,
-        "timestamp": 1771479099.0
     }
 ]
