@@ -414,6 +414,24 @@
         "timestamp": 1771927595.0
     },
     {
+        "title_fa": "ایران در آستانه توافق با چین برای موشک مافوق‌صوت ضدکشتی؛ ناوهای آمریکا در منطقه متمرکز",
+        "title_en": "Iran nears China anti-ship supersonic missile deal as US carriers mass in region: report",
+        "summary": [
+            "گزارش‌ها حاکی است ایران نزدیک به امضای قراردادی با چین برای دریافت موشک‌های مافوق‌صوت ضدکشتی است که قابلیت تهدید گروه‌های ضربت حامل هواپیمابر آمریکا در آب‌های منطقه‌ای را دارند.",
+            "چین به‌عنوان توانمندساز استراتژیک نقش کلیدی ایفا می‌کند؛ انتقال چنین تسلیحاتی می‌تواند قابلیت‌های ضددسترسی ایران را تقویت کند، موضع نیروی دریایی آمریکا را پیچیده‌تر سازد و همزمان احتمال تشدید تحریم‌ها و فشارهای بین‌المللی را افزایش دهد.",
+            "سرمایه‌گذاری در خرید تسلیحات سطح بالا در شرایط بحران اقتصادی داخلی، نشان‌دهنده سوءمدیریت حکومتی و اولویت‌بندی نظامی به‌جای بهبود معیشت است که می‌تواند نارضایتی عمومی و آسیب‌پذیری سیاسی رژیم را تشدید کند."
+        ],
+        "impact": "این معامله خطر تشدید تنش نظامی با آمریکا را بالا می‌برد و می‌تواند موج جدیدی از تحریم‌ها و فشارهای بین‌المللی را علیه حکومت ایران برانگیزد.",
+        "tag": "موشکی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-nears-china-anti-ship-supersonic-missile-deal-as-us-carriers-mass-in-region-report/ar-AA1WZkZV",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-nears-china-anti-ship-supersonic-missile-deal-as-us-carriers-mass-in-region-report/ar-AA1WZkZV",
+        "image": null,
+        "timestamp": 1771927294.0
+    },
+    {
         "title_fa": "انحصاری: ایران به توافق خرید موشک‌های ضدکشتی مافوق صوت از چین نزدیک می‌شود",
         "title_en": "Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUF9lT0NvaFhhOVdwQk5OY1l2dnJjZ0Zmd3pScy1mT2dKWHYwOURmWkNCQ2Q3aUxhMG50bjNhcmw3aTdDUlBhZjRMX0pmNXc5ZG9yUUVKb0MxN1h1R1FxeEM1eUF3T3UxeEttWUxWUUdsLWIwejQ2WVRpSl9OT1FmWFhqTHFZRGRoVDNCdnlCTGc",
         "image": null,
         "timestamp": 1771479099.0
-    },
-    {
-        "title_fa": "تجمع ناوگان و نیروی هوایی آمریکا در نزدیکی خاورمیانه؛ فشار نظامی مستقیم برای امتیازگیری از رژیم",
-        "title_en": "As Trump pushes Iran to make a deal, scores of U.S. warplanes join \"armada\" heading for the region",
-        "summary": [
-            "ناو هواپیمابر USS Gerald R. Ford موقعیت خود را با روشن کردن سامانه ردیابی نشان داد و در مسیر ورود به مدیترانه قرار گرفت؛ این دومین ناو است که رئیس‌جمهور ترامپ به آب‌های نزدیک ایران دستور حرکت داده است، اقدامی آشکار برای دیده شدن از سوی ایران.",
-            "افزایش چشمگیر توان هوایی آمریکا؛ بیش از ۵۰ هواپیما از پایگاه‌های دو ساحل آمریکا به سمت اروپا و خاورمیانه منتقل شدند (بیشتر تانکر، ترابری و شناسایی) و جنگنده‌هایی مانند F-15، F-22 و F-35 در پایگاه‌های بریتانیا دیده شده‌اند؛ مقام‌های امنیتی می‌گویند امکان انجام حملات از شنبه وجود دارد اما تصمیم نهایی اعلام نشده است.",
-            "این عملیات به‌عنوان اهرم فشار علنی برای وادار کردن رژیم به توافق هسته‌ای طراحی شده است؛ روشن کردن AIS توسط ناو یک سیگنال روانی-سیاسی است که هم رسانه‌ها و هم تهران را هدف گرفته است."
-        ],
-        "impact": "این نمایش نظامی فشار خارجی را افزایش می‌دهد و می‌تواند موقعیت مذاکراتی رژیم را تضعیف کرده و بی‌ثباتی اقتصادی و نارضایتی سیاسی ناشی از عدم قطعیت و مدیریت ضعیف حکومتی را تشدید کند.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-iran-military-buildup-includes-scores-of-us-warplanes-joining-armada/",
-        "clean_url": "https://www.cbsnews.com/news/trump-iran-military-buildup-includes-scores-of-us-warplanes-joining-armada",
-        "image": null,
-        "timestamp": 1771478160.0
     }
 ]
