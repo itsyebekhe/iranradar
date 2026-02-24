@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تصاویر ماهواره‌ای افزایش سریع هواپیماهای نظامی آمریکا در نزدیکی ایران را نشان می‌دهد",
+        "title_en": "Satellite imagery shows rapid increase of U.S. military planes near Iran",
+        "summary": [
+            "گزارش: تصاویر ماهواره‌ای افزایش سریع حضور هواپیماهای نظامی آمریکا در حوالی مرزهای هوایی ایران را ثبت کرده‌اند—نشانه‌ای از تشدید آماده‌باش نظامی آمریکا در منطقه.",
+            "پیامد راهبردی: این جمع‌شدن نیروهای هوایی فشار خارجی مستقیم را بر رژیم افزایش می‌دهد؛ از منظر ساختاری می‌تواند گزینه‌های اقتصادی و دیپلماتیک تهران را محدود کند و احتمال تشدید تحریم‌ها یا اقدامات تنبیهی را بالا ببرد.",
+            "ابعاد داخلی: گزارش به وجود ناآرامی‌های جدید اشاره نمی‌کند، اما تشدید تهدید خارجی می‌تواند هزینه‌های اقتصادی و فشار امنیتی را افزایش دهد و در غیاب اصلاح مدیریتی، به نارضایتی عمومی دامن بزند."
+        ],
+        "impact": "افزایش سریع حضور هواپیماهای نظامی آمریکا خطر برخورد تصادفی یا عمدی را بالا می‌برد و هم‌زمان توان مانور سیاسی و اقتصادی رژیم را تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/satellite-imagery-shows-rapid-increase-of-us-military-planes-near-iran/ar-AA1WXmKY",
+        "clean_url": "https://www.msn.com/en-us/news/world/satellite-imagery-shows-rapid-increase-of-us-military-planes-near-iran/ar-AA1WXmKY",
+        "image": null,
+        "timestamp": 1771927595.0
+    },
+    {
+        "title_fa": "انحصاری: ایران به توافق خرید موشک‌های ضدکشتی مافوق صوت از چین نزدیک می‌شود",
+        "title_en": "Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China",
+        "summary": [
+            "رویترز گزارش داده ایران نزدیک به توافق برای خرید موشک‌های ضدکشتی مافوق صوت از چین است؛ جزئیات کمی منتشر شده اما معامله در حال نهایی شدن توصیف می‌شود.",
+            "حضور چین به‌عنوان تأمین‌کننده نشان‌دهنده نقش راهبردی خارجی در توانمندسازی نظامی رژیم است که توان ضددریایی ایران را تقویت خواهد کرد.",
+            "این خرید می‌تواند موج جدیدی از فشارهای بین‌المللی و تحریم‌ها را برانگیزد و همزمان منابع مالی محدود داخلی را به هزینه‌های نظامی هدایت کند که احتمالاً نارضایتی عمومی را تشدید خواهد کرد."
+        ],
+        "impact": "تکمیل این معامله توان بازدارندگی دریایی رژیم را افزایش می‌دهد، خطر تشدید تحریم‌ها را بالا می‌برد و با منابع‌زدایی از اقتصاد شکننده، آستانه نارضایتی داخلی را پایین می‌آورد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/exclusive-iran-nears-deal-to-buy-supersonic-anti-ship-missiles-from-china/ar-AA1WXKIT",
+        "clean_url": "https://www.msn.com/en-us/news/world/exclusive-iran-nears-deal-to-buy-supersonic-anti-ship-missiles-from-china/ar-AA1WXKIT",
+        "image": null,
+        "timestamp": 1771926295.0
+    },
+    {
         "title_fa": "مروری بر جدول زمانی طولانی و پرتنش تنش‌های هسته‌ای ایران در آستانه مذاکرات با آمریکا",
         "title_en": "A look at the long, fraught timeline of Iran nuclear tensions as talks with US loom",
         "summary": [
@@ -34,6 +70,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTldyOHhYd0dMa2QzUzUzaTMxT0JZMDAza1czbmswZUw0Z0dGMmpqZ21tbGRpYWNuenNLSmZ5d0NaMS13MWVBNGtWeEtwMUZnNVlPWXl3em1EWDJraVlaV2c0akpVQ1huaFRmUXBwU2ZkRUQxdGxka2ZyQXA0NUdUQ3hfNnppU1ZwcEFzdUhKOA",
         "image": null,
         "timestamp": 1771923898.0
+    },
+    {
+        "title_fa": "افزایش قیمت نفت در سایه تمرکز بر روابط آمریکا و ایران",
+        "title_en": "Oil Rises With Focus on U.S.-Iran",
+        "summary": [
+            "بازار نفت به‌خاطر تمرکز تحلیلی و خبری بر تنش‌ها و تعاملات آمریکا و ایران شاهد افزایش قیمت شد؛ این واکنش بازار بر ریسک ژئوپلیتیک تاکید دارد.",
+            "افزایش قیمت‌ها، فشار بر ساختار مالی رژیم را برجسته می‌کند؛ هر نوسان در درآمد نفتی به سرعت بر ترازهای بودجه‌ای و توان هزینه‌کرد حکومت اثر می‌گذارد.",
+            "حساسیت بازار نسبت به این رابطه نشان‌دهنده آسیب‌پذیری سیستم اقتصادی ایران است؛ نوسانات نفتی می‌تواند نارضایتی عمومی را تشدید کند و ضعف مدیریت حکمرانی را عیان سازد."
+        ],
+        "impact": "افزایش قیمت نفت در پی تمرکز بر روابط آمریکا و ایران ریسک مالی و سیاسی رژیم را تشدید می‌کند و قدرت اهرم فشار خارجی بر اقتصاد کشور را افزایش می‌دهد.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.65,
+        "source": "WSJ",
+        "url": "https://www.msn.com/en-us/money/markets/oil-rises-with-focus-on-us-iran/ar-AA1WVEaQ",
+        "clean_url": "https://www.msn.com/en-us/money/markets/oil-rises-with-focus-on-us-iran/ar-AA1WVEaQ",
+        "image": null,
+        "timestamp": 1771923840.0
     },
     {
         "title_fa": "معمای ترامپ درباره ایران: جنگ یا یک توافق توخالی",
@@ -538,6 +592,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zc1VBSE04SktyN1FMSW5aVnFsVkZDWkdHdzBDR2JzUGtLanR3M0hrcWRNMGFaWnJaSFJUTzlSUjZnUnk4NUFsY01JQ01RaWZWLTZzMWJGOTJSZHliS3ZIT29qbDZURjdyZWpDaFRzYVhDUWM4ZV9sLUhtdw",
         "image": null,
         "timestamp": 1771862911.0
+    },
+    {
+        "title_fa": "ناراحتی ترامپ از محدودیت‌های گزینه‌های نظامی علیه ایران",
+        "title_en": "Trump growing frustrated with limits of Iran military options, sources say",
+        "summary": [
+            "منابع گزارش می‌دهند دونالد ترامپ از اینکه حمله محدود نظامی احتمالاً ضربه قاطع به تهران نخواهد بود، ناامید شده و خواستار اقدامی «مجازات‌گر» برای بازتنظیم میز مذاکره شده است.",
+            "مشاوران نظامی از جمله دن کِین، رئیس ستاد مشترک، به ترامپ یادآور شده‌اند که حمله محدود می‌تواند به تلافی‌جویی تهران و متحدانش و کشیده شدن آمریکا به یک درگیری طولانی منجر شود؛ برنامه‌ریزان نظامی بر عدم تضمین بازگشت ایران به میز مذاکره با زور تأکید کرده‌اند.",
+            "ترامپ در شبکه‌های اجتماعی گزارش‌ها درباره مخالفت دن کِین با جنگ علیه ایران را رد کرد و گفت کِین «دوست ندارد جنگی باشد» اما اگر دستور داده شود، می‌تواند آن را ببرد؛ منابع می‌گویند مشاوران نظر بی‌طرفانه و هشداردهنده‌ای ارائه می‌دهند."
+        ],
+        "impact": "فشار برای عملیات «پانیشینگ» ریسک تشدید فوری درگیری منطقه‌ای را بالا می‌برد و می‌تواند به تلافی‌جویی تهران و پروکسی‌هایش و درگیر شدن آمریکا در یک نبرد فرسایشی منجر شود.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-frustrated-iran-military-options/",
+        "clean_url": "https://www.cbsnews.com/news/trump-frustrated-iran-military-options",
+        "image": "http://www.bing.com/th?id=OVFT.IyssorkYnvDSorbFpuKiOC&pid=News",
+        "timestamp": 1771862280.0
     },
     {
         "title_fa": "سیاست ترامپ نسبت به ایران جمع‌پذیر نیست",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZldlQ0ZIYmVUU2tha24yaXVUNFZzWlBrY2drcF9oVVJ5ck5DM1FOem00ZnlMTTBXV2pOcHBvaDFjX0l1MmpTMVhnY1U0RDRZNWh2MThPU3phOF9uM1YwQlNkUGoyUmlNWVNiUEVuQjNIQmU1MEpOajBuUThPOUZ6MGhoY3lHeHNtcTUyYlhsT1lBMTNucXY3MHExTXN1NDVyVDR6aURQR09DSnNYNEdIZW5fNUdubWFnTjhLSFB4aVNlOU9qLTV3akx2T3lCbzAzSTJVcXVLQ3E2QQ",
         "image": null,
         "timestamp": 1771428517.0
-    },
-    {
-        "title_fa": "مجازات آسیب‌پذیری: سرکوب اقلیت‌ها در ایران پس از جنگ ۱۲ روزه",
-        "title_en": "Punishing Vulnerability: Iran’s Minority Crackdown After the 12-Day War",
-        "summary": [
-            "مقاله گزارش می‌دهد که پس از جنگ ۱۲ روزه، حکومت موجی از سرکوب هدف‌مند علیه اقلیت‌های قومی و مذهبی را شدت داده است.",
-            "گزارش‌ها به بازداشت‌های گسترده، محدودیت‌های حقوقی و فشار امنیتی افزایشی بر جوامع آسیب‌پذیر اشاره دارند که فضای مدنی را تنگ‌تر کرده است.",
-            "این اقدامات نشان‌دهنده تمرکز امنیتی فزاینده و کاهش تحمل ریسک سیاسی در تهران است و پتانسیل تشدید تنش‌های محلی و فراروی از کنترل را دارد."
-        ],
-        "impact": "سرکوب نظام‌مند اقلیت‌ها پس از جنگ، رژیم را در برابر محکومیت بین‌المللی و احتمال فشار یا تحریم‌های جدید آسیب‌پذیرتر می‌کند و هرگونه تشدید فشار خارجی می‌تواند اقتصاد را ضعیف‌تر ساخته و نارضایتی اجتماعی و بحران مشروعیت سیاسی را تسریع کند.",
-        "tag": "سرکوب",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "New Lines Institute",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUFIamM0TmZKcDQ5ZGE3VXZ6M2Z0WUo4bV96SkpmMWN3bzlyUnQ5MDZETDI0WUI3M0NTMl9MWmZrZGZDUXBQWXF2b21ydzk5bW9CZmdLWXhrazR0NWNINGZ1UV8tV0FWb0hMLTV3anpkd0ZkcE5UUFVIM2ZOd3ZFNzlBWWJpMTBLUFNQQ1M0Q1FLeko0TUFOdWxrZUN3N1B0QjNqRXBBZnBqT2VsTXFXRVRFUEtER2hkWUdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUFIamM0TmZKcDQ5ZGE3VXZ6M2Z0WUo4bV96SkpmMWN3bzlyUnQ5MDZETDI0WUI3M0NTMl9MWmZrZGZDUXBQWXF2b21ydzk5bW9CZmdLWXhrazR0NWNINGZ1UV8tV0FWb0hMLTV3anpkd0ZkcE5UUFVIM2ZOd3ZFNzlBWWJpMTBLUFNQQ1M0Q1FLeko0TUFOdWxrZUN3N1B0QjNqRXBBZnBqT2VsTXFXRVRFUEtER2hkWUdB",
-        "image": null,
-        "timestamp": 1771427475.0
-    },
-    {
-        "title_fa": "ایران برای پرتاب‌های موشکی برنامه‌ریزی‌شده در روز پنج‌شنبه اطلاعیه NOTAM صادر کرد، به‌گفته FAA آمریکا",
-        "title_en": "Iran issues NOTAM over planned rocket launches on Thursday, US FAA says",
-        "summary": [
-            "اداره فدرال هوانوردی آمریکا نشان می‌دهد ایران اطلاعیه NOTAM برای پرتاب‌های راکتی در مناطق گسترده‌ای از جنوب کشور از ساعت ۳:۳۰ تا ۱۳:۳۰ به‌وقت گرینویچ در روز پنج‌شنبه صادر کرده است.",
-            "این اطلاعیه در زمینه رزمایش‌های دریایی اخیر در تنگه هرمز و برنامه رزمایش مشترک دریایی با روسیه صادر می‌شود، همزمان با استقرار ناوهای آمریکایی در منطقه و اظهارنظرهای مقام‌های کاخ سفید و معاون رئیس‌جمهور آمریکا درباره ارزیابی گزینه‌ها علیه تهران.",
-            "تصاویر ماهواره‌ای گزارش‌شده نشان می‌دهد رژیم در حال ساخت حفاظ‌های بتنی، دفن ورودی‌های تونل در سایت‌های حساس و تعمیر پایگاه‌های موشکی است؛ نشانه‌هایی از هزینه‌کرد برای بازسازی و تحکیم تأسیسات پس از ضربات قبلی و تمرکز بر آماده‌سازی نظامی."
-        ],
-        "impact": "این اقدامات نظامی و تحکیمی در کنار فشار و حضور نظامی خارجی، رژیم را در معرض افزایش فشار بین‌المللی و هزینه‌های داخلی قرار می‌دهد و احتمال تصاعد به تقابل نظامی را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-issues-notam-over-planned-222351934.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-issues-notam-over-planned-222351934.html",
-        "image": null,
-        "timestamp": 1771426080.0
-    },
-    {
-        "title_fa": "گزارش: حمله آمریکا و اسرائیل به ایران می‌تواند هفته‌ها طول بکشد و تهدیدکننده رژیم باشد",
-        "title_en": "US-Israel attack on Iran could last weeks, be regime-threatening: Report",
-        "summary": [
-            "گزارش می‌گوید یک کارزار نظامی مشترک آمریکا-اسرائیل می‌تواند هفته‌ها ادامه یابد و فشار نظامی مداوم، توان اقتدار و مشروعیت حکومت را به شکل قابل توجهی تضعیف کند.",
-            "چنین ضربه‌ای در صورت تداوم، ساختار اقتصادی و مالی حکومت را شکننده‌تر می‌کند — کاهش منابع، افزایش هزینه‌های نظامی و اختلال در زنجیره‌های تأمین که معیشت مردم را بیشتر به هم می‌ریزد.",
-            "سناریوی حمله طولانی‌مدت احتمال افزایش نارضایتی‌های اجتماعی را بالا می‌برد؛ مدیریت ضعیف و ناتوانی در تضمین امنیت و خدمات پایه می‌تواند اعتراضات و بحران کنترل داخلی را تشدید کند."
-        ],
-        "impact": "پیامد فوری: تشدید فشار بر دستگاه حکومتی، افزایش ناپایداری اقتصادی و بالا رفتن احتمال بروز ناآرامی‌های گسترده که موجودیت سیاسی را تهدید می‌کند.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjN0WkdiMnBlLWxKb1BaWldmSEEtc0psVWNYbDNRWFRDTDF0SnQ4Q3Y4VmhoZlNHd1k1OGdiSnoyUngzOGJUSWRPZ0NMdFlrNFphM2ZBRTJpSFByVjBUTkpCUFU5Y0VXX3pDajFVN3BzS1c1eVMzcERMMHQ1dC0zODBCTURMcmRvRXBmVFRkOEFOd3dIMzRLMEtTWGNjZzJPRS03VlhZSVAtSzM5T0UtQmc4dVA4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjN0WkdiMnBlLWxKb1BaWldmSEEtc0psVWNYbDNRWFRDTDF0SnQ4Q3Y4VmhoZlNHd1k1OGdiSnoyUngzOGJUSWRPZ0NMdFlrNFphM2ZBRTJpSFByVjBUTkpCUFU5Y0VXX3pDajFVN3BzS1c1eVMzcERMMHQ1dC0zODBCTURMcmRvRXBmVFRkOEFOd3dIMzRLMEtTWGNjZzJPRS03VlhZSVAtSzM5T0UtQmc4dVA4dw",
-        "image": null,
-        "timestamp": 1771424639.0
-    },
-    {
-        "title_fa": "افزایش بیش از ۲٪ قیمت نفت پس از اظهارات ونس: ایران خواسته کلیدی آمریکا را نادیده گرفت؛ حملات نظامی روی میز",
-        "title_en": "Oil jumps more than 2% after Vance says Iran ignored key U.S. demand, military strikes on the table",
-        "summary": [
-            "قیمت نفت بیش از ۲٪ جهش کرد بعد از اینکه ونس اعلام کرد ایران یک خواسته کلیدی آمریکا را نادیده گرفته؛ بازارها ریسک نظامی را فوراً قیمت‌گذاری کردند.",
-            "بیان اینکه «حملات نظامی روی میز است» احتمال تشدید اقدام نظامی و تحریم‌های فزاینده را افزایش می‌دهد و پرمیوم ریسک عرضه نفت را بالا می‌برد.",
-            "فشار خارجی و تهدیدهای نظامی ساختاری ضعف اقتصادی رژیم را تشدید می‌کند — کاهش درآمدهای نفتی، فشار روی نرخ ارز و افزایش آسیب‌پذیری سیاسی داخلی محتمل است."
-        ],
-        "impact": "خطر تشدید نظامی و افزایش تحریم‌ها بالا رفته؛ این امر هم قیمت نفت را بالاتر می‌برد و هم ثبات اقتصادی-سیاسی داخل ایران را به نحو ملموسی تضعیف می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1VsWElQNFJSZnUtdm03d3ZMVE1lU1NmYkhMY1hSakZtQ0NmYjBlbXFtOGU1Sm5oOWRyQmVzVko0N3owX1lVR2FZWlV5XzNvaWhnbXByalB2MzQxS0t5dHZfVF9MWktmT0Q4Nm9ESmhqRHBoY2t3Z1RXWjA5S0txMmZ1MzfSAYoBQVVfeXFMTTBfZjkyQl9oVTBoNXNEMEl2RF9jMTNZT1M5QWJXaXJQakNkVUlwSkxqWXJYUDR3akEwd2x1U2E5X3dVbWtFQ2tvMkRpUWpFamJENTJCajhyVHo3cjBGRHZmMUF3bG1SeHVUZWFCYl9CWDVlQm5VTTh4ZVRzT2o2YVRCOXl3VTRmQ1NB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1VsWElQNFJSZnUtdm03d3ZMVE1lU1NmYkhMY1hSakZtQ0NmYjBlbXFtOGU1Sm5oOWRyQmVzVko0N3owX1lVR2FZWlV5XzNvaWhnbXByalB2MzQxS0t5dHZfVF9MWktmT0Q4Nm9ESmhqRHBoY2t3Z1RXWjA5S0txMmZ1MzfSAYoBQVVfeXFMTTBfZjkyQl9oVTBoNXNEMEl2RF9jMTNZT1M5QWJXaXJQakNkVUlwSkxqWXJYUDR3akEwd2x1U2E5X3dVbWtFQ2tvMkRpUWpFamJENTJCajhyVHo3cjBGRHZmMUF3bG1SeHVUZWFCYl9CWDVlQm5VTTh4ZVRzT2o2YVRCOXl3VTRmQ1NB",
-        "image": null,
-        "timestamp": 1771422838.0
     }
 ]
