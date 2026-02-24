@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ورود بیش از ۱۵۰ فروند هواپیمای آمریکایی به اروپا و خاورمیانه در حالی که ترامپ بررسی حملات را مطرح می‌کند",
+        "title_en": "Over 150 U.S. aircraft sweep into Europe, Middle East as Trump mulls strikes",
+        "summary": [
+            "واشنگتن‌پست گزارش می‌دهد بیش از ۱۵۰ فروند هواپیمای نظامی آمریکا به‌طور هماهنگ به اروپا و منطقه خاورمیانه اعزام شده‌اند همزمان که دونالد ترامپ گزینه حملات نظامی را بررسی می‌کند.",
+            "این تحرک گسترده نشان‌دهنده افزایش فشار خارجی و آماده‌باش برای حمله احتمالی است؛ ظرفیت عملیاتی آمریکا برای هدف‌گذاری دارایی‌های نظامی و استراتژیک حکومت ایران و شبکه‌های همپیمانش تقویت شده ارزیابی می‌شود.",
+            "از منظر داخلی، چنین فشار خارجی‌ای می‌تواند ضعف مدیریت و انزوای بین‌المللی حکومت را برجسته کند و ریسک افزایش بی‌ثباتی سیاسی یا هزینه‌های امنیتی و اقتصادی برای جامعه را بالا ببرد."
+        ],
+        "impact": "استقرار گسترده هواپیماهای آمریکایی فشار خارجی مستقیم بر توان نظامی و سیاسی حکومت ایران وارد می‌آورد و فضای تصمیم‌گیری داخلی را به سمت افزایش سرکوب یا تشدید تنش سوق می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/other/over-150-us-aircraft-sweep-into-europe-middle-east-as-trump-mulls-strikes/ar-AA1WXmKY",
+        "clean_url": "https://www.msn.com/en-us/news/other/over-150-us-aircraft-sweep-into-europe-middle-east-as-trump-mulls-strikes/ar-AA1WXmKY",
+        "image": null,
+        "timestamp": 1771956027.0
+    },
+    {
         "title_fa": "۷ کارشناس درباره خطر گسترش جنگ با ایران",
         "title_en": "7 Experts on the Risk of a Wider War with Iran",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3",
         "image": null,
         "timestamp": 1771952520.0
+    },
+    {
+        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران: حمله نظامی همچنان گزینه است، یک کارشناس می‌گوید",
+        "title_en": "US-Iran nuclear talks: Strike remains option, expert says",
+        "summary": [
+            "یک کارشناس گزارش می‌دهد که در جریان مذاکرات هسته‌ای بین آمریکا و ایران، گزینه حمله نظامی همچنان به‌عنوان بخشی از اهرم فشار مطرح است.",
+            "از منظر فشار خارجی، بیان مجدد گزینه نظامی احتمال افزایش تحریم‌ها و فشار دیپلماتیک بر تهران را بالا می‌برد که به تضعیف ساختارهای مالی و سیاسی رژیم کمک می‌کند.",
+            "در سطح داخلی، حتی اگر گزارش مستقیمی از اعتراضات ذکر نشده باشد، مطرح شدن گزینه نظامی می‌تواند نااطمینانی اقتصادی و نارضایتی عمومی را تشدید کند و ناکارآمدی مدیریتی را برجسته سازد."
+        ],
+        "impact": "اظهارنظر درباره حفظ گزینه حمله، ریسک تشدید تنش تا مرز تقابل نظامی را افزایش می‌دهد و پتانسیل تضعیف بیشتر ثبات سیاسی-اقتصادی رژیم را دارد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mLTV1alBhLThLVlpETFhQLTRGSGZGaHMyYVo3OVZKMExSQk9tRWVNSFFKeWZ2ZUxTSm5adW9ONW9iREg0Zk03ZEJ2OTdMS1hrMy1uNUpuMUo0dnpqM00xMFhPZlYwLUpfOEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mLTV1alBhLThLVlpETFhQLTRGSGZGaHMyYVo3OVZKMExSQk9tRWVNSFFKeWZ2ZUxTSm5adW9ONW9iREg0Zk03ZEJ2OTdMS1hrMy1uNUpuMUo0dnpqM00xMFhPZlYwLUpfOEE",
+        "image": null,
+        "timestamp": 1771952015.0
     },
     {
         "title_fa": "آمریکا بار دیگر اعلام کرد حملات ۲۰۲۵ «برنامه هسته‌ای ایران را نابود کرد»",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWpQVWRUbTRVSDlIY2F6OW5SYjU2MV9HSHBidGxVSzZ3NTRrdnFfWGVoNENNaE9GOXRUQzk4ZU9fUk1QaTVlWHlvaDUtWjhGNVJtWUdRTUxJblEwdWxyOUFXa1lzazVSSUNwOHFielBGZ2xvQ0hvVXhrY3gxZTVSUHAtYlM",
         "image": null,
         "timestamp": 1771469700.0
-    },
-    {
-        "title_fa": "در حالی که ترامپ حمله احتمالی به ایران را بررسی می‌کند، ارتش آمریکا موقعیت می‌گیرد",
-        "title_en": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place - The New York Times",
-        "summary": [
-            "ترامپ در حال بررسی گزینه‌های نظامی علیه ایران است و ارتش آمریکا نیروها و تجهیزات را در منطقه مستقر کرده است تا گزینه‌های عملیاتی آماده باشند.",
-            "این تحرک نظامی فشار خارجی را افزایش می‌دهد و می‌تواند کانال‌های اقتصادی و سیاسی رژیم را محدود کند؛ به‌طور ساختاری چنین فشاری ثبات موجود را تضعیف می‌کند.",
-            "تهدید به حمله و حضور نظامی تقویت می‌تواند رژیم را به واکنش‌های امنیتی شدیدتر و اتخاذ سیاست‌های سرکوب‌گرانه وادارد؛ این رویکرد ریسک افزایش نارضایتی اجتماعی و اختلال اقتصادی را بالا می‌برد."
-        ],
-        "impact": "پی‌آمد فوری این اقدام افزایش احتمال تقابل نظامی مستقیم و خطر اشتباه محاسباتی است که می‌تواند به درگیری گسترده‌تر منتهی شود.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GS0w4ZEoxV0NRZDdZVThBWjhVUVNYTkpPaXRqMjJZMm0zd2NybWlua19PMFBsYjM2ZUhNRklscGFBWnNSSFJLQzBjVFJGV3hFdWZiTjhKMnp1OU9OcmNNVXdlOUNjMDdrUWVZRU9tVGg1OU9pbEMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GS0w4ZEoxV0NRZDdZVThBWjhVUVNYTkpPaXRqMjJZMm0zd2NybWlua19PMFBsYjM2ZUhNRklscGFBWnNSSFJLQzBjVFJGV3hFdWZiTjhKMnp1OU9OcmNNVXdlOUNjMDdrUWVZRU9tVGg1OU9pbEMw",
-        "image": null,
-        "timestamp": 1771465002.0
-    },
-    {
-        "title_fa": "تنش‌های ایران-آمریکا؛ سناتور آمریکایی: تنها گزینه خامنه‌ای کنار رفتن است",
-        "title_en": "Iran-US tensions LIVE: Khamenei's only option is to leave power, says US Senator amid rising tensions",
-        "summary": [
-            "کاخ سفید می‌گوید در مذاکرات ژنو «پیشرفت» شده اما اختلافات کلیدی همچنان عمیق است؛ سخنگوی کارولین لیویت هشدار داد که ایران بهتر است محتاط عمل کند.",
-            "یک سناتور آمریکایی در اوج تشدید تنش‌ها صراحتاً اعلام کرد تنها گزینه خامنه‌ای ترک قدرت است؛ این موضع نشان‌دهنده تشدید فشار سیاسی مستقیم واشنگتن و رادیکال‌سازی گفتار سیاسی علیه رهبری است.",
-            "تمرکز مشترک پیام‌ها حاکی از دور بودن توافق و افزایش احتمال تشدید اقدامات دیپلماتیک و فشار خارجی علیه ساختار قدرت است که پوسته‌های مقاومت رژیم را ضعیف‌تر خواهد کرد."
-        ],
-        "impact": "اظهارات واشنگتن و سناتور آمریکایی فضای دیپلماتیک را تیره‌تر کرده و فشار سیاسی و بین‌المللی بر رهبری را تقویت می‌کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-strike-tehran-ayatollah-ali-khamenei-negotiations-geneva-nuclear-deal-latest-news-101771469276338.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-strike-tehran-ayatollah-ali-khamenei-negotiations-geneva-nuclear-deal-latest-news-101771469276338.html",
-        "image": null,
-        "timestamp": 1771463040.0
     }
 ]
