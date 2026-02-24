@@ -288,6 +288,24 @@
         "timestamp": 1771909250.0
     },
     {
+        "title_fa": "ژنرال ارشد ترامپ هشدار قاطع علیه جنگ با ایران داد",
+        "title_en": "Trump’s top general desperately trying to warn against war with Iran: Report",
+        "summary": [
+            "ژنرال دن کِین، رئیس ستاد مشترک، به رئیس‌جمهور ترامپ هشدار داده است که حمله هوایی به ایران می‌تواند منابع گسترده‌ای از اموال و مهمات ارتش آمریکا را تخلیه کند و او را به احتیاط فرا خوانده است.",
+            "ترامپ اظهارات کِین را دست‌کم گرفته و مدعی شده که کِین معتقد است جنگ با ایران «به‌راحتی» قابل برد است؛ جزئیات گفت‌وگوها محرمانه باقی ماند و او تنها مشاور نظامی گزارش‌شده است.",
+            "گزارش‌ها تأکید می‌کنند که نگرانی کِین ناشی از کاهش ذخایر مهمات به‌خاطر کمک‌های آمریکا به اسرائیل و اوکراین و همچنین احتمال فقدان حمایت متحدان در درگیری با ایران است؛ خبر اشاره مستقیمی به اعتراضات داخلی یا وضعیت اقتصادی ایران نکرده است."
+        ],
+        "impact": "این هشدار هم ریسک بروز رویارویی نظامی گسترده را برجسته می‌کند و هم نشان می‌دهد که یک منازعه مستقیم می‌تواند فشار بین‌المللی و اقتصادی بیشتری بر رژیم خامنه‌ای وارد کند در حالی که هزینه‌های سنگینی برای توان نظامی آمریکا خواهد داشت.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-top-general-desperately-trying-122425298.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-top-general-desperately-trying-122425298.html",
+        "image": "http://www.bing.com/th?id=OVFT.6RTzOBqr0AOtbexwtUMNSS&pid=News",
+        "timestamp": 1771908420.0
+    },
+    {
         "title_fa": "نفت زیر اوج هفت‌ماهه باقی می‌ماند؛ معامله‌گران منتظر مذاکرات آمریکا و ایران و سیاست تجاری",
         "title_en": "Oil hovers below seven-month high as traders eye U.S.–Iran talks, trade policy",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOXNNbGFVNnJobEJjSEFqTnBkNkczN3YzdVREcEZaQklxdUs0SEx4WXJOSWJ1SUFCdE9tbHhkajZ4dHdfRjB2eXl3MGd5WUdXUE0tRVFDNkp6RTUwYUY0RGpiNzRMQTUxMU1kYWM0TnpIMS1FMG9aNDdreDhscXJiX3hkVzRtTU1QcnF6TUdGaTlBek1ldHYwSFZnSlg1U20weUR1MDRFZkM2ZGkyblk5OXNGN0JEWFVwanpxblRCbGQtRGFnZ01GYXpPcTlKWUdVQnJ0VGt1SldlcGJwdFZWMExfeGtXOVlnT1JOLUp3",
         "image": null,
         "timestamp": 1771447915.0
-    },
-    {
-        "title_fa": "وضعیتی فوق‌العاده خطرناک: تریتا پارسی هشدار می‌دهد که آمریکا و ایران انگیزه‌های تشدید درگیری دارند",
-        "title_en": "“Extremely Dangerous Situation”: Trita Parsi Warns U.S. & Iran Have Incentives to Escalate Conflict",
-        "summary": [
-            "تریتا پارسی هشدار داده که هر دو طرف—ایالات متحده و ایران—در شرایطی قرار دارند که انگیزه‌هایی برای تشدید تنش دارند و وضعیت را «فوق‌العاده خطرناک» توصیف کرده است.",
-            "فشار خارجی و تحریم‌ها ساختار ثبات رژیم را تضعیف می‌کند؛ چنین فشارهایی می‌تواند هزینه‌های اقتصادی و سیاسی را بالا برده و انگیزه‌هایی برای اقدامات تلافی‌جویانه یا واکنش‌های رادیکال ایجاد کند.",
-            "در غیاب مکانیسم‌های کنترل بحران و با ادامه مشکلات اقتصادی و نارضایتی عمومی، خطر «فرار به جلو» یا اشتباه محاسباتی که به تشدید نظامی منجر شود، به‌طور معناداری افزایش می‌یابد."
-        ],
-        "impact": "این هشدار نشان می‌دهد که فقدان ابزارهای قوی کنترل بحران و کاهش فشارهای مخرب می‌تواند زمینه‌ساز تشدید ناخواسته یا محاسبات خطرناک بین تهران و واشینگتن شود.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Democracy Now!",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2FGbDFOekJadFZNN25ZSW0wb214Z2wteU5oQkJybkNSNlpXWjRUS1BlTTVIOFBFNDVkQzQwWFpOWlNtWmxMWDFIaUg3dVVXaThQb1BpQV9ZWDNkZVpIX1BUYlBLUnRIZUhON0MyWVo5b2FMeFp2TzVjQmE3Yk13c0tOd3Q2TGN2dHlUeEdjdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2FGbDFOekJadFZNN25ZSW0wb214Z2wteU5oQkJybkNSNlpXWjRUS1BlTTVIOFBFNDVkQzQwWFpOWlNtWmxMWDFIaUg3dVVXaThQb1BpQV9ZWDNkZVpIX1BUYlBLUnRIZUhON0MyWVo5b2FMeFp2TzVjQmE3Yk13c0tOd3Q2TGN2dHlUeEdjdw",
-        "image": null,
-        "timestamp": 1771446803.0
     }
 ]
