@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "حمله جدید آمریکا به ایران می‌تواند واکنش گسترده‌ای را به دنبال داشته باشد",
+        "title_en": "A new U.S. attack on Iran could risk large-scale retaliation",
+        "summary": [
+            "هر حملهٔ جدید آمریکا به ایران به‌طور مستقیم خطر تشدید نظامی را بالا می‌برد و احتمال واکنش گسترده از سوی نیروهای مسلح ایران و شبکه‌های نیابتی آن را افزایش می‌دهد.",
+            "فشار خارجی و تحریم‌ها نقش تضعیف ساختاری رژیم را تشدید می‌کنند؛ یک درگیری جدید می‌تواند پاسخ‌های سیاسی و اقتصادی بین‌المللی را سخت‌تر کند، وصول درآمدها را کاهش دهد و ظرفیت مدیریت بحران حکومت را محدود نماید.",
+            "بار اقتصادی و انسانی چنین رویارویی‌ای بر دوش مردم خواهد بود؛ اختلال در تجارت، افزایش هزینه‌های نظامی و نااطمینانی اقتصادی می‌تواند نارضایتی عمومی را تشدید و ریسک بی‌ثباتی داخلی را افزایش دهد."
+        ],
+        "impact": "یک حملهٔ جدید آمریکا می‌تواند سریعاً تنش را به برخورد گسترده‌تر ارتقا دهد و هم‌زمان با تضعیف اقتصادی رژیم، شانس گسترش نارضایتی داخلی و بحران سیاسی را بالا ببرد.",
+        "tag": "تقابل",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-us/news/world/a-new-us-attack-on-iran-could-risk-large-scale-retaliation/ar-AA1WVR3O",
+        "clean_url": "https://www.msn.com/en-us/news/world/a-new-us-attack-on-iran-could-risk-large-scale-retaliation/ar-AA1WVR3O",
+        "image": null,
+        "timestamp": 1771898400.0
+    },
+    {
+        "title_fa": "ترامپ به گزارش‌ها درباره هشدار فرمانده ارشد درباره خطرات حمله به ایران تاخت",
+        "title_en": "Trump hits out at reports that top general flagged risks of attacking Iran",
+        "summary": [
+            "گزارش‌ها حاکی از آن بودند که یک فرمانده ارشد نظامی نسبت به ریسک‌های اقدام نظامی علیه ایران هشدار داده؛ ترامپ به این گزارش‌ها واکنش تند نشان داد.",
+            "اختلاف آشکار میان نهاد سیاسی (رئیس‌جمهور) و مشاوران/فرماندهان نظامی، روند تصمیم‌گیری راهبردی آمریکا را مبهم و احتمال خطای محاسباتی را افزایش می‌دهد.",
+            "برای ایران این مناقشه هم فرصت و هم خطر دارد: فرصت بهره‌برداری تبلیغاتی توسط حکومت برای منحرف‌سازی نقدهای داخلی و خطر تشدید تنش‌های احتمالی که ثبات منطقه را تهدید می‌کند."
+        ],
+        "impact": "نمایش اختلافات داخلی واشنگتن می‌تواند هم ریسک تشدید کنش‌های نظامی را افزایش دهد و هم به نااطمینانی منطقه‌ای دامن بزند، در حالی که اثر مستقیم ساختاری بر ثبات فوری داخل ایران محدود و مشروط است.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/trump-hits-out-at-reports-that-top-general-flagged-risks-of-attacking-iran/ar-AA1WVVhY",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-hits-out-at-reports-that-top-general-flagged-risks-of-attacking-iran/ar-AA1WVVhY",
+        "image": null,
+        "timestamp": 1771897554.0
+    },
+    {
+        "title_fa": "ترامپ، خامنه‌ای را بین تسلیم یا ریسک جنگ قرار داده است",
+        "title_en": "Trump puts Iran’s leader in double bind: Capitulation or risk of war",
+        "summary": [
+            "شیوه برخورد دولت ترامپ با ایران تجاری و معطوف به معامله است؛ فرستادگانی چون استیو ویتکاف و جارد کوشنر دنبال «سرمایه‌گذاری» و توافق‌های سودمحور هستند و دیپلماسی واشینگتن این دور را به عنوان آخرین فرصت پیش از تهدید حمله نظامی در ژنو معرفی کرده است.",
+            "علی خامنه‌ای با انتخاب دشواریِ پذیرفتن محدودیت‌های سنگین برنامه هسته‌ای، موشکی و نفوذ منطقه‌ای یا مواجهه با احتمال جنگ کامل روبروست؛ مقامات ایرانی از جمله عباس عراقچی بر «حق غنی‌سازی» تأکید می‌کنند و تهران هشدار داده در صورت حمله مذاکرات را ترک خواهد کرد، در حالی که رئیس ستاد مشترک آمریکا دن کِین خطرات یک کمپین نظامی طولانی‌مدت را متذکر شده است.",
+            "فشار خارجی و تهدید به حمله، در کنار انزوای بین‌المللی که در متن خبر آمده، بار ساختاری و اقتصادی بر نظام را افزایش می‌دهد؛ این فشارها ناکارآمدی مدیریتی را برجسته کرده و ظرفیت رژیم برای تاب‌آوری سیاسی و اقتصادی را کاهش خواهد داد."
+        ],
+        "impact": "بن‌بست جاری یا رژیم را به امتیازدهی راهبردی وادار می‌کند که مشروعیت داخلی را تضعیف می‌کند، یا آن را وارد درگیری‌ای می‌سازد که توان اقتصادی و ثبات سیاسی‌اش را برای مدت طولانی نابود خواهد کرد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Hill",
+        "url": "https://www.aol.com/news/trump-puts-iran-leader-double-231431507.html",
+        "clean_url": "https://www.aol.com/news/trump-puts-iran-leader-double-231431507.html",
+        "image": null,
+        "timestamp": 1771888440.0
+    },
+    {
         "title_fa": "تحشید ترامپ علیه ایران، به‌اختصار توضیح داده شده",
         "title_en": "Trump’s Iran buildup, briefly explained",
         "summary": [
@@ -178,6 +232,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/state-department-orders-nonessential-us-diplomats-to-leave-lebanon-as-tensions-with-iran-soar/ar-AA1WU4dp",
         "image": null,
         "timestamp": 1771865918.0
+    },
+    {
+        "title_fa": "بحث بر سر حمله به ایران: پنتاگون هشدار می‌دهد، ترامپ پاسخ می‌دهد",
+        "title_en": "Inside the Iran war debate: Pentagon raises red flags — Trump fires back",
+        "summary": [
+            "دن کین در پنتاگون درباره احتمال حمله نظامی به ایران هشدار داد و به کمبود مهمات و فقدان حمایت متحدان اشاره کرد که می‌تواند پرسنل آمریکایی را در معرض خطر قرار دهد.",
+            "هشدار پنتاگون نشان‌دهنده محدودیت‌های عملیاتی واقعی برای اقدام یک‌جانبه علیه ایران است؛ بدون تدارکات و همراهی متحدان، خطر اشتباه محاسباتی و پیامدهای نامشخص بالا می‌ماند.",
+            "واکنش ترامپ به این هشدار فضای سیاسی داخلی آمریکا را پیچیده‌تر می‌کند؛ متن منبع نشانه‌ای از تأثیر مستقیم بر نارضایتی‌های داخلی یا وضعیت اقتصادی ایران ارائه نمی‌دهد."
+        ],
+        "impact": "پیام فوری این است که تردیدهای پنتاگون احتمال حمله نظامی گسترده و فوری را کاهش می‌دهد اما ریسک تنش و اشتباه محاسباتی در منطقه را همچنان حفظ می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.4,
+        "source": "Times Now on MSN",
+        "url": "https://www.msn.com/en-in/news/world/inside-the-iran-war-debate-pentagon-raises-red-flags-trump-fires-back/ar-AA1WVWHW",
+        "clean_url": "https://www.msn.com/en-in/news/world/inside-the-iran-war-debate-pentagon-raises-red-flags-trump-fires-back/ar-AA1WVWHW",
+        "image": "http://www.bing.com/th?id=OVFT.DOj1FthsaY1S8OIPe_S9qS&pid=News",
+        "timestamp": 1771863635.0
     },
     {
         "title_fa": "بنیامین نتانیاهو: اسرائیل در صورت حمله ایران از نیرویی غیرقابل‌تصور استفاده خواهد کرد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-is-bringing-war-upon-itself-after-trump-sends-warplanes-to-region/ar-AA1WB6WB",
         "image": null,
         "timestamp": 1771396430.0
-    },
-    {
-        "title_fa": "ایران خود را برای جنگ با آمریکا آماده می‌کند",
-        "title_en": "Iran Is Getting Ready for War With the U.S.",
-        "summary": [
-            "وال‌استریت‌ژورنال گزارش می‌دهد رژیم تهران خود را برای مواجهه نظامی با آمریکا آماده می‌کند و این را مهم‌ترین تهدید چند دهه اخیر توصیف می‌کند.",
-            "در صورت شکست مذاکرات دیپلماتیک، حکومت در تلاش است ظرفیت‌های بقا و بازدارندگی خود را تقویت کند؛ این نشان‌دهنده واکنشی به فشار خارجی و تضعیف اهرم‌های دیپلماتیک است.",
-            "این آماده‌سازی‌ها نشانه‌ای از ضعف مدیریتی و ناتوانی در حل بحران‌های سیاسی-اقتصادی از مسیر دیپلماسی است و احتمال تشدید تنش‌های منطقه‌ای و افزایش هزینه‌ سیاسی داخلی را بالا می‌برد."
-        ],
-        "impact": "افزایش احتمال تقابل نظامی و تشدید فشارهای بین‌المللی که توان اقتصادی و مشروعیت رژیم را بیش از پیش تضعیف می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/world/middle-east/as-iran-negotiates-it-is-preparing-for-war-with-the-u-s-d0aa48fa",
-        "clean_url": "https://www.wsj.com/world/middle-east/as-iran-negotiates-it-is-preparing-for-war-with-the-u-s-d0aa48fa",
-        "image": "http://www.bing.com/th?id=OVFT.LXsjQuRwKgA9MiYZG4Jdmy&pid=News",
-        "timestamp": 1771395480.0
-    },
-    {
-        "title_fa": "کاهش قیمت نفت در پی نشانه‌های پیشرفت مذاکرات هسته‌ای میان آمریکا و ایران",
-        "title_en": "Oil Holds Drop as US and Iran Signal Progress in Nuclear Talks",
-        "summary": [
-            "قیمت نفت پایین ماند زیرا بازار به گزارش‌های «نشانه پیشرفت» در مذاکرات هسته‌ای واکنش نشان داده و انتظار افزایش احتمالی عرضه نفت ایران را منعکس می‌کند.",
-            "پیشرفت مذاکرات می‌تواند مسیر کاهش یا برداشتن بخشی از تحریم‌های نفتی را باز کند؛ این امر به‌صورت مشروط می‌تواند درآمدهای ارزی رژیم را بازیابی کند ولی تضمین‌کننده پایداری اقتصادی یا حل ریشه‌ای سوء‌مدیریت نیست.",
-            "برای جامعه داخلی، حتی در صورت بازگشت بخشی از درآمد نفتی، بهبود معیشت فوری نیست: ساختارهای فساد، مدیریت ضعیف و تخصیص نابرابر منابع احتمالاً نارضایتی اجتماعی را پابرجا نگه می‌دارند. "
-        ],
-        "impact": "نشانه‌های پیشرفت در مذاکرات احتمال کاهش فشار خارجی بر رژیم و بازگشت منابع مالی را ایجاد می‌کند، اما این روند به‌تنهایی ثبات سیاسی و ناکارآمدی اقتصادی ساختاری را رفع نخواهد کرد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSENXS0ctUjBHX0R6dUo2dTRDTl9paVRhcUVONXRvb2JybUJpQWExcjYyRTMtZ3Q2bFFSbjhyQXgxcHFHa3EwSzFBYnFmM2lnUVNqZGYwYW9pcGdtNUZWWlh1YW9rZndiN2szOV9BVjZNQlR2UjNHc3Q4TkpfWkM2OHFTckVJZ0x0VVlaWUliVGE5cGMwWWlxSHVRXzJzb2x3T1F6MHFEM0dIalI5VEE3WkpDMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSENXS0ctUjBHX0R6dUo2dTRDTl9paVRhcUVONXRvb2JybUJpQWExcjYyRTMtZ3Q2bFFSbjhyQXgxcHFHa3EwSzFBYnFmM2lnUVNqZGYwYW9pcGdtNUZWWlh1YW9rZndiN2szOV9BVjZNQlR2UjNHc3Q4TkpfWkM2OHFTckVJZ0x0VVlaWUliVGE5cGMwWWlxSHVRXzJzb2x3T1F6MHFEM0dIalI5VEE3WkpDMA",
-        "image": null,
-        "timestamp": 1771392360.0
-    },
-    {
-        "title_fa": "به زبان ترامپ: ایران توافق هسته‌ای را پیروزی «تریلیون دلاری» آمریکا جلوه داد",
-        "title_en": "Speaking Trump’s language: Iran frames nuclear deal as ‘trillion-dollar’ US win",
-        "summary": [
-            "تیتر SCMP می‌گوید جمهوری اسلامی توافق هسته‌ای را به‌عنوان «پیروزی تریلیون دلاری» برای آمریکا قالب‌بندی کرده؛ این روایت تبلیغاتی برای توجیه امتیازات مذاکره‌ای و دستاوردهای اقتصادی ادعاشده به‌کار می‌رود.",
-            "از منظر فشار خارجی و تحریم‌ها: اگر این چارچوب بازتاب واقعی توافق باشد، پذیرشِ مبادله کاهش تحریم‌ها در برابر محدودیت‌های هسته‌ای ممکن است فشار اقتصادی کوتاه‌مدت را کاهش دهد اما ساختار بنیادین ضعف‌های حکمرانی را حل نکرده و توان بقا را به طور ساختاری تضعیف نمی‌کند.",
-            "در سطح داخلی، ارائه توافق به‌عنوان برد بزرگ طرف آمریکایی می‌تواند مشروعیت سیاسی حکومت را کاهش دهد و نارضایتی میان ملی‌گرایان منتقد و لایه‌های اقتصادی آسیب‌پذیر را تشدید کند؛ این تاکتیک پیامدهای سیاسی معکوس خواهد داشت."
-        ],
-        "impact": "روایت «پیروزی تریلیون‌دلاری» ممکن است موقتا فشار اقتصادی را کم کند ولی با افزایش بی‌اعتمادی داخلی، دوام سیاسی حکومت را تضعیف می‌کند.",
-        "tag": "برجام",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWEwOUlmVkVfdVU0TzFaYXJEZjhBRHZqSTVBNFdQQVVSOUg5T3hyMnh0QkRBQi1iWlUyd3JOMzdjajBRUFl3Y3NqQWdGMHJiRGhzMnYtcG5oVGJnaUp6eElrbDJ0MlprTjdjN21meW9tT0FBc1ctUzU4blh6R0VjTF8xNkZUV01VbzNIVkdsNjZBTk9RUi0tVnRMcHpMbW1QcXJTMVM1TUlnN2ZI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWEwOUlmVkVfdVU0TzFaYXJEZjhBRHZqSTVBNFdQQVVSOUg5T3hyMnh0QkRBQi1iWlUyd3JOMzdjajBRUFl3Y3NqQWdGMHJiRGhzMnYtcG5oVGJnaUp6eElrbDJ0MlprTjdjN21meW9tT0FBc1ctUzU4blh6R0VjTF8xNkZUV01VbzNIVkdsNjZBTk9RUi0tVnRMcHpMbW1QcXJTMVM1TUlnN2ZI",
-        "image": null,
-        "timestamp": 1771389434.0
-    },
-    {
-        "title_fa": "آمریکا و ایران: مذاکرات هسته‌ای ادامه دارد ولی هر دو طرف نیروهای نظامی را تقویت می‌کنند",
-        "title_en": "US and Iran say they'll continue nuclear talks as both build up their military forces",
-        "summary": [
-            "دور دوم گفت‌وگوهای آمریکا و ایران با تعهد به ادامه مذاکرات به پایان رسید؛ هیچ توافق نهایی گزارش نشده است.",
-            "به‌طور همزمان هر دو طرف در حال افزایش توان و حضور نظامی هستند که نشان‌دهنده ادامه رقابت و آماده‌سازی برای سناریوهای امنیتی است.",
-            "متن اشاره‌ای مستقیم به تحریم‌ها نکرده اما مذاکرات احتمالاً برای کاهش فشارهای خارجی انجام می‌شود؛ درعین‌حال تقویت نظامی منابع مالی و مدیریتی داخلی را تحت فشار قرار می‌دهد و می‌تواند فضای سیاسی و اقتصادی را محدودتر کند."
-        ],
-        "impact": "این هم‌زمانی دیپلماسی و تقویت نظامی ریسک اشتباه محاسباتی و درگیری را بالا می‌برد و منابع محدود داخلی را بیشتر تحت فشار می‌گذارد.",
-        "tag": "تنش",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/02/18/nx-s1-5717095/us-and-iran-say-theyll-continue-nuclear-talks-as-both-build-up-their-military-forces",
-        "clean_url": "https://www.npr.org/2026/02/18/nx-s1-5717095/us-and-iran-say-theyll-continue-nuclear-talks-as-both-build-up-their-military-forces",
-        "image": null,
-        "timestamp": 1771386720.0
     }
 ]
