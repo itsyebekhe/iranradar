@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ: یک فرمانده ارشد مخالف جنگ با ایران نیست و فکر می‌کند جنگ «به‌راحتی پیروز می‌شود»",
+        "title_en": "Trump: Top general doesn’t oppose Iran war, thinks it would be ‘easily won’",
+        "summary": [
+            "ترامپ ادعا کرده که یکی از فرماندهان ارشد نظامی آمریکا مخالفتی با اقدام نظامی علیه ایران ندارد و باور دارد جنگ به‌راحتی پیروز خواهد شد؛ خودِ گزارش صرفاً این گزاره را نقل می‌کند.",
+            "این اظهارنظر می‌تواند آستانه اقدام نظامی را پایین بیاورد و کار تصمیم‌سازان را برای توجیه گزینه قهرآمیز تسهیل کند؛ پیامد عملی آن افزایش خطر محاسبات اشتباه و تنش منطقه‌ای است.",
+            "اگر چنین گفتمانی منجر به تشدید فشار خارجی یا بازگشت جدی به گزینه نظامی شود، اثر تضعیف ساختاری بر ثبات رژیم خواهد داشت؛ گزارش به‌طور مستقیم به تحریم‌ها یا اعتراضات داخلی اشاره‌ای نکرده است، بنابراین هر تحلیل از این منظر باید مشروط و مبتنی بر تحولات بعدی باشد."
+        ],
+        "impact": "اظهارات ترامپ پتانسیل کاهش بازدارندگی، افزایش احتمال برخورد نظامی و تشدید مخاطرات برای ثبات داخلی و منطقه‌ای را دارد.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDFNS0RxdlltelViSVRESVpkaVVNaHhBVi04c0I3elNYbFNIdXdsQmRXVklJQ0NWay03Um8zNkNCc2MtUmg2SkFZeHhKSDZldmFJSFlOenRXeGNQejdrVklOVXVWVjBvMkVlZHZvdnFDclhad2pJbkc1OGs3c3J3d014a3diZWs1SEdfeE53Qk9pd0xORWhqRlVjNHo1NHRUTm5FYmh4d2IweHlESjRKZTJFZjlaeGx6dzFOWkFB0gHDAUFVX3lxTE1nNUJlTlVyV0RRNi1sLUlDdjF0VUFkaU1mb3dTeUp6NXVLT0dzNTFxMXhGamRfbWNud1R0WnB0Z0s3N1U3YkdoT2JYdUxUY0diRVBoQTZpXzlFLVRJQ2pnTXcyOExhU2x1RXE1U3Fybk1Sb3NFNml2cWYzQXlhSW1yYzdYbEJ4QmU4UnZmdTI5QURicnktMFNlOW9pcURoOFBqVnpYN0t2Y1l6eEpjM244aHhseTRUX2hlT2NJMVJ3WUg4VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDFNS0RxdlltelViSVRESVpkaVVNaHhBVi04c0I3elNYbFNIdXdsQmRXVklJQ0NWay03Um8zNkNCc2MtUmg2SkFZeHhKSDZldmFJSFlOenRXeGNQejdrVklOVXVWVjBvMkVlZHZvdnFDclhad2pJbkc1OGs3c3J3d014a3diZWs1SEdfeE53Qk9pd0xORWhqRlVjNHo1NHRUTm5FYmh4d2IweHlESjRKZTJFZjlaeGx6dzFOWkFB0gHDAUFVX3lxTE1nNUJlTlVyV0RRNi1sLUlDdjF0VUFkaU1mb3dTeUp6NXVLT0dzNTFxMXhGamRfbWNud1R0WnB0Z0s3N1U3YkdoT2JYdUxUY0diRVBoQTZpXzlFLVRJQ2pnTXcyOExhU2x1RXE1U3Fybk1Sb3NFNml2cWYzQXlhSW1yYzdYbEJ4QmU4UnZmdTI5QURicnktMFNlOW9pcURoOFBqVnpYN0t2Y1l6eEpjM244aHhseTRUX2hlT2NJMVJ3WUg4VQ",
+        "image": null,
+        "timestamp": 1771903680.0
+    },
+    {
         "title_fa": "حمله جدید آمریکا به ایران می‌تواند واکنش گسترده‌ای را به دنبال داشته باشد",
         "title_en": "A new U.S. attack on Iran could risk large-scale retaliation",
         "summary": [
@@ -216,6 +234,42 @@
         "timestamp": 1771870540.0
     },
     {
+        "title_fa": "تنش ایران-آمریکا؛ ترامپ: «ترجیح می‌دهم توافق شود» اما درباره «روز بسیار بد» برای ایران هشدار داد",
+        "title_en": "Iran-US tensions live updates: Trump says 'would rather have deal' before issuing 'very bad day' warning for Iran",
+        "summary": [
+            "دونالد ترامپ گزارش‌های رسانه‌ای درباره احتمال جنگ با ایران را رد کرد، گفت ترجیح می‌دهد توافق حاصل شود اما هشدار داد که در غیر این صورت «یک روز بسیار بد» برای ایران خواهد بود.",
+            "تهدیدهای نظامی و سیاسی آمریکا به‌عنوان فشار خارجی ساختارهای اقتصادی و سیاسی حکومت را تضعیف می‌کند: هزینه‌های بین‌المللی افزایش می‌یابد، فضای سرمایه‌گذاری بیشتر محدود می‌شود و ظرفیت حکمرانی در برابر شوک‌ها کاهش می‌یابد.",
+            "افزایش تنش‌های خارجی می‌تواند نارضایتی عمومی را تشدید و آسیب‌پذیری اقتصادی را عمیق‌تر کند؛ این در حالی است که ضعف مدیریت و سوء‌عملکرد ساختاری حکومت توان پاسخگویی به این فشارها را محدود می‌سازد."
+        ],
+        "impact": "افزایش موضع‌گیری‌های تهدیدآمیز آمریکا فشارهای اقتصادی و سیاسی را تشدید می‌کند و به تضعیف مشروعیت و کارایی حکومت منجر شده، احتمال تشدید سرکوب یا پذیرش امتیازهای استراتژیک را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Hindustan Times on MSN",
+        "url": "https://www.msn.com/en-in/news/world/iran-us-tensions-live-updates-trump-says-would-rather-have-deal-before-issuing-very-bad-day-warning-for-iran/ar-AA1WVW0z",
+        "clean_url": "https://www.msn.com/en-in/news/world/iran-us-tensions-live-updates-trump-says-would-rather-have-deal-before-issuing-very-bad-day-warning-for-iran/ar-AA1WVW0z",
+        "image": "http://www.bing.com/th?id=OVFT.Lb7kEFPFVMq5ss-IMtChJy&pid=News",
+        "timestamp": 1771870445.0
+    },
+    {
+        "title_fa": "ترامپ دوباره در آستانه حمله به ایران؛ برنامه هسته‌ای که ادعا می‌کند «نابود» شده هدف مناقشه",
+        "title_en": "Trump weighs strikes against Iran for nuclear program he says he 'obliterated'",
+        "summary": [
+            "در ژوئن، نیروهای آمریکا به سه تاسیسات هسته‌ای ایران بمب‌های ضدسنگر و موشک‌های تاماهاک شلیک کردند و ترامپ آن عملیات را «کاملاً نابودکننده» خواند؛ حالا اداره‌اش با دلایل متغیر — توقف سرکوب اعتراضات، مهار موشک‌های بالستیک و جلوگیری از دستیابی به مواد شکافته — بار دیگر گزینه حمله را بررسی می‌کند.",
+            "دولت آمریکا به تهران ۱۵ روز مهلت داده تا توافقی را بپذیرد که غنی‌سازی اورانیوم را ممنوع کند؛ عباس ارغچی این درخواست را رد کرد و پس از بمباران ژوئن جمهوری اسلامی دسترسی بازرسان بین‌المللی به سایت‌ها را مسدود کرده که تصویر دقیقی از وضعیت برنامه هسته‌ای را نامشخص می‌سازد — کارشناسان و تصاویر ماهواره‌ای حاکی از تلاش برای بازسازی است.",
+            "تحرکات نظامی آمریکا از جمله اعزام دومین گروه ناو هواپیمابر به منطقه و اظهارات فرستاده‌ها مبنی بر «نزدیکی به مواد صنعتی بمب‌ساز» فشار خارجی را تشدید می‌کند؛ این فشار ساختاری رژیم را تضعیف می‌کند و با اقتصاد فرسوده و سرکوب داخلی می‌تواند نارضایتی اجتماعی را افزایش دهد و بهانه‌ای برای سرکوب گسترده‌تر در داخل فراهم کند."
+        ],
+        "impact": "تشدید تهدید نظامی و اولتیماتوم‌های واشنگتن به‌سرعت تهران را منزوی‌تر و بی‌ثبات‌تر کرده و هم خطر تشدید سرکوب داخلی را بالا می‌برد و هم احتمال گسترش منازعه منطقه‌ای را افزایش می‌دهد.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-weighs-strikes-against-iran-001734673.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-weighs-strikes-against-iran-001734673.html",
+        "image": "http://www.bing.com/th?id=OVFT.vM-uAbNlnPYRVZ5uLOjFyS&pid=News",
+        "timestamp": 1771868220.0
+    },
+    {
         "title_fa": "وزارت خارجه آمریکا دستور خروج دیپلمات‌های غیرضروری از لبنان را صادر کرد؛ تنش‌ها با ایران افزایش یافته‌اند",
         "title_en": "State Department orders nonessential U.S. diplomats to leave Lebanon as tensions with Iran rise",
         "summary": [
@@ -340,6 +394,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-warns-iran-of-harsher-response/ar-AA1WVe8B",
         "image": null,
         "timestamp": 1771855273.0
+    },
+    {
+        "title_fa": "تحریم‌های ترامپ اقتصاد ایران را به‌طور چشمگیر ضربه زد و به اعتراضات انجامید",
+        "title_en": "Trump's sanctions on Iran have dramatically effected its economy and led to protests",
+        "summary": [
+            "وزیر خزانه‌داری اسکات بسنت اذعان کرده که اقدامات واشنگتن موجب کمبود دلار شده و این کمبود عامل تورم شتابان بوده است.",
+            "کمبود دسترسی به ارز خارجی بازارها را بحران‌زده کرده و به‌عنوان محرک مستقیم موج جدید اعتراضات مردمی عمل کرده است.",
+            "اعتراف صریح مقام آمریکایی نشان می‌دهد تحریم‌ها فراتر از فشار بیرونی، پیامدهای سیاسی و اقتصادی‌ای تولید کرده که کارایی و مشروعیت رژیم را تضعیف می‌کند."
+        ],
+        "impact": "تحریم‌ها با ایجاد کمبود دلار و تورم، ظرفیت مالی و کنترل سیاسی رژیم را تضعیف کرده و خطر گسترش ناآرامی‌های فراگیر را افزایش داده‌اند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/02/23/nx-s1-5708935/trumps-sanctions-on-iran-have-dramatically-effected-its-economy-and-led-to-protests",
+        "clean_url": "https://www.npr.org/2026/02/23/nx-s1-5708935/trumps-sanctions-on-iran-have-dramatically-effected-its-economy-and-led-to-protests",
+        "image": null,
+        "timestamp": 1771853100.0
     },
     {
         "title_fa": "ایران حق انرژی هسته‌ای صلح‌آمیز را «غیرقابل مذاکره» می‌داند؛ ترامپ تهدیدها را تشدید می‌کند",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUUFkUlBuRHRKOFotSE9kUVJIQnBXaUZSYm1EbVRTWFVvR0RlMWJlR2pIQzNsLTFiUFNYamJOS0I2VHdiRGdKSVowbnZzci12T3k5Um5zUFAtS0lBWi1zNXlYVENCTnhGSlFRWEZrSGl1azlaS0ZqQ1BzUFctR1k2VFI2ZF9RTklnNlJQQ05XQkhpbkZTSlFLMUhLd2pfbHRFUzVtbVBxRkpWOWxPLXBWeEtqOEdVWE8wcFRxTzVIQUY0WGx4UHVnTC1LNTlsamRfX19jMmIxbGZOQUxlam5Z",
         "image": null,
         "timestamp": 1771402011.0
-    },
-    {
-        "title_fa": "لوته‌هاوزر-شنارن‌برگر خواستار تحریم‌های هدفمند علیه رژیم ایران شد و از برنامه ده‌ماده‌ای شورای ملی مقاومت حمایت کرد",
-        "title_en": "Leutheusser-Schnarrenberger Urges Targeted Sanctions Against Iran's Regime, Backs NCRI's Ten-Point Plan - National Council of Resistance of Iran",
-        "summary": [
-            "لوته‌هاوزر-شنارن‌برگر خواستار وضع تحریم‌های هدفمند علیه نهادهای کلیدی رژیم ایران شده و به‌طور علنی از برنامه ده‌ماده‌ای شورای ملی مقاومت ایران حمایت کرده است.",
-            "تحلیل ساختاری: تحریم‌های هدفمند اگر اجرا شوند منابع مالی و ظرفیت‌های عملیاتی رژیم را محدود می‌کنند و به تضعیف توان سرکوب و اداره اقتصادی حکومت منجر خواهند شد.",
-            "محدودیت‌های گزارش: منبع به نقش روسیه، چین یا کره‌شمالی اشاره‌ای نکرده و آمار مستقیمی درباره اعتراضات داخلی یا تأثیرات اقتصادی کوتاه‌مدت ارائه نمی‌کند؛ با این حال حمایت بین‌المللی از تحریم‌ها می‌تواند زمینه افزایش فشار سیاسی و افزایش نارضایتی عمومی را فراهم کند."
-        ],
-        "impact": "حمایت یک بازیگر بین‌المللی از تحریم‌های هدفمند و از برنامه ده‌ماده‌ای NCRI، روند انزوای سیاسی و اقتصادی رژیم را تشدید و ظرفیت آن برای سرکوب و مدیریت بحران‌های داخلی را کاهش خواهد داد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.7,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblpYSzZOR1JyY3kwVklPaU9mOG1OcWU4VTc1Y2pLc0lUSnhJN2J1Y2dST2N0NFdIVWxCZGVhejlPVTBEWlBmRjN2Nmpzb190SVNTNnFOOUJlY21IYm9GbF9faWQ1RTBDa2VUSHUybWhSX1M2RlJRb2p1X1lmZHI0b181YnJuWVowdjRGVWY5cWQ2aW90REd4V2d3RGVPV2JEcGFQa2I2dlU4Yl9peU5lX21ZbDd2THlZQkQ2RzdoeEcxVkZISkF4Q1FSU1NPLUZZQUw2SEpfLW81NUts?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblpYSzZOR1JyY3kwVklPaU9mOG1OcWU4VTc1Y2pLc0lUSnhJN2J1Y2dST2N0NFdIVWxCZGVhejlPVTBEWlBmRjN2Nmpzb190SVNTNnFOOUJlY21IYm9GbF9faWQ1RTBDa2VUSHUybWhSX1M2RlJRb2p1X1lmZHI0b181YnJuWVowdjRGVWY5cWQ2aW90REd4V2d3RGVPV2JEcGFQa2I2dlU4Yl9peU5lX21ZbDd2THlZQkQ2RzdoeEcxVkZISkF4Q1FSU1NPLUZZQUw2SEpfLW81NUts",
-        "image": null,
-        "timestamp": 1771401888.0
-    },
-    {
-        "title_fa": "رئیس سابق اطلاعات نظامی ارتش اسرائیل: احتمال اقدام آمریکا علیه ایران ظرف روزهای آینده",
-        "title_en": "Ex-IDF Military Intelligence chief suggests US action against Iran could come within days",
-        "summary": [
-            "رئیس سابق اطلاعات نظامی ارتش اسرائیل اظهار کرده اقدام احتمالی آمریکا علیه ایران ممکن است ظرف روزهای آتی رخ دهد؛ منبع: The Times of Israel.",
-            "این ارزیابی نشان‌دهنده افزایش خطر تشدید نظامی فوری است، اما گزارش جزئیات مشخصی از زمان‌بندی یا ماهیت اقدام ارائه نکرده است.",
-            "احتمال اقدام آمریکا می‌تواند زمینه فشار دیپلماتیک و تحریم‌های تکمیلی را فراهم کند که ساختار اقتصادی و ظرفیت حکمرانی تهران را بیش‌تر تضعیف کرده و نارضایتی عمومی و فشارهای داخلی را تشدید خواهد کرد."
-        ],
-        "impact": "پیام فوری: ریسک تشدید نظامی افزایش یافته و فشار اقتصادی-سیاسی بر حکومت تهران به شکل قابل‌توجهی بیشتر می‌شود.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG9mLVNkcnJlMTZNVGdsZDlnYnc3aWlrTFdod3plblUzVUFnbUhhYmFJLTBpRWpBRHhMZXhGeFotcktfVmJyNmh1VDhreU1tYVlWcE8tVVVrWHlVR1RZY3JUWmxEYk82cjEwdzdzd0ZFcmdoV1ktVVVVM3Z2SXRhYlc4WG5tOGt5UzBVNXdaNlFSRXBNRWQyX0hvWkZUY1N3MzYxSlJHa3ZmeUotN3UtaU9yRjFIV3BPdVhnSGFhV2hLVFlMV2sxXzk0eGhoN3hn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG9mLVNkcnJlMTZNVGdsZDlnYnc3aWlrTFdod3plblUzVUFnbUhhYmFJLTBpRWpBRHhMZXhGeFotcktfVmJyNmh1VDhreU1tYVlWcE8tVVVrWHlVR1RZY3JUWmxEYk82cjEwdzdzd0ZFcmdoV1ktVVVVM3Z2SXRhYlc4WG5tOGt5UzBVNXdaNlFSRXBNRWQyX0hvWkZUY1N3MzYxSlJHa3ZmeUotN3UtaU9yRjFIV3BPdVhnSGFhV2hLVFlMV2sxXzk0eGhoN3hn",
-        "image": null,
-        "timestamp": 1771400813.0
-    },
-    {
-        "title_fa": "ایران هم‌زمان با مذاکرات، خود را برای جنگ با آمریکا آماده می‌کند",
-        "title_en": "As Iran negotiates, it is preparing for war with the US",
-        "summary": [
-            "رهبری ایران تلاش می‌کند توافق هسته‌ای با آمریکا به دست آید اما همزمان سرعت آماده‌سازی‌های نظامی را افزایش می‌دهد تا در صورت شکست گفتگوها برای درگیری آماده باشد.",
-            "این رفتار دوگانه نشان‌دهنده اتخاذ گزینه نظامی به‌عنوان پشتوانه دیپلماتیک است و ریسک تشدید رویارویی مستقیم با واشنگتن را بالا می‌برد.",
-            "ترکیب تمرکز بر دیپلماسی و هم‌زمان هزینه‌کرد برای آمادگی نظامی منابع حکومتی را تحت فشار قرار می‌دهد و ثبات داخلی و مدیریت اقتصادی را تضعیف می‌کند."
-        ],
-        "impact": "اگر مذاکرات به شکست بیانجامد، شتاب در آماده‌سازی نظامی احتمال برخورد مستقیم یا تشدید تحریم‌ها و فشارهای خارجی را افزایش می‌دهد و بدنهٔ حکومتی را در معرض بی‌ثباتی بیشتر قرار می‌دهد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/as-iran-negotiates-it-is-preparing-for-war-with-the-us/ar-AA1WBqEi",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/as-iran-negotiates-it-is-preparing-for-war-with-the-us/ar-AA1WBqEi",
-        "image": "http://www.bing.com/th?id=OVFT.KDkkji-9eJKrbHqIGm4CBC&pid=News",
-        "timestamp": 1771399080.0
-    },
-    {
-        "title_fa": "ارسال گسترده جنگنده و محموله‌های نظامی آمریکا به منطقه؛ خطر رویارویی با ایران افزایش یافته",
-        "title_en": "Iran is 'bringing war upon itself' after Trump sends warplanes to region",
-        "summary": [
-            "گزارش: بیش از ۱۵۰ پرواز باری نظامی آمریکایی در روزهای اخیر سلاح، جنگنده و هواپیماهای سوخت‌رسان به منطقه خاورمیانه منتقل کرده‌اند؛ گزارش اشاره‌ای به درگیری مستقیم یا حمله انجام‌شده ندارد.",
-            "فشار خارجی/تحریم‌ها: افزایش حضور نظامی آمریکا عملاً ابزاری برای تشدید فشار بر حکومت ایران است؛ این فشار ساختاری می‌تواند توان تولید و بازسازی اقتصادی را تضعیف کرده و هزینه‌های امنیتی را بالا ببرد که در درازمدت ثبات سیاسی را کاهش می‌دهد.",
-            "اقتصاد و نارضایتی‌های داخلی: هرچند گزارش نشانه‌ای از اعتراض‌های جاری ارائه نمی‌دهد، اما افزایش ریسک نظامی و نیاز به تخصیص منابع بیشتر به بخش امنیتی، حکایت از تشدید سوء‌مدیریت منابع و احتمال افزایش نارضایتی عمومی در آینده نزدیک دارد."
-        ],
-        "impact": "این تحرک نظامی آمریکا احتمال محاسبات اشتباه و تشدید فشار بر حکومت ایران را بالا می‌برد و می‌تواند هم ثبات منطقه‌ای و هم تاب‌آوری اقتصادی داخلی را تضعیف کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Metro on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-is-bringing-war-upon-itself-after-trump-sends-warplanes-to-region/ar-AA1WB6WB",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-is-bringing-war-upon-itself-after-trump-sends-warplanes-to-region/ar-AA1WB6WB",
-        "image": null,
-        "timestamp": 1771396430.0
     }
 ]
