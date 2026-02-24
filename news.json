@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "مروری بر جدول زمانی طولانی و پرتنش تنش‌های هسته‌ای ایران در آستانه مذاکرات با آمریکا",
+        "title_en": "A look at the long, fraught timeline of Iran nuclear tensions as talks with US loom",
+        "summary": [
+            "عنوان خبر به‌طور مشخص به سابقه طولانی و پرتنش پرونده هسته‌ای ایران اشاره می‌کند و هشدار می‌دهد که مذاکرات جدید با آمریکا در آستانه انجام است؛ گزارش ظاهراً یک بازخوانی تاریخی از نقاط عطف تنش‌هاست.",
+            "تحلیل اثرات تحریم‌ها و فشار خارجی: فشارها ساختار اقتصادی و توان سیاسی رژیم را ضعیف کرده‌اند و محدودیت‌های بین‌المللی برای سرمایه‌گذاری و تعامل اقتصادی پیامدهای ماندگاری بر ثبات حکمرانی دارد.",
+            "پیوند با وضعیت داخلی: بن‌بست هسته‌ای و فشارهای اقتصادی می‌تواند فضای نارضایتی عمومی را تشدید کند؛ مدیریت ناکارآمد اقتصادی و سیاسی، ریسک افزایش تنش‌های اجتماعی را تقویت می‌کند."
+        ],
+        "impact": "ادامه وضع موجود و ورود به مذاکرات بدون تغییر جدی در هزینه‌های ساختاری تحریم‌ها و مدیریت داخلی می‌تواند انسجام حکومتی را تضعیف و ریسک بحران‌های سیاسی-اقتصادی را بالا ببرد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "MyNorthwest.com",
+        "url": "https://www.msn.com/en-us/news/world/a-look-at-the-long-fraught-timeline-of-iran-nuclear-tensions-as-talks-with-us-loom/ar-AA1WXvFO",
+        "clean_url": "https://www.msn.com/en-us/news/world/a-look-at-the-long-fraught-timeline-of-iran-nuclear-tensions-as-talks-with-us-loom/ar-AA1WXvFO",
+        "image": null,
+        "timestamp": 1771924516.0
+    },
+    {
+        "title_fa": "تحریم‌های سازمان ملل علیه ایران: دوباره اعمال شده یا برای همیشه کنار گذاشته؟",
+        "title_en": "UN Sanctions on Iran: Back in Force or Gone for Good?",
+        "summary": [
+            "عنوان مقاله به تردید درباره وضعیت حقوقی و عملی تحریم‌های سازمان ملل اشاره می‌کند و محور بحث بررسی شده این است که آیا مکانیسم «بازگشت تحریم‌ها» فعال شده یا خیر.",
+            "تحلیل باید بر اثرات ساختاری فشار خارجی متمرکز شود: بازگشت تحریم‌ها توان محدودکردن دسترسی به بازارها، سرمایه و فناوری را دارد که می‌تواند نهادهای مالی و ظرفیت دولت برای توزیع منابع را تضعیف کند.",
+            "ابهام در اجرای قطعنامه‌ها و تفسیر حقوقی، نه تنها مانع از تجارت و سرمایه‌گذاری می‌شود بلکه ارزش سیاسی و اجرایی حکومت را کاهش داده و می‌تواند سطح نارضایتی داخلی و بی‌ثباتی را تشدید کند."
+        ],
+        "impact": "بازگشت تحریم‌های سازمان ملل می‌تواند به‌صورت ملموس ظرفیت اقتصادی و مشروعیت سیاسی حکومت را کاهش دهد و فشارهای اجتماعی-سیاسی داخلی را افزایش دهد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Opinio Juris",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTldyOHhYd0dMa2QzUzUzaTMxT0JZMDAza1czbmswZUw0Z0dGMmpqZ21tbGRpYWNuenNLSmZ5d0NaMS13MWVBNGtWeEtwMUZnNVlPWXl3em1EWDJraVlaV2c0akpVQ1huaFRmUXBwU2ZkRUQxdGxka2ZyQXA0NUdUQ3hfNnppU1ZwcEFzdUhKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTldyOHhYd0dMa2QzUzUzaTMxT0JZMDAza1czbmswZUw0Z0dGMmpqZ21tbGRpYWNuenNLSmZ5d0NaMS13MWVBNGtWeEtwMUZnNVlPWXl3em1EWDJraVlaV2c0akpVQ1huaFRmUXBwU2ZkRUQxdGxka2ZyQXA0NUdUQ3hfNnppU1ZwcEFzdUhKOA",
+        "image": null,
+        "timestamp": 1771923898.0
+    },
+    {
         "title_fa": "معمای ترامپ درباره ایران: جنگ یا یک توافق توخالی",
         "title_en": "Trump's Iran Dilemma: War or a Hollow Deal",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1VsWElQNFJSZnUtdm03d3ZMVE1lU1NmYkhMY1hSakZtQ0NmYjBlbXFtOGU1Sm5oOWRyQmVzVko0N3owX1lVR2FZWlV5XzNvaWhnbXByalB2MzQxS0t5dHZfVF9MWktmT0Q4Nm9ESmhqRHBoY2t3Z1RXWjA5S0txMmZ1MzfSAYoBQVVfeXFMTTBfZjkyQl9oVTBoNXNEMEl2RF9jMTNZT1M5QWJXaXJQakNkVUlwSkxqWXJYUDR3akEwd2x1U2E5X3dVbWtFQ2tvMkRpUWpFamJENTJCajhyVHo3cjBGRHZmMUF3bG1SeHVUZWFCYl9CWDVlQm5VTTh4ZVRzT2o2YVRCOXl3VTRmQ1NB",
         "image": null,
         "timestamp": 1771422838.0
-    },
-    {
-        "title_fa": "محدودیت‌های یک توافق آمریکا-ایران",
-        "title_en": "The Limits of a U.S.-Iran Deal",
-        "summary": [
-            "مقاله روی محدودیت‌های یک توافق احتمالی بین آمریکا و ایران تمرکز دارد و تأکید می‌کند که توافق به‌تنهایی قادر نیست اثرات ساختاری تحریم‌ها و فشار خارجی را به طور کامل جبران کند.",
-            "کاهش فشار خارجی ممکن است موقتا تنش‌های اقتصادی را تسکین دهد، اما مشکلات بنیادین مدیریت اقتصادی، کسری بودجه و ناکارآمدی حکمرانی را حل نخواهد کرد.",
-            "حتی در صورت انعقاد توافق، فضای سیاسی و اجتماعی ایران همچنان لغزنده خواهد ماند و خطر تداوم نارضایتی عمومی و بحران مشروعیت رژیم پابرجاست."
-        ],
-        "impact": "یک توافق محدود می‌تواند فشار بین‌المللی را تعدیل کند اما به‌تنهایی مانع تضعیف ساختاری و تشدید نارضایتی داخلی در ایران نخواهد شد.",
-        "tag": "توافق",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Gulf International Forum",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybl8tRXNVc3o0aUlQaEd0WWN0ZHpEMTdyTlBsd1A2RFZsVnJYdldrYWo3dVRtcnZVV1B1OExFWjJvUXBhZ3Bkam9IRUh1SllvelZZVzFqcGNqMWRpZXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybl8tRXNVc3o0aUlQaEd0WWN0ZHpEMTdyTlBsd1A2RFZsVnJYdldrYWo3dVRtcnZVV1B1OExFWjJvUXBhZ3Bkam9IRUh1SllvelZZVzFqcGNqMWRpZXc",
-        "image": null,
-        "timestamp": 1771421586.0
-    },
-    {
-        "title_fa": "ایران، متهم به حمایت از تروریسم، نایب‌رئیس کمیته منشور سازمان ملل شد",
-        "title_en": "Terror sponsor Iran gets UN leadership overseeing Charter principles",
-        "summary": [
-            "انتخاب ایران به عنوان نایب‌رئیس کمیته منشور سازمان ملل با اعتراض اسرائیل همراه شد که آن را «ابرتناقض اخلاقی» خواند و به نگرانی‌ها درباره وضعیت حقوق بشری در ایران اشاره کرد.",
-            "این انتصاب اعتبار نهادهای بین‌المللی را در موضوع رعایت منشور به چالش می‌کشد و می‌تواند موج جدیدی از انتقادهای دیپلماتیک و سیاسی را علیه رژیم ایجاد کند که ساختار تکیه‌گاه بین‌المللی آن را بیش‌ازپیش تضعیف می‌سازد.",
-            "در مقطع کنونی که پرونده حقوق بشر، مهم‌ترین نقطه‌ضعف بین‌المللی حکومت است، تصدی نقش رسمی در کمیته منشور احتمالاً شکاف مشروعیت داخلی را عمیق‌تر کرده و توان رژیم برای مدیریت مشکلات اقتصادی و نارضایتی اجتماعی را کاهش می‌دهد."
-        ],
-        "impact": "این انتخاب به تضعیف مشروعیت بین‌المللی و افزایش زمینه برای فشارهای سیاسی و حقوقی علیه رژیم منجر می‌شود.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/terror-sponsor-iran-gets-un-leadership-overseeing-charter-principles/ar-AA1WCag0",
-        "clean_url": "https://www.msn.com/en-us/news/world/terror-sponsor-iran-gets-un-leadership-overseeing-charter-principles/ar-AA1WCag0",
-        "image": null,
-        "timestamp": 1771421534.0
     }
 ]
