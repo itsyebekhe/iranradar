@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران: در صورت حمله آمریکا پاسخ را تشدید خواهیم کرد",
+        "title_en": "Iran threatens escalation if US attacks",
+        "summary": [
+            "ایران اعلام کرده در صورت حمله نظامی آمریکا، واکنش خود را تشدید خواهد کرد و این موضع در حکم هشدار مستقیم است.",
+            "استراتژی اعلامی برای بازدارندگی طراحی شده اما شانس خطای محاسباتی و گسترش درگیری منطقه‌ای را بالا می‌برد؛ خطر تبدیل یک تقابل محدود به برخورد گسترده واقعی است.",
+            "احتمال دارد هر گونه درگیری یا تشدید فشار خارجی به وخامت شرایط اقتصادی و سیاسی داخلی بینجامد، منابع را به هزینه‌های امنیتی منتقل کند و نارضایتی عمومی را تشدید کند — نشانه تداوم مدیریت ناکارآمد و تکیه بر زور برای پوشاندن مشکلات داخلی."
+        ],
+        "impact": "تهدید علنی ایران احتمال برخورد نظامی منطقه‌ای و افزایش فشار بر ثبات داخلی رژیم را به طور معناداری بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661",
+        "clean_url": "https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661",
+        "image": null,
+        "timestamp": 1772035162.0
+    },
+    {
         "title_fa": "ایران پس از سخنرانی وضعیت کشور ترامپ، آمریکا را به پخش «دروغ‌های بزرگ» متهم کرد",
         "title_en": "Iran Accuses U.S. of Spreading ‘Big Lies’ After Trump’s State of the Union Address",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQYzF6NmZZVE0wQVV4bWxYTFdySUt1NWZTOTBzaHlpb1NsWmxtNFhEbUtuT0loOEZ4dFBXSjNPTmlBWjJ0WFFsVng5UVRoMVpHN2JCTWpzOU9RWFhkTkNnSE9aMDdHUXVxcDg3SWJBd2xwUDBvMjVibU5KQjh6b0VNSV93RVY3TWNlVFlfWUdQaWx1TmVpMGpTRGQyY05NTG5BaDBEd2RkOUExWGRNVFZKSW1LclhoNm1rUlp6NF83YzkyRHN2LU5pdEU0TnhwaXE3Z1hEWXlMR2FjR25OQjdqYU1OLW1sc191dV9fcmhwcTRaV0lxdURwOEM3aEYwWUJpY1dyLUt0c2FJc0c4cTZGUUNsUHQ4bk5kdWpBNXBKZkl1RWdrV1g2anRfYm45OHBhWk1YVWhPblZZNWJ4ZnRhZms2TkN5ZUZkRHNySXRrc0J1RmcyRXdmblhNYl9LaU55RFZNTElzbFVRNW96Y3hwMmlfU2ZVS05IWVotQ3gzajF0d2gzaVUxR05Uc0JyY1p5T3oweXE4MnNWa01SaDhvdUlKb2UtTzBJTkdHWDkzTzBKSmEz",
         "image": null,
         "timestamp": 1771516860.0
-    },
-    {
-        "title_fa": "ایران مانورهای بیشتری برگزار کرد و ناو هواپیمابر آمریکا به خاورمیانه نزدیک می‌شود؛ آماده‌باش برای احتمال جنگ",
-        "title_en": "Iran holds more drills and US carrier nears Mideast in latest preparations for possible war",
-        "summary": [
-            "خبر: گزارش‌ها حاکی از انجام مانورهای جدید توسط نیروهای ایرانی در حالی است که ناو هواپیمابر آمریکا به منطقه خاورمیانه نزدیک می‌شود؛ این هم‌زمانی نشانه افزایش آماده‌باش نظامی و ریسک تشدید تنش است.",
-            "فشار خارجی و پیامدها: حضور نظامی آمریکا در منطقه ابزار فشار فوری بر تهران است و هرگونه تشدید می‌تواند به فرصت‌طلبی برای تحریم‌ها و محدودیت‌های بین‌المللی بیشتر منجر شود؛ ساختارهای اقتصادی و مالی رژیم در برابر تحریم‌های افزایشی شکننده‌اند.",
-            "حکمرانی و اقتصاد داخلی: تخصیص منابع به مانورهای نظامی و افزایش هزینه‌های دفاعی، در شرایط ضعف اقتصادی، نشان‌دهنده اولویت‌بخشی نظامی بر مدیریت معیشت است و توان رژیم برای پاسخ‌دهی به فشارهای داخلی و خارجی را کاهش می‌دهد."
-        ],
-        "impact": "کوتاه‌مدت، احتمال تشدید برخوردهای نظامی و فشار اقتصادی بیشتر افزایش می‌یابد که شکنندگی بقا و مشروعیت رژیم را بیشتر می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Associated Press News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGh5ZUJONkNnVWpFTXBKMmNZQXNmYktJd2JJbVlZajUzWE9xeWNLV1NJMHc2SkRoMlJiTnpOa1pJTERTdEthWmtha2R1MnBMd0NJZUR5blZ1cFFxd2JoTmRlTFJOaDBHdDh6S1lZWDV4N21yYnE3bjNzMl9mWWVaUXlfYUdSOUZWVXR1VktoeHZyWi1vNUxnd3NZQnk1Y0poT0R1ckdGX3I4RmZKU19USA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGh5ZUJONkNnVWpFTXBKMmNZQXNmYktJd2JJbVlZajUzWE9xeWNLV1NJMHc2SkRoMlJiTnpOa1pJTERTdEthWmtha2R1MnBMd0NJZUR5blZ1cFFxd2JoTmRlTFJOaDBHdDh6S1lZWDV4N21yYnE3bjNzMl9mWWVaUXlfYUdSOUZWVXR1VktoeHZyWi1vNUxnd3NZQnk1Y0poT0R1ckdGX3I4RmZKU19USA",
-        "image": null,
-        "timestamp": 1771516200.0
     }
 ]
