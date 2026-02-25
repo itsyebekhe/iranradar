@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "لبنان؛ جبهه دوم در جنگ قریب‌الوقوع با ایران",
+        "title_en": "Lebanon Is the Second Front in a Looming Iran War",
+        "summary": [
+            "عنوان گزارش هشدار می‌دهد لبنان ممکن است به عنوان جبهه دوم در یک تقابل نظامی گسترده‌تر مرتبط با ایران فعال شود و خطر گسترش درگیری در منطقه را افزایش دهد.",
+            "بازتاب فشار خارجی و تحریم‌ها: باز شدن جبهه‌ای جدید می‌تواند به تشدید فشارهای بین‌المللی و احتمال اعمال تحریم‌های بیشتر منجر شود، منابع مالی و نظامی رژیم را پاره‌پاره کرده و توان کنترل داخلی را تضعیف کند.",
+            "اقتصاد و نارضایتی داخلی: مدیریت ناکارآمد اقتصادی و خشم عمومی در داخل ایران، در کنار مال‌باخته شدن منابع برای عملیات نیابتی در لبنان، می‌تواند ناپایداری اجتماعی را تشدید و چشم‌انداز اعتراضات گسترده‌تر را تقویت کند."
+        ],
+        "impact": "پیامد فوری این گزارش افزایش احتمال درگیری منطقه‌ای است که هم فشار بین‌المللی و تحریم‌ها را بر رژیم ایران تشدید می‌کند و هم ریسک تشدید نارضایتی داخلی را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Foundation for Defense of Democracies",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEo2enJXVG9walZ6WXBNQ3BGSzdaS3VabFdFazdLdDAtMW1hRUxVeTRvNGtSdDJRbkoxV1ZjWGM1emNQczRha1dXUGlmUzlSOG5KblNlc1NpaTA3RnB3YmhHcTEtZXhuYXRTVkVVd1d3SUh6bmRCX0VDMlhYOTBsMmlpejJ4bEhMRmh1QVN4TnduYU9x?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEo2enJXVG9walZ6WXBNQ3BGSzdaS3VabFdFazdLdDAtMW1hRUxVeTRvNGtSdDJRbkoxV1ZjWGM1emNQczRha1dXUGlmUzlSOG5KblNlc1NpaTA3RnB3YmhHcTEtZXhuYXRTVkVVd1d3SUh6bmRCX0VDMlhYOTBsMmlpejJ4bEhMRmh1QVN4TnduYU9x",
+        "image": null,
+        "timestamp": 1771976250.0
+    },
+    {
         "title_fa": "ضرب‌الاجل در برابر مقاومت: چرا آمریکا و ایران یکدیگر را درک نمی‌کنند",
         "title_en": "Ultimatum vs. resistance: Why US and Iran are talking past each other",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/us-iran-tensions-here-is-a-timeline-of-key-events-since-december-2025-protests/ar-AA1WE274",
         "image": null,
         "timestamp": 1771482458.0
-    },
-    {
-        "title_fa": "آماده‌باش نظامی آمریکا؛ هشدار کاخ سفید به تهران درباره توافق، احتمال حمله ظرف روزهای آتی",
-        "title_en": "Iran-Trump live: US military 'ready to strike within days'",
-        "summary": [
-            "کاخ سفید به تهران هشدار داده و رسانه‌ها گزارش می‌دهند که ارتش آمریکا در منطقۀ خاورمیانه تجمع نیرو انجام داده و آماده ضربه ظرف روزهای آینده است.",
-            "تهدید نظامی و فشار فوری واشنگتن ساختار ضعیف رژیم را هدف می‌گیرد: تشدید انزوای بین‌المللی و افزایش مخاطرات اقتصادی از جمله قطع جریان سرمایه و اختلال در تجارت.",
-            "اگر تنش به برخورد نظامی منجر شود، مدیریت ضعیف حکومتی و عدم کفایت اقتصادی که تاکنون نارضایتی عمومی را تغذیه کرده، بیشتر در معرض فروپاشی تدریجی یا تشدید سرکوب قرار می‌گیرد."
-        ],
-        "impact": "احتمال حملۀ قریب‌الوقوع، ثبات سیاسی-اقتصادی رژیم را به‌سرعت تضعیف کرده و فشارهای داخلی و بین‌المللی را به سطحی می‌رساند که واکنش‌های اضطراری و سرکوب گسترده را محتمل‌تر می‌سازد.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-trump-live-us-military-ready-to-strike-within-days/ar-AA1WEzGk",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-trump-live-us-military-ready-to-strike-within-days/ar-AA1WEzGk",
-        "image": null,
-        "timestamp": 1771481855.0
     }
 ]
