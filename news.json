@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "سخنگوی وزارت خارجه ایران آمریکا و اسرائیل را به استفاده از تبلیغات به‌شیوه گوبلز متهم کرد",
+        "title_en": "Iranian official accuses US and Israel of employing Goebbels-like propaganda",
+        "summary": [
+            "اسماعیل بقایی، سخنگوی وزارت خارجه، آمریکا و اسرائیل را متهم کرد که با «تبلیغات نازی‌گونه» و کمپین‌های گمراه‌کننده علیه تهران عمل می‌کنند و از «دروغ‌پردازان حرفه‌ای» سخن گفت.",
+            "این اتهام رسمی بخشی از واکنش دولت به فشارها و روایت‌های خارجی است و نشان می‌دهد که حکومت در تلاش است با فرافکنی افکار عمومی را سازمان‌دهی کند.",
+            "اگرچه اتهامات بیشتر جنبه تبلیغاتی دارند، اما چنین روایت‌هایی می‌تواند برای توجیه اقدامات امنیتی و پنهان‌کردن ناکارآمدی‌های مدیریتی و اقتصادی داخلی به کار رود."
+        ],
+        "impact": "اتهام‌زنی‌های این‌چنینی ابزار مدیریت روایت و منحرف‌سازی افکار عمومی است؛ از نظر باثباتی خود به‌تنهایی اضطرار ایجاد نمی‌کند اما علامتی از تلاش حکومت برای مهار نارضایتی‌های ناشی از ضعف‌های اقتصادی و ناکارآمدی حکمرانی است.",
+        "tag": "تبلیغات",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/iranian-official-accuses-us-and-israel-of-employing-goebbels-like-propaganda/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iranian-official-accuses-us-and-israel-of-employing-goebbels-like-propaganda",
+        "image": "",
+        "timestamp": 1772005234.7192411
+    },
+    {
         "title_fa": "ترامپ: ایران در حال ساخت موشک‌هایی است که می‌توانند به آمریکا برسند",
         "title_en": "Trump Says Iran Is Developing Missiles That Can Reach U.S.",
         "summary": [
@@ -216,6 +234,24 @@
         "timestamp": 1771972819.0
     },
     {
+        "title_fa": "اتهام ترامپ به ازسرگیری جاه‌طلبی هسته‌ای ایران و تهدید به حمله",
+        "title_en": "Trump Accuses Iran of Restarting ‘Sinister Ambitions’ to Develop Nuclear Weapons",
+        "summary": [
+            "ترامپ در سخنرانی State of the Union ادعا کرد ایران دوباره «جاه‌طلبی شوم» ساخت سلاح هسته‌ای را از سر گرفته و هشدار داد در صورت امتناع از کنار گذاشتن برنامه هسته‌ای و موشک‌های دوربرد، اقدام نظامی را بررسی می‌کند.",
+            "این اعلام صریح احتمال حمله باعث افزایش فوری خطر تشدید نظامی و مشروعیت سیاسی برای فشارها و تحریم‌های بین‌المللی بیشتر علیه تهران می‌شود؛ فشار خارجی ساختار ثبات رژیم را تضعیف خواهد کرد.",
+            "اظهارات ترامپ ضعف راهبرد کنترلی و مدیریت برنامه‌های تسلیحاتی رژیم را برجسته می‌کند و می‌تواند هزینه‌های سیاسی و اقتصادی داخلی حکومت را افزایش دهد و نارضایتی عمومی را تشدید کند."
+        ],
+        "impact": "تهدید آشکار به حمله احتمال درگیری نظامی را بالا می‌برد و همزمان به ابزار فشار بین‌المللی افزوده و ثبات داخلی رژیم را آسیب‌پذیرتر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "TIME",
+        "url": "https://time.com/7381042/trump-state-of-the-union-iran-nuclear-weapons-long-range-missiles-attack/",
+        "clean_url": "https://time.com/7381042/trump-state-of-the-union-iran-nuclear-weapons-long-range-missiles-attack",
+        "image": "http://www.bing.com/th?id=OVFT.PDcVp8GNET7OUlgfOGspvi&pid=News",
+        "timestamp": 1771970460.0
+    },
+    {
         "title_fa": "چه کسانی از تنش آمریکا-ایران بهره می‌برند و چرا؟",
         "title_en": "Who utilizes the US-Iran tension, and for what reason? | Daily Sabah",
         "summary": [
@@ -304,6 +340,24 @@
         "clean_url": "https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3",
         "image": null,
         "timestamp": 1771952520.0
+    },
+    {
+        "title_fa": "حملات نظامی آمریکا و خطر گرفتار شدن در باتلاق",
+        "title_en": "U.S. Military Strikes and the Risk of a Quagmire",
+        "summary": [
+            "نیت سوئنسان، پژوهشگر ارشد و مدیر پروژه ایران در آتلانتیک کونسیل، نویسنده است؛ او بین 2022 تا 2025 مدیر پرونده ایران در شورای امنیت ملی بوده و در بهار و تابستان 2025 در تیم مذاکره‌کننده دولت ترامپ حضور داشته است.",
+            "عنوان مقاله صریحاً به مخاطره گرفتار شدن در یک باتلاق نظامی به‌خاطر ضربات نظامی آمریکا می‌پردازد؛ متن مقاله احتمالاً پیامدهای درگیر شدن طولانی‌مدت و هزینه‌های استراتژیک چنین اقداماتی را تحلیل می‌کند.",
+            "با توجه به سوابق نویسنده، تحلیل مبتنی بر تجربه سیاست‌گذاری آمریکا خواهد بود و بر انتخاب‌های استراتژیک، ریسک‌های ملموس و هزینه‌های سیاسی-نظامی تأکید خواهد کرد."
+        ],
+        "impact": "این تحلیل هشدار می‌دهد که ضربات نظامی می‌توانند به تشدید تنش و درگیری‌های طولانی‌مدت منجر شوند و پیامدهای استراتژیک قابل‌توجهی برای بازیگران منطقه‌ای دارند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/middle-east/why-iran-will-escalate",
+        "clean_url": "https://www.foreignaffairs.com/middle-east/why-iran-will-escalate",
+        "image": null,
+        "timestamp": 1771952280.0
     },
     {
         "title_fa": "مذاکرات هسته‌ای آمریکا و ایران: حمله نظامی همچنان گزینه است، یک کارشناس می‌گوید",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVk9zSV85U21iZ1MyZlZKT3VwdzhyLTVHcGRfbXYzamcyLU5LT0x2bktKLTNOTExSdktCTG9KWmhEbXdvMmFQTzRxY2x1UHo1MURxc1BjMjdBY2dnNDR4eDJ5b0JTLVcyTVhNaURFRm5lOGpuTGRkSHVwbzJoWk9HNWFyZk5yUTB5THRuVk5zNmxtWmZ5eEJERktyVkppSHlVakJBN09naEwtcU5z0gGyAUFVX3lxTE55NXVsMVdXNjJ5TmxyNTQ0T2twM0hHbV82cmFoS1oxc1NKQndoRjBOTER4WFlXZnZ2eXc3amRTOVNlek80N3BLazZjajVrV3E5QmJnTjg3R3NNZWNoMHRnSHJwdEFhbmRYOTNzMV94UzNXc0FocUJ5ZVN3dXRVeVZZNlpIMjk2c3djVEkxSncwRHc1b2R1MThxbk9pRi1LbXU5NDdHRUg5aDNmNV9PaVZ1cVE",
         "image": null,
         "timestamp": 1771491500.0
-    },
-    {
-        "title_fa": "ایران و روسیه مانور دریایی در واکنش به تجمع عظیم نظامی آمریکا",
-        "title_en": "Iran stages naval drills with Russia against huge US military buildup",
-        "summary": [
-            "برگزاری مانورهای دریایی مشترک ایران و روسیه در واکنش به تجمع گسترده نظامی آمریکا؛ همکاری روسیه به‌عنوان عامل تقویت بازدارندگی تهران عمل می‌کند.",
-            "تهدید ایران به تلافی، از جمله هدف قرار دادن پایگاه‌های آمریکا، احتمال گذار از تهدیدهای لفظی به رویارویی نظامی مستقیم را افزایش می‌دهد.",
-            "گزارش اشاره‌ای به وضعیت اقتصادی یا اعتراضات داخلی ندارد؛ با این حال این‌گونه مانورها عمدتاً به‌عنوان ابزاری برای سیگنال‌دهی نظامی-سیاسی در برابر فشار خارجی قابل تفسیر هستند. "
-        ],
-        "impact": "ترکیب مانور مشترک با روسیه و تهدید به حمله به پایگاه‌های آمریکا ریسک تبدیل تقابل فعلی به درگیری نظامی منطقه‌ای پرشدت را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-stages-naval-drills-with-russia-against-huge-us-military-buildup/ar-AA1WG7FO",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-stages-naval-drills-with-russia-against-huge-us-military-buildup/ar-AA1WG7FO",
-        "image": "http://www.bing.com/th?id=OVFT.RN31pcsCvaQpHuDDa84_Vy&pid=News",
-        "timestamp": 1771491499.0
-    },
-    {
-        "title_fa": "ترامپ به ایران ۱۰ روز مهلت داد؛ تهدید نظامی و تشدید فشارها",
-        "title_en": "Trump presses Iran to make 'meaningful' deal, appears to set 10-day deadline",
-        "summary": [
-            "دونالد ترامپ هشدار داد ایران باید ظرف حدود ۱۰ روز به یک «توافق معنی‌دار» درباره برنامه هسته‌ای برسد و در غیر این صورت «اتفاقات بدی» رخ خواهد داد؛ او از تجمع نظامی گسترده آمریکا در منطقه و احتمال اقدام نظامی مستقیم سخن گفت.",
-            "مذاکرات دیپلماتیک ادامه دارد؛ عباس عراقچی گفت طرفین بر «اصول راهنما» توافق کرده‌اند اما کاخ سفید و سخنگوی آن، کارولین لیویت، می‌گویند اختلافاتی پابرجاست و واشنگتن منتظر پیشنهاد مکتوب تهران است.",
-            "حضور یک کوروت روسی در مانورهای دریایی ایران نشان می‌دهد بازیگران خارجی نقش تسهیل‌گر بقای رژیم را دارند؛ هم‌زمان انباشت فشار خارجی و ریسک نظامی، در کنار سوء‌مدیریت اقتصادی درون کشور، می‌تواند احتمال افزایش نارضایتی عمومی و تضعیف ساختاری حکومت را بالا ببرد (افزایش قیمت نفت نیز از تبعات فوری تنش است)."
-        ],
-        "impact": "پیام ۱۰ روزه ترامپ و آماده‌سازی نظامی آمریکا خطر تشدید فوری بحران منطقه‌ای را افزایش می‌دهد و می‌تواند روند تضعیف اقتصادی و سیاسی رژیم را تسریع کند.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/russia-warns-escalating-iran-tensions-132219208.html",
-        "clean_url": "https://www.aol.com/articles/russia-warns-escalating-iran-tensions-132219208.html",
-        "image": null,
-        "timestamp": 1771490460.0
-    },
-    {
-        "title_fa": "آژانس هسته‌ای سازمان ملل درباره دو خطر بزرگ در صورت عدم توافق آمریکا و ایران هشدار داد",
-        "title_en": "UN nuclear chief warns of 2 major risks if US.-Iran deal not reached",
-        "summary": [
-            "مسئول آژانس هسته‌ای سازمان ملل هشدار داده است که در صورت عدم حصول توافق بین آمریکا و ایران دو خطر بزرگ پدید می‌آید؛ متن خبر جزئیات دقیق دو خطر را ذکر نکرده است.",
-            "او تصریح کرده که اورانیوم غنی‌شده ایران «هنوز آنجاست»، نکته‌ای که به ظرفیت هسته‌ای موجود و خطرات فنی و سیاسی مرتبط اشاره دارد.",
-            "آژانس بر فوریت دیپلماسی تأکید کرده تا از تبدیل شدن تنش‌ها به جنگ بین آمریکا و ایران جلوگیری شود؛ این درخواست بازتاب ریسک مستقیم از منظر امنیت بین‌المللی است."
-        ],
-        "impact": "بدون توافق، ترکیب ظرفیت هسته‌ای موجود و تشدید تنش‌های بین‌المللی ریسک برخورد نظامی را بالا می‌برد و ادامه فشارهای بین‌المللی می‌تواند تضعیف اقتصادی و سیاسی رژیم را تسریع کند.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/u-n-nuclear-chief-warns-of-2-major-risks-if-u-s-iran-deal-not-reached/ar-AA1WFQT6",
-        "clean_url": "https://www.msn.com/en-us/news/other/u-n-nuclear-chief-warns-of-2-major-risks-if-u-s-iran-deal-not-reached/ar-AA1WFQT6",
-        "image": "http://www.bing.com/th?id=OVFT.aVJnirpZgV6OLxLzC2ujai&pid=News",
-        "timestamp": 1771490220.0
     }
 ]
