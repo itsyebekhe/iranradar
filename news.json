@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "آمریکا تحریم‌های جدید علیه ایران را در آستانه مذاکرات هسته‌ای در ژنو صادر کرد",
+        "title_en": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا ۱۲ کشتی و چند شرکت و فرد مرتبط با فروش نفت ایران و تأمین برنامه موشکی را تحریم کرد؛ دارایی‌های مربوطه مسدود و تعامل مالی با شهروندان آمریکایی عملاً ممنوع می‌شود.",
+            "این تحریم‌ها منابع ارزی رژیم را هدف قرار می‌دهد و می‌تواند در کوتاه‌مدت تأمین مالی برنامه موشکی و خرید قطعات نظامی را تنگ‌تر کند؛ هم‌زمان فشار اقتصادی بر مردم و پتانسیل نارضایتی داخلی را افزایش می‌دهد.",
+            "اعزام گسترده نیروهای نظامی آمریکا به منطقه همراه با تشدید تحریم‌ها فضای تنش را بالا می‌برد و شانس تشدید تقابل نظامی یا بن‌بست مذاکرات هسته‌ای در ژنو را افزایش می‌دهد."
+        ],
+        "impact": "تحریم‌های تازه توان مالی رژیم برای پیشبرد برنامه موشکی را محدودتر و فشارهای داخلی را شدت می‌بخشد، اما هم‌زمان ریسک تقابل نظامی و شکست دیپلماتیک را بالا می‌برد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran",
+        "clean_url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran",
+        "image": null,
+        "timestamp": 1772055156.0
+    },
+    {
+        "title_fa": "آمریکا و ایران برای مذاکرات هسته‌ای در بحبوحه نگرانی‌ها از درگیری نظامی دیدار می‌کنند",
+        "title_en": "US, Iran To Meet For Nuclear Talks Amid Fears Of Military Conflict",
+        "summary": [
+            "آمریکا و ایران دیداری برای گفت‌وگو درباره برنامه هسته‌ای برنامه‌ریزی کرده‌اند؛ هدف اعلامی کاهش خطر تشدید نظامی است.",
+            "این مذاکرات در حالی برگزار می‌شود که تنش‌ها بالا است و هر گونه شکست دیپلماتیک می‌تواند ریسک برخورد نظامی را افزایش دهد.",
+            "تحریم‌ها و فشار خارجی ساختارهای اقتصادی و سیاسی رژیم را تضعیف کرده‌اند؛ بن‌بست در مذاکرات می‌تواند فشارهای داخلی و بحران‌های مدیریتی را تشدید کند."
+        ],
+        "impact": "اگر مذاکرات موفق نشوند، احتمال تشدید تنش نظامی و افزایش فشار اقتصادی-سیاسی بر رژیم به‌طور قابل‌توجهی بالا می‌رود.",
+        "tag": "مذاکره",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "Radio Free Europe/Radio Liberty",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkdBSjVqcV94d2JBSUtWZ2QwQmV3U3RoSHFJVHl1ajltalQwZzZmSnFrano0S0drN2Y1dUV2bklEQ3V5bTBPdTNPY3VKRlJFY0dQanZkaGM4Zkd1bUZLVjJNZ01GMHp0Z1Bxa2hlZkRJSFA0TWt0c3pVY2N5Vy13MGJKaTjSAYcBQVVfeXFMUGVfeU5CMlI3Zi1CVGJnSlFiS0RDNEdqQ19xMEU2X1lTUjJoTnVJSURFOUtOTG94ZlN2T1dKTmJPS1NSTU9ISTZnR0tyd3MxRjJLcjE5RHpobGxGVDNmQ1ppeE5CMU5ZdFZmMmNkckFzaVVSMXpGZ3B2RVNqOHEtTFlkU216YUtN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkdBSjVqcV94d2JBSUtWZ2QwQmV3U3RoSHFJVHl1ajltalQwZzZmSnFrano0S0drN2Y1dUV2bklEQ3V5bTBPdTNPY3VKRlJFY0dQanZkaGM4Zkd1bUZLVjJNZ01GMHp0Z1Bxa2hlZkRJSFA0TWt0c3pVY2N5Vy13MGJKaTjSAYcBQVVfeXFMUGVfeU5CMlI3Zi1CVGJnSlFiS0RDNEdqQ19xMEU2X1lTUjJoTnVJSURFOUtOTG94ZlN2T1dKTmJPS1NSTU9ISTZnR0tyd3MxRjJLcjE5RHpobGxGVDNmQ1ppeE5CMU5ZdFZmMmNkckFzaVVSMXpGZ3B2RVNqOHEtTFlkU216YUtN",
+        "image": null,
+        "timestamp": 1772051205.0
+    },
+    {
         "title_fa": "مذاکرات هسته‌ای آمریکا و ایران در مرحله حساسی؛ تهدید ترامپ به پاره‌کردن شروط موفقیت",
         "title_en": "US and Iran nuclear talks at critical stage amid threat of Trump tearing up terms of success",
         "summary": [
@@ -160,6 +196,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2gtSUtoY0xYRUZFQkk5cjVyNkVBd1RkeTJpdy1FeVBHalBKUFRyam9kYmRhRmhQeGtVZG9tM2czbzBCNnd5emxhVXpDbWhlWWxsQVJOQVlxQjdqTG5JZ19NN2Y1c0lKVWo5QlFWbF83S0JoSm0tdDdrYjB1MnVWX2k5a2JBT09SaEtN",
         "image": null,
         "timestamp": 1772029973.0
+    },
+    {
+        "title_fa": "چقدر ایران به بمب هسته‌ای نزدیک است؟ بررسی ادعاهای ترامپ در سخنرانی وضعیت کشور",
+        "title_en": "How close is Iran to a nuclear bomb? Breaking down Trump’s State of the Union claims",
+        "summary": [
+            "ترامپ در سخنرانی وضعیت کشور مدعی «نابودی» برنامه هسته‌ای ایران و از سرگیری آن توسط تهران شد و تهدید موشک‌های دوربرد را برجسته کرد؛ اما او هیچ شواهد علنی ارائه نکرد و آژانس بین‌المللی انرژی اتمی اعلام کرده ایران می‌تواند ظرف چند ماه غنی‌سازی محدودی را از سر گیرد، در حالی که سه سایت هدف‌گرفته‌شده قابل بازرسی نیستند.",
+            "حملات هوایی آمریکا (عملیات Midnight Hammer) که سه مرکز غنی‌سازی را هدف قرار دادند، توان عملیاتی را به‌طور موقت کاهش داده‌اند اما ادعای «نابودی کامل» را ثابت نمی‌کنند؛ فشار و اقدامات نظامی خارجی ساختار سیاسی-اقتصادی رژیم را تضعیف می‌کنند و در کوتاه‌مدت احتمالاً به تشدید سرکوب داخلی و افزایش عدم قطعیت راهبردی منجر می‌شوند.",
+            "اشاره به همکاری فنی با کره شمالی (استنتاج جفری لوئیس در کنار برآورد محافظه‌کارانه DIA) نشان می‌دهد عوامل خارجی می‌توانند قابلیت موشکی ایران را تسریع کنند؛ قتل معترضان در ژانویه نمادی از نارضایتی داخلی است و نبود دسترسی آژانس به سایت‌های بمباران‌شده شکاف اطلاعاتی خطرناکی ایجاد کرده است."
+        ],
+        "impact": "نتیجه‌گیری فنی: ادعاهای ترامپ فاقد شواهد علنی است؛ حملات آمریکا زمان فنی کسب‌شده را افزایش داده اما خلأ بازرسی و کمک‌های فنی خارجی احتمال تشدید تقابل نظامی و خطای محاسباتی را بالا برده است.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-888025",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/article-888025",
+        "image": null,
+        "timestamp": 1772027760.0
     },
     {
         "title_fa": "ایران در برابر ترامپ واکنش نشان داد: آمریکا و اسرائیل از تبلیغات به سبک گوئبلز استفاده می‌کنند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ISmJPOEVTcTBsYWZlR3JJRGZpQ0Z0SHVYdHRqQThIRkZycklMRGFCLTFmRDN4MlNsMXJhd2kzRGNlUU9iSU1ucnUyMzN2U1pPdUF6QnI0QVpHZw",
         "image": null,
         "timestamp": 1771551943.0
-    },
-    {
-        "title_fa": "قبل از حمله به ایران، ترامپ باید به این شش سؤال پاسخ دهد",
-        "title_en": "Before striking Iran, Trump should answer these six questions",
-        "summary": [
-            "مقاله شورای آتلانتیک از دولت ترامپ می‌خواهد پیش از هر اقدام نظامی علیه ایران به شش پرسش کلیدی پاسخ دهد تا از تصمیم‌گیری شتاب‌زده و اشتباهات راهبردی جلوگیری شود.",
-            "محورهای مورد اشاره شامل مشروعیت قانونی، اهداف روشن و قابل سنجش، اعتبار اطلاعات، پشتیبانی متحدان، پیامدهای منطقه‌ای و برنامه پساجنگ است؛ یعنی پرسش‌هایی که مستقیماً ریسکِ تشدید بی‌ثباتی را هدف‌گذاری می‌کنند.",
-            "هشدار داده شده که عدم پاسخ به این سؤالات می‌تواند به پیامدهای سنگین سیاسی و نظامی برای ایالات متحده و تشدید پیچیدگی‌های فشار خارجی و تحریم‌ها علیه ایران بینجامد."
-        ],
-        "impact": "تأکید بر پاسخگویی پیش از حمله می‌تواند از مداخلات نظامی شتاب‌زده جلوگیری کند و در نتیجه مسیر تحریم‌ها و فشار دیپلماتیک را هم معنادارتر سازد؛ اما هر ضربه نظامی بدون اهداف و برنامه‌ریزی روشن احتمالاً ثبات داخلی رژیم را بی‌ثبات‌تر کرده و معادلات منطقه‌ای را پیچیده‌تر خواهد کرد.",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Atlantic Council",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNk5pQ1V4RV9vTlRuNTlVWF9RT3Q0cEtVT1N2Tkl6T3FCdTNoa0g0V1lmR2otcVV3WGRIb2FJZU94RjBMSjg5R3dwUmhycGVOcXE1MDNjVG9ZVmtPVlNPWHd6T1daTkdzblVuRkhSZDRvYlNiNXUtbnZHWGNKcHJQR01BWG9wSExoY1ZqSU8wRnpmTXlUa1hLa3NRZzVDMTdQRWdqeHZWMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNk5pQ1V4RV9vTlRuNTlVWF9RT3Q0cEtVT1N2Tkl6T3FCdTNoa0g0V1lmR2otcVV3WGRIb2FJZU94RjBMSjg5R3dwUmhycGVOcXE1MDNjVG9ZVmtPVlNPWHd6T1daTkdzblVuRkhSZDRvYlNiNXUtbnZHWGNKcHJQR01BWG9wSExoY1ZqSU8wRnpmTXlUa1hLa3NRZzVDMTdQRWdqeHZWMA",
-        "image": null,
-        "timestamp": 1771542139.0
-    },
-    {
-        "title_fa": "ترامپ ظرف ۱۰ تا ۱۵ روز درباره حمله به ایران تصمیم می‌گیرد",
-        "title_en": "Trump will decide in next 10 to 15 days if US will strike Iran",
-        "summary": [
-            "رئیس‌جمهور آمریکا اعلام کرد ظرف ۱۰ تا ۱۵ روز تصمیم می‌گیرد که آیا به ایران حمله کند و هشدار داد در صورت عدم توافق «اتفاقات بدی» رخ خواهد داد.",
-            "واشنگتن نیروی دریایی و هوایی اضافی از جمله دو ناو هواپیمابر به منطقه اعزام کرده تا فشار بر تهران را افزایش دهد و گفت‌وگوهایی از جمله در ژنو انجام شده است.",
-            "دولت ترامپ خواستار محدودیت‌های چشمگیر در برنامه هسته‌ای ایران شده؛ تهران گفته حاضر است برنامهٔ صلح‌آمیز هسته‌ای را در ازای رفع تحریم‌ها محدود کند اما حاضر به مذاکره درباره مسائل دیگری مانند زرادخانه موشکی نیست."
-        ],
-        "impact": "تهدید مستقیم به حمله و تشدید فشار نظامی-اقتصادی آمریکا، اهرم تحریم‌ها را تقویت می‌کند و به تضعیف ساختاری اقتصاد و مشروعیت سیاسی رژیم می‌انجامد که خطر بروز نارضایتی‌های داخلی را افزایش می‌دهد.",
-        "tag": "تهدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-says-decide-next-10-174337358.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-says-decide-next-10-174337358.html",
-        "image": "http://www.bing.com/th?id=OVFT.2odD18SAY5uyhIoufmZALy&pid=News",
-        "timestamp": 1771540680.0
-    },
-    {
-        "title_fa": "ظاهراً دوباره در آستانه بمباران ایران هستیم",
-        "title_en": "It really looks like we’re about to bomb Iran again",
-        "summary": [
-            "سرنخ‌ها نشان می‌دهد احتمال قریب‌الوقوع حمله نظامی/بمبارانی علیه ایران وجود دارد؛ این یک تشدید مستقیم فشار خارجی است که هدف‌گذاری راهبردی بر توان نظامی و زیرساختی دارد.",
-            "حمله یا تهدید به حمله ساختارهای اقتصادی و سیاسی را تضعیف می‌کند: افت سرمایه‌گذاری، ضربه به زیرساخت‌ها و افزایش هزینه‌های امنیتی که ثبات حکومتی را کاهش می‌دهد.",
-            "در پاسخ، حکومت به‌احتمال زیاد سرکوب و کنترل داخلی را تشدید خواهد کرد که می‌تواند نارضایتی اجتماعی را عمیق‌تر و بحران‌های اقتصادی را تشدید کند."
-        ],
-        "impact": "احتمال حمله نظامی قریب‌الوقوع، مجموعه تهدیدات خارجی را تشدید کرده و فشار اقتصادی، سیاسی و امنیتی بر حکومت را بالا می‌برد که به بی‌ثباتی داخلی بیشتر منجر می‌شود.",
-        "tag": "بمباران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "vox.com",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9adW1UZ1M2Q3d2ekpDNHJzREc4U1F0aEhvaHhaU05qM0swRlVjeE5uZWV0TFBkVGJqSkpKcnFTVklLOU14c0YyS3N2ZTF4QUlseDBVTHlaRDBRV1hxbERmaTdXRU5vV200YjIzdmVmSmh5ZzlxUFpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9adW1UZ1M2Q3d2ekpDNHJzREc4U1F0aEhvaHhaU05qM0swRlVjeE5uZWV0TFBkVGJqSkpKcnFTVklLOU14c0YyS3N2ZTF4QUlseDBVTHlaRDBRV1hxbERmaTdXRU5vV200YjIzdmVmSmh5ZzlxUFpB",
-        "image": null,
-        "timestamp": 1771536315.0
     }
 ]
