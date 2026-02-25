@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران در آستانه مذاکرات ژنو در برابر ترامپ ایستاد؛ آمریکا استقرار نظامی گسترده انجام داد",
+        "title_en": "Iran pushes back against Trump ahead of Geneva talks in face of major US military deployment",
+        "summary": [
+            "واشینگتن‌پست گزارش می‌دهد که ایران پیش از مذاکرات ژنو موضعی بازدارنده در برابر مواضع ترامپ اتخاذ کرده است.",
+            "همزمان ایالات متحده استقرار نظامی عمده‌ای انجام داده است که فضای مذاکرات را از جنبه امنیتی متشنج می‌کند.",
+            "ترکیب فشار دیپلماتیک خارجی و نمایش قدرت نظامی می‌تواند هزینه‌های سیاسی و اقتصادی برای حکومت ایران افزایش دهد و امکان تأثیرگذاری بر نتایج مذاکرات را محدود کند."
+        ],
+        "impact": "هم‌زمانی فشار دیپلماتیک و استقرار نظامی آمریکا خطر تضعیف مانور سیاسی حکومت و افزایش حساسیت عمومی نسبت به ناکارآمدی مدیریت را بیشتر می‌کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXNiajVFVmotQ0RQcU1ZTUhwdEZEdFNLUVJIMEpHYk9YejBLQ25vV3J6QWZzZlJERk9TNndCaUJZalB0RGN5TklKbHpCSFdpNDFyTjZnUWpiSDl3cFI2bm5vbThxdEd0OXQ0YWJlci1qZGlIcWVaZEVhQ0QzcTBQTldVeDl2ZnVoTHM0VThTdkNKYnBCSjY5WnI5Z0ltdGNId2VDcXgwWWsybHJ4WE1LNjRsQWxCaWxsT2FBS09NRDR4c0NOTExr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXNiajVFVmotQ0RQcU1ZTUhwdEZEdFNLUVJIMEpHYk9YejBLQ25vV3J6QWZzZlJERk9TNndCaUJZalB0RGN5TklKbHpCSFdpNDFyTjZnUWpiSDl3cFI2bm5vbThxdEd0OXQ0YWJlci1qZGlIcWVaZEVhQ0QzcTBQTldVeDl2ZnVoTHM0VThTdkNKYnBCSjY5WnI5Z0ltdGNId2VDcXgwWWsybHJ4WE1LNjRsQWxCaWxsT2FBS09NRDR4c0NOTExr",
+        "image": null,
+        "timestamp": 1772019594.0
+    },
+    {
         "title_fa": "کدام کشورها شهروندان خود را به‌خاطر تهدید بالقوه آمریکا از ایران فرا می‌خوانند؟",
         "title_en": "Which countries are urging citizens to leave Iran amid US threat of force?",
         "summary": [
@@ -268,6 +286,24 @@
         "clean_url": "https://www.msn.com/en-in/news/other/timeline-of-iran-nuclear-tensions-ahead-of-us-talks-in-geneva/ar-AA1WXtlJ",
         "image": null,
         "timestamp": 1771987187.0
+    },
+    {
+        "title_fa": "علی شمخانی پس از حمله زنده ماند؛ نقش مرکزی در اتاق جنگ ایران را از سر گرفت",
+        "title_en": "Surviving strike, Shamkhani resumes central role in Iran's war room",
+        "summary": [
+            "علی شمخانی که در پی حمله‌ای در ژوئن ۲۰۲۵ از زیر آوار منزلش در تهران زنده بیرون کشیده شد، پس از حادثه به اسرائیل طعنه زده است.",
+            "با وجود هدف قرار گرفتن منزلش، شمخانی همچنان در مرکز فرایند تصمیم‌گیری نظامی و اتاق جنگ ایران حضور و نقش محوری حفظ کرده است.",
+            "حمله‌ای که یک مقام بلندپایه را در پایتخت هدف گرفت، نشانه تشدید تقابل با اسرائیل، تمرکز قدرت حول بقا یافتگان و افزایش ریسک واکنش‌های تلافی‌جویانه و فشارهای خارجی است."
+        ],
+        "impact": "این واقعه احتمال تشدید عملیات تلافی‌جویانه، افزایش فشارهای بین‌المللی و تمرکز بیشتر قدرت در ساختارهای نظامی-امنیتی رژیم را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/surviving-strike-shamkhani-resumes-central-role-irans-war-room-2026-02-25/",
+        "clean_url": "https://www.reuters.com/world/middle-east/surviving-strike-shamkhani-resumes-central-role-irans-war-room-2026-02-25",
+        "image": "http://www.bing.com/th?id=OVFT.Ca1FHYJyFty47D12Id6eli&pid=News",
+        "timestamp": 1771986720.0
     },
     {
         "title_fa": "ارسال جنگنده‌های آمریکا به اسرائیل در بحبوحه تشدید تنش با ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTRtbG5pZWs2Z3dCUEQydTFocjBFTEVJVjRjRXpfc3ZYd2RRWVFRNVJ0RkJJSWs5WUZJV3h0WW84MURRcGVaaGNEak0yOE5rOTNOcll1d3ZpN1ZFZ0hRNDJrbDlEVGE0MjVzVXNpSlg0NVRWWDFCNmFia0hZZ3E2cDl6dURuS040RUdldk8xa0o5ZWYzUlVmaVoxZnliMVZIcldiRjV30gGrAUFVX3lxTFA4dmJkT3BGZUZvYzRoRk1BOEhObGU2V21qQkRYM2QxRXRCMnNzb3BnWWwxS0ZpTjJINGJvSm5iVTNNZ1lWMjNhcDVYbk44OUdUSmk4Q29iX1Zibi1pbEViUW9jRjA2VGlJN29WaHdGLWJ1cTNSVWotWEFkZ21vZXVsNWJKaUZWc05iX05SX3J4djdwWkpaSHhFQzJEVjBXamp6UEdsdlV4TTIzNA",
         "image": null,
         "timestamp": 1771511965.0
-    },
-    {
-        "title_fa": "آمریکا احتمالاً به ایران حمله خواهد کرد؛ ترامپ هنوز تصمیم نگرفته است، منابع به 'پست' خبر دادند",
-        "title_en": "US likely to attack Iran, but Trump has not yet decided to do so, sources tell 'Post'",
-        "summary": [
-            "خبر اصلی: منابع جروزالم پست می‌گویند احتمال حمله نظامی آمریکا به ایران بالاست اما دونالد ترامپ هنوز تصمیم نهایی را اتخاذ نکرده است؛ گزارش بر احتمال اقدام، نه قطعیت، تأکید دارد.",
-            "فشار خارجی و تحریم‌ها: تهدید قریب‌الوقوع حمله نشان‌دهنده افزایش فشار بین‌المللی است که ساختار سیاسی-نظامیِ کنونی را تضعیف می‌کند و می‌تواند دسترسی به سرمایه و تجارت خارجی را کاهش دهد؛ این نوع فشارها ناپایداری اقتصادی و سیاسی را افزایش می‌دهند.",
-            "تبعات داخلی و مدیریتی: حتی تهدید یا حمله محدود می‌تواند منابع را به سمت نظامی‌سازی و هزینه‌های دفاعی منحرف کند، ناکارآمدی مدیریتی موجود را برجسته سازد و احتمال بالا رفتن نارضایتی عمومی و تشدید سرکوب‌های داخلی را افزایش دهد."
-        ],
-        "impact": "این خبر احتمال تقابل نظامی مستقیم را بالا می‌برد و می‌تواند به فرسایش بیشتر توان اقتصادی و سیاسی کشور منجر شود.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.75,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ0NlbWlhLVVRd19iRUpsRm1XZjBUT2NDTzZhOTA1QUgyZmdlc3F2a3F5OGJ6bFZVOHdBRG55bk1ObllwWXRWNFdkN1ZFWVpZanNlczJQWXFHcU1JcThEOHRQaU1RSXJGdlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ0NlbWlhLVVRd19iRUpsRm1XZjBUT2NDTzZhOTA1QUgyZmdlc3F2a3F5OGJ6bFZVOHdBRG55bk1ObllwWXRWNFdkN1ZFWVpZanNlczJQWXFHcU1JcThEOHRQaU1RSXJGdlE",
-        "image": null,
-        "timestamp": 1771509371.0
-    },
-    {
-        "title_fa": "آیا ترامپ در آستانه جنگ با ایران است؟",
-        "title_en": "Wait, Is Trump About to Go to War With Iran?",
-        "summary": [
-            "استقرار گسترده نیروی نظامی آمریکا — شامل 18 شناور از جمله دو ناو هواپیمابر، جنگنده‌ها، بمب‌افکن‌ها، سامانه‌های ضدموشک و اخلالگرهای الکترونیکی — فشار خارجی بی‌سابقه‌ای روی ایران ایجاد کرده اما هدف عملیاتی مشخص نیست؛ گزینه‌هایی از نابودی برنامه هسته‌ای تا تضعیف موشکی یا سرنگونی رژیم مطرح‌اند.",
-            "فشار خارجی، به‌تنهایی، ساختار رژیم را تضعیف می‌کند اما تجربه و گزارش‌ها درباره کشتار معترضان نشان می‌دهد که این فشار احتمالاً با تشدید سرکوب داخلی همراه خواهد شد؛ در عین حال انتظارات از پیامدهای اقتصادی (نوسانات ارزی، تشدید ناکارآمدی مدیریتی) افزایش یافته است.",
-            "ابهام در هدف‌گذاری سیاست واشنگتن و شباهت‌های نمایشی با اقدامات قبلی (مثال ونزوئلا) نشان می‌دهد تهدیدها ممکن است بیش از آن‌که راهبردی باشند ابزار فشار سیاسی باشند؛ هرگونه تقابل مستقیم ریسک نامطمئن بودن موفقیت نظامی و پیامدهای منطقه‌ای را بالا می‌برد."
-        ],
-        "impact": "این تحرک نظامی فشار خارجی قابل‌توجهی بر رژیم وارد می‌آورد اما به‌خاطر ابهام اهداف می‌تواند منجر به تشدید سرکوب داخلی، بی‌ثباتی اقتصادی و افزایش ریسک تقابل نظامی شود.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/wait-trump-war-iran-211740064.html",
-        "clean_url": "https://www.yahoo.com/news/articles/wait-trump-war-iran-211740064.html",
-        "image": "http://www.bing.com/th?id=OVFT.WyqbXGWBN_6WeI9JA97EMC&pid=News",
-        "timestamp": 1771507800.0
     }
 ]
