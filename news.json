@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "کدام کشورها شهروندان خود را به‌خاطر تهدید بالقوه آمریکا از ایران فرا می‌خوانند؟",
+        "title_en": "Which countries are urging citizens to leave Iran amid US threat of force?",
+        "summary": [
+            "چندین کشور از جمله استرالیا، آلمان و هند شهروندان خود را به خروج از ایران ترغیب کرده‌اند؛ این هشدارها نشانه افزایش محسوس خطر عملیات نظامی آمریکاست.",
+            "آمریکا حضور نظامی خود در خاورمیانه و مدیترانه را تقویت کرده—از جمله اعزام ناوهای هواپیمابر USS Abraham Lincoln و USS Gerald Ford—که احتمال اجرای ضربه نظامی را واقعی‌تر می‌سازد.",
+            "مذاکرات غیرمستقیم در ژنو ادامه دارد اما تهران با رد درخواست واشنگتن برای توقف کامل غنی‌سازی و اعلام برنامه موشکی به‌عنوان «خط قرمز»، خطر بن‌بست دیپلماتیک و تشدید تنش را افزایش داده است."
+        ],
+        "impact": "هشدار خروج اتباع خارجی همراه با نمایش نظامی آمریکا، ثبات سیاسی و اقتصادی رژیم را تضعیف کرده و شانس بروز بحران ناگهانی یا افزایش سرکوب داخلی را بالا می‌برد.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/countries-urging-citizens-leave-iran-101221609.html",
+        "clean_url": "https://www.yahoo.com/news/articles/countries-urging-citizens-leave-iran-101221609.html",
+        "image": null,
+        "timestamp": 1772015292.0
+    },
+    {
         "title_fa": "انتظار از دور بعدی مذاکرات آمریکا و ایران در سایه تهدیدهای ترامپ",
         "title_en": "What to expect from the next round of U.S.-Iran talks as Trump threatens Tehran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUVHbktuc1F1Q0tYTUNlMGpzb1U5U1FCZDlBZWpoVWlLemFBMXpHRWh5NkZuLUJLUDdQczk2em5BTHU4OFFqTG5lNTlFOTRldFVibTF1V0pWdXRybm8wYThYVXUweXlIN1c0T1FrX2NUUER0U1VHbXE1Tk1qbHRWZ3FnYUMteHV0R0Q5YjNYVzdQd9IBlwFBVV95cUxNWEZCUndfZHBYcWNITWw1NEstWTd1TmlPWFFDdFpQT2hGblZoZkx2QnpNZkFEbzF3clpzaW9OM0FWTXd3ZHJ2OThnMjR1V2VJejVQd19ibzBHc0doTkU1cHJtMGR5NTdnMlpycEJSVllyZ3pLcFVYU0MxdTNKVnF0QjFOUTZfckpyNFBNc0R4X2FaVi1Zd1U4",
         "image": null,
         "timestamp": 1772014987.0
+    },
+    {
+        "title_fa": "ترکیه در حال بررسی گزینه‌ها در صورت درگیری ایران و آمریکا",
+        "title_en": "Turkey evaluating potential measures in event of Iran-US conflict, source says",
+        "summary": [
+            "رویترز گزارش می‌دهد ترکیه در سناریوی وقوع درگیری میان ایران و آمریکا در حال ارزیابی اقدامات احتمالی است؛ منبع جزئیات مشخصی منتشر نکرده است.",
+            "این بررسی نشان‌دهنده تغییر محاسبات بازیگران منطقه‌ای و آمادگی برای واکنش به بحران‌های ناگهانی است و می‌تواند مانور دیپلماتیک و نظامی ترکیه را در منطقه بازتعریف کند.",
+            "برای ایران، بروز چنین سناریویی می‌تواند فشارهای خارجی و اقتصادی را تشدید کرده و فضای نارضایتی داخلی را گسترده‌تر کند؛ اما بدون شواهد بیشتر نمی‌توان پیامدهای مستقیم را قطعی دانست."
+        ],
+        "impact": "این خبر می‌تواند عدم‌قطعیت منطقه‌ای را افزایش داده و احتمال تضعیف بیشتر ثبات سیاسی-اقتصادی در ایران را بالا ببرد.",
+        "tag": "تنش",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/turkey-evaluating-potential-measures-in-event-of-iran-us-conflict-source-says/ar-AA1X2vaN",
+        "clean_url": "https://www.msn.com/en-us/news/world/turkey-evaluating-potential-measures-in-event-of-iran-us-conflict-source-says/ar-AA1X2vaN",
+        "image": null,
+        "timestamp": 1772013865.0
     },
     {
         "title_fa": "سفر روبیو به اسرائیل به‌خاطر تنش‌های مرتبط با ایران «قابل تغییر» اعلام شد",
@@ -196,6 +232,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-fm-says-deal-us-033903415.html",
         "image": null,
         "timestamp": 1771991023.0
+    },
+    {
+        "title_fa": "تنش‌های ایران-آمریکا: تهران ادعاهای ترامپ درباره موشک‌ها و برنامه هسته‌ای را «دروغ بزرگ» خواند",
+        "title_en": "Iran-US tensions live: Tehran rejects Trump's claims on missiles, nuclear programme as ‘big lies’",
+        "summary": [
+            "دونالد ترامپ ایران را «حامی شماره یک تروریسم جهان» خواند و ادعا کرد که رژیم پس از اعتراضات آغازشده در دسامبر ٢٠٢٥، ۳۲٬۰۰۰ نفر را کشته است.",
+            "تهران اتهامات مربوط به برنامه موشکی و هسته‌ای را «دروغ بزرگ» خواند و به صراحت ادعاهای ترامپ را رد کرد.",
+            "این تبادل اتهام‌ها می‌تواند فشار سیاسی و احتمال اقدامات قاطع‌تر واشینگتن را افزایش دهد و همزمان ناکامی رژیم در مدیریت اعتراضات گسترده را برجسته کند."
+        ],
+        "impact": "افزایش اتهامات و انزوای سیاسی-دیپلماتیک محتمل، ساختار ثبات رژیم را تضعیف کرده و ظرفیت او برای مهار اعتراضات و بحران‌های اقتصادی را کاهش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-speech-today-oman-nuclear-talks-khamenei-indian-students-stranded-101771985330516.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-speech-today-oman-nuclear-talks-khamenei-indian-students-stranded-101771985330516.html",
+        "image": null,
+        "timestamp": 1771988700.0
     },
     {
         "title_fa": "روند تنش‌ها بر سر برنامه هسته‌ای ایران در آستانه مذاکرات با آمریکا",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/wait-trump-war-iran-211740064.html",
         "image": "http://www.bing.com/th?id=OVFT.WyqbXGWBN_6WeI9JA97EMC&pid=News",
         "timestamp": 1771507800.0
-    },
-    {
-        "title_fa": "اسرائیل در آستانه احتمال درگیری با ایران «در عرض روزها»؛ آمریکا نیروی هوایی را تا سطح جنگ عراق تقویت می‌کند",
-        "title_en": "Israel Braces for Possible Iran Conflict ‘Within Days’ as US Builds Up Air Power in Region to Iraq War Levels",
-        "summary": [
-            "گزارش حاکی از تقویت چشمگیر نیروی هوایی آمریکا در منطقه تا سطوح مشابه جنگ عراق و آماده باش اسرائیل برای احتمال درگیری مستقیم ظرف روزهای آینده است — علامت واضحی از افزایش احتمال برخورد نظامی منطقه‌ای.",
-            "تشدید حضور نظامی آمریکا و احتمال درگیری مستقیم ظرف روزهای آینده فشار خارجی را افزایش می‌دهد؛ چنین فشاری می‌تواند به‌طور ساختاری ثبات سیاسی-اقتصادی رژیم را تضعیف کند، به‌ویژه از طریق کاهش درآمدها، محدودیت دسترسی به بازارها و تشدید انزوای بین‌المللی.",
-            "هر تشدید نظامی یا فشار خارجی جدید، به‌واسطه سوء‌مدیریت اقتصادی ساختاری، پتانسیل تولید شوک اقتصادی و افزایش نارضایتی اجتماعی را دارد؛ این شوک‌ها ظرفیت کنترل داخلی رژیم را کاهش می‌دهند و می‌توانند به بحران مدیریتی گسترده منجر شوند."
-        ],
-        "impact": "افزایش فوری احتمال درگیری نظامی ظرف روزهای آینده، ریسک همزمان تضعیف سیاسی و شوک اقتصادی را بالا می‌برد و توان رژیم برای مدیریت بحران را به‌طرز چشمگیری کاهش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Media Line",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMmRUM1JtYkpfMG9sV2ZIeVBLWUVzQkFSVXlwUGYyYlNxT3V3M0JqMXIwQXRZc3l1bzBDSVJkMVpWcEZhQUE5OTZxV091SFN0bGZEdEJ4emRqRExSMGw5NG91QWJDUzUyOGFtMmZtb2d2TDRTaXJ6WTBORXZwMWlmRERhVE12M21YdGI5MzRVYjlLZkx1cG1jRk9WSkt6clhOTFJuS3I0c2stQnNtRjE4elNza2p6M3U1cDh6dnp0SGVyZFRGZzRUREtaSHR5c1pBODQyTTBXMGZiLVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMmRUM1JtYkpfMG9sV2ZIeVBLWUVzQkFSVXlwUGYyYlNxT3V3M0JqMXIwQXRZc3l1bzBDSVJkMVpWcEZhQUE5OTZxV091SFN0bGZEdEJ4emRqRExSMGw5NG91QWJDUzUyOGFtMmZtb2d2TDRTaXJ6WTBORXZwMWlmRERhVE12M21YdGI5MzRVYjlLZkx1cG1jRk9WSkt6clhOTFJuS3I0c2stQnNtRjE4elNza2p6M3U1cDh6dnp0SGVyZFRGZzRUREtaSHR5c1pBODQyTTBXMGZiLVU",
-        "image": null,
-        "timestamp": 1771505841.0
-    },
-    {
-        "title_fa": "ترامپ به ایران اولتیماتوم داد؛ آمریکا حضور نظامی در منطقه را افزایش داد",
-        "title_en": "Trump issues Iran with ultimatum as US ramps up military presence",
-        "summary": [
-            "رئیس‌جمهور آمریکا در نشست «هیأت صلح» به تهران ۱۰ روز فرصت داد تا «توافق معنادار» حاصل کند و همزمان ناوها، جنگنده‌ها و تجهیزات نظامی به خلیج فارس و تنگه هرمز اعزام شد؛ کاخ سفید هشدار داده در صورت عدم توافق «گام‌های شدیدتری» برداشته خواهد شد.",
-            "دور دوم مذاکرات میان آمریکا و ایران با میانجی‌گری عمان در ژنو برگزار شد؛ واشینگتن می‌گوید هدف جلوگیری از دست‌یابی ایران به سلاح هسته‌ای است و تهران خواستار کاهش تحریم‌هاست؛ رئیس سازمان انرژی اتمی ایران حق غنی‌سازی را تأکید کرده است.",
-            "سخنگوی کاخ سفید و گزارش‌های رسانه‌ای از آمادگی برای حملات قریب‌الوقوع و گزینه‌هایی برای «بیشینه‌سازی خسارت» خبر داده‌اند؛ این تهدیدها هم‌زمان با سرکوب مرگبار معترضان در ماه گذشته مطرح می‌شوند که به تضعیف مشروعیت و افزایش نارضایتی داخلی دامن زده است."
-        ],
-        "impact": "ادامه ترکیب فشار تحریمی و تهدید نظامی می‌تواند رژیم را در کوتاه‌مدت به سمت تشدید سرکوب یا واکنش نظامی مخاطره‌آمیز سوق دهد و ثبات داخلی را بشدت کاهش دهد.",
-        "tag": "تهدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/facing-us-warnings-iran-defends-143025449.html",
-        "clean_url": "https://www.aol.com/articles/facing-us-warnings-iran-defends-143025449.html",
-        "image": "http://www.bing.com/th?id=OVFT.ciFwaIyAoYXrsTgdby7xfC&pid=News",
-        "timestamp": 1771505820.0
-    },
-    {
-        "title_fa": "سه مناقشه‌ای که ویتکوف و کوشنر این هفته می‌کوشند حل کنند",
-        "title_en": "The Three Conflicts Witkoff and Kushner Are Trying to Solve This Week",
-        "summary": [
-            "تیتر نیویورک تایمز خبر می‌دهد که ویتکوف و کوشنر این هفته در پی حل سه مناقشه هستند؛ از خودِ تیتر جزئیات مشخص نیست و تحلیل دقیق مستلزم متن کامل گزارش است.",
-            "حضور این دو نام در رأس ابتکار حل اختلاف، نشان‌دهنده ورود بازیگران خصوصی به عرصه میانجی‌گری است؛ چنین روندی می‌تواند کانال‌های رسمی دیپلماتیک را تضعیف یا تکمیل کند و منافع سیاسی-اقتصادی بازیگران را بازتوزیع کند.",
-            "براساس عنوان، اشاره‌ای به تحریم‌ها یا فشار خارجی، یا نقش روسیه/چین/کره‌شمالی و نیز به اعتراضات داخلی دیده نمی‌شود؛ بنابراین هر تحلیل درباره تأثیرات داخلی-اقتصادی یا روابط بزرگ‌تر منطقه‌ای باید مبتنی بر متن کامل و منابع تکمیلی باشد."
-        ],
-        "impact": "تلاش این دو نشان‌دهنده تقویت نفوذ بازیگران خصوصی در دیپلماسی است؛ موفقیت یا شکست‌شان معیار عملی از کارآمدی سازوکارهای غیررسمی و اثرات آن بر دیپلماسی رسمی خواهد بود.",
-        "tag": "میانجیگری",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFNiNzBmc1lNOG5LSl9obG5Bb2MybkhFbnpiWWJOT2dwM0JneF93cDFGb1RGVG9EVTY2ZUxDWDhQWXdXdVVKVnFyWTdaLXVFa0I5Wlh2Z1JZMWhRLXJmQVRUenA1WTRFRFVzNnNWOFMzaEcwQWlQUWhIbDY3enRYaTRxWkotMGwtSGgxVFBVSDR1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFNiNzBmc1lNOG5LSl9obG5Bb2MybkhFbnpiWWJOT2dwM0JneF93cDFGb1RGVG9EVTY2ZUxDWDhQWXdXdVVKVnFyWTdaLXVFa0I5Wlh2Z1JZMWhRLXJmQVRUenA1WTRFRFVzNnNWOFMzaEcwQWlQUWhIbDY3enRYaTRxWkotMGwtSGgxVFBVSDR1Zw",
-        "image": null,
-        "timestamp": 1771505668.0
     }
 ]
