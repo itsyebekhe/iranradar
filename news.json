@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "روند تنش‌ها بر سر برنامه هسته‌ای ایران در آستانه مذاکرات با آمریکا",
+        "title_en": "A timeline of tensions over Iran's nuclear program as talks with U.S. approach",
+        "summary": [
+            "PBS جدول زمانی نقاط‌عطف و دوره‌های تشدید تنش مرتبط با برنامه هسته‌ای ایران را گردآوری کرده و مذاکرات قریب‌الوقوع با آمریکا را به‌عنوان متغیری تعیین‌کننده در مسیر تنش‌ها معرفی می‌کند.",
+            "طبق بازنمایی این خط زمانی، فشار و تحریم‌های بین‌المللی و انزوای دیپلماتیک ظرفیت اقتصادی و اهرم‌های بقاگرای رژیم را فرسوده کرده‌اند و فضای تصمیم‌گیری داخلی را تضعیف می‌کنند.",
+            "خط زمانی همچنین نشان می‌دهد که سوءمدیریت و کمبود پاسخگویی در حکمرانی برنامه هسته‌ای، همراه با مشکلات اقتصادی ساختاری، می‌تواند مذاکرات را به نقطه‌ای تبدیل کند که یا فشارها را تشدید می‌کند یا فرصت‌های محدود کاهش تنش را خلق می‌کند."
+        ],
+        "impact": "مجموعه شواهد خط زمانی PBS حاکی است مذاکرات پیش‌رو در بستری از تحریم‌ها و ناکارآمدی‌های داخلی می‌تواند تعیین‌کننده وضعیت ثبات کوتاه‌مدت رژیم باشد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "PBS",
+        "url": "https://www.msn.com/en-in/news/other/timeline-of-iran-nuclear-tensions-ahead-of-us-talks-in-geneva/ar-AA1WXtlJ",
+        "clean_url": "https://www.msn.com/en-in/news/other/timeline-of-iran-nuclear-tensions-ahead-of-us-talks-in-geneva/ar-AA1WXtlJ",
+        "image": null,
+        "timestamp": 1771987187.0
+    },
+    {
+        "title_fa": "ارسال جنگنده‌های آمریکا به اسرائیل در بحبوحه تشدید تنش با ایران",
+        "title_en": "U.S. sends fighter jets to Israel amid escalating tensions with Iran",
+        "summary": [
+            "فرستادن جنگنده‌های آمریکایی به اسرائیل نشان‌دهنده افزایش احتمال مداخله یا واکنش نظامی ایالات متحده علیه تهران و تشدید فشار خارجی است.",
+            "افزایش تهدید نظامی ساختارهای ضعیف اقتصادی-سیاسی را بیشتر می‌کند: فشار بر بودجه، افزایش هزینه‌های امنیتی و تضعیف توان حکومت در مدیریت بحران‌های داخلی قابل انتظار است.",
+            "خبر به صراحت از نارضایتی داخلی حکایت دارد؛ ترکیب فشار خارجی و نارضایتی می‌تواند اعتراضات را تشدید یا حکومت را به حلقه سرکوب و تصمیم‌گیری‌های بیش‌تمرکز سوق دهد."
+        ],
+        "impact": "این تحرکات خطر درگیری مستقیم میان آمریکا/اسرائیل و ایران را افزایش می‌دهد و هم‌زمان ثبات داخلی ایران را از طریق تشدید فشار اقتصادی و سیاسی بیشتر تضعیف خواهد کرد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CBS News",
+        "url": "https://www.yahoo.com/news/videos/u-sends-fighter-jets-israel-022714760.html",
+        "clean_url": "https://www.yahoo.com/news/videos/u-sends-fighter-jets-israel-022714760.html",
+        "image": null,
+        "timestamp": 1771986420.0
+    },
+    {
+        "title_fa": "ترامپ: ایران بیش از آمریکا خواستار توافق است؛ نیروهای آمریکایی در منطقه نفتی مستقر می‌شوند",
+        "title_en": "Trump says Iran wants a deal more than the U.S. as American forces build up in oil-rich Middle East",
+        "summary": [
+            "ترامپ مدعی شده ایران بیش از ایالات متحده تمایل به توافق دارد و همزمان واشنگتن با ارسال نیرو به خاورمیانه نفت‌خیز، فشار نظامی را تشدید می‌کند.",
+            "ترکیب فشار نظامی و دیپلماتیک، ابزارهای اهرمی آمریکا را برای تقویت سیاست فشار حداکثری علیه تهران افزایش می‌دهد و ظرفیت‌های اقتصادی ـ سیاسی رژیم را در معرض تضعیف ساختاری قرار می‌دهد.",
+            "این وضعیت هم می‌تواند تهران را به پذیرش امتیازهای محدود سوق دهد و هم احتمال واکنش‌های تندتر از سوی عناصر سخت‌گیر را افزایش دهد؛ هر دو مسیر ریسک بی‌ثباتی و تشدید تنش منطقه‌ای را بالا می‌برند."
+        ],
+        "impact": "تقویت حضور نظامی آمریکا در منطقه همراه با پیام‌دهی درباره تمایل طرف مقابل، توازن فشار را علیه حکومت ایران افزایش می‌دهد و اختیار عمل حکومتی را در مذاکرات و مدیریت داخلی محدود می‌سازد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkxSY09iTkJ0eEh1TmxTT0FvQ0g0Qmhad0ZVcC00SGNPSkk3S25hZGpTczJwWGRXNjh4VV9BSTNLM3VhV0hNWmN3N3JLMkJuU1plb1RKXzJBc1M4YnhhM1RtSW1aRmJJQ1NvQWxPcWZFcUtfamNUREpIN1VRUXZ4SDlSN0xwYndQSUFtS1EwdlJHTlhJM1RjWXg2d25YclRTRVh1SXhPNk1KekF6UmZOZFFydFh6LWo1ejZxelRvcXBsdi0tLVdR0gHMAUFVX3lxTFBwNnpwSG1kZ2RSUXVpUHE0M0dzLXNRUVRSUDJwNlRXY0NvYzJWbUtlUEtKNHN6c0dZZUZWWENfQU1maEkxd3ZCNDlqZXRXR0I2Q3FwWFlCdmZEWnFIbjBUNVNab0RKWmt5YWEtXzJxZDVXRkFpMkFVdFItUExSSHFFQ0ltenpNbWFuR0owMjdWQW1KdGtnLWd5ZVAwckF6SEJIU0EyYU1lTUozZ3QycGZOanNyVklyVmNPR0cyWklUdFBETUY4Z1BnY3JraA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkxSY09iTkJ0eEh1TmxTT0FvQ0g0Qmhad0ZVcC00SGNPSkk3S25hZGpTczJwWGRXNjh4VV9BSTNLM3VhV0hNWmN3N3JLMkJuU1plb1RKXzJBc1M4YnhhM1RtSW1aRmJJQ1NvQWxPcWZFcUtfamNUREpIN1VRUXZ4SDlSN0xwYndQSUFtS1EwdlJHTlhJM1RjWXg2d25YclRTRVh1SXhPNk1KekF6UmZOZFFydFh6LWo1ejZxelRvcXBsdi0tLVdR0gHMAUFVX3lxTFBwNnpwSG1kZ2RSUXVpUHE0M0dzLXNRUVRSUDJwNlRXY0NvYzJWbUtlUEtKNHN6c0dZZUZWWENfQU1maEkxd3ZCNDlqZXRXR0I2Q3FwWFlCdmZEWnFIbjBUNVNab0RKWmt5YWEtXzJxZDVXRkFpMkFVdFItUExSSHFFQ0ltenpNbWFuR0owMjdWQW1KdGtnLWd5ZVAwckF6SEJIU0EyYU1lTUozZ3QycGZOanNyVklyVmNPR0cyWklUdFBETUY4Z1BnY3JraA",
+        "image": null,
+        "timestamp": 1771983240.0
+    },
+    {
         "title_fa": "لبنان؛ جبهه دوم در جنگ قریب‌الوقوع با ایران",
         "title_en": "Lebanon Is the Second Front in a Looming Iran War",
         "summary": [
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/02/19/investing/oil-gold-prices-us-iran-tensions",
         "image": null,
         "timestamp": 1771485660.0
-    },
-    {
-        "title_fa": "کاخ سفید به ایران هشدار داد: از اکنون بهتر است توافق کنید — تهران با مسکو برای مانورهای دریایی همکاری می‌کند",
-        "title_en": "White House warns Iran it’d be very wise to cut a deal now — as Tehran teams up with Moscow for naval drills",
-        "summary": [
-            "تهران و مسکو برای اجرای مانورهای دریایی در تنگه حیاتی هرمز و خلیج عمان متحد شده‌اند؛ اقدامی که به‌ظاهر برای نمایش قدرت نظامی و مقابله با فشارهای غرب صورت گرفته است.",
-            "واکنش کاخ سفید با هشدار به ایران نشان‌دهنده تشدید فشار دیپلماتیک و امنیتی آمریکاست؛ این فشار ساختارهای اقتصادی و سیاسی رژیم را بیش از پیش محدود می‌کند و فضای تصمیم‌گیری را تنگ‌تر می‌سازد.",
-            "حضور روسیه در این مانورها نقش یک پشتیبان استراتژیک برای تهران دارد و تا حدی امکان بقا و مانور سیاسی-نظامی رژیم را افزایش می‌دهد، اما این هم‌پیمانی نظامی به‌تنهایی مشکلات ساختاری اقتصادی و مشروعیت حکومتی را حل نمی‌کند."
-        ],
-        "impact": "ترکیب نمایش نظامی مشترک با هشدارهای واشنگتن، رژیم را در معرض تشدید تحریم‌ها و خطر تقابل نظامی قرار می‌دهد در حالی که نیز تلاش دارد با اتکا به روسیه دوام کوتاه‌مدت خود را حفظ کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/white-house-warns-iran-it-d-be-very-wise-to-cut-a-deal-now-as-tehran-teams-up-with-moscow-for-naval-drills/ar-AA1WFR3z",
-        "clean_url": "https://www.msn.com/en-us/news/world/white-house-warns-iran-it-d-be-very-wise-to-cut-a-deal-now-as-tehran-teams-up-with-moscow-for-naval-drills/ar-AA1WFR3z",
-        "image": null,
-        "timestamp": 1771483161.0
-    },
-    {
-        "title_fa": "ایران در برابر هشدارهای آمریکا از حق غنی‌سازی دفاع کرد",
-        "title_en": "Facing US warnings, Iran defends right to nuclear enrichment",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، به ایران ضرب‌الاجل ۱۰ روزه برای رسیدن به «توافق معنادار» داد و هشدار داد که در غیراین‌صورت «رخدادهای بد» روی خواهد داد؛ واشنگتن ناوها و جنگنده‌ها را نیز به منطقه گسیل کرد.",
-            "تهران از «حق» غنی‌سازی هسته‌ای دفاع کرده و موضع خود در مذاکرات را در برابر تهدیدهای واشنگتن تکرار نمود.",
-            "افزایش فشار سیاسی و نظامی آمریکا می‌تواند زمینه تشدید تحریم‌ها و فشارهای اقتصادی را فراهم کند و احتمالاً ظرفیت‌های مدیریتی و مشروعیت حکومت را بیش‌تر تحت فشار قرار دهد. (نتیجه‌گیری مبتنی بر روند قابل انتظار از افزایش فشار خارجی است، نه گزارش مستقیمی از پیامدهای داخلی در متن خبر)"
-        ],
-        "impact": "این مواجهه احتمال تشدید فشارهای اقتصادی و سیاسی بر حکومت ایران را افزایش می‌دهد و می‌تواند ثبات داخلی و توان مدیریتی آن را تضعیف کند.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Agence France-Presse on MSN",
-        "url": "https://www.msn.com/en-us/news/world/facing-us-warnings-iran-defends-right-to-nuclear-enrichment/ar-AA1WFISJ",
-        "clean_url": "https://www.msn.com/en-us/news/world/facing-us-warnings-iran-defends-right-to-nuclear-enrichment/ar-AA1WFISJ",
-        "image": null,
-        "timestamp": 1771482625.0
-    },
-    {
-        "title_fa": "تنش‌های آمریکا-ایران: خط زمانی رویدادهای کلیدی از اعتراضات دسامبر ۲۰۲۵",
-        "title_en": "US-Iran tensions: Here is a timeline of key events since December 2025 protests",
-        "summary": [
-            "اعتراضات اقتصادی دسامبر ۲۰۲۵ همراه با قطعی گسترده اینترنت؛ نشانه‌ی نارضایتی عمومی عمیق و واکنش سرکوب‌گرانه حکومت برای کنترل جریان اطلاعات.",
-            "مذاکرات ژنو در فوریه ۲۰۲۶ یک مداخله دیپلماتیک برای جلوگیری از تشدید مستقیم بود، اما تا کنون نتوانسته تضمین پایداری بلندمدت یا کاهش فشارهای داخلی را فراهم کند.",
-            "تهدید فعلی به حملات نظامی آمریکا و افزایش فشارهای خارجی رژیم را به‌صورت ساختاری تضعیف می‌کند؛ آثار داخلی شامل تشدید مشکلات اقتصادی، بی‌ثباتی بازارها و اعمال سرکوب بیشتر علیه اعتراضات است."
-        ],
-        "impact": "هم‌افزایی اعتراضات داخلی، اختلال اینترنتی و تهدید نظامی آمریکا، ثبات ساختاری رژیم را به‌طور قابل‌توجهی تضعیف کرده و شانس تشدید بحران اقتصادی-سیاسی را افزایش می‌دهد.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Mint",
-        "url": "https://www.msn.com/en-in/news/world/us-iran-tensions-here-is-a-timeline-of-key-events-since-december-2025-protests/ar-AA1WE274",
-        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-tensions-here-is-a-timeline-of-key-events-since-december-2025-protests/ar-AA1WE274",
-        "image": null,
-        "timestamp": 1771482458.0
     }
 ]
