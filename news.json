@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "واکنش تهران به سخنرانی ترامپ ۲۰۲۶؛ اتهام به «دروغ‌های بزرگ» درباره برنامه هسته‌ای و سرکوب اعتراضات",
+        "title_en": "Iran reacts to Trump's 2026 State of the Union, accusing him of \"big lies\" on nuclear program and protests",
+        "summary": [
+            "وزارت خارجه ایران اظهارات ترامپ را «دروغ‌های بزرگ» خواند و گفت ادعای او درباره تلاش تهران برای ساخت سلاح هسته‌ای تلاشی برای «تکرار دروغ تا تبدیل شدن به حقیقت» است.",
+            "ترامپ مدعی شد که حملات ژوئن برنامه هسته‌ای ایران را «نابود» کرده و اکنون تهران دوباره فعالیت‌ها را از سر گرفته؛ آژانس بین‌المللی انرژی اتمی در این باره تردید ابراز کرده و تصاویر ماهواره‌ای نشان‌دهنده سقف‌گذاری روی تاسیسات آسیب‌دیده است.",
+            "ادعای ترامپ درباره کشته‌شدن ۳۲٬۰۰۰ نفر در سرکوب اعتراضات ژانویه بسیار بالاتر از گزارش‌های پیشین است؛ این تناقض روایت‌ها و فشار خارجی، بحران مشروعیت رژیم را عمیق‌تر و فضای مذاکرات هسته‌ای را متشنج‌تر می‌کند."
+        ],
+        "impact": "این تقابل لفظی همراه با تهدید اقدام نظامی، احتمالا مذاکرات هسته‌ای را پیچیده‌تر می‌کند و به تضعیف بیشتر مشروعیت داخلی رژیم دامن می‌زند.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CBS News",
+        "url": "https://www.yahoo.com/news/articles/iran-reacts-trumps-2026-state-132344969.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-reacts-trumps-2026-state-132344969.html",
+        "image": null,
+        "timestamp": 1772025267.0
+    },
+    {
         "title_fa": "ایران در آستانه مذاکرات ژنو در برابر ترامپ ایستاد؛ آمریکا استقرار نظامی گسترده انجام داد",
         "title_en": "Iran pushes back against Trump ahead of Geneva talks in face of major US military deployment",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-says-iran-developing-missiles-054934568.html",
         "image": null,
         "timestamp": 1771998600.0
+    },
+    {
+        "title_fa": "پشت پردهٔ نمایش؛ پیام قاطع ترامپ به ایران",
+        "title_en": "Behind the theatre, Trump has a serious message for Iran",
+        "summary": [
+            "ترامپ در سخنرانی طولانی وضعیت اتحاد به‌طور علنی پیش‌شرط‌های سیاسی و قانونی برای حمله نظامی علیه ایران را مطرح کرد: اتهام ازسرگیری برنامه غنی‌سازی، توسعه موشک‌هایی که اروپا و آمریکا را تهدید می‌کنند و اعلام اینکه یک‌سوم نیروی دریایی آمریکا در برد تهران قرار دارد.",
+            "او رژیم ایران را متهم به قتل «حداقل ... ۳۲,000» معترض و ادامهٔ سرکوب کرد — ادعایی که در این سخنرانی به‌عنوان یکی از محوری‌ترین توجیه‌ها برای احتمال مداخله مطرح شد و نشان‌دهندهٔ عمق نارضایتی داخلی است.",
+            "با وجود مذاکرات جاری، ترامپ زمینهٔ سیاسی برای اقدام نظامی پیش از دور جدید گفت‌وگوها را در برابر کنگره و افکار عمومی آماده کرد، در حالی که بسیاری از نمایندگان نسبت به ورود به درگیری نظامی جدید مردد هستند."
+        ],
+        "impact": "فشار و تهدید نظامی-سیاسی آمریکا، همراه با استدلال‌های حقوقی‌ای که ترامپ در برابر کنگره ایجاد کرد، توان بقا و مشروعیت رژیم را تضعیف کرده و هزینهٔ سرکوب داخلی و هزینه‌های اقتصادی-سیاسی را بالا می‌برد؛ این امر رژیم را مجبور به انتخاب بین تشدید سرکوب یا امتیازدهی محدود می‌کند که هر دو مسیر ریسک بی‌ثباتی را افزایش می‌دهد.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-gives-iran-last-chance-055718341.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-gives-iran-last-chance-055718341.html",
+        "image": "http://www.bing.com/th?id=OVFT.SfiopNvdZZ8peM9Y7iZfVi&pid=News",
+        "timestamp": 1771996800.0
     },
     {
         "title_fa": "تماشا: ترامپ؛ «نمی‌توانیم اجازه دهیم ایران سلاح هسته‌ای داشته باشد»",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-confronts-options-iran-targeted-220631142.html",
         "image": "http://www.bing.com/th?id=OVFT.4HlM5UAsMYIOqrZbqncq1S&pid=News",
         "timestamp": 1771512840.0
-    },
-    {
-        "title_fa": "سهام آمریکا کاهش یافت و قیمت نفت با نگرانی از احتمال درگیری آمریکا-ایران جهش کرد",
-        "title_en": "US stocks slip as oil prices rise on worries about a potential US-Iran conflict",
-        "summary": [
-            "بازارهای سهام آمریکا امروز به‌خاطر افزایش قیمت نفت و نگرانی سرمایه‌گذاران از احتمال تشدید درگیری میان آمریکا و ایران نزولی شدند؛ ریسک ژئوپلیتیک عامل اصلی نوسان گزارش شده است.",
-            "افزایش قیمت نفت نشان‌دهنده بالا رفتن ریسک منطقه‌ای است؛ در صورت تشدید تقابل، فشارهای خارجی و محدودیت‌های بیشتر می‌تواند توان اقتصادی رژیم را بیش از پیش تضعیف کند (این ارزیابی مبتنی بر اشاره گزارش به احتمال درگیری است).",
-            "نوسانات کنونی بازار بر آسیب‌پذیری اقتصاد ایران در برابر شوک‌های بیرونی تأکید می‌کند؛ هر گونه تشدید تنش می‌تواند هزینه‌های تأمین مالی و تجارت را بالا برده و فشار بر سیاست‌های اقتصادی داخلی را تشدید کند."
-        ],
-        "impact": "اثر فوری این خبر بی‌ثباتی در بازارهای جهانی و افزایش هزینه نفت است که می‌تواند فشار اقتصادی بر تهران را افزایش دهد و ریسک‌های سیاسی-اقتصادی منطقه را تشدید کند.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/stocks-markets-iran-ai-trump-9105f5156c294507738154a714dcd13d",
-        "clean_url": "https://apnews.com/article/stocks-markets-iran-ai-trump-9105f5156c294507738154a714dcd13d",
-        "image": null,
-        "timestamp": 1771512840.0
-    },
-    {
-        "title_fa": "رئیس آژانس: مواد هسته‌ای ایران «هنوز آنجاست، به مقدار زیاد»؛ خواستار توافق فوری با آمریکا شد",
-        "title_en": "Iran nuclear material \"still there, in large quantities,\" IAEA chief says, calling for urgent deal with U.S.",
-        "summary": [
-            "رئیس آژانس بین‌المللی انرژی اتمی اعلام کرده مواد هسته‌ای مرتبط با برنامه ایران هنوز در کشور موجود است و حجم آن «به مقدار زیاد» است.",
-            "او از نیاز به یک توافق فوری با دولت آمریکا برای حل و فصل این مسئله سخن گفته؛ تأکیدی بر ضرورت اقدام دیپلماتیک سریع برای کاهش تنش‌ها.",
-            "این گزارش اعتبار ادعاهای رژیم درباره کنترل و محدودیت برنامه هسته‌ای را تضعیف می‌کند و می‌تواند مسیر برای تشدید فشارهای بین‌المللی و تحریم‌ها علیه تهران فراهم سازد."
-        ],
-        "impact": "اظهارات آژانس می‌تواند به تسریع فشارهای بین‌المللی و اقتصادی منجر شده و ثبات سیاسی رژیم را از منظر مشروعیت و توان مدیریتی بیش‌ازپیش تضعیف کند.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTRtbG5pZWs2Z3dCUEQydTFocjBFTEVJVjRjRXpfc3ZYd2RRWVFRNVJ0RkJJSWs5WUZJV3h0WW84MURRcGVaaGNEak0yOE5rOTNOcll1d3ZpN1ZFZ0hRNDJrbDlEVGE0MjVzVXNpSlg0NVRWWDFCNmFia0hZZ3E2cDl6dURuS040RUdldk8xa0o5ZWYzUlVmaVoxZnliMVZIcldiRjV30gGrAUFVX3lxTFA4dmJkT3BGZUZvYzRoRk1BOEhObGU2V21qQkRYM2QxRXRCMnNzb3BnWWwxS0ZpTjJINGJvSm5iVTNNZ1lWMjNhcDVYbk44OUdUSmk4Q29iX1Zibi1pbEViUW9jRjA2VGlJN29WaHdGLWJ1cTNSVWotWEFkZ21vZXVsNWJKaUZWc05iX05SX3J4djdwWkpaSHhFQzJEVjBXamp6UEdsdlV4TTIzNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTRtbG5pZWs2Z3dCUEQydTFocjBFTEVJVjRjRXpfc3ZYd2RRWVFRNVJ0RkJJSWs5WUZJV3h0WW84MURRcGVaaGNEak0yOE5rOTNOcll1d3ZpN1ZFZ0hRNDJrbDlEVGE0MjVzVXNpSlg0NVRWWDFCNmFia0hZZ3E2cDl6dURuS040RUdldk8xa0o5ZWYzUlVmaVoxZnliMVZIcldiRjV30gGrAUFVX3lxTFA4dmJkT3BGZUZvYzRoRk1BOEhObGU2V21qQkRYM2QxRXRCMnNzb3BnWWwxS0ZpTjJINGJvSm5iVTNNZ1lWMjNhcDVYbk44OUdUSmk4Q29iX1Zibi1pbEViUW9jRjA2VGlJN29WaHdGLWJ1cTNSVWotWEFkZ21vZXVsNWJKaUZWc05iX05SX3J4djdwWkpaSHhFQzJEVjBXamp6UEdsdlV4TTIzNA",
-        "image": null,
-        "timestamp": 1771511965.0
     }
 ]
