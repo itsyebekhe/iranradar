@@ -18,6 +18,24 @@
         "timestamp": 1772047020.0
     },
     {
+        "title_fa": "آمریکا تحریم‌های خود علیه ایران را گسترش داد؛ هدف: فروش نفت و برنامه‌های تسلیحاتی",
+        "title_en": "US expands sanctions on Iran over oil sales, weapons programs",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا بیش از 30 فرد، نهاد و کشتی‌های «ناوگان سایه» را به‌خاطر نقش در تسهیل فروش غیرقانونی نفت ایران و حمایت از برنامه‌های تسلیحاتی تحریم کرد.",
+            "این بسته تحریمی ساختار درآمدی رژیم را هدف می‌گیرد و می‌تواند انتقال درآمدهای ارزی را محدود کند؛ پیامد مستقیم آن تشدید فشارهای اقتصادی و سیاسی داخلی خواهد بود.",
+            "تمرکز روی «ناوگان سایه» نشان می‌دهد واشنگتن به قطع مسیرهای دورزدن تحریم برای کسب درآمد نفتی می‌پردازد؛ این مسیرها محصول ضعف مدیریت و فساد ساختاری در حکومت است."
+        ],
+        "impact": "اثر فوری این تحریم‌ها کاهش توان مالی رژیم برای پیشبرد برنامه‌های تسلیحاتی و افزایش فشار اقتصادی است که پتانسیل تشدید نارضایتی عمومی را دارد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/us-expands-sanctions-on-iran-over-oil-sales-weapons-programs/ar-AA1X4VsW",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-expands-sanctions-on-iran-over-oil-sales-weapons-programs/ar-AA1X4VsW",
+        "image": null,
+        "timestamp": 1772045555.0
+    },
+    {
         "title_fa": "پیام دوگانه ونس به ایران: دنبال دیپلماسی‌اند اما گزینه نظامی محفوظ است",
         "title_en": "Vance to Iran: Talks show US pursuing diplomatic deal; Trump has right to use military option if he chooses",
         "summary": [
@@ -216,6 +234,24 @@
         "timestamp": 1772025267.0
     },
     {
+        "title_fa": "کدگشایی از استراتژی ترامپ علیه ایران",
+        "title_en": "Decoding Trump’s Iran strategy",
+        "summary": [
+            "واشنگتن شمار و توان نظامی‌اش را در خلیج فارس به سطحی رسانده که از زمان جنگ عراق سابقه نداشته؛ ترامپ هدف اعلامی را جلوگیری از دستیابی ایران به سلاح هسته‌ای خواند اما از تعیین خطوط قرمز، مطالبات مشخص یا آستانه‌های واکنش نظامی خودداری کرده است.",
+            "ادعاهای آمریکا و اسرائیل درباره تضعیف سایت‌های غنی‌سازی در تابستان گذشته با تصویرهای ماهواره‌ای متناقض است — تصویر فردو در ۱۴ ژوئن ۲۰۲۵ آسیب قابل‌مشاهده نشان نمی‌دهد — در عین حال نهادهای اطلاعاتی آمریکا درباره تلاش ایران برای توسعه موشک‌های قاره‌پیما هشدار می‌دهند و واشنگتن خواستار توقف این برنامه‌ها شده است.",
+            "تجمع نظامی و ابهام در خواسته‌ها به‌عنوان فشار خارجی ساختار بقا و مشروعیت رژیم را تحت فشار قرار می‌دهد و می‌تواند پیامدهای اقتصادی و سیاسی (فرار سرمایه، افزایش هزینه‌های امنیتی، تضعیف مقبولیت داخلی) را تشدید کند؛ هم‌زمان نبود شفافیت در اهداف آمریکا ریسک محاسبات نادرست و تشدید درگیری را افزایش می‌دهد."
+        ],
+        "impact": "این ترکیب از فشار نظامی و ابهام دیپلماتیک امکان تشدید درگیری‌های نظامی را بالا می‌برد و ضعف مدیریت و مشروعیت رژیم را در داخل و عرصه بین‌المللی برجسته‌تر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/decoding-trump-iran-strategy-195932561.html",
+        "clean_url": "https://www.yahoo.com/news/articles/decoding-trump-iran-strategy-195932561.html",
+        "image": null,
+        "timestamp": 1772024220.0
+    },
+    {
         "title_fa": "ایران در آستانه مذاکرات ژنو در برابر ترامپ ایستاد؛ آمریکا استقرار نظامی گسترده انجام داد",
         "title_en": "Iran pushes back against Trump ahead of Geneva talks in face of major US military deployment",
         "summary": [
@@ -340,6 +376,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/turkey-evaluating-potential-measures-in-event-of-iran-us-conflict-source-says/ar-AA1X2vaN",
         "image": null,
         "timestamp": 1772013865.0
+    },
+    {
+        "title_fa": "گزارش: ایران برای مهار ترامپ به چین کمونیست متوسل می‌شود",
+        "title_en": "Iran reportedly turns to communist China to checkmate Trump",
+        "summary": [
+            "منابع گزارش می‌دهند ایران در حال آماده‌سازی قرارداد با چین برای خرید موشک‌های کروز ضدکشتی است، همزمان با تحرکات نیروی دریایی آمریکا در حوالی سواحل ایران.",
+            "حضور چین در این معامله نقش یک مولفه استراتژیک تأمین‌کننده را ایفا می‌کند که به تهران امکان می‌دهد توان دریایی خود را برای بازدارندگی در برابر تهدیدات آمریکایی تقویت کند.",
+            "ترجیح دادن خرید تسلیحات خارجی در شرایط فشار خارجی و دشواری‌های اقتصادی داخلی نشانه‌ای از مدیریت ناکارآمد است که منابع را از مسائل معیشتی عمومی به انباشت توان نظامی منتقل می‌کند و ریسک تشدید نارضایتی داخلی را بالا می‌برد."
+        ],
+        "impact": "معامله احتمالی با چین می‌تواند تنش‌ها را تشدید و احتمال برخورد مستقیم با آمریکا را افزایش دهد، در حالی که حکومت را از حل بحران اقتصادی داخلی منحرف می‌کند.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Daily Caller on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-reportedly-turns-to-communist-china-to-checkmate-trump/ar-AA1X4bUp",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-reportedly-turns-to-communist-china-to-checkmate-trump/ar-AA1X4bUp",
+        "image": "http://www.bing.com/th?id=OVFT.nxy2SpOkTb1sGs093Zt47i&pid=News",
+        "timestamp": 1772013640.0
     },
     {
         "title_fa": "شمارش معکوس: توافق یا تشدید تنش برای ایران",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9adW1UZ1M2Q3d2ekpDNHJzREc4U1F0aEhvaHhaU05qM0swRlVjeE5uZWV0TFBkVGJqSkpKcnFTVklLOU14c0YyS3N2ZTF4QUlseDBVTHlaRDBRV1hxbERmaTdXRU5vV200YjIzdmVmSmh5ZzlxUFpB",
         "image": null,
         "timestamp": 1771536315.0
-    },
-    {
-        "title_fa": "اختصاصی | ترامپ بررسی حمله محدود اولیه برای وادارسازی ایران به توافق هسته‌ای",
-        "title_en": "Exclusive | Trump Weighs Initial Limited Strike to Force Iran Into Nuclear Deal",
-        "summary": [
-            "گزارش می‌گوید دونالد ترامپ در حال بررسی گزینه حمله محدود اولیه است که هدف آن متقاعدسازی ایران برای بازگشت یا پذیرش توافق هسته‌ای از طریق فشار نظامی مستقیم است.",
-            "چنین گزینه‌ای، نمونه‌ای از انتقال فشار از ابزارهای اقتصادی و تحریمی به استفاده از زور نظامی است؛ ساختاراً می‌تواند توان مذاکره و بازدارندگی رژیم را کاهش دهد اما خطر تشدید درگیری و واکنش تلافی‌جویانه را بالا می‌برد.",
-            "در داخل ایران، اقدام نظامی خارجی ممکن است فوری‌ترین نتیجه‌اش تشدید کنترل‌های امنیتی و فضای سیاسی بسته‌تر باشد؛ اما این فشار بیرونی به همراه تحریم‌ها ساختار آسیب‌پذیری رژیم را بلندمدت تقویت می‌کند."
-        ],
-        "impact": "یک حمله محدود اولیه، فشار خارجی را به سطح نظامی ارتقاء می‌دهد و شانس وارد آمدن ضربه به ظرفیت‌های هسته‌ای یا سیاسی رژیم را افزایش می‌دهد اما ریسک شعله‌ور شدن پاسخ نظامی و بی‌ثباتی منطقه‌ای را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Wall Street Journal",
-        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTGdoYkVReHlza2ZCbEVVdjI4WDlpSlVHWXd4WUkxRHBKNXM2Z0NvNHJkYU1vci1OT3h0M3Vmb2dtQ3JGM19lTFN4aF8xZzRiUGs5WFdKOHoyOVBUem01UjZ1WGo5WTZxdm1GZnROYnhIb3N2dkNFampIRXJxMFdsYl8yNlo2OVFEWThVMllySmttLThGR2Z5bXAxdVpMOU5XLUtYZHpnZVFtYXl3VGY0Zmh5dkN4dkc3S1Rta2daMlRQdFk4NzhkMktSOV90d0NIZzhxME9GTjZQSFZQQ0xncnNhcGhJNHhib0tyU29YUzVzNGRNSlNncjJzVmJNT3FHc0hNZFlUdzlvZmdkOGpJVkVHV0t5Q0loSW52amUxU05PNWViM1Z6bV9JVkNqdjR0OFA1bW1aTkMzdDdoeENoRHRNNkpCeE9heGdlSHNJeC1JY0VzUGFUckRmY2didFI3UUhjMVVBTTF2YjVGRGNIZWxkUHNKQ3ZUeHR2a2lwY1hhcWxJS2ZwbFFsekJGOUJiSzJKNEdmM0dXVW50aUg3YTN3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQTGdoYkVReHlza2ZCbEVVdjI4WDlpSlVHWXd4WUkxRHBKNXM2Z0NvNHJkYU1vci1OT3h0M3Vmb2dtQ3JGM19lTFN4aF8xZzRiUGs5WFdKOHoyOVBUem01UjZ1WGo5WTZxdm1GZnROYnhIb3N2dkNFampIRXJxMFdsYl8yNlo2OVFEWThVMllySmttLThGR2Z5bXAxdVpMOU5XLUtYZHpnZVFtYXl3VGY0Zmh5dkN4dkc3S1Rta2daMlRQdFk4NzhkMktSOV90d0NIZzhxME9GTjZQSFZQQ0xncnNhcGhJNHhib0tyU29YUzVzNGRNSlNncjJzVmJNT3FHc0hNZFlUdzlvZmdkOGpJVkVHV0t5Q0loSW52amUxU05PNWViM1Z6bV9JVkNqdjR0OFA1bW1aTkMzdDdoeENoRHRNNkpCeE9heGdlSHNJeC1JY0VzUGFUckRmY2didFI3UUhjMVVBTTF2YjVGRGNIZWxkUHNKQ3ZUeHR2a2lwY1hhcWxJS2ZwbFFsekJGOUJiSzJKNEdmM0dXVW50aUg3YTN3",
-        "image": null,
-        "timestamp": 1771536000.0
-    },
-    {
-        "title_fa": "بریتانیا مانع استفاده ترامپ از پایگاه‌های RAF برای حمله به ایران شد",
-        "title_en": "UK blocking Trump from using RAF bases for strikes on Iran",
-        "summary": [
-            "تایمز گزارش می‌دهد بریتانیا اجازه استفاده ترامپ از پایگاه‌های نیروی هوایی سلطنتی (RAF) برای حملات علیه ایران را مسدود کرده است.",
-            "این تصمیم دسترسی عملیاتی آمریکا به پایگاه‌های بریتانیایی برای اجرای حملات مستقیم علیه اهداف ایرانی را محدود می‌کند و گزینه‌های نظامی واشنگتن را پیچیده می‌سازد.",
-            "اقدام لندن نشان‌دهنده شکاف در صف متحدان غربی است؛ در کوتاه‌مدت احتمال اقدام نظامی مستقیم علیه ایران را کاهش می‌دهد اما به تنهایی ضعف ساختاری و مدیریت دولتی در ایران را ترمیم نخواهد کرد."
-        ],
-        "impact": "کوتاه‌مدت کاهش احتمال حمله مستقیم به ایران و دادن فرصت تنفس سیاسی به حکومت؛ اما این تحول خلأهای داخلی اقتصادی و مدیریتی رژیم را اصلاح نمی‌کند و تنها بر پیچیدگی تصمیم‌گیری ائتلاف غرب خواهد افزود.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Times",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOa2JoSlNwT2pncTA0a3pUbjBRRlNwNzNlUzB4cG9XODRFZnZBb1FncEY1T0FmbjN4UWFfbTlVdUxObzRKU1hJUUZLVXlKc3IwLUdvaWNaY3dEaGZ4LVFGNlNLSE1lUFVKNlRuMUFtQTlhWWFtbWxfU0R0ZkF1cllBRFBrMEstQWVrbW81ZDRqOEc3U2xtYzA2MHpjbnA4dWJLUGp2S2lJWmtKbnluVi1OTVhkMVR3d2hrZV81ZEp3ZGU3dVllVkUwUW1rTHU4REhYVTVWUkRESmtaQ3lLNW9PLVZGWERiUlROUFRUaGpxV21iUVFKQWpjZlhEcU5BbjdMdUlTblRGSWlXczNDUDN5dlViTjdPSjdQdC1Sbm9rX2Znd2k3cDd1OGMzTVQtRHVJMmZKRzNZWHhPS1BYZnZIWnEyMldOTnFlYmY0bDJHaTZBSF9mZEpUZHBIeWZNdloxcHZSRkY0STF0SVhsZGl1Snd2ZTh0SV9na1hjb3JzX3FwdkNKMWRLbWNoSFliVEZjSHcwOTg1NlRla0dCSU1GWmtKdnp3bm5ZbzlrYnJYSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOa2JoSlNwT2pncTA0a3pUbjBRRlNwNzNlUzB4cG9XODRFZnZBb1FncEY1T0FmbjN4UWFfbTlVdUxObzRKU1hJUUZLVXlKc3IwLUdvaWNaY3dEaGZ4LVFGNlNLSE1lUFVKNlRuMUFtQTlhWWFtbWxfU0R0ZkF1cllBRFBrMEstQWVrbW81ZDRqOEc3U2xtYzA2MHpjbnA4dWJLUGp2S2lJWmtKbnluVi1OTVhkMVR3d2hrZV81ZEp3ZGU3dVllVkUwUW1rTHU4REhYVTVWUkRESmtaQ3lLNW9PLVZGWERiUlROUFRUaGpxV21iUVFKQWpjZlhEcU5BbjdMdUlTblRGSWlXczNDUDN5dlViTjdPSjdQdC1Sbm9rX2Znd2k3cDd1OGMzTVQtRHVJMmZKRzNZWHhPS1BYZnZIWnEyMldOTnFlYmY0bDJHaTZBSF9mZEpUZHBIeWZNdloxcHZSRkY0STF0SVhsZGl1Snd2ZTh0SV9na1hjb3JzX3FwdkNKMWRLbWNoSFliVEZjSHcwOTg1NlRla0dCSU1GWmtKdnp3bm5ZbzlrYnJYSQ",
-        "image": null,
-        "timestamp": 1771530000.0
-    },
-    {
-        "title_fa": "ترامپ آماده حمله به ایران به‌نظر می‌رسد؛ نیروی ضربتی آمریکا شکل می‌گیرد",
-        "title_en": "Trump appears ready to attack Iran as U.S. strike force takes shape",
-        "summary": [
-            "واشنگتن‌پست گزارش می‌دهد که دونالد ترامپ به‌نظر مایل به اقدام نظامی علیه ایران است و ایالات متحده در حال آماده‌سازی نیروی ضربتی برای این منظور است.",
-            "افزایش تهدید نظامی آمریکا فشار خارجی بر رژیم را تشدید می‌کند؛ این فشار ساختاری توان اقتصادی و سیاسی حکومت را کاهش داده و گزینه‌های بقا را محدود می‌کند.",
-            "تقویت احتمال مداخله یا حمله نظامی می‌تواند به تشدید سرکوب داخلی، بدتر شدن وضعیت اقتصادی و افزایش نارضایتی عمومی بینجامد و شکاف‌های حکمرانی را عیان‌تر کند."
-        ],
-        "impact": "شکل‌گیری نیروی ضربتی و میل آشکار ترامپ به حمله، خطر تسریع فروپاشی مشروعیت و تضعیف ظرفیت فرماندهی رژیم را بالا می‌برد و فضای داخلی را به سمت بی‌ثباتی بیشتر می‌کشاند.",
-        "tag": "تهاجم",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkVveVRORTJVOXdxS2lxSjI2dWxBTF9aeDBpMDJxbjRXdW1QemhnaEFSY3BGNWRiTVNaOWFveEo3N2NGLXo0eUZDOTNrb1Q5U3pIeVBrMF9MNmtmUnQ4cldPVjlyRDhhcXR2S1RoV1J6Qk9pamYtM3B1YmNIM0lfN3VJVkNoMkNQbkRGcjZsVFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkVveVRORTJVOXdxS2lxSjI2dWxBTF9aeDBpMDJxbjRXdW1QemhnaEFSY3BGNWRiTVNaOWFveEo3N2NGLXo0eUZDOTNrb1Q5U3pIeVBrMF9MNmtmUnQ4cldPVjlyRDhhcXR2S1RoV1J6Qk9pamYtM3B1YmNIM0lfN3VJVkNoMkNQbkRGcjZsVFE",
-        "image": null,
-        "timestamp": 1771529159.0
     }
 ]
