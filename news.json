@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران پس از سخنرانی وضعیت کشور ترامپ، آمریکا را به پخش «دروغ‌های بزرگ» متهم کرد",
+        "title_en": "Iran Accuses U.S. of Spreading ‘Big Lies’ After Trump’s State of the Union Address",
+        "summary": [
+            "خبر: در واکنش به سخنرانی سالانه ترامپ درباره وضعیت کشور، ایران آمریکا را به «پخش دروغ‌های بزرگ» متهم کرده است.",
+            "تحلیل فشار خارجی: این اتهام‌زنی نماد وضع دفاعی رژیم در برابر فشارهای بین‌المللی و تلاشی برای مقابله با روایت‌های غربی است؛ گزارش جزئیات تحریم‌ها یا پیامدهای خارجی را مطرح نمی‌کند.",
+            "اقتصاد و نارضایتی داخلی: اگرچه منبع اطلاعات داخلی محدودی ارائه می‌دهد، اما چنین ادعاهایی معمولا ابزاری برای منحرف‌کردن انتقادات از سوءمدیریت اقتصادی و کاهش مشروعیت داخلی به سوی دشمن خارجی است."
+        ],
+        "impact": "اثر عملی بر سیاست خارجی آمریکا ناچیز خواهد بود، اما در داخل می‌تواند روایت دفاعی رژیم را تقویت و تا حدی از تشدید نارضایتی‌ها جلوگیری کند.",
+        "tag": "اتهام",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "Time Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2gtSUtoY0xYRUZFQkk5cjVyNkVBd1RkeTJpdy1FeVBHalBKUFRyam9kYmRhRmhQeGtVZG9tM2czbzBCNnd5emxhVXpDbWhlWWxsQVJOQVlxQjdqTG5JZ19NN2Y1c0lKVWo5QlFWbF83S0JoSm0tdDdrYjB1MnVWX2k5a2JBT09SaEtN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2gtSUtoY0xYRUZFQkk5cjVyNkVBd1RkeTJpdy1FeVBHalBKUFRyam9kYmRhRmhQeGtVZG9tM2czbzBCNnd5emxhVXpDbWhlWWxsQVJOQVlxQjdqTG5JZ19NN2Y1c0lKVWo5QlFWbF83S0JoSm0tdDdrYjB1MnVWX2k5a2JBT09SaEtN",
+        "image": null,
+        "timestamp": 1772029973.0
+    },
+    {
         "title_fa": "ایران در برابر ترامپ واکنش نشان داد: آمریکا و اسرائیل از تبلیغات به سبک گوئبلز استفاده می‌کنند",
         "title_en": "Iran pushes back against Trump, says US and Israel using Goebbels-like propaganda",
         "summary": [
@@ -178,6 +196,42 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/iranian-official-accuses-us-and-israel-of-employing-goebbels-like-propaganda",
         "image": "",
         "timestamp": 1772005234.7192411
+    },
+    {
+        "title_fa": "درون لنز CCTV: چارچوب‌بندی چین از اعتراض‌های ایران",
+        "title_en": "Inside CCTV’s Lens: How China Frames the Iran Protests",
+        "summary": [
+            "تاخیر و هم‌راستایی رسانه‌ای: CCTV از آغاز اعتراض‌ها (28 دسامبر 2025) بیش از دو هفته تأخیر در پوشش داشت و از 12 ژانویه به بعد دقیقاً روایت رسمی ایران را — تمرکز بر «دخالت خارجی» و برچسب‌زنی اعتراض‌ها به «شورش» — بازتولید کرد؛ صداهای اپوزیسیون و آمار تلفات حذف شدند.",
+            "نقش استراتژیک چین به‌عنوان پشتیبان روایت تهران: پوشش متمرکز بر دخالت خارجی، تناسب سیاست خارجی چین با منافع بقاء رژیم ایران را نشان می‌دهد و عملاً به عنوان اهرم دیپلماتیک و رسانه‌ای برای تخفیف فشار خارجی و توجیه اقدامات سرکوبگرانه عمل می‌کند.",
+            "پنهان‌سازی ریشه‌های داخلی و پیامدها: تاکید بر تهدید خارجی و عدم پرداختن به پیامدهای اقتصادی و ناکارآمدی حکمرانی، نشان‌دهنده تلاش هدفمند برای منحرف کردن مسئولیت از بحران‌های ساختاری و نارضایتی عمومی است."
+        ],
+        "impact": "هم‌راستایی رسانه‌ای چین با روایت حکومت، حفاظت دیپلماتیک و پشتیبانی اطلاعاتی از رژیم را تقویت می‌کند اما ریشه‌های اقتصادی و بحران مشروعیت را حل نکرده و می‌تواند نارضایتی پنهان را تشدید کند.",
+        "tag": "پروپاگاندا",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/02/inside-cctvs-lens-how-china-frames-the-iran-protests/",
+        "clean_url": "https://thediplomat.com/2026/02/inside-cctvs-lens-how-china-frames-the-iran-protests",
+        "image": null,
+        "timestamp": 1772005080.0
+    },
+    {
+        "title_fa": "ایران دولت آمریکا را پس از سخنرانی ترامپ متهم به انتشار «دروغ‌های بزرگ» کرد",
+        "title_en": "Iran Accuses U.S. of Spreading 'Big Lies' After Trump Speech",
+        "summary": [
+            "در سخنرانی سالانه، دونالد ترامپ مدعی شد ایران درصدد از سرگیری برنامه تسلیحات هسته‌ای و توسعه موشک‌هایی است که می‌توانند آمریکا را تهدید کنند و تلویحاً گزینه نظامی را مطرح کرد؛ او به حملات مشترک سال گذشته علیه تأسیسات هسته‌ای ایران اشاره کرد.",
+            "سخنگوی وزارت خارجه ایران، اسماعیل بقایی، اتهامات مربوط به برنامه هسته‌ای، توان موشکی و آمار کشته‌شدگان ناآرامی‌های ژانویه را «دروغ‌های بزرگ» و بخشی از کمپینِ اطلاعاتِ نادرستِ آمریکا خواند.",
+            "افزایش حضور نظامی آمریکا در خاورمیانه و یادآوری حملات پیشین، همراه با ادعاهای گسترده درباره سرکوب داخلی (برآوردهایی از ده‌ها هزار کشته در ژانویه)، فضای فشار خارجی و بحران مشروعیت داخلی را همزمان تشدید می‌کند."
+        ],
+        "impact": "فشار رسانه‌ای و تهدید نظامی آمریکا به‌همراه افشاگری‌های مربوط به کشتارهای داخلی ساختار سیاسی را در معرض ضعف و انزوای بین‌المللی و افزایش نارضایتی داخلی قرار می‌دهد که گزینه‌های رژیم را تنگ‌تر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.65,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-accuses-u-spreading-big-143124514.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-accuses-u-spreading-big-143124514.html",
+        "image": "http://www.bing.com/th?id=OVFT.zcqsSkzBdKDhmTRiksrf_y&pid=News",
+        "timestamp": 1772003520.0
     },
     {
         "title_fa": "ترامپ در سخنرانی سالانه وضعیت اتحادیه جاه‌طلبی‌های هسته‌ای ایران را «شیطانی» خواند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGh5ZUJONkNnVWpFTXBKMmNZQXNmYktJd2JJbVlZajUzWE9xeWNLV1NJMHc2SkRoMlJiTnpOa1pJTERTdEthWmtha2R1MnBMd0NJZUR5blZ1cFFxd2JoTmRlTFJOaDBHdDh6S1lZWDV4N21yYnE3bjNzMl9mWWVaUXlfYUdSOUZWVXR1VktoeHZyWi1vNUxnd3NZQnk1Y0poT0R1ckdGX3I4RmZKU19USA",
         "image": null,
         "timestamp": 1771516200.0
-    },
-    {
-        "title_fa": "ایران: سلاح‌های هسته‌ای تهدیدی وجودی برای بشریت؛ خواستار خلع‌سلاح کامل شد",
-        "title_en": "Iran says nuclear weapons are an existential threat to humanity, calls for full disarmament",
-        "summary": [
-            "ایران اعلام کرد سلاح‌های هسته‌ای تهدیدی وجودی برای بشریت‌اند و خواستار خلع‌سلاح کامل شد.",
-            "این بیانیه عمدتاً نمادین و دیپلماتیک است؛ انتشار آن لزوماً فشار تحریمی یا کاهش تضعیف ساختاری رژیم را جبران نمی‌کند و تاثیری بر مشکلات اقتصادی ناشی از تحریم‌ها ندارد.",
-            "موضع‌گیری به ناکارآمدی مدیریتی، مسائل اقتصادی یا نارضایتی اجتماعی داخلی اشاره‌ای نکرد؛ محتمل است دولت با این اقدام به دنبال بهبود وجهه بین‌المللی و تخفیف انتقادات خارجی باشد."
-        ],
-        "impact": "این اعلامیه پیام نمادین دارد و به‌تنهایی قادر به کاهش تحریم‌ها یا ترمیم بحران‌های اقتصادی و سیاسی داخلی نخواهد بود.",
-        "tag": "خلع‌سلاح",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "Peoples Dispatch",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFpfdXNDY1pRTndhd2RfTWEyci02V2dVSzE2MTlUYnJFR1RRV1N6Tkx5R0RkVHFjQkVzZUU4YlAxWDBsMVZoMlQtMWZkemphY2s0b0V2ZmVxODNNeHRKVmRJUlIxUlhoTzdocGFsUXVzQjJzdEhMODIzaEZhaHk2Mks4SU9Jd2FnSUwzd1ZYcVdrb3AwRTdkMWNlT1dRUDBueDEwdG15QVNjVzg5S0FGMWgzQlgxOGxxNDJ4SWVtMGtlRG5kMTFmTHdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFpfdXNDY1pRTndhd2RfTWEyci02V2dVSzE2MTlUYnJFR1RRV1N6Tkx5R0RkVHFjQkVzZUU4YlAxWDBsMVZoMlQtMWZkemphY2s0b0V2ZmVxODNNeHRKVmRJUlIxUlhoTzdocGFsUXVzQjJzdEhMODIzaEZhaHk2Mks4SU9Jd2FnSUwzd1ZYcVdrb3AwRTdkMWNlT1dRUDBueDEwdG15QVNjVzg5S0FGMWgzQlgxOGxxNDJ4SWVtMGtlRG5kMTFmTHdn",
-        "image": null,
-        "timestamp": 1771514856.0
-    },
-    {
-        "title_fa": "رژیم ایران در تلاش برای خاموش کردن صدای مخالف؛ رسانه‌های غربی راه نفوذ پیدا کرده‌اند",
-        "title_en": "Iran Is Trying To Silence Dissent. Western Media Are Breaking Through Anyway.",
-        "summary": [
-            "تجمع نظامی آمریکا در منطقه («armada») و تهدید مداخله نظامی، فشار خارجی بر رژیم را افزایش می‌دهد و فضای مانور سیاسی و اقتصادی حکومت را تنگ‌تر می‌کند؛ این فشار ساختاری می‌تواند منابع امنیتی و سیاسی رژیم را تحلیل ببرد و خطر تشدید بحران را بالا ببرد.",
-            "علیرغم سانسور گسترده و محدودیت اینترنت، کانال‌هایی مثل Iran International و برنامه 24 with Fardad Farahzad از طریق ماهواره به داخل ایران نفوذ می‌کنند؛ اعلام تروریستی کردن این کانال و گزارش‌های مربوط به نقشهٔ ترور نشان‌دهندهٔ وحشت و استفاده از اقدامات خارج از چارچوب قانونی توسط رژیم است.",
-            "اعتراضات گستردهٔ اخیر که تا حدی گرایش‌های پروغربی دارند، ریشه در فروپاشی اقتصادی و مدیریت ناکارآمد دارد؛ بسته‌شدن فضای اطلاعاتی و رسانه‌ای، واکنش تاکتیکی به شکست مدیریتی است و نارضایتی عمومی را تشدید می‌کند."
-        ],
-        "impact": "ترکیب فشار نظامی خارجی و شکست در کنترل جریان اطلاعات رژیم را در معرض تشدید سرکوب و افزایش بی‌ثباتی سیاسی-اقتصادی قرار می‌دهد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Reason",
-        "url": "https://reason.com/2026/02/19/iran-is-trying-to-silence-dissent-western-media-are-breaking-through-anyway/",
-        "clean_url": "https://reason.com/2026/02/19/iran-is-trying-to-silence-dissent-western-media-are-breaking-through-anyway",
-        "image": null,
-        "timestamp": 1771514700.0
-    },
-    {
-        "title_fa": "افزایش نفت و جهش طلا با تشدید تنش‌های ایران-آمریکا",
-        "title_en": "Oil prices jump and gold hits $5,000 amid Iran-US tensions",
-        "summary": [
-            "قیمت نفت به بالاترین سطح در تقریباً هفت ماه رسید و سرمایه‌گذاران به دارایی‌های امن مانند طلا پناه بردند؛ واکنش سریع بازارها محصول تشدید تنش‌ها میان ایالات متحده و ایران است.",
-            "هرچند گزارش به‌طور مشخص از تحریم‌ها نام نبرده، اما این نوسانات قیمت نشان‌دهنده تأثیر ساختاری فشارهای خارجی بر ثبات اقتصادی رژیم است: کاهش درآمد نفتی و افزایش هزینه واردات می‌تواند فشار بر بودجه و کارایی حکمرانی را تشدید کند.",
-            "فرار به دارایی‌های امن و نوسانات بازار انرژی ضعف‌های مدیریتی اقتصادی را برجسته می‌کند و می‌تواند آسیب‌پذیری داخلی و امکان تشدید نارضایتی اجتماعی را افزایش دهد."
-        ],
-        "impact": "افزایش همزمان قیمت نفت و طلا ریسک‌های مالی و سیاسی برای رژیم را بالا می‌برد و احتمال محاسبات خطا و تشدید اقدامات تلافی‌جویانه در تهران و واشنگتن را افزایش می‌دهد.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "CNN",
-        "url": "https://www.msn.com/en-us/money/markets/oil-prices-jump-and-gold-hits-5000-amid-iran-us-tensions/ar-AA1WG5A1",
-        "clean_url": "https://www.msn.com/en-us/money/markets/oil-prices-jump-and-gold-hits-5000-amid-iran-us-tensions/ar-AA1WG5A1",
-        "image": null,
-        "timestamp": 1771514498.0
     }
 ]
