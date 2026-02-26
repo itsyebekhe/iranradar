@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "گزارش زنده: مذاکرات آمریکا-ایران در ژنو؛ تازه‌ترین اخبار دولت ترامپ",
+        "title_en": "Live updates: US-Iran talks in Geneva, latest Trump administration news",
+        "summary": [
+            "مذاکرات آمریکا و ایران در ژنو در حالی ادامه دارد که تهران، ترامپ را متهم به «دروغ‌های بزرگ» کرده و هم‌زمان واشینگتن استقرار نظامی گسترده‌ای را اعلام کرده است — نشانه‌ای از افزایش فشار خارجی علیه رژیم.",
+            "فشار دیپلماتیک و نمایش نیروی آمریکا ساختار قدرت و منابع رژیم را تضعیف می‌کند و می‌تواند پیامدهای اقتصادی و سیاسی داخلی را تشدید نماید؛ گزارش خود اشاره‌ای به اعتراضات یا جزئیات اقتصادی نکرده است، اما این فشارها زمینه بی‌ثباتی بیشتر را فراهم می‌کنند.",
+            "ذکر کره شمالی در خبرها به‌عنوان نمونه‌ای از بازیگران منزوی که الگوها یا پیوندهای بازدارنده برای رژیم‌ها فراهم می‌کنند قابل تفسیر است؛ حضور چنین بازیگرانی فضای منطقه‌ای را پیچیده‌تر و امکان بقای رژیم‌های تحریم‌شده را تقویت می‌کند. "
+        ],
+        "impact": "ترکیب فشار دیپلماتیک و نمایش نظامی آمریکا توان بقا و مشروعیت رژیم را کاهش می‌دهد و ریسک تشدید تنش یا عقب‌نشینی محدود تهران را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026",
+        "clean_url": "https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026",
+        "image": null,
+        "timestamp": 1772092980.0
+    },
+    {
+        "title_fa": "تضعیف‌شده توسط جنگ و اعتراضات، ایران هنوز می‌تواند در برابر حمله آمریکا درد ایجاد کند",
+        "title_en": "Weakened by war and protests, Iran could still inflict pain in response to a US attack",
+        "summary": [
+            "فشارهای خارجی و هزینه‌های نظامی مرتبط با جنگ، منابع مالی و توان عملیاتی رژیم را کاهش داده و ساختار سیاسی را به سمت تفرقه و فشار بر صندوق‌های دولتی سوق داده است.",
+            "با وجود تضعیف، تهران همچنان به ابزارهای نامتقارن دسترسی دارد — از عملیات نیابتی و ضربات سایبری گرفته تا اخلال اقتصادی منطقه‌ای — که می‌تواند به‌سرعت هزینه آنی و بلندمدت برای مهاجم تحمیل کند.",
+            "بحران اقتصادی و اعتراضات داخلی نشان‌دهنده ناکارآمدی مدیریتی است؛ افزایش فشار خارجی و واکنش امنیتی رژیم احتمال تشدید ناآرامی‌ها را افزایش می‌دهد و راهبردهای انتقامی را برای وفاق‌سازی داخلی جذاب‌تر می‌سازد."
+        ],
+        "impact": "تضعیف داخلی رژیم پایداری آن را کاهش داده اما قابلیت‌های انتقامی نامتقارن ایران می‌تواند منطقه را وارد چرخه تشدید نظامی و اقتصادی کند.",
+        "tag": "بی‌ثباتی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18",
+        "clean_url": "https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18",
+        "image": "https://dims.apnews.com/dims4/default/f2d44c5/2147483647/strip/true/crop/7413x4934+0+4/resize/320x213!/quality/90/?url=https://assets.apnews.com/60/90/27892eb854ae2e409ac313f13217/e6f9a23032b0441cac428dd86dc8b937",
+        "timestamp": 1772092800.0
+    },
+    {
         "title_fa": "آنچه باید دانست: ایران و آمریکا برای مذاکرات جدید هسته‌ای دیدار می‌کنند در حالی که آمریکایی‌ها نیرو در خاورمیانه مستقر می‌کنند",
         "title_en": "What to Know as Iran and US Meet for New Nuclear Talks as Americans Deploy Forces in Mideast",
         "summary": [
@@ -198,6 +234,24 @@
         "timestamp": 1772070240.0
     },
     {
+        "title_fa": "رئیس‌جمهور ایران تکذیب پیگیری سلاح هسته‌ای را با استناد به فتوای علی خامنه‌ای اعلام کرد؛ جت‌های آمریکایی راهی خلیج فارس شدند",
+        "title_en": "US Iran tensions live: Iran President denies nuclear weapons pursuit, cites Khamenei fatwa as US jets 'head to Gulf'",
+        "summary": [
+            "رئیس‌جمهور ایران اعلام کرد کشور به دنبال سلاح هسته‌ای نیست و به فتوای علی خامنه‌ای استناد کرد؛ همزمان ده‌ها جنگنده آمریکایی از جمله F-35، F-22، F-15 و F-16 از پایگاه‌های ایالات متحده به سوی خاورمیانه در حال اعزام گزارش شده و شناورهای نیروی دریایی آمریکا در خلیج فارس در حالت آماده‌باش قرار دارند.",
+            "تحلیل سازوکار فشار خارجی: تحرکات گسترده نظامی آمریکا بار سیاسی و ریسک تحریم‌ها یا اقدامات دیپلماتیک تهاجمی‌تر را افزایش می‌دهد؛ این فشارهای خارجی، اگر ادامه یابد، می‌تواند بنیان اقتصادی و ظرفیت سیاسی حکومت برای مدیریت بحران را تضعیف کند.",
+            "اثر داخلی و ضرورت واقع‌گرایی: این بحران امنیتی در غیاب اصلاحات ساختاری و مدیریت اقتصادی بهتر، فشار بر نظام تصمیم‌گیر را تشدید می‌کند و ریسک افزایش هزینه‌های سیاسی و اقتصادی برای شهروندان را بالا می‌برد؛ درحال‌حاضر هیچ دلیلی در گزارش برای تغییر فوری سیاست هسته‌ای وجود ندارد."
+        ],
+        "impact": "اعزام جنگنده‌ها و آماده‌باش نیروی دریایی آمریکا تنش خارجی را تشدید می‌کند و بدون اصلاحات ساختاری می‌تواند به انزوای بین‌المللی بیشتر و تضعیف ظرفیت حکومت برای مدیریت بحران منجر شود.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-tensions-live-updates-geneva-talks-today-nuclear-tehran-ali-khamenei-donald-trump-news-latest-101772071729400.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-tensions-live-updates-geneva-talks-today-nuclear-tehran-ali-khamenei-donald-trump-news-latest-101772071729400.html",
+        "image": null,
+        "timestamp": 1772065380.0
+    },
+    {
         "title_fa": "آمریکا و ایران برای دور سوم مذاکرات غیرمستقیم در ژنو دیدار می‌کنند",
         "title_en": "US and Iran to hold talks as pressure for nuclear deal builds",
         "summary": [
@@ -214,6 +268,24 @@
         "clean_url": "https://www.aol.com/news/us-iran-hold-talks-pressure-000953836.html",
         "image": null,
         "timestamp": 1772064587.0
+    },
+    {
+        "title_fa": "از سرگیری مذاکرات آمریکا و ایران در ژنو",
+        "title_en": "US-Iran negotiations to resume in Geneva",
+        "summary": [
+            "مذاکرات غیرمستقیم در ژنو از سر گرفته می‌شود؛ هیأت‌های آمریکایی به رهبری نماینده ویژه استیو ویتکاف و جرد کوشنر و هیأت ایرانی به سرکردگی وزیر خارجه عباس عراقی درباره برنامه هسته‌ای و امکان رفع تحریم‌ها مذاکره می‌کنند؛ واشنگتن خواستار محدودیت‌های سخت‌تر و تهران پافشاری بر حق غنی‌سازی و ارائه پیشنهاد محدودیت در سطوح غنی‌سازی از طریق واسطه‌های عمانی را در دستور دارد.",
+            "تحریم‌ها و فشار خارجی: ایالات متحده دیروز تحریم‌های جدیدی اعلام کرد؛ این فشار ساختاری منابع مالی رژیم را ضعیف می‌کند، مانور اقتصادی آن را محدود ساخته و محرکی برای انتظارات داخلی نسبت به نتایج ملموس مذاکرات ایجاد می‌کند.",
+            "تنش منطقه‌ای و نارضایتی داخلی: تجمع نیروهای نظامی آمریکا در منطقه همراه با اعتراضات داخلی در ایران فضای مذاکرات را متشنج کرده و بازتاب ناکارآمدی مدیریتی و بحران مشروعیت داخلی است؛ در چنین بستر شکننده‌ای هر توافق احتمالی شکننده و موقت خواهد بود."
+        ],
+        "impact": "مذاکرات ممکن است مهلتی موقت به تهران بدهد اما تحریم‌های جدید، حضور نظامی آمریکا و نارضایتی‌های داخلی به‌صورت ترکیبی ثبات رژیم را آسیب‌پذیر نگه می‌دارند.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "CNN",
+        "url": "https://www.cnn.com/us/live-news/trump-administration-us-iran-talks-02-26-26",
+        "clean_url": "https://www.cnn.com/us/live-news/trump-administration-us-iran-talks-02-26-26",
+        "image": null,
+        "timestamp": 1772064180.0
     },
     {
         "title_fa": "توضیح | پشت‌پرده مذاکرات هسته‌ای ایران و آمریکا در ژنو چیست؟",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFRnT1EzM2I3OWdTWmFCNHdEMDI3VGpSdVk1QW9ESDBNQldJZExZZV9pSGZ4RHUzdFVQM24yWGQ2ZXhOemFuaURkcmpXU3NDNVo4SzlTUmpPNEk0V1R5eUxLZXFXS2VLbmx2ZzdZS1lsTUptQ2plX2JRSjZnck1lTi0xZ2x1QmxzWmNNQWRkd01QQjQ5WjFpNnRzcDZRN2RRYk9wZtIBqgFBVV95cUxQV3dNU294ekc4RTFmSGNWU2ItUG5aMlQxZUZsSVpBRjFRbVBkMTl4cEtWcUNNTnJfdkhfQ01MUUtNdjdKTnFsNVJyMHRSRjJDR0pBWmlOSXI2OHl0T19HN2RjRHp5VGg1Z2hnZGE4VUU3Z0ZRTkhPNnJQQ2xiVnByOXBkUDVVQ2t6b1pkTDR5Sk9Hdi1QaEczQW95QTl4d0s0aEFXWkgxbVBCdw",
         "image": null,
         "timestamp": 1771588039.0
-    },
-    {
-        "title_fa": "ترامپ ۱۵ روزه به ایران درباره برجام اخطار داد",
-        "title_en": "Trump issues 15-day warning to Iran on nuclear deal",
-        "summary": [
-            "خبر اصلی: ترامپ به‌صورت علنی به ایران ۱۵ روز فرصت داده درباره وضعیت برجام/توافق هسته‌ای — اخطاری صریح از سوی واشینگتن.",
-            "فشار خارجی/تحریم‌ها: این هشدار نشان‌دهنده افزایش فشار ایالات متحده است؛ چنین اظهارنظرهایی معمولاً مقدمه‌ای برای تشدید تحریم‌ها یا محدودیت‌های اقتصادی هستند و می‌توانند ساختارهای مالی و صادراتی حکومت را تضعیف کنند.",
-            "اقتصاد و نارضایتی داخلی: تشدید فشار خارجی بار اقتصادی را بیشتر می‌کند و ضعف‌های مدیریتی و فساد نهادینه‌شده رژیم را پررنگ‌تر می‌سازد؛ ظرفیت حکومت برای مهار موج‌های نارضایتی ظرف ماه‌های آتی در معرض آزمون قرار می‌گیرد."
-        ],
-        "impact": "اخطار ۱۵ روزه ممکن است ظرف دو هفته افق‌های دیپلماتیک را تنگ کند و زمینهٔ افزایش فشارهای اقتصادی-سیاسی علیه تهران را فراهم سازد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Semafor",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0swY0IyM0dQd1hDX2t6b3VYTFhDeDZYcXF6blA1MjU5MFVqYzZKaC1qYWFIN0hRYnJaNjNUZkRtakFkX0FDd3lKenFXcFZXYmFDUnNrSTNxcVpuTXRXdTlIN3gyakVuVkZhcFAxN1lyTFI2aFFUMnVWN1pseFd6cHZkczhPQUpjLXduUURyZGR4T2JwQVJ3d01B?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0swY0IyM0dQd1hDX2t6b3VYTFhDeDZYcXF6blA1MjU5MFVqYzZKaC1qYWFIN0hRYnJaNjNUZkRtakFkX0FDd3lKenFXcFZXYmFDUnNrSTNxcVpuTXRXdTlIN3gyakVuVkZhcFAxN1lyTFI2aFFUMnVWN1pseFd6cHZkczhPQUpjLXduUURyZGR4T2JwQVJ3d01B",
-        "image": null,
-        "timestamp": 1771587900.0
-    },
-    {
-        "title_fa": "ترامپ تهدید به حمله می‌کند و به ایران «۱۰ تا ۱۵ روز» مهلت داد تا بر سر برنامه هسته‌ای توافق کند — زنده",
-        "title_en": "Trump weighs strikes as he gives Iran ‘10 to 15 days’ to agree to deal over nuclear program – live",
-        "summary": [
-            "رئیس‌جمهور آمریکا اعلام کرده گزینه حمله نظامی را بررسی می‌کند و به ایران ۱۰ تا ۱۵ روز مهلت داده تا برای توافق درباره برنامه هسته‌ای موافقت کند؛ این بیانیه زمان‌بندی و تهدید نظامی را مستقیماً وارد فرآیند مذاکرات کرده است.",
-            "ترکیب تهدید نظامی و ضرب‌الاجل زمانی فشار خارجی ساختاری بر توان بقا سیاسی رژیم را افزایش می‌دهد: فضای چانه‌زنی دیپلماتیک را تنگ کرده و امکان تشدید انزوای بین‌المللی و فشارهای اقتصادی را بالاتر می‌برد که ثبات داخلی را تضعیف می‌کند.",
-            "گزارش اشاره‌ای به اعتراضات داخلی یا داده‌های اقتصادی نکرد؛ با این حال، طبق سوابق، تشدید تهدیدات خارجی در شرایط ضعف مدیریتی می‌تواند نارضایتی عمومی و فشارهای معیشتی را تشدید کند — اما این نتیجه‌گیری فراتر از محتوای گزارش است."
-        ],
-        "impact": "این تهدید زمان‌بندی‌شده خطر تشدید تقابل نظامی را بالا می‌برد و فضای دیپلماتیک را به سمت بن‌بست سوق می‌دهد.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdXRnWnVsQ2RPeEI4WDVhUTFqVE9wTW1RNG0tdFFQWFFHQl9reDN6d3pmUmFzeUc5S3lZNURZZGg2OGI2VGNDSWhnbHFTRGlkaHpPSmtBb0lCX29XNE1oS1dPaDVyMTJmaEgxaFA5dGNnbjFic1NSTFVDYjJrUzQyWW9Eb1NYVWxNcDRraHhQU2NxeF9oQTF3eUtrclFrcGRTSXY0eTViczA4V2FYakdmMUp4UzNfVnpLTWVYNFMtRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdXRnWnVsQ2RPeEI4WDVhUTFqVE9wTW1RNG0tdFFQWFFHQl9reDN6d3pmUmFzeUc5S3lZNURZZGg2OGI2VGNDSWhnbHFTRGlkaHpPSmtBb0lCX29XNE1oS1dPaDVyMTJmaEgxaFA5dGNnbjFic1NSTFVDYjJrUzQyWW9Eb1NYVWxNcDRraHhQU2NxeF9oQTF3eUtrclFrcGRTSXY0eTViczA4V2FYakdmMUp4UzNfVnpLTWVYNFMtRQ",
-        "image": null,
-        "timestamp": 1771587240.0
-    },
-    {
-        "title_fa": "قیمت نفت به‌خاطر نگرانی از درگیری آمریکا و ایران افزایش یافت",
-        "title_en": "Oil prices rise on fears of US-Iran conflict",
-        "summary": [
-            "بازار نفت به‌سرعت با اعمال حق بیمه ریسک مواجه شد: افزایش قیمت‌ها ناشی از نگرانی‌ها نسبت به تشدید منازعه بین آمریکا و ایران است که احتمال اختلال در عرضه یا تحریم‌های ثانویه را بالا می‌برد.",
-            "فشار خارجی و تحریم‌ها به‌عنوان عامل ساختاری تضعیف رژیم عمل می‌کند؛ هر تشدید تنش می‌تواند محدودیت‌های مالی و درآمدی حکومت را تشدید کند و فضای سیاست‌گذاری اقتصادی را تنگ‌تر سازد، که در میان‌مدت به کاهش انسجام سیاسی و توان خرید حمایت تبدیل می‌شود.",
-            "پیامدهای اقتصادی داخلی مستقیم‌اند: نوسان قیمت انرژی و ریسک نظامی هزینه‌های وارداتی و تورم را بالا می‌برد، و در غیاب مدیریت اقتصادی عقلانی این فشارها می‌تواند نارضایتی عمومی را تشدید کند."
-        ],
-        "impact": "افزایش قیمت نفت ناشی از ترس درگیری با آمریکا ریسک فشارهای خارجی و وخامت اوضاع اقتصادی داخلی را افزایش می‌دهد که به تضعیف بیشتر رژیم منجر خواهد شد.",
-        "tag": "نفت",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "E&E News by POLITICO",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYm15RXdGb1JzR3k3UTRKdG9NTGJ0ejBYVWRPQ3ZoUUl1SE5QX3pNQjZHU3JVWW5ZcnpPSldDRFU3ZkNPMGNGNUUzYWo1SDFrV2tJbGZ0ZDMwYTlIM1VzVGNkQW4zMGNsOFRCcUNVUE9YZ1N1U2FRbzV4Q2ZDRUpWd0UxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYm15RXdGb1JzR3k3UTRKdG9NTGJ0ejBYVWRPQ3ZoUUl1SE5QX3pNQjZHU3JVWW5ZcnpPSldDRFU3ZkNPMGNGNUUzYWo1SDFrV2tJbGZ0ZDMwYTlIM1VzVGNkQW4zMGNsOFRCcUNVUE9YZ1N1U2FRbzV4Q2ZDRUpWd0UxZw",
-        "image": null,
-        "timestamp": 1771586940.0
-    },
-    {
-        "title_fa": "ترامپ در حال بررسی حملات محدود برای وادار کردن ایران به توافق هسته‌ای — گزارش",
-        "title_en": "Trump considering limited strikes to force Iran to make nuclear deal – report",
-        "summary": [
-            "گزارش‌ها حاکی است که ترامپ گزینه انجام حملات محدود علیه اهدافی در ایران را برای فشار به تهران جهت امضای یک توافق هسته‌ای مورد بررسی قرار داده است.",
-            "این گزینه گامی در جهت تشدید فشارهای خارجی است و در صورت اجرا می‌تواند ساختارهای اقتصادی و سیاسی رژیم را از نظر ساختاری تضعیف کند؛ اثرات مستقیم بر تجارت، سرمایه‌گذاری و افزایش احتمال تحریم‌های تکمیلی محتمل است.",
-            "اگر حملات محدود انجام شود، این اقدام می‌تواند ناکارآمدی مدیریتی و نارضایتی عمومی موجود را تشدید کند و ریسک بی‌ثباتی محلی و واکنش‌های انتقامی را بالا ببرد."
-        ],
-        "impact": "اجرای حملات محدود فشار خارجی را تشدید و ثبات رژیم ایران را بیشتر تضعیف خواهد کرد و خطر گسترش بحران‌های سیاسی و اقتصادی افزایش می‌یابد.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": 0.3,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTJDaG9Kd0pZaEw1LWtxVzg3N0JmWDBLazBVQl9EVGtjTjBwT0twckR4akJzOXZHTXJNOHV5OFNZOXhHNW5WTWJDVHJKTndKYzFLekp6VkUxTENTQmNjcGZIN2dlVWJ0Qkh1MHZibklNSDJYZGktZU42LXMwZUo3VHB1alVrenJoSHFnSjlid3A0YnRDQnBoUlEwR1RhZ3ltb3BxZkhwT3g3UdIBrwFBVV95cUxNRHRwR0xqNTFrTE0ySEEzTXg1SGthOWM4ZV9ZTGxwdjVSZ1BLMTMyQ2VrQW9VUEJ3WlE1aUVBNWVOSjlTTUVNZUgxdjVzX2hPQjVKUjVwVWpUb05jakF1UUh5b240Qmw1NmVLakVubFdDQ2JMYXdESTUzeWU5aldUTnV0NXhlU19wbFdRSU5TNUlUZzBwNHNpRWJfN1JPLTZFT0w4b21RMTcwZ3NtTVBF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTJDaG9Kd0pZaEw1LWtxVzg3N0JmWDBLazBVQl9EVGtjTjBwT0twckR4akJzOXZHTXJNOHV5OFNZOXhHNW5WTWJDVHJKTndKYzFLekp6VkUxTENTQmNjcGZIN2dlVWJ0Qkh1MHZibklNSDJYZGktZU42LXMwZUo3VHB1alVrenJoSHFnSjlid3A0YnRDQnBoUlEwR1RhZ3ltb3BxZkhwT3g3UdIBrwFBVV95cUxNRHRwR0xqNTFrTE0ySEEzTXg1SGthOWM4ZV9ZTGxwdjVSZ1BLMTMyQ2VrQW9VUEJ3WlE1aUVBNWVOSjlTTUVNZUgxdjVzX2hPQjVKUjVwVWpUb05jakF1UUh5b240Qmw1NmVLakVubFdDQ2JMYXdESTUzeWU5aldUTnV0NXhlU19wbFdRSU5TNUlUZzBwNHNpRWJfN1JPLTZFT0w4b21RMTcwZ3NtTVBF",
-        "image": null,
-        "timestamp": 1771586760.0
     }
 ]
