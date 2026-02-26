@@ -162,6 +162,24 @@
         "timestamp": 1772096340.0
     },
     {
+        "title_fa": "آمریکا-ایران: ایران می‌گوید با جداسازی مسائل هسته‌ای و غیرهسته‌ای توافق ممکن است",
+        "title_en": "US-Iran tensions LIVE: Iran says deal possible if US separates nuclear and non-nuclear issues",
+        "summary": [
+            "یک مقام ارشد ایرانی اعلام کرده در صورتی که واشنگتن مسائل هسته‌ای و غیرهسته‌ای را جدا کند، امکان رسیدن به چارچوب توافق وجود دارد؛ دور سوم مذاکرات هسته‌ای در ژنو با حضور نمایندگان ارشد آمریکا و ایران و میانجی عمان و مدیرکل آژانس بین‌المللی انرژی اتمی برگزار می‌شود.",
+            "رئیس‌جمهور ترامپ در سخنرانی وضعیت اتحاد ملی مواضع نظامی و تهدید به اقدام نظامی علیه ایران را تشدید کرد و هم‌زمان آمریکا بزرگ‌ترین تحرک نظامی خود در منطقه از سال ۲۰۰۳ به این‌سو را آغاز کرده است؛ این فشار نظامی و سیاسی اهرم فشاری جدی علیه تهران ایجاد می‌کند.",
+            "خواستِ جداسازی مسائل هسته‌ای از موضوعات غیرهسته‌ای تاکتیکی است که به تهران امکان می‌دهد از دادن امتیازات گسترده صرف‌نظر کند و زمان بخرد؛ در مقابل واشنگتن باید تصمیم بگیرد که آیا با قبول این تفکیک می‌تواند به توافقی محدود و قابل‌نظارت دست یابد یا فشار را تا حذف کامل ظرفیت‌ها تشدید کند."
+        ],
+        "impact": "ترکیب تهدید نظامی و مذاکرات شرط‌گذاری‌شده، رژیم را در دامِ انتخاب بین امتیازدهی کنترل‌شده یا افزایش انزوای اقتصادی و خطر رویارویی نظامی قرار داده است.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/world/us-iran-tensions-donald-trump-ayatollah-khamenei-military-build-up-middle-east-live-updates-latest-news-11772087358489.html",
+        "clean_url": "https://www.livemint.com/news/world/us-iran-tensions-donald-trump-ayatollah-khamenei-military-build-up-middle-east-live-updates-latest-news-11772087358489.html",
+        "image": "http://www.bing.com/th?id=OVFT.OXNc0p0hc2pIELWPYagLry&pid=News",
+        "timestamp": 1772095860.0
+    },
+    {
         "title_fa": "گزارش زنده: مذاکرات آمریکا-ایران در ژنو؛ تازه‌ترین اخبار دولت ترامپ",
         "title_en": "Live updates: US-Iran talks in Geneva, latest Trump administration news",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-says-he-is-considering-limited-military-strike-on-iran/ar-AA1WLyTI",
         "image": null,
         "timestamp": 1771627125.0
-    },
-    {
-        "title_fa": "ایالات متحده برای جنگ قابل‌توجه با ایران آماده نیست",
-        "title_en": "The U.S. is Unprepared for a Significant War with Iran",
-        "summary": [
-            "گزارش American Security Project می‌گوید ایالات متحده از نظر راهبردی و عملیاتی برای یک درگیری گسترده با ایران آماده نیست.",
-            "ضعف در آمادگی نظامی واشینگتن می‌تواند بازدارندگی را تضعیف کند، خطر محاسبات اشتباه و تشدید ناخواسته درگیری را افزایش دهد و هزینه‌های سیاسی و نظامی آمریکا را بالاتر ببرد.",
-            "مقاله به‌طور مستقیم به نقش تحریم‌ها یا اقتصاد داخلی اشاره نمی‌کند؛ با این حال کمبود آمادگی نظامی می‌تواند فضای مانور سیاسی را در سطح بین‌المللی تغییر دهد و فرصت‌های نمادین یا عملی برای حاکمیت ایران ایجاد کند. "
-        ],
-        "impact": "آمادگی ناکافی آمریکا خطر اشتباه محاسباتی و تشدید درگیری را بالا می‌برد و به نفع حاکمیت ایران در میدان ژئوپلیتیک تمام می‌شود، در حالی که پیچیدگی فشارهای خارجی و هزینه‌های اقتصادی را افزایش می‌دهد.",
-        "tag": "امنیت",
-        "urgency": 9,
-        "sentiment": -0.2,
-        "source": "American Security Project",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZENUcGtEZzlHV3Z2UFAtaVZXenFVd0tlZlRELTBKNnpfSy1VWHI5LWU2RlJNM1FtaU1TcHhBME5RX2RTT2pHQzl5SG8wMENpZFo5NXNPSkd0UU15eGxQbjRjVDJtU21CYVRJejg5RjdHbjI2bGhrWnZNbTEyMFBsM0gzNnJIY21VS0VhZDBUM2VXOHA0MlV3UW1B?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZENUcGtEZzlHV3Z2UFAtaVZXenFVd0tlZlRELTBKNnpfSy1VWHI5LWU2RlJNM1FtaU1TcHhBME5RX2RTT2pHQzl5SG8wMENpZFo5NXNPSkd0UU15eGxQbjRjVDJtU21CYVRJejg5RjdHbjI2bGhrWnZNbTEyMFBsM0gzNnJIY21VS0VhZDBUM2VXOHA0MlV3UW1B",
-        "image": null,
-        "timestamp": 1771624326.0
     }
 ]
