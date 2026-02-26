@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "پایان مذاکرات آمریکا-ایران: ادعای پیشرفت با ابهامات فراوان",
+        "title_en": "US-Iran talks conclude with claims of progress but few details",
+        "summary": [
+            "مقامات آمریکا و ایران از «پیشرفت» در مذاکرات خبر دادند اما هیچ جزییاتی منتشر نشد؛ این غیبت اطلاعاتی نشان‌دهنده شفافیت پایین در روند است.",
+            "ابهام درباره محتوای توافق احتمالی می‌تواند علامتی از تلاش حاکمیت برای کسب کاهش تحریم‌ها یا امتیازات سیاسی در برابر ارائه اطلاعات محدود باشد، نه توافقی شفاف و برای عموم.",
+            "در کوتاه‌مدت، فقدان جزئیات احتمالاً بی‌اعتمادی عمومی را تشدید می‌کند و از آنجا که مردم شواهد ملموسی از بهبود اقتصادی نمی‌بینند، خطر افزایش نارضایتی و فشارهای اجتماعی وجود دارد."
+        ],
+        "impact": "ابهام در نتایج مذاکرات می‌تواند بی‌اعتمادی عمومی را افزایش داده و فشار اقتصادی بر شهروندان و توان بقا سیاسی حاکمیت را حفظ یا تشدید کند.",
+        "tag": "ابهام",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-talks-conclude-with-claims-of-progress-but-few-details/ar-AA1X99Jt",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-talks-conclude-with-claims-of-progress-but-few-details/ar-AA1X99Jt",
+        "image": null,
+        "timestamp": 1772137574.0
+    },
+    {
+        "title_fa": "مذاکرات آمریکا و ایران پس از «پیشرفت قابل توجه» به پایان رسید، میانجی‌گر می‌گوید",
+        "title_en": "US-Iran talks end after 'significant progress', mediator says",
+        "summary": [
+            "مذاکرات میان واشنگتن و تهران به پایان رسید و میانجی‌گر از «پیشرفت قابل توجه» خبر داده است.",
+            "خبر فاقد جزئیات است؛ مشخص نیست کدام موضوعات توافق شده یا چه تضمین‌هایی برای اجرای هر پیشرفتی وجود دارد، بنابراین پیامدهای تحریمی و عملی غیرقطعی‌اند.",
+            "در غیاب شفافیت، این پیشرفت می‌تواند تاکتیک بقا برای رژیم باشد — کاهش موقت فشار خارجی بدون اصلاحات ساختاری داخلی — که احتمالاً منابع اقتصادی را برای نهادهای سیاسی-امنیتی بازتأمین می‌کند. "
+        ],
+        "impact": "اثر واقعی بر فشارهای تحریمی و ثبات داخلی نامشخص است؛ اگر محدود و غیردائمی باشد، فقط تِلّی موقتی از مشکلات اقتصادی می‌سازد و دوام رژیم را تضعیف نمی‌کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-make-significant-progress-in-talks-will-meet-again-soon-mediator-says/ar-AA1X9jq9",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-make-significant-progress-in-talks-will-meet-again-soon-mediator-says/ar-AA1X9jq9",
+        "image": null,
+        "timestamp": 1772135447.0
+    },
+    {
         "title_fa": "به‌روزرسانی‌های زنده درباره ترامپ: شهادت هیلاری کلینتون، دیدار مامدانی، مذاکرات هسته‌ای آمریکا و ایران و موارد دیگر",
         "title_en": "Trump Live Updates: Hillary Clinton Testimony, Mamdani Meeting, U.S.-Iran Nuclear Talks and More",
         "summary": [
@@ -124,6 +160,24 @@
         "clean_url": "https://abc7news.com/post/us-iran-hold-pivotal-nuclear-talks-geneva-amid-heightened-tensions/18653117",
         "image": null,
         "timestamp": 1772112237.0
+    },
+    {
+        "title_fa": "جدیدترین‌ها: مذاکرات پرتنش آمریکا و ایران در ژنو همزمان با اعزام شناورها و هواپیماها به خاورمیانه توسط ترامپ",
+        "title_en": "The Latest: Tense US-Iran talks in Geneva as Trump deploys warships and aircraft to the Middle East",
+        "summary": [
+            "مذاکرات پرتنش آمریکا و ایران در ژنو جریان دارد و هم‌زمان ایالات متحده به‌طیفی از اقدام‌های نظامی شامل اعزام ناو هواپیمابر USS Gerald R. Ford و هواپیماها به خاورمیانه دست زده است.",
+            "این اعزام، یک فشار نظامی-دیپلماتیک ساختاری است که ظرفیت چانه‌زنی تهران را تضعیف می‌کند و گزینه‌های راهبردی رژیم را محدود می‌سازد؛ این احتمالاً به کاهش ثبات سیاسی داخلی و تشدید هزینه‌های حاکمیتی خواهد انجامید.",
+            "ترکیب دیپلماسی پرتنش و تقویت حضور نظامی آمریکا ریسک تبدیل بحران دیپلماتیک به درگیری مستقیم را افزایش می‌دهد و در صورت تشدید می‌تواند محرکی برای افزایش نارضایتی‌های داخلی باشد."
+        ],
+        "impact": "اعزام ناو و هواپیماها فشار خارجی قابل‌توجهی علیه تهران ایجاد کرده است و خطر انتقال بحران از میز مذاکره به میدان نظامی را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "WPLG Local 10",
+        "url": "https://www.local10.com/news/world/2026/02/26/the-latest-tense-us-iran-talks-in-geneva-as-trump-deploys-warships-and-aircraft-to-the-middle-east/",
+        "clean_url": "https://www.local10.com/news/world/2026/02/26/the-latest-tense-us-iran-talks-in-geneva-as-trump-deploys-warships-and-aircraft-to-the-middle-east",
+        "image": "http://www.bing.com/th?id=OVFT.X6YYn4QmODSk8r6sL7vy3i&pid=News",
+        "timestamp": 1772111460.0
     },
     {
         "title_fa": "مذاکره‌کنندگان هسته‌ای آمریکا و ایران سه ساعت دیدار کردند؛ تصمیم ترامپ در راه",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.nytimes.com/2026/02/21/opinion/iran-epstein-power.html",
         "image": "http://www.bing.com/th?id=OVFT.wdbX6JiiYOg8PwGru52qzy&pid=News",
         "timestamp": 1771646400.0
-    },
-    {
-        "title_fa": "پنتاگون از استفاده از پایگاه‌های بریتانیا برای حمله احتمالی به ایران ممنوع شد",
-        "title_en": "Pentagon blocked from using UK bases in potential Iran strike",
-        "summary": [
-            "بریتانیا مانع از استفاده پنتاگون از پایگاه‌های خود برای اجرای حمله احتمالی علیه ایران شد؛ این اقدام دسترسی عملیاتی مستقیم آمریکا را محدود می‌کند.",
-            "محدودیت دسترسی به پایگاه‌های بریتانیا توان بازدارندگی نظامی فوری علیه تهران را تضعیف می‌کند و واشنگتن را به سمت جایگزین‌های راهبردی مانند جابه‌جایی نیروها، اقدامات دیپلماتیک یا فشار تحریمی سوق می‌دهد.",
-            "برای جامعه داخلی ایران، کاهش احتمال حملهٔ مستقیم ممکن است فشار امنیتی کوتاه‌مدت را کاهش دهد اما مشکلات اقتصادی ساختاری و سرکوب سیاسی که ثبات حکومت را تهدید می‌کنند همچنان باقی می‌مانند."
-        ],
-        "impact": "ممنوعیت استفاده، گزینه‌های نظامی غرب علیه تهران را محدود کرده و معادلات تهدید را به ابزارهای غیردستی مثل تحریم و دیپلماسی منتقل می‌کند.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Hill",
-        "url": "https://thehill.com/policy/defense/5748731-starmer-refuses-trump-iran/",
-        "clean_url": "https://thehill.com/policy/defense/5748731-starmer-refuses-trump-iran",
-        "image": null,
-        "timestamp": 1771645860.0
-    },
-    {
-        "title_fa": "چهار نقطه فشار در زمان هشدار ترامپ به ایران",
-        "title_en": "The four pinch points as Trump issues warning to Iran",
-        "summary": [
-            "ترامپ تهدید به حملات محدود کرده و آمریکا فشار نظامی احتمالی را حفظ می‌کند؛ ایران اعلام کرده ظرف چند روز پیش‌نویس پاسخ یا مقابله‌پیشنهاد را ارائه خواهد داد.",
-            "منبع چهار «نقطه فشار» کلیدی را به‌عنوان محور تنش دیپلماتیک-نظامی معرفی می‌کند که نحوه پیشروی بحران را تعیین می‌کند؛ هر اشتباه محاسبه در این نقاط می‌تواند به تشدید سریع درگیری منجر شود.",
-            "فشار نظامی و دیپلماتیک غرب ساختار مانور سیاسی و اقتصادی حکومت را محدود می‌کند: افزایش هزینه‌های نظامی، کاهش دسترسی به بازارها و فشار بر منابع مالی حکومتی، که شکنندگی رژیم را بالا می‌برد."
-        ],
-        "impact": "فشار هم‌زمان نظامی و دیپلماتیک همراه با پاسخ متقابل ایران احتمال اشتباه محاسبه را افزایش می‌دهد و ثبات داخلی و ظرفیت اقتصادی حکومت را بیش از پیش تضعیف می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "inews.co.uk on MSN",
-        "url": "https://www.msn.com/en-us/news/world/the-four-pinch-points-as-trump-issues-warning-to-iran/ar-AA1WNqxS",
-        "clean_url": "https://www.msn.com/en-us/news/world/the-four-pinch-points-as-trump-issues-warning-to-iran/ar-AA1WNqxS",
-        "image": null,
-        "timestamp": 1771642429.0
-    },
-    {
-        "title_fa": "پایه انتخاباتی MAGA ترامپ سال گذشته علیه حملات به ایران خشم نشان داد؛ این‌بار آرام‌تر است",
-        "title_en": "Trump’s MAGA base raged against Iran strikes last year. This time, it’s quieter.",
-        "summary": [
-            "پایه هواداران MAGA که سال گذشته نسبت به حملات آمریکا به ایران واکنش تند داشتند، طبق گزارش اکنون به‌طور چشمگیری ساکت‌تر شده و چهره‌های اصلی آن زمان کمتر فعال‌اند.",
-            "با این‌حال برخی کارشناسان سیاست خارجی که طرفدار رویکرد محدودتر علیه ایران هستند، همچنان درباره خطرات افزایش تنش هشدار می‌دهند و بر احتیاط تأکید دارند.",
-            "از منظر راهبردی، کاهش فشار سیاسی داخل آمریکا می‌تواند انگیزه برای تشدید عملیات را کاهش دهد؛ در عین حال فشارهای خارجی و ناکارآمدی‌های اقتصادی داخلی همچنان ساختار مقاومت رژیم را تضعیف می‌کنند و نارضایتی اجتماعی را زنده نگه می‌دارند."
-        ],
-        "impact": "کاهش فشار سیاسیِ پایه MAGA احتمال پاسخ تهاجمی آمریکا را پایین می‌آورد، اما همزمان فضای کوتاه‌مدتی برای بقای رژیم ایران ایجاد می‌کند در حالی که ضعف‌های ساختاری اقتصادی و نارضایتی عمومی باقی است.",
-        "tag": "ایران",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/trump-s-maga-base-raged-against-iran-strikes-last-year-this-time-it-s-quieter/ar-AA1WMF4Y",
-        "clean_url": "https://www.msn.com/en-us/news/politics/trump-s-maga-base-raged-against-iran-strikes-last-year-this-time-it-s-quieter/ar-AA1WMF4Y",
-        "image": "http://www.bing.com/th?id=OVFT.JSuq-SJU7PP7vGOntLhZoy&pid=News",
-        "timestamp": 1771639249.0
     }
 ]
