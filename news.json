@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "شورای روابط خارجی — منبع فاقد محتوا",
+        "title_en": "Council on Foreign Relations",
+        "summary": [
+            "متن ارسال‌شده صرفاً عنوان «Council on Foreign Relations» را تکرار کرده و هیچ محتوای خبری یا تحلیلی ارائه نمی‌دهد.",
+            "بدون متن یا داده قابل استناد، نمی‌توان الزام‌های چارچوب تحلیلی را (تحریم‌ها، نقش بازیگران خارجی، نارضایتی داخلی) اعمال یا ارزیابی کرد؛ هر گونه استنتاج فراتر ساختگی است.",
+            "برای تحلیل واقع‌گرایانه و اقدام‌محور باید منبع کامل یا لینک به مطلب اصلی دریافت شود؛ در غیر این صورت اطلاعات قابل‌استفاده‌ای وجود ندارد."
+        ],
+        "impact": "عدم وجود محتوای قابل تحلیل مانع هرگونه ارزیابی درباره تحریم‌ها، همپیمانان خارجی یا نارضایتی داخلی می‌شود و تحلیل‌گر را از ارائه نتیجه‌گیری‌های مستند بازمی‌دارد.",
+        "tag": "بی‌محتوا",
+        "urgency": 1,
+        "sentiment": -0.5,
+        "source": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/trumps-2026-state-of-the-union-foreign-policy-issue-guide",
+        "clean_url": "https://www.cfr.org/articles/trumps-2026-state-of-the-union-foreign-policy-issue-guide",
+        "image": null,
+        "timestamp": 1772119952.0
+    },
+    {
         "title_fa": "مذاکرات هسته‌ای آمریکا و ایران: تهران از «پیشنهادهای عملی» خبر داد",
         "title_en": "US-Iran nuclear talks live: ‘Practical’ proposals discussed, Tehran says",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-can-sink-us-aircraft-carriers-says-khamenei-what-weapon-can-it-use/ar-AA1WMzNZ",
         "image": "http://www.bing.com/th?id=OVFT.0N6m8iIOqg_TbimZ6qc2JS&pid=News",
         "timestamp": 1771632702.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید حمله نظامی محدود به ایران را بررسی می‌کند",
-        "title_en": "Trump says he is considering limited military strike on Iran",
-        "summary": [
-            "اظهارنظر دونالد ترامپ، رئیس‌جمهور آمریکا، درباره بررسی حمله نظامی محدود به ایران ریسک رویارویی مستقیم نظامی و افزایش تنش منطقه‌ای را برجسته می‌کند.",
-            "تهدید به حمله نظامی می‌تواند فشار خارجی و احتمال اقدامات تحریمی یا نظامی بیشتر علیه حکومت ایران را تشدید کند و ساختارهای اقتصادی و امنیتی رژیم را آسیب‌پذیرتر سازد.",
-            "بدون اغراق: حکومت ممکن است از تهدید خارجی برای سرکوب یا بسیج داخلی بهره‌برداری کند، و از سوی دیگر تشدید درگیری‌ها می‌تواند فشار اقتصادی و بی‌ثباتی داخلی را افزایش دهد."
-        ],
-        "impact": "تهدید به حمله محدود آمریکا احتمال تشدید درگیری نظامی منطقه‌ای و افزایش فشارهای بین‌المللی و داخلی بر حکومت ایران را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-he-is-considering-limited-military-strike-on-iran/ar-AA1WLyTI",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-he-is-considering-limited-military-strike-on-iran/ar-AA1WLyTI",
-        "image": null,
-        "timestamp": 1771627125.0
     }
 ]
