@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "آغاز مذاکرات هسته‌ای آمریکا-ایران در ژنو در بحبوحه تنش‌ها",
+        "title_en": "US-Iran talks live: Nuclear talks to kick off in Geneva amid tensions",
+        "summary": [
+            "مذاکرات هسته‌ای میان آمریکا و ایران در ژنو آغاز می‌شود؛ این گفتگوها در شرایط ادامه‌دار تنش‌های دیپلماتیک برگزار می‌گردد.",
+            "برگزاری مذاکرات نشان‌دهنده تمایل طرفین به مدیریت میدانی بحران است، اما تا این لحظه هیچ نشانه‌ای از توافق یا کاهش فوری فشار خارجی اعلام نشده.",
+            "پیام داخلی واضح است: نتایج ملموس مذاکرات تعیین‌کننده توان عملی دولت در کاهش فشارها خواهد بود و عدم تحقق منافع فوری می‌تواند به انتقادات داخلی و تضعیف مشروعیت اشاره‌بردارد."
+        ],
+        "impact": "مذاکرات ممکن است تنش‌های دیپلماتیک را موقتا کاهش دهد اما بدون جزئیات توافق، اثر ساختاری بر ثبات رژیم نامشخص باقی می‌ماند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/2/26/us-iran-talks-live-nuclear-talks-to-kick-off-in-geneva-amid-tensions",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/2/26/us-iran-talks-live-nuclear-talks-to-kick-off-in-geneva-amid-tensions",
+        "image": null,
+        "timestamp": 1772082900.0
+    },
+    {
+        "title_fa": "اکثر آمریکایی‌ها ایران را دشمن می‌دانند اما به قضاوت ترامپ درباره مداخله نظامی شک دارند",
+        "title_en": "Most Americans see Iran as an enemy but doubt Trump's judgment on military force, AP-NORC poll finds",
+        "summary": [
+            "نظرسنجی AP-NORC نشان می‌دهد اکثریت شهروندان آمریکا ایران را دشمن می‌دانند؛ این دیدگاه عمومی پایه‌سازی سیاسی برای فشار دیپلماتیک و اقتصادی علیه رژیم را تقویت می‌کند.",
+            "همزمان، همین نظرسنجی تردید گسترده‌ای نسبت به قضاوت دونالد ترامپ در بکارگیری نیروی نظامی نشان می‌دهد؛ این امر احتمال حمایت عمومی قاطع برای حمله نظامی مستقیم را کاهش می‌دهد و ریسک اقدام نظامی فوری را محدود می‌کند.",
+            "ترکیب خصومت عمومی خارجی و ضعف مدیریتی داخلی رژیم، در صورت تشدید فشارهای دیپلماتیک و اقتصادی، به تضعیف ساختاری حکومت و افزایش نارضایتی اجتماعی دامن خواهد زد؛ این پیام مستقیماً ماهیت آسیب‌پذیری رژیم را برجسته می‌کند."
+        ],
+        "impact": "تردید عمومی آمریکایی‌ها نسبت به استفاده از نیروی نظامی همراه با دیدگاه دشمنانه نسبت به ایران می‌تواند راه را برای فشارهای تحریمی و دیپلماتیک پایدار هموار کند که ثبات رژیم را به‌صورت ساختاری تضعیف خواهد کرد.",
+        "tag": "تحریم‌ها",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/poll-trump-iran-israel-nuclear-41f4f308683c2ee10420225e1380cf21",
+        "clean_url": "https://apnews.com/article/poll-trump-iran-israel-nuclear-41f4f308683c2ee10420225e1380cf21",
+        "image": "https://dims.apnews.com/dims4/default/b338b68/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https://assets.apnews.com/57/24/64ee26505df00736f83eb42b34f9/f2460efa6a2144dfb9fd9f74eb626226",
+        "timestamp": 1772082180.0
+    },
+    {
+        "title_fa": "توافق یا جنگ؟ آغاز مذاکرات سرنوشت‌ساز بین آمریکا و ایران",
+        "title_en": "A Deal or War? Crucial Talks to Begin Between U.S. and Iran",
+        "summary": [
+            "آغاز دور جدید مذاکرات حساس بین آمریکا و ایران؛ نتیجه می‌تواند به‌صورت توافق یا تشدید مواجهه نظامی تفسیر شود.",
+            "از منظر فشارهای خارجی و تحریم‌ها: اگر مذاکرات به توافق منجر شود ساختار فشار قابل تغییر است و اگر شکست بخورد یا تنش‌ها افزایش یابد، تحریم‌ها و فشارهای خارجی می‌توانند تشدید شوند و رژیم را بیشتر تضعیف کنند.",
+            "ابعاد داخلی: برای رژیمی که با مشکلات اقتصادی و سطح قابل توجهی از نارضایتی روبرو باشد، این دور مذاکره می‌تواند تعیین‌کننده سطح ثبات سیاسی و توانایی بقای حکومت باشد."
+        ],
+        "impact": "این مذاکرات نقطه عطفی است که می‌تواند یا نفس حیات سیاسی و اقتصادی رژیم را موقتا تسهیل کند یا با تشدید تنش‌ها آن را به سوی تحمیل فشارهای خارجی بیشتر و بی‌ثباتی داخلی سوق دهد.",
+        "tag": "مذاکره",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html",
+        "clean_url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html",
+        "image": null,
+        "timestamp": 1772082006.0
+    },
+    {
         "title_fa": "آمریکا: روبیو و وانس پیش از مذاکرات درباره تهدید ایران هشدار دادند",
         "title_en": "US: Rubio and Vance warn of Iran's threat ahead of talks",
         "summary": [
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjR0T1FSbEg1RWZpLWxFUDdETkc5aXJGV1hIN1dFTzRLVnN1UkJMZ25CamRkSXB2LWxGcW1tYkpVRzBHZlZYcklRTWRZZzQtQVpIVW9RN0RhZ19iMmhuaHo0SEpfS1lobGp2NWhCUUlacmpYcVhOZ1NuOXBTQU1mdnZQX1dBQXBlRjBHLTRhR3VZYkVM0gGaAUFVX3lxTE1nNXh6T2htUnB1WFRzMlUyX3Z5SzZuc1I2eXg0YVNqanpITGxMR1d6QmxLMHp6ZlhjVzEwS2Job1lSQ3RwYkF3dWJxQnUtSWlLWFIzanZVRUw3MHZUZ2pydWdzMDYxRC1uNDl4M0xLUm9PZmpPaGIwNGwxQjhKOGl6ZXJPZ1N0ak1xcG1qX3hfNWViUG42b19odXc",
         "image": null,
         "timestamp": 1771580717.0
-    },
-    {
-        "title_fa": "نگاهی به دارایی‌های نظامی آمریکا در خاورمیانه",
-        "title_en": "A look at the US military assets in the Middle East",
-        "summary": [
-            "گزارش AP فهرستی از دارایی‌های نظامی آمریکا در منطقه ارائه می‌کند؛ شامل گروه‌های ضربتی ناوگان دریایی، هواگردها و بمب‌افکن‌های استراتژیک، سامانه‌های دفاع هوایی و حضور در پایگاه‌های کلیدی منطقه‌ای.",
-            "نمایش و طبقه‌بندی این دارایی‌ها اهداف بازدارندگی و حفاظت از مسیرهای دریایی و متحدان را دنبال می‌کند و همزمان فشار استراتژیک بر رژیم تهران را افزایش می‌دهد.",
-            "گزارش اشاره‌ای به وضعیت اعتراضات داخلی یا پیامدهای اقتصادی مستقیم نکرده؛ اما تمرکز بر قابلیت‌های نظامی نشان می‌دهد گزینه‌های فشار خارجی همراه با خطر افزایش تقابل نظامی بالا رفته است."
-        ],
-        "impact": "استقرار و نمایش این ظرفیت‌ها هزینه‌های بین‌المللی بر رژیم را افزایش می‌دهد و فضای اعمال تحریم و فشار را تنگ‌تر می‌کند، در کنار بالا بردن ریسک مسابقه نظامی و پاسخ‌های تلافی‌جویانه.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjB1UlBEQloyazBTVjBPbXRrRlNoaTVUREdtM0FfbEF2QUx1QkNqcUwxcVdVM3FTOG1VRUpPU2UycjhZajZIWTdpMUtHOTZ6UzRqejFiUXhBN0VxTFBnd3lpUTZQdGFTR3pkazRMd0EyYW5GWl9yeUhmeWtmZk1OckJ5bzRmRXVZcWhMUDNma2VMdm9BaE90STJqeW5pZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjB1UlBEQloyazBTVjBPbXRrRlNoaTVUREdtM0FfbEF2QUx1QkNqcUwxcVdVM3FTOG1VRUpPU2UycjhZajZIWTdpMUtHOTZ6UzRqejFiUXhBN0VxTFBnd3lpUTZQdGFTR3pkazRMd0EyYW5GWl9yeUhmeWtmZk1OckJ5bzRmRXVZcWhMUDNma2VMdm9BaE90STJqeW5pZw",
-        "image": null,
-        "timestamp": 1771580710.0
-    },
-    {
-        "title_fa": "قیمت نفت به بالاترین سطح شش ماهه پس از هشدار ترامپ به ایران",
-        "title_en": "Oil prices hit six-month highs after Trump warns Iran of 'bad things' if there's no deal",
-        "summary": [
-            "قیمت نفت پس از هشدار دونالد ترامپ به ایران درباره «اتفاقات بد» در صورت عدم حصول توافق، به بالاترین سطح شش ماه اخیر صعود کرد؛ بازارها ریسک ژئوپلیتیک را بازقیمت‌گذاری کردند.",
-            "هشدار رهبری امریکا پریمیوم ریسک عرضه را بالا برد و فشار خارجی را تقویت کرد؛ این وضعیت می‌تواند ساختار اقتصادی و تاب‌آوری حکومت را در برابر تکانه‌ها ضعیف‌تر سازد.",
-            "افزایش قیمت نفت لزوماً به بهبود وضعیت داخلی حکومت نمی‌انجامد؛ تحریم‌ها و محدودیت صادرات می‌تواند مانع از انتقال منافع قیمت‌های بالاتر به تراز ارزی و بهبود معیشت عمومی شود."
-        ],
-        "impact": "هشدار سیاسی و جهش قیمت نفت بازارها را پرریسک‌تر می‌کند و فشار خارجی را بر حکومت تشدید می‌کند، در حالی که به دلیل محدودیت‌های صادراتی و سوء‌مدیریت، اثر مثبت پایداری بر ثبات داخلی ندارد.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzVmNUgyeEY0bDY2Szd0c2pwWlVheEFPN1Fud3lNVlFRcGVxYzkydFAwaHpFSzhWWFVMSEt1Z2V6U2JvRS0teDZaVVZBdzV6Umk2eEhveTNNYWFtek5Wa1JpYTFQSzZBVVV3bTdSVmdFUW9aZk80SUVGdXJMcjBnWUE1WG1FS3FrdUdzZjNR0gGTAUFVX3lxTE9nbWVETXdJblVvWnVtUklDbUxTNzdQNTlVVlhVRWp0clRXbTJBVTJGWWs4bjcyWWh0ci1yX29jNjE4WDJ0WlRUX3BEMzcweGlOQ0g0aHdudHNfVHRjTFZRcEtVUkRQcm93ZXpQeGVId2E5N2xvZ0Z0clgtaUlVbzVOMFpmdlFRM1pyTUxIaHlTbUludw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzVmNUgyeEY0bDY2Szd0c2pwWlVheEFPN1Fud3lNVlFRcGVxYzkydFAwaHpFSzhWWFVMSEt1Z2V6U2JvRS0teDZaVVZBdzV6Umk2eEhveTNNYWFtek5Wa1JpYTFQSzZBVVV3bTdSVmdFUW9aZk80SUVGdXJMcjBnWUE1WG1FS3FrdUdzZjNR0gGTAUFVX3lxTE9nbWVETXdJblVvWnVtUklDbUxTNzdQNTlVVlhVRWp0clRXbTJBVTJGWWs4bjcyWWh0ci1yX29jNjE4WDJ0WlRUX3BEMzcweGlOQ0g0aHdudHNfVHRjTFZRcEtVUkRQcm93ZXpQeGVId2E5N2xvZ0Z0clgtaUlVbzVOMFpmdlFRM1pyTUxIaHlTbUludw",
-        "image": null,
-        "timestamp": 1771579668.0
-    },
-    {
-        "title_fa": "یادداشت: احتمال درگیری با ایران؛ امنیت داخلی باید در حالت «آماده‌باش کامل» قرار گیرد",
-        "title_en": "COLUMN: Potential Iran Conflict Means Homeland Security Must Go ‘Shields Up’",
-        "summary": [
-            "ستون نشریه هشدار می‌دهد که احتمال درگیری با ایران مستلزم قرار گرفتن نهادهای امنیت داخلی در سطح «آماده‌باش» (Shields Up) برای مدیریت تهدیدات متصور است.",
-            "نویسنده خواستار تقویت هماهنگی بین‌سازمانی، بازنگری پروتکل‌های حفاظتی و افزایش آمادگی در برابر تهدیدات مرزی، سایبری و اطلاعاتی شده است تا از حملات انتقامی احتمالی جلوگیری شود.",
-            "پیام کلیدی این است که حتی تهدید بالقوه به درگیری می‌تواند هزینه‌های امنیتی و سیاسی داخلی را بالا برده و نیاز به ارزیابی سریع آسیب‌پذیری‌های ملی و تخصیص منابع را افزایش دهد."
-        ],
-        "impact": "هشدار ستون نشان می‌دهد که وقوع یا تشدید تهدیدات نظامی می‌تواند فشارهای خارجی و اقتصادی را تقویت کند و در نتیجه ثبات ساختاری رژیم ایران را بیش از پیش تضعیف نماید.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Homeland Security Today",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnZLYzlsYzloc0U0OXJWQnBuMmpqQlNzSlJya0lrRll3WG1KUnlXcUV2Zjh3aUctbE9tZGtjZnE2UmQtTl9BZzlBeWZOUWlZVDZHMmFKdU9Mai1LWkNQWFpQUlFoLV9LRTJFX05kdVhHZm84eEdVa2lyQ2ZzbU5pVjJxaUNvNUpWUFd3RFBMV3NmNE1STHgteUxFRlExNzF3LS13WGVUMlhyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnZLYzlsYzloc0U0OXJWQnBuMmpqQlNzSlJya0lrRll3WG1KUnlXcUV2Zjh3aUctbE9tZGtjZnE2UmQtTl9BZzlBeWZOUWlZVDZHMmFKdU9Mai1LWkNQWFpQUlFoLV9LRTJFX05kdVhHZm84eEdVa2lyQ2ZzbU5pVjJxaUNvNUpWUFd3RFBMV3NmNE1STHgteUxFRlExNzF3LS13WGVUMlhyQQ",
-        "image": null,
-        "timestamp": 1771578255.0
     }
 ]
