@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران: تهران از «پیشنهادهای عملی» خبر داد",
+        "title_en": "US-Iran nuclear talks live: ‘Practical’ proposals discussed, Tehran says",
+        "summary": [
+            "الجزیره گزارش می‌دهد مذاکرات هسته‌ای بین آمریکا و ایران در جریان است و تهران از وجود «پیشنهادهای عملی» سخن گفته است.",
+            "از سرگیری گفتگوها می‌تواند مسیر فشار تحریمی و منزوی‌سازی دیپلماتیک را تحت تأثیر قرار دهد، اما خودِ گفتگو تضمین‌کننده رفع تحریم‌ها یا تغییر سخت‌افزاری در سیاست خارجی نیست.",
+            "هرگونه کاهش فشار خارجی حتی اگر رخ دهد، مشکل اصلی را حل نمی‌کند: ناکارآمدی مدیریتی و سرکوب سیاسی ساختارهای رژیم را آسیب‌پذیر و ثبات داخلی را شکننده نگه می‌دارد."
+        ],
+        "impact": "در صورت پیشرفت مذاکرات ممکن است فشار تحریمی کاهش موقت یابد، اما بدون اصلاحات ساختاری روند ناپایدارِ سیاسی-اقتصادی ایران ادامه خواهد یافت.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-reports-very-serious-progress-as-geneva-talks-pause-live-updates/ar-AA1X7IBn",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-reports-very-serious-progress-as-geneva-talks-pause-live-updates/ar-AA1X7IBn",
+        "image": null,
+        "timestamp": 1772112237.0
+    },
+    {
         "title_fa": "آمریکا و ایران دور سرنوشت‌ساز مذاکرات هسته‌ای را در بحبوحه تشدید تنش‌ها برگزار کردند",
         "title_en": "US and Iran hold high-stakes nuclear talks amid tensions",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18",
         "image": "https://dims.apnews.com/dims4/default/f2d44c5/2147483647/strip/true/crop/7413x4934+0+4/resize/320x213!/quality/90/?url=https://assets.apnews.com/60/90/27892eb854ae2e409ac313f13217/e6f9a23032b0441cac428dd86dc8b937",
         "timestamp": 1772092800.0
+    },
+    {
+        "title_fa": "دلار و سنت عملیات نظامی علیه ایران",
+        "title_en": "The Dollars And Cents Of Military Action Against Iran",
+        "summary": [
+            "واشنگتن با استقرار دو ناوگروه هواپیمابر و نیروی هوایی گسترده، حضور نظامی‌ای در خلیج فارس ایجاد کرده که سطح آن با تجمع پیش از جنگ ۲۰۰۳ قابل مقایسه است؛ هر ناوگروه حدود ۶.۵ میلیون دلار در روز هزینه دارد و مجموع کنونی نزدیک ۱۳ میلیون دلار در روز برآورد می‌شود.",
+            "هزینه نگهداشت نیروها در یک ماه گذشته حدود ۲۰۰ میلیون دلار بوده و اگر این حضور افزایش یابد، تا نیم‌میلیارد دلار یا بیشتر تا اواخر مارس افزایش می‌یابد؛ عملیات ۳۷ ساعته سال گذشته برای هدف‌گیری برنامه هسته‌ای ایران حدود ۲.۲۵ میلیارد دلار هزینه داشت.",
+            "بار مالی عملیات بالقوه یکی از متغیرهای کلیدی تصمیم‌گیری آمریکا است: حملات محدود نیز گران خواهند بود و حمله گسترده‌تر ـ به‌ویژه اگر هدف تضعیف توان نظامی و موشکی نظام ایران باشد ـ هزینه‌ها و پیامدهای سیاسی و اقتصادی درازمدت را تشدید خواهد کرد."
+        ],
+        "impact": "فشار نظامی و هزینه‌بر آمریکا به‌عنوان اهرم، ظرفیت بقا و مشروعیت نظام حاکم را تضعیف می‌کند و احتمال تشدید مشکلات اقتصادی و نارضایتی اجتماعی را افزایش می‌دهد.",
+        "tag": "فشار",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/ilanberman/2026/02/26/the-dollars-and-cents-of-military-action-against-iran/",
+        "clean_url": "https://www.forbes.com/sites/ilanberman/2026/02/26/the-dollars-and-cents-of-military-action-against-iran",
+        "image": null,
+        "timestamp": 1772090100.0
     },
     {
         "title_fa": "آنچه باید دانست: ایران و آمریکا برای مذاکرات جدید هسته‌ای دیدار می‌کنند در حالی که آمریکایی‌ها نیرو در خاورمیانه مستقر می‌کنند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZENUcGtEZzlHV3Z2UFAtaVZXenFVd0tlZlRELTBKNnpfSy1VWHI5LWU2RlJNM1FtaU1TcHhBME5RX2RTT2pHQzl5SG8wMENpZFo5NXNPSkd0UU15eGxQbjRjVDJtU21CYVRJejg5RjdHbjI2bGhrWnZNbTEyMFBsM0gzNnJIY21VS0VhZDBUM2VXOHA0MlV3UW1B",
         "image": null,
         "timestamp": 1771624326.0
-    },
-    {
-        "title_fa": "آیا محدودکنندگان MAGA این‌بار در برابر ایران کوتاه می‌آیند؟",
-        "title_en": "Are MAGA restrainers pulling their punches this time on Iran?",
-        "summary": [
-            "گزارش: گروهی از حامیان اولیه ترامپ علیه احتمال جنگ جدید با ایران واکنش نشان داده‌اند، اما نفوذ آنها در تصمیم‌گیری‌ها نامطمئن است.",
-            "این مخالفت داخلی در جناح راست آمریکا می‌تواند مانع از تشدید سریع مقابله نظامی یا تشدید تحریم‌ها شود، یا در مقابل در صورت نادیده گرفته شدن، مسیر به سمت درگیری بازتر خواهد شد.",
-            "حتی در صورت جلوگیری کوتاه‌مدت از جنگ، کاهش فشار خارجی مسئله ساختاری حکومت و ناکارآمدی اقتصادی را حل نمی‌کند و نارضایتی عمومی همچنان یک عامل بی‌ثبات‌کننده خواهد ماند."
-        ],
-        "impact": "وجود بازیگران محافظه‌کارِ محدودکننده در داخل صفوف ترامپ می‌تواند احتمال تشدید فوری فشار نظامی یا تحریمی علیه جمهوری اسلامی را کاهش دهد، ولی این تغییر موقتی است و خلأ مدیریتی و مشکلات اقتصادی داخلی رژیم را از بین نمی‌برد.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Responsible Statecraft on MSN",
-        "url": "https://www.msn.com/en-us/news/opinion/are-maga-restrainers-pulling-their-punches-this-time-on-iran/ar-AA1WMmeG",
-        "clean_url": "https://www.msn.com/en-us/news/opinion/are-maga-restrainers-pulling-their-punches-this-time-on-iran/ar-AA1WMmeG",
-        "image": null,
-        "timestamp": 1771624080.0
-    },
-    {
-        "title_fa": "آمریکا و ایران در مسیر نزاع نظامی؛ تقویت نیروها گفت‌وگوها را تحت‌الشعاع قرار داد",
-        "title_en": "US and Iran slide towards conflict as military buildup eclipses talks",
-        "summary": [
-            "امید به راه‌حل دیپلماتیک در مناقشه هسته‌ای تهران در حال فروپاشی است: منابع رسمی دو طرف و دیپلمات‌های خلیج و اروپا همگی از پیشی‌گرفتن تحرکات نظامی بر مذاکرات خبر می‌دهند.",
-            "فشار خارجی و بن‌بست دیپلماتیک ساختارهای حکومتی ایران را تضعیف می‌کند: ادامه تقابل با آمریکا هزینه‌های اقتصادی و سیاسی را افزایش می‌دهد و ظرفیت پاسخ‌گویی حکمرانی را کاهش می‌دهد.",
-            "خطر تسری و محاسبهٔ غلط بالا رفته است: کاهش کانال‌های دیپلماتیک قدرت نفوذ بازیگران نظامی و منطقه‌ای را بالا برده و شانس برخورد مستقیم یا گسترش تنش در منطقه را افزایش می‌دهد."
-        ],
-        "impact": "افزایش تنش نظامی چشم‌انداز هرگونه راه‌حل دیپلماتیک را به شدت تضعیف می‌کند و احتمال درگیری مستقیم در منطقه را به طور قابل‌توجهی افزایش می‌دهد.",
-        "tag": "تصاعد",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/us-iran-slide-towards-conflict-military-buildup-eclipses-talks-2026-02-20/",
-        "clean_url": "https://www.reuters.com/world/middle-east/us-iran-slide-towards-conflict-military-buildup-eclipses-talks-2026-02-20",
-        "image": null,
-        "timestamp": 1771622940.0
     }
 ]
