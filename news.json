@@ -36,6 +36,24 @@
         "timestamp": 1772055156.0
     },
     {
+        "title_fa": "آخرین فرصت پیش از جنگ",
+        "title_en": "A Last Chance Before War",
+        "summary": [
+            "مذاکره‌های سرنوشت‌ساز در ژنو برگزار می‌شود اما هر دو طرف برای تشدید درگیری آماده می‌شوند: دو ناوگروه هواپیمابر آمریکا همراه با ده‌ها جنگنده، بمب‌افکن و هواپیمای سوخت‌رسان در برد حمله قرار گرفته‌اند و دونالد ترامپ گزینه‌های «تغییر رژیم» را مطرح کرده است.",
+            "مقام‌های ایرانی بر این باورند که حملات قریب‌الوقوع و اجتناب‌ناپذیر است و در حال طراحی و آماده‌سازی برای حفظ بقای سیستم حکومتی حتی در صورت سقوط یا کشته شدن رهبری هستند؛ این نشان‌دهنده اولویت‌بخشی به پایداری نهادی به جای کوتاه‌آمدن در مذاکرات است.",
+            "اختلاف برداشت‌ها مشهود است: مقامات آمریکایی از امتناع ایران برای تسلیم خواسته‌های هسته‌ای متحیر‌اند؛ مقاله شواهد مستقیمی از اعتراضات داخلی یا فروپاشی اقتصادی ارائه نمی‌دهد اما تأکید ایرانیان بر «حفظ سیستم» نشان‌دهنده شکنندگی ساختاری است."
+        ],
+        "impact": "فشار نظامی و تهدید به «تغییر رژیم» توسط آمریکا ساختار رژیم را به اقدامات بقاگرایانه سوق می‌دهد و خطر محاسبات نادرست دوطرف را بالا می‌برد که می‌تواند به یک درگیری گسترده منجر شود.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/25/world/iran-nuclear-talks-trump-war-maduro.html",
+        "clean_url": "https://www.nytimes.com/2026/02/25/world/iran-nuclear-talks-trump-war-maduro.html",
+        "image": null,
+        "timestamp": 1772055060.0
+    },
+    {
         "title_fa": "آمریکا و ایران برای مذاکرات هسته‌ای در بحبوحه نگرانی‌ها از درگیری نظامی دیدار می‌کنند",
         "title_en": "US, Iran To Meet For Nuclear Talks Amid Fears Of Military Conflict",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.newsweek.com/iran-us-trump-war-nuclear-program-limits-11554916",
         "image": null,
         "timestamp": 1771563480.0
-    },
-    {
-        "title_fa": "استقرار نیروهای آمریکایی در خاورمیانه همزمان با متوقف شدن مذاکرات هسته‌ای ایران",
-        "title_en": "U.S. amasses forces in Middle East as Iran nuclear talks stall",
-        "summary": [
-            "خبر گزارش می‌دهد که آمریکا نیروهایی را در خاورمیانه جمع‌آوری کرده و هم‌زمان مذاکرات هسته‌ای با ایران متوقف شده‌اند؛ جزئیات بیشتر در متن گزارش ارائه نشده است.",
-            "انباشت نظامی آمریکا به‌صورت ساختاری فشار خارجی بر رهبری تهران را افزایش می‌دهد و ریسک تشدید تنش‌های نظامی یا اقدامات قهری بیشتر را بالا می‌برد.",
-            "گرچه گزارش نقشی از روسیه یا چین بیان نمی‌کند، این وضعیت می‌تواند بحران مدیریتی و آسیب‌پذیری‌های داخلی را تشدید کند؛ پیامدهای اقتصادی و سیاسی داخلی باید زیر نظر قرار گیرند."
-        ],
-        "impact": "انباشت نیروی آمریکایی همزمان با توقف مذاکرات، فضای سیاسی و امنیتی را تشدید می‌کند و بر ثبات حکومت حاکم فشار خارجی و امکانات واکنش داخلی را محدودتر می‌سازد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVd4emx3YTdMc2ctTFluYmhuTTJyZEVtbS02SnQwZmlwVFNWSzBKYUNXZHE5a1VzLTNERkFpNlp4ODdJeGxvYlk0cVlia0tndGk5SWNIZElKRFlocUdyYzBEZjNSazlqZ3JzLXFGckEzdFRYZ0J5bC1ILU8yS05wNllCZ19DVy1RaW1XUW0wQ2VEcWRSX0ZBSkktOGhzYndkSndheHItUHUzQ0JVanBXNnpIOUNZWEZ1?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVd4emx3YTdMc2ctTFluYmhuTTJyZEVtbS02SnQwZmlwVFNWSzBKYUNXZHE5a1VzLTNERkFpNlp4ODdJeGxvYlk0cVlia0tndGk5SWNIZElKRFlocUdyYzBEZjNSazlqZ3JzLXFGckEzdFRYZ0J5bC1ILU8yS05wNllCZ19DVy1RaW1XUW0wQ2VEcWRSX0ZBSkktOGhzYndkSndheHItUHUzQ0JVanBXNnpIOUNZWEZ1",
-        "image": null,
-        "timestamp": 1771562388.0
     }
 ]
