@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران در سایه تهدیدهای ترامپ",
+        "title_en": "What to Know About U.S.-Iran Nuclear Talks Amid Trump Threats",
+        "summary": [
+            "مذاکرات هسته‌ای میان آمریکا و ایران تحت تأثیر تهدیدهای علنی دونالد ترامپ قرار دارد؛ این تهدیدها به شکل‌گیری فشار خارجی فوری کمک کرده و ظرفیت دستیابی به توافق را کاهش می‌دهد.",
+            "تهدیدهای ترامپ احتمال تشدید یا بازگشت تحریم‌ها را افزایش می‌دهد؛ این فشار خارجی ساختار سیاسی-اقتصادی رژیم را تضعیف کرده و توان مالی دولت برای چانه‌زنی و پاسخگویی به نیازهای داخلی را محدود می‌کند.",
+            "از منظر داخل کشور، اگر تحریم‌ها و تهدیدها ادامه یا تشدید شوند، بار اقتصادی بر طبقات آسیب‌پذیر افزایش خواهد یافت و حساسیت عمومی نسبت به مدیریت حکومتی بیشتر می‌شود — هرچند عنوان خبر شواهد مستقیم از اعتراضات داخلی ارائه نمی‌کند."
+        ],
+        "impact": "نتیجه عملی: تهدیدهای ترامپ مذاکرات را شکننده‌تر کرده و به‌طور ساختاری گزینه‌های بقا و چانه‌زنی رژیم را محدود می‌کند.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRU1OMlJNOE11THBMVGZkdXdfcDNLeDJMZ1VLNV92R1hTX0VzODVHX1lXZXg1QTByUHpmWEV4RVh4c2htd0M0UExaVUNzWHFhRm84RWE0cmtyX0g4ZERVR2tNNzMyQ1phTEM3SENQdGxWdXRyamxyRFNrZjFsZGtaRzg5S0Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRU1OMlJNOE11THBMVGZkdXdfcDNLeDJMZ1VLNV92R1hTX0VzODVHX1lXZXg1QTByUHpmWEV4RVh4c2htd0M0UExaVUNzWHFhRm84RWE0cmtyX0g4ZERVR2tNNzMyQ1phTEM3SENQdGxWdXRyamxyRFNrZjFsZGtaRzg5S0Y",
+        "image": null,
+        "timestamp": 1772141883.0
+    },
+    {
+        "title_fa": "آمریکا و ایران در مذاکرات پیشرفت قابل‌توجهی داشتند؛ میانجی: به‌زودی دوباره دیدار می‌کنند",
+        "title_en": "US and Iran make significant progress in talks, will meet again soon, mediator says",
+        "summary": [
+            "میانجی خبر داد که مذاکرات روز پنج‌شنبه بین ایالات متحده و ایران در خصوص اختلاف هسته‌ای طولانی‌مدت پیشرفت قابل‌توجهی داشته است.",
+            "هدف مذاکرات حل موضوع هسته‌ای و جلوگیری از بروز اقدامات جدیدی است که طرفین نگران آن هستند.",
+            "میانجی اعلام کرد طرفین به‌زودی برای پیگیری و ادامه گفت‌وگوها دوباره دیدار خواهند کرد."
+        ],
+        "impact": "این پیشرفت موقت می‌تواند فشار فوری اقدامات ضدایرانی یا تحریم‌های جدید را کاهش دهد و به رژیم زمان سیاسی و اقتصادی ببخشد، اما از مشکلات ساختاری مدیریت و ناپایداری اقتصادی داخلی که ریشه بحران‌اند، رفع رنج نمی‌کند.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-gb/news/world/us-and-iran-make-significant-progress-in-talks-will-meet-again-soon-mediator-says/ar-AA1X9Atv",
+        "clean_url": "https://www.msn.com/en-gb/news/world/us-and-iran-make-significant-progress-in-talks-will-meet-again-soon-mediator-says/ar-AA1X9Atv",
+        "image": "https://www.reuters.com/resizer/v2/UAQ6RLNREBLSLAVZQRQKIC4CS4.jpg?auth=d705837b2258cbf728adfe41fb79a0256eb2f0eebe74077af51b515943d31400&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1772140168.0
+    },
+    {
         "title_fa": "پایان مذاکرات آمریکا-ایران: ادعای پیشرفت با ابهامات فراوان",
         "title_en": "US-Iran talks conclude with claims of progress but few details",
         "summary": [
@@ -124,6 +160,42 @@
         "clean_url": "https://www.cfr.org/articles/trumps-2026-state-of-the-union-foreign-policy-issue-guide",
         "image": null,
         "timestamp": 1772119952.0
+    },
+    {
+        "title_fa": "استیو ویتکاف: ایران «یک هفته» تا ماده لازم برای بمب — کارشناسان تردید دارند",
+        "title_en": "Steve Witkoff said Iran is ‘a week away’ from material to make a bomb. Experts are skeptical",
+        "summary": [
+            "استیو ویتکاف ادعا کرد ایران «یک هفته» تا داشتن ماده لازم برای ساخت بمب فاصله دارد؛ بررسی PolitiFact نشان می‌دهد کارشناسان مستقل این ادعا را تردیدآمیز می‌دانند.",
+            "کارشناسان گزارش‌شده می‌گویند شواهد ارائه‌شده برای پشتیبانی از چنین ادعایی کافی نیست و ادعا از لحاظ فنی قابل اثبات در متن گزارش نیست.",
+            "گزارش به تحریم‌ها یا دخالت خارجی اشاره نکرده؛ اما هشدار می‌دهد که انتشار ادعاهای بی‌پایه می‌تواند بحث‌های سیاست خارجی و فشارهای بین‌المللی را مخدوش کرده و زمینه‌ساز تصمیم‌گیری‌های شتاب‌زده شود."
+        ],
+        "impact": "ادعاهای فاقد مستند می‌تواند به بهانه‌ای برای تشدید تحریم‌ها و فشارهای بین‌المللی بدل شود، در حالی که این گزارش شواهد کافی برای چنین اقدامی تأیید نکرده است.",
+        "tag": "اطلاعات‌نادرست",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "PolitiFact",
+        "url": "https://www.politifact.com/article/2026/feb/26/Iran-nuclear-bomb-week-Witkoff-Trump/",
+        "clean_url": "https://www.politifact.com/article/2026/feb/26/Iran-nuclear-bomb-week-Witkoff-Trump",
+        "image": null,
+        "timestamp": 1772113680.0
+    },
+    {
+        "title_fa": "پیام‌دهی متناقض دولت ترامپ درباره ایران",
+        "title_en": "On Iran, Trump administration's messaging is mixed",
+        "summary": [
+            "دولت ترامپ بین تهدید به حمله و اعلام آمادگی برای مذاکره در نوسان است؛ این تناقض پیام نظامی-دیپلماتیک را مبهم کرده و تصمیم‌گیری تهران را دشوارتر می‌کند.",
+            "ابهام واشنگتن ریسک محاسبه اشتباه را افزایش می‌دهد و متحدان منطقه‌ای و بازیگران ایرانی را در وضعیت غیرقابل‌پیش‌بینی قرار می‌دهد.",
+            "فشار نظامی و دیپلماتیک آمریکا، در صورت استمرار و هدفمندی، می‌تواند ساختارهای آسیب‌پذیر رژیم را به‌طور ساختاری تضعیف کند و پیامدهای اقتصادی-سیاسی داخلی را تشدید کند."
+        ],
+        "impact": "پیام‌های متناقض واشنگتن شانس محاسبه غلط و تشدید تنش را بالا می‌برد و همزمان فرصت‌های فشار راهبردی علیه نقاط ضعف رژیم را فراهم می‌کند.",
+        "tag": "تنش",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/02/iran-trump-administrations-messaging-mixed",
+        "clean_url": "https://www.al-monitor.com/originals/2026/02/iran-trump-administrations-messaging-mixed",
+        "image": "http://www.bing.com/th?id=OVFT.pgZNvUSXBpVX4xkRnf1_4y&pid=News",
+        "timestamp": 1772112900.0
     },
     {
         "title_fa": "مذاکرات هسته‌ای آمریکا و ایران: تهران از «پیشنهادهای عملی» خبر داد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdklVNmZFNjBFWUdmdnZqVENGRnlrNnk4a2Vjd3NtQW41dTdobUZIWE42aVprWG9iQ3JwemRiU29ZRWRUNmFrUUJwZzBZeDFNRG1vYVljeEdNZmliWTY1QnpHQVhBWno2dEpsalJIZ1ZSVWdZbVhYUzJBcEM0VU5UOW5oeERCOFJHY0ZoeTV2VEJQLXBOelBj",
         "image": null,
         "timestamp": 1771655040.0
-    },
-    {
-        "title_fa": "ترامپ به سوی تقابل با ایران فشار می‌آورد؛ مشاوران خواستار تمرکز بر اقتصاد هستند",
-        "title_en": "Trump pushes US toward war with Iran as advisers urge focus on economy",
-        "summary": [
-            "عنوان خبر نشان می‌دهد که رئیس‌جمهور آمریکا فشار بر جهت‌گیری‌های تقابلی علیه ایران را افزایش می‌دهد و گزینه‌های برخورد را پیگیری می‌کند.",
-            "بخشی از حلقه مشاوران کاخ سفید در برابر تشدید نظامی مقاومت می‌کنند و بر اولویت دادن به مسائل اقتصادی داخلی آمریکا تأکید دارند.",
-            "افزایش تمایل سمت تقابل نظامی واشنگتن به‌طور مستقیم ریسک تشدید فشارهای اقتصادی و سیاسی بر رژیم تهران را بالا می‌برد و ضعف‌های ساختاری آن را برجسته می‌کند."
-        ],
-        "impact": "حرکت واشنگتن به سوی تقابل نظامی، حتی در صورت تردید مشاوران، می‌تواند ثبات اقتصادی و سیاسی رژیم ایران را از طریق افزایش هزینه‌های امنیتی و فشار بین‌المللی تضعیف و نارضایتی داخلی را تشدید کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnAzaVdhTVpxeVpOQ0xNdUZrQ3RGWXMwRk9rdS1sYWZzU2pfdFdXZUhIUjBoOXhCWS1ieEZGZXd3dWxDUjZyYTNCZU41eXZnekRPempSdHRZaWdtSE5yTW9rMHhyT09jcklFYXQwNnBUTXY2V2NTaXIzXy1JUDJzdVJHMkg2VlpkSlMyZnctRElOWnFaSGVtQUhVSmRLZldHVE5jYkVvYnRjN1hza1VoMmk3QmdPcENHZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnAzaVdhTVpxeVpOQ0xNdUZrQ3RGWXMwRk9rdS1sYWZzU2pfdFdXZUhIUjBoOXhCWS1ieEZGZXd3dWxDUjZyYTNCZU41eXZnekRPempSdHRZaWdtSE5yTW9rMHhyT09jcklFYXQwNnBUTXY2V2NTaXIzXy1JUDJzdVJHMkg2VlpkSlMyZnctRElOWnFaSGVtQUhVSmRLZldHVE5jYkVvYnRjN1hza1VoMmk3QmdPcENHZnc",
-        "image": null,
-        "timestamp": 1771654200.0
-    },
-    {
-        "title_fa": "علاقه ترامپ به بنزین ارزان — اما درگیری نظامی با ایران می‌تواند قیمت پمپ را تقریباً دو برابر کند",
-        "title_en": "Trump loves cheap gas—but a military conflict in Iran could nearly double your price at the pump",
-        "summary": [
-            "مقاله هشدار می‌دهد که یک درگیری نظامی گسترده مرتبط با ایران می‌تواند از طریق اختلال در عرضه نفت و ریسک ژئوپلوتیک، قیمت خرده‌فروشی سوخت را تقریباً تا دو برابر افزایش دهد؛ این خطر متکی به واکنش‌ بازارهای نفت و اختلال در مسیرهای صادراتی است.",
-            "یک شوک قیمتی چنین ابعادی فشار تورمی و هزینه‌های زندگی را در کشورهای واردکننده و صادرکننده نفت تشدید می‌کند و می‌تواند به فروپاشی نسبی برنامه‌ریزی اقتصادی کوتاه‌مدت در داخل ایران بینجامد و نارضایتی‌های اقتصادی را افزایش دهد.",
-            "برای حکومت ایران، این سناریو هم تهدید و هم فرصت است: تهدید از جهت تشدید فشارهای اقتصادی و اجتماعی که ثبات داخلی را تهدید می‌کند و فرصت از جهت امکان استفاده از وضعیت برای مشروع‌نمایی سرکوب یا تقویت گفتمان ملی‌گرایانه — اما همه این‌ها به بهای هزینه‌های سنگین برای مردم خواهد بود."
-        ],
-        "impact": "یک درگیری نظامی با ایران می‌تواند نه تنها بازار انرژی جهانی را متلاطم کند بلکه فشارهای اقتصادی و نارضایتی داخلی را در ایران به سرعت تشدید کند و ثبات رژیم را بیش‌ازپیش به مخاطره اندازد.",
-        "tag": "نفت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2s4RXVrOEt4MGpZZVlJU0hUaU5TVjl0Y2ZKVzlwSDNkYlhXSFNPWktUS0pVcjg1ajg0Sm5SY0I1dWY1Zk00eV92NTZnbHFsY2tGcEZKR1hDUDF3OVRMbnRCT0dCT083OG1VYTF2OGk2a0pIZGhoMWliSVBteDlMNTNZdWZTRlNkS1hnMkJFZ1hvVnNqVlJTU0lVelNaMFJFWS1wNmRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2s4RXVrOEt4MGpZZVlJU0hUaU5TVjl0Y2ZKVzlwSDNkYlhXSFNPWktUS0pVcjg1ajg0Sm5SY0I1dWY1Zk00eV92NTZnbHFsY2tGcEZKR1hDUDF3OVRMbnRCT0dCT083OG1VYTF2OGk2a0pIZGhoMWliSVBteDlMNTNZdWZTRlNkS1hnMkJFZ1hvVnNqVlJTU0lVelNaMFJFWS1wNmRR",
-        "image": null,
-        "timestamp": 1771653720.0
-    },
-    {
-        "title_fa": "۲۰ فوریه ۲۰۲۶ — حکم دیوان عالی درباره تعرفه‌های اضطراری ترامپ و تهدید حمله به ایران",
-        "title_en": "February 20, 2026 — Trump administration news, SCOTUS tariffs ruling, US-Iran negotiations",
-        "summary": [
-            "دیوان عالی ایالات متحده حکم داد که دستور گسترده تعرفه‌های اضطراری ترامپ غیرقانونی است؛ ترامپ بلافاصله یک دستور اجرایی جدید برای اعمال ۱۰٪ تعرفه جهانی امضا کرد که می‌تواند حداکثر تا ۱۵۰ روز اجرا شود و اختلاف حقوقی بر سر بازپرداخت میلیاردها دلار به شرکت‌ها در جریان است.",
-            "دونالد ترامپ اعلام کرده در حال بررسی گزینه حمله محدود نظامی برای فشار بر تهران جهت حصول توافق هسته‌ای است؛ چهره‌های برجسته دموکرات هشدار داده‌اند که هر اقدام نظامی بدون تصویب کنگره با مخالفت داخلی روبه‌رو خواهد شد—این تهدید نظامی مستقیم پتانسیل بالایی برای افزایش تنش منطقه‌ای دارد.",
-            "دولت کره‌جنوبی جلسه بین‌وزارتی فراخوانده است تا حکم دیوان عالی و دستور تعرفه جدید آمریکا را بررسی کند؛ واکنش متحدان نشان می‌دهد تصمیمات تجاری و حقوقی واشنگتن پیامدهای فوری دیپلماتیک و اقتصادی فرامرزی دارد."
-        ],
-        "impact": "پیامد: تهدید حمله محدود آمریکا همراه با بی‌ثباتی حقوقی درباره تعرفه‌ها فشار خارجی بر حاکمیت ایران را تشدید کرده و فضای سیاسی-اقتصادی داخلی را شکننده‌تر می‌کند.",
-        "tag": "تهدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.cnn.com/us/live-news/trump-administration-us-iran-02-20-26",
-        "clean_url": "https://www.cnn.com/us/live-news/trump-administration-us-iran-02-20-26",
-        "image": null,
-        "timestamp": 1771647300.0
-    },
-    {
-        "title_fa": "یک تپانچه نشانه‌رفته به سوی ایران",
-        "title_en": "‘A Cocked Pistol Aimed at Iran’",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، به مقامات ایران هشدار داده که یا با یک توافق هسته‌ای موافقت کنند یا به‌زودی هدف حملهٔ آمریکا قرار خواهند گرفت؛ این تهدید به‌صورت علنی به‌عنوان اهرم فشار خارجی مطرح شده است.",
-            "ترامپ همچنین تغییر رژیم را بهترین گزینه خوانده است؛ این موضع در بستر اعتراضات گسترده داخلی مطرح می‌شود که رسانه‌ها از آن گزارش داده‌اند و طبق متنِ خبر به کشته شدن هزاران معترض انجامیده است.",
-            "فشار و تهدید نظامی-دیپلماتیک ساختارهای اقتصادی و امنیتی رژیم را تضعیف می‌کند: کاهش درآمدهای ارزی و اختلال در مدیریت بحران ناشی از سیاست‌های داخلی نشان‌دهنده شکست حکمرانی است و می‌تواند نارضایتی مردمی را تشدید و هم‌زمان موج سرکوب را افزایش دهد."
-        ],
-        "impact": "تهدید مستقیم آمریکا به حمله، هم ریسک فروپاشی کنترل امنیتی رژیم را بالا می‌برد و هم احتمال تشدید سرکوب داخلی و بی‌ثباتی اقتصادی را به‌طور ملموسی افزایش می‌دهد.",
-        "tag": "تهدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/21/opinion/iran-epstein-power.html",
-        "clean_url": "https://www.nytimes.com/2026/02/21/opinion/iran-epstein-power.html",
-        "image": "http://www.bing.com/th?id=OVFT.wdbX6JiiYOg8PwGru52qzy&pid=News",
-        "timestamp": 1771646400.0
     }
 ]
