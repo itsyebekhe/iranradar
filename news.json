@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "آمریکا و ایران در دور سوم مذاکرات هسته‌ای؛ همزمان با استقرار نیروهای بیشتر آمریکایی در خاورمیانه",
+        "title_en": "US and Iran are holding a third round of nuclear talks as more American forces deploy to the Mideast",
+        "summary": [
+            "دور سوم مذاکرات هسته‌ای بین آمریکا و ایران در جریان است؛ خبر توسط AP گزارش شده و جزئیات محتوایی بیشتر در متن گزارش ارائه نشده است.",
+            "همزمان ایالات متحده نیروهای بیشتری به خاورمیانه اعزام کرده است؛ هم‌زمانی مذاکرات و تحرکات نظامی نشان‌دهنده فشار استراتژیک و ریسک تشدید تنش در منطقه است.",
+            "این تحولات می‌تواند حاکی از تلاش رژیم برای کاهش فشار خارجی یا محدود کردن گزینه‌های نظامی مقابل خود باشد و در صورت استمرار، فشار اقتصادی و ناخرسندی اجتماعی را افزایش می‌دهد—هرچند گزارش اشاره مستقیمی به اعتراضات داخلی یا وضعیت اقتصادی نکرده است."
+        ],
+        "impact": "همزمانی مذاکرات و افزایش حضور نظامی آمریکا فشار استراتژیک بر رژیم را تقویت می‌کند و احتمال تشدید تنش‌های منطقه‌ای و هزینه‌های سیاسی-اقتصادی داخلی را بالا می‌برد.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHcwR3V4eUZtLU1GbFhsWElIb3BRX2lQSFBZY2YxZ3FHNk1pNFdCT093TDZyUVh2bmR2dWpkQnloTGJIaF9XdEU5ejExX2xQblpHME5NeXdseGxxVUkwMFJjVTJnRE1YSzdyRWt2ZGVpZWFjUUVIWkJTaHdvMjNGNGdMbUktU05ERnp2bXN5cURrOGVpTUlV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHcwR3V4eUZtLU1GbFhsWElIb3BRX2lQSFBZY2YxZ3FHNk1pNFdCT093TDZyUVh2bmR2dWpkQnloTGJIaF9XdEU5ejExX2xQblpHME5NeXdseGxxVUkwMFJjVTJnRE1YSzdyRWt2ZGVpZWFjUUVIWkJTaHdvMjNGNGdMbUktU05ERnp2bXN5cURrOGVpTUlV",
+        "image": null,
+        "timestamp": 1772103840.0
+    },
+    {
+        "title_fa": "یک توافق هسته‌ای میان آمریکا و ایران چه می‌تواند در بر داشته باشد؟",
+        "title_en": "What might a US-Iran nuclear deal entail?",
+        "summary": [
+            "رویترز پرسشی را مطرح می‌کند درباره ساختار و مؤلفه‌های محتمل یک توافق؛ خود تیتر جزئیات مشخصی ارائه نمی‌دهد و موضوع را به بحث می‌گذارد.",
+            "هر بحث واقعی درباره توافق لزوماً شامل عناصر مرتبط با تحریم‌ها، نظارت بین‌المللی و زمان‌بندی اجرای تعهدات است؛ تحلیل باید اثرات ساختاری کاهش فشار خارجی بر ثبات رژیم و منابع مالی آن را ارزیابی کند.",
+            "پیامدهای داخلی اقتصادی و سیاسی برای مدیریت ناکارآمد رژیم اهمیت دارد؛ توافق ممکن است به‌صورت موقت آرامش ایجاد کند یا برعکس، با تشدید رقابت‌های سیاسی داخلی و واکنش مردمی همراه شود — باید با شواهد میدانی دنبال شود."
+        ],
+        "impact": "یک توافق احتمالی میدان تحریم‌ها و توازن داخلی قدرت را تغییر می‌دهد و می‌تواند هم موجب کاهش فشار خارجی و هم تشدید تنش‌های سیاسی داخلی شود.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/us-seeks-deal-prevent-iran-acquiring-nuclear-arsenal-2026-02-26/",
+        "clean_url": "https://www.reuters.com/world/middle-east/us-seeks-deal-prevent-iran-acquiring-nuclear-arsenal-2026-02-26",
+        "image": null,
+        "timestamp": 1772102358.0
+    },
+    {
+        "title_fa": "ایران در مذاکرات غیرمستقیم هسته‌ای در شرایط تهدید حمله آمریکا وعده انعطاف‌پذیری داد",
+        "title_en": "Iran promises flexibility at nuclear talks amid threat of US strikes",
+        "summary": [
+            "در ژنو، تهران اعلام کرد در مذاکرات غیرمستقیم با ایالات متحده آماده نشان دادن انعطاف است؛ این بیانیه در بستر تهدید به حملات نظامی از سوی واشنگتن صورت گرفته است.",
+            "فشار خارجی و تهدید نظامی ساختارهای سیاسی و اقتصادی رژیم را تضعیف کرده و احتمال دارد رژیم را وادار به امتیازدهی برای کاهش ریسک مواجهه با اقدام نظامی یا تشدید تحریم‌ها کند.",
+            "محدودیت فضای تصمیم‌گیری حکایت از دوراهی جدی میان حفظ برنامه هسته‌ای و جلوگیری از درگیری نظامی دارد؛ نتیجه محتمل توافق‌های مشروط یا موقت برای خرید زمان است."
+        ],
+        "impact": "این تحول نشان‌دهنده آسیب‌پذیری روزافزون رژیم است و افزایش احتمال امتیازدهی هسته‌ای برای اجتناب از اقدام نظامی آمریکا را به همراه دارد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-ca/news/world/iran-promises-flexibility-at-nuclear-talks-amid-threat-of-us-strikes/ar-AA1X7wJf",
+        "clean_url": "https://www.msn.com/en-ca/news/world/iran-promises-flexibility-at-nuclear-talks-amid-threat-of-us-strikes/ar-AA1X7wJf",
+        "image": "https://www.reuters.com/resizer/v2/UAQ6RLNREBLSLAVZQRQKIC4CS4.jpg?auth=d705837b2258cbf728adfe41fb79a0256eb2f0eebe74077af51b515943d31400&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1772102145.0
+    },
+    {
         "title_fa": "آغاز دور جدید مذاکره آمریکا و ایران که برای جلوگیری از درگیری حیاتی خوانده می‌شود",
         "title_en": "US and Iran begin talks seen as crucial to prevent conflict",
         "summary": [
@@ -286,6 +340,24 @@
         "clean_url": "https://www.nytimes.com/2026/02/26/world/middleeast/israel-iran-war.html",
         "image": "http://www.bing.com/th?id=OVFT.tD2_k8aulzbH7IF8wueDfi&pid=News",
         "timestamp": 1772071500.0
+    },
+    {
+        "title_fa": "مقامات ایرانی فشار آمریکا را رد کردند",
+        "title_en": "Iran officials reject pressure from US",
+        "summary": [
+            "دو مقام ایرانی پیش از مذاکرات ژنو واکنش دونالد ترامپ را «دروغ بزرگ» خواندند و همزمان گفتند مذاکره ممکن است از طریق «دیپلماسی شرافتمندانه» به توافق منجر شود؛ این اظهارنظرها در حالی مطرح شد که آمریکا بزرگ‌ترین اعزام ناوگان هوایی و دریایی خود به منطقه در دهه‌‌ها را انجام داده است.",
+            "ترامپ بارها تهدید به حمله کرده و تصاویر ماهواره‌ای نشان داد ناوگان پنجم آمریکا کشتی‌هایش را به دریا برده است؛ تصاویر قبلی همچنین آغاز بازسازی سایت‌های تولید موشک و کار در سه سایت هسته‌ای مورد حمله آمریکا در ژوئن را نشان می‌داد و ایران اعلام کرده همه پایگاه‌های آمریکا در خاورمیانه اهداف مشروع هستند.",
+            "این بن‌بست دیپلماتیک در بستری از نارضایتی رو به رشد داخلی رخ می‌دهد؛ همزمانی تشدید فشار خارجی و مشکلات داخلی نشانه ضعف مدیریت و تضعیف مشروعیت کنونی رژیم است و ظرفیت ایجاد بی‌ثباتی بیشتر را دارد."
+        ],
+        "impact": "اثر فوری: افزایش احتمال تقابل نظامی منطقه‌ای و تشدید فشار بر ثبات سیاسی داخلی رژیم.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Arkansas Democrat-Gazette",
+        "url": "https://www.arkansasonline.com/news/2026/feb/26/iran-officials-reject-pressure-from-us/",
+        "clean_url": "https://www.arkansasonline.com/news/2026/feb/26/iran-officials-reject-pressure-from-us",
+        "image": null,
+        "timestamp": 1772070300.0
     },
     {
         "title_fa": "از سرگیری مذاکرات هسته‌ای آمریکا و ایران در ژنو در سایه تهدید نظامی",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwem9GcUp0UFczT2E5bFhoaEpGU2lpWmJBc2I0QnI3aENTNFVMV1U3WUNoRER4UDJ6SG9VMlhsYzVoMUg2bGNOLVFkTW5WVmZwTDgxWS1YRG1mRWR6RDRhSGRJc2w5X1p3TTloY0lMV0g3Sk0",
         "image": null,
         "timestamp": 1771600716.0
-    },
-    {
-        "title_fa": "انحصاری: مقام‌های آمریکایی می‌گویند حملات به ایران می‌تواند رهبران و مقامات را هدف قرار دهد",
-        "title_en": "Exclusive: US strikes on Iran could target individual leaders, officials say",
-        "summary": [
-            "خبر رویترز به نقل از مقام‌های آمریکایی گزارش می‌دهد که حملات احتمالی ایالات متحده علیه ایران می‌تواند شامل هدف‌گیری فردی رهبران و مقامات شود؛ گزارش جزئیات عملیاتی را افشا نکرده است.",
-            "چنین اقدام مستقیمی اگر اجرا شود، مرحله‌ای از فشار خارجی فراتر از تحریم‌ها خواهد بود که می‌تواند ساختارهای تصمیم‌گیری رژیم را تضعیف کند؛ نتیجه‌های اقتصادی و سیاسی داخلی شامل انزوا، اختلال در شبکه‌های فرماندهی و افزایش هزینه‌های بقا برای نخبگان حکومتی خواهد بود.",
-            "در سطح داخلی این تهدید نظامی مستقیم می‌تواند سوءمدیریت و ضعف حکمرانی را برجسته کند؛ حکومت احتمالا برای پوشاندن ناتوانی‌های مدیریتی به سرکوب و محدودیت‌های امنیتی متوسل خواهد شد که خطر گسترش نارضایتی عمومی و بی‌ثباتی را افزایش می‌دهد."
-        ],
-        "impact": "هدف‌گیری شخصی رهبران توسط نیروی خارجی، امکان تشدید مستقیم درگیری، تضعیف عملکرد حکمرانی و افزایش ریسک فروپاشی جزئی نهادهای دولتی را به دنبال خواهد داشت.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/exclusive-us-strikes-on-iran-could-target-individual-leaders-officials-say/ar-AA1WKnzk",
-        "clean_url": "https://www.msn.com/en-us/news/world/exclusive-us-strikes-on-iran-could-target-individual-leaders-officials-say/ar-AA1WKnzk",
-        "image": null,
-        "timestamp": 1771600042.0
-    },
-    {
-        "title_fa": "در حالی که ترامپ جنگ دوم علیه ایران را بررسی می‌کند، ممکن است کشنده‌تر از جنگ اول باشد",
-        "title_en": "As Trump Considers Second Iran War, It Could Be Deadlier Than the First",
-        "summary": [
-            "نیویورک‌تایمز گزارش می‌دهد که ترامپ در حال بررسی امکان آغاز یک جنگ دوم علیه ایران است و هشدار داده می‌شود این درگیری می‌تواند از جنگ نخست مرگبارتر باشد.",
-            "در صورت اقدام نظامی، فشار خارجی و احتمال تحریم‌های تازه افزایش می‌یابد؛ این فشارها ساختارهای اقتصادی و ثبات سیاسی رژیم را بیش از پیش تضعیف خواهد کرد.",
-            "یک جنگ تازه احتمالاً نارضایتی‌های داخلی را تشدید و بحران‌های مدیریتی و اقتصادی را عمیق‌تر می‌کند؛ چنین سناریویی ریسک گسترش منطقه‌ای و افزایش تلفات غیرنظامیان را بالا می‌برد."
-        ],
-        "impact": "طرح یا اجرای جنگ از سوی آمریکا می‌تواند تنش منطقه‌ای را فورا تشدید، تلفات را افزایش و فشار سیاسی-اقتصادی بر رژیم حاکم را به شکل چشمگیری بالا ببرد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCaTNpWXFqSG1JUkNlQVRjTF9MTE5PbFBvUFJSNWVrOGxhaGswX0I2eEsyREx0Zmtrc3dsajBLV1pqV3hQTlNtcjdFLVVncjhjMTZDNkNfc0hMOHhOYUl1Tmd0el9DTzVtOG14NGFDR1AyRC1VMmJN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCaTNpWXFqSG1JUkNlQVRjTF9MTE5PbFBvUFJSNWVrOGxhaGswX0I2eEsyREx0Zmtrc3dsajBLV1pqV3hQTlNtcjdFLVVncjhjMTZDNkNfc0hMOHhOYUl1Tmd0el9DTzVtOG14NGFDR1AyRC1VMmJN",
-        "image": null,
-        "timestamp": 1771598500.0
-    },
-    {
-        "title_fa": "حمله احتمالی به ایران ریسک انتخابات میان‌دوره‌ای برای ترامپ و جمهوری‌خواهان",
-        "title_en": "Possible Iran strike poses midterm election risk for Trump, Republicans",
-        "summary": [
-            "استقرار ناوگروه حامل ناو هواپیمابر USS Gerald R. Ford در خاورمیانه نشانه احتمال تشدید نظامی بین آمریکا و ایران است و رسانه‌ها این حرکت را به تهدیدی برای نتایج انتخابات میان‌دوره‌ای آمریکا مرتبط می‌دانند.",
-            "فشار نظامی خارجی، حتی بدون اشاره مشخص به تحریم‌های جدید، ساختار ثبات داخلی ایران را تضعیف می‌کند: هزینه‌های سیاسی و اقتصادی درگیری افزایشی است و حکومت را ناچار به تخصیص منابع و اتخاذ تصمیم‌های نامطلوب می‌کند که شکاف‌های مدیریتی را برجسته می‌سازد.",
-            "از منظر سیاسی داخلی آمریکا، گسترش مأموریت‌های نظامی معمولاً تحمل رأی‌دهندگان را کاهش می‌دهد و می‌تواند حمایت از جمهوری‌خواهان را تضعیف کند؛ هم‌زمان تشدید تقابل می‌تواند در ایران موجی از نارضایتی و فشار بر مشروعیت حاکمیت ایجاد کند."
-        ],
-        "impact": "استقرار ناوگروه آمریکا احتمال تشدید درگیری نظامی را بالا می‌برد و هم‌زمان ریسک سیاسی بزرگی برای جناح حاکم در آمریکا ایجاد و فشار داخلی و اقتصادی بر حکومت ایران را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/02/20/possible-iran-strike-poses-midterm-election-risk-for-trump-republicans/",
-        "clean_url": "https://www.baltimoresun.com/2026/02/20/possible-iran-strike-poses-midterm-election-risk-for-trump-republicans",
-        "image": null,
-        "timestamp": 1771595940.0
-    },
-    {
-        "title_fa": "نیروی نظامی ایران در اثر جنگ ۱۲ روزه با اسرائیل تضعیف شده اما هنوز قابلیت‌های قابل‌توجهی حفظ کرده است",
-        "title_en": "Iran’s military degraded by 12-day war with Israel, but still has significant capabilities",
-        "summary": [
-            "جنگ ۱۲ روزه با اسرائیل به تضعیف عملکرد و آمادگی عملیاتی بخشی از نیروهای ایران انجامیده؛ کاهش‌های ملموس در توان عملیاتی قابل استنتاج است.",
-            "با وجود این فرسایش، تهران هنوز بخش‌های کلیدی از ظرفیت‌های نظامی خود را حفظ کرده که به ادامه رقابت و حفظ سطحی از بازدارندگی منطقه‌ای کمک می‌کند.",
-            "پیامد استراتژیک این وضعیت، افزایش هزینه‌های عملیاتی و فشار بر روند تصمیم‌گیری رهبری نظامی است و هم‌زمان ریسک تشدید یا تغییر تاکتیک‌ها در آینده را بالا می‌برد."
-        ],
-        "impact": "تضعیف کوتاه‌مدت توان نظامی رژیم بار سیاسی و عملیاتی را افزایش می‌دهد اما حفظ قابلیت‌های قابل‌توجه، خطر ادامه و تشدید بحران منطقه‌ای را نگه می‌دارد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdklZN1BqUjAwdEJyYkFOVXhQbHlmRXVWZWlSWDBiTXRiSEVqc3dfd25QM1Bqb2w0VWlIQUFuWmhTUWVuMklObHNlTGlvS0hPSmFVOGlvNmNYbEN4Zm9aaEY5S2FlcF9qdU9WZHE2eWlTSGRNcjh1eW9VUW84RVVWVWExSFoyU3hSN3cwcmdZemRvMF9pZkhCV3JDNGxJdzJoT1Vv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdklZN1BqUjAwdEJyYkFOVXhQbHlmRXVWZWlSWDBiTXRiSEVqc3dfd25QM1Bqb2w0VWlIQUFuWmhTUWVuMklObHNlTGlvS0hPSmFVOGlvNmNYbEN4Zm9aaEY5S2FlcF9qdU9WZHE2eWlTSGRNcjh1eW9VUW84RVVWVWExSFoyU3hSN3cwcmdZemRvMF9pZkhCV3JDNGxJdzJoT1Vv",
-        "image": null,
-        "timestamp": 1771595781.0
     }
 ]
