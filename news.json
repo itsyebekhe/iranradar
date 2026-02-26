@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آغاز دور سوم مذاکرات هسته‌ای ایران و آمریکا در ژنو",
+        "title_en": "US and Iranian negotiators to meet for crunch nuclear talks – Middle East live",
+        "summary": [
+            "دور سوم مذاکرات هسته‌ای بین ایران و آمریکا در ژنو آغاز شده؛ واسطه‌های عمانی بار دیگر میان عباس عراقچی (وزیر خارجه ایران) و استیو ویتکاف (فرستاده ویژه آمریکا) میانجی‌گری می‌کنند و بدر البوسعیدی، وزیر خارجه عمان، پیشنهاد ایران را به طرف آمریکایی تحویل خواهد داد.",
+            "گزارش‌ها حاکی است که گفتگوها بر مبنای «اصول راهنما» توافق‌شده در دور پیشین پی‌گرفته می‌شود و رئیس آژانس بین‌المللی انرژی اتمی نیز قرار است در نشست‌ها شرکت کند؛ بنابراین این دور، مرحله‌ای تعیین‌کننده برای روشن‌کردن خطوط توافق احتمالی است.",
+            "هرچند این مذاکرات می‌تواند ابزار فشار بین‌المللی و سیاست خارجی رژیم را تغییر دهد، اما حل مشکلات ساختاری اقتصادی و کمبود مشروعیت داخلی به هیچ‌وجه با صرفاً مذاکره هسته‌ای تضمین نمی‌شود؛ مدیریت ناکارآمد داخلی همچنان بحران‌زا باقی می‌ماند."
+        ],
+        "impact": "این دور گفتگوها می‌تواند جهت‌گیری فشارهای بین‌المللی و امکان کاهش تحریم‌ها را تعیین کند، اما به صورت واقع‌گرایانه تاثیری فوری بر نارضایتی اقتصادی و بحران مشروعیت داخلی ندارد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/feb/26/us-iran-nuclear-talks-middle-east-latest-news-updates",
+        "clean_url": "https://www.theguardian.com/world/live/2026/feb/26/us-iran-nuclear-talks-middle-east-latest-news-updates",
+        "image": null,
+        "timestamp": 1772096340.0
+    },
+    {
         "title_fa": "گزارش زنده: مذاکرات آمریکا-ایران در ژنو؛ تازه‌ترین اخبار دولت ترامپ",
         "title_en": "Live updates: US-Iran talks in Geneva, latest Trump administration news",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://english.aawsat.com/features/5244966-what-know-iran-and-us-meet-new-nuclear-talks-americans-deploy-forces-mideast",
         "image": "https://english.aawsat.com/s3/files/styles/1200x600/public/2026-02/1411720_0.jpeg.webp",
         "timestamp": 1772088840.0
+    },
+    {
+        "title_fa": "آمریکا و ایران مذاکرات هسته‌ای را در ژنو از سر می‌گیرند در حالی که تهدید نظامی تشدید شده است",
+        "title_en": "U.S. and Iran to Resume Nuclear Talks in Geneva Amid Heightening Military Threat",
+        "summary": [
+            "گزارش: آمریکا و ایران مذاکرات هسته‌ای را در ژنو از سر می‌گیرند؛ همزمان خبر از تشدید تهدید نظامی علیه ایران مطرح شده است.",
+            "ابعاد فشار خارجی: از سرگیری گفتگوها در چنین فضایی معمولاً نشانه‌ای از فشار خارجی و تضعیف ساختاری رژیم است که آن را وادار به فاصله‌گیری موقت از تقابل مستقیم می‌کند.",
+            "ابعاد داخلی: متن منبع به جزئیات اعتراضات یا وضعیت اقتصادی اشاره‌ای نکرده؛ با این حال، ادامه تهدید نظامی و دیپلماسی هم‌زمان می‌تواند آسیب‌پذیری حکمرانی و نارضایتی‌های اقتصادی را تشدید کند."
+        ],
+        "impact": "پیامد فوری این است که مذاکرات احتمالاً فشار و خطر نظامی را کاهش موقت می‌دهد اما هم‌زمان نشان می‌دهد رژیم زیر فشار ساختاری قرار دارد و قادر به حل بحران‌های راهبردی نیست.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDhzYzgzeVNCSVNwUFRhRkx2dURiRHVBSVpCcGpEdnFBcFJLbFFtdzFZWWtjR3lOMlpPeFBiTG1ZSG5RUjR3QTNaVUplVWxzNVIxNUdNd280YWoxcEpFU0xBajJLM004OGRpY0JrQ3BRNnRhdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDhzYzgzeVNCSVNwUFRhRkx2dURiRHVBSVpCcGpEdnFBcFJLbFFtdzFZWWtjR3lOMlpPeFBiTG1ZSG5RUjR3QTNaVUplVWxzNVIxNUdNd280YWoxcEpFU0xBajJLM004OGRpY0JrQ3BRNnRhdw",
+        "image": null,
+        "timestamp": 1772088240.0
     },
     {
         "title_fa": "زنده: دور سوم گفت‌وگوهای آمریکا و ایران در حالی‌که ترامپ کشتی‌های جنگی به خاورمیانه اعزام می‌کند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHM2M1JQYzRPbjRPdDdoLVhHU3ZLN3hraTJjZ1Btd25HY0Fwa2x0Y3AtWjhFVTlobXRCckVQbUQwSllPdlNpcTBBYUNmaldYTkRZenQ4dVZvVDRJeUFQM1JYSmNhU0NaVndoVmN0T09vTUhERnhXenpXQlBScDVfTTNSQ3FIVXUwM1lWS2ZvX1FIQmNXVVZkcGRMOUl5d9IBowFBVV95cUxNcDB5Rm12SHFNNTVkTFhIcV8xZUpmNXFyVWdlVDNIdl9JZmF2QTBrVkRiUll5Q3M3aGl3aFVnSjZNanJPcGxEX3hHRVhKeWN4M21fQXB3N3BMRUtpZUQyR04yRmt4dVFVbXZfTG9WSUtGZnNVR0JnQlYzcWlBaUs3WlEtTzRtZEI5YmFKbWJQQm9IUFQ5UE5YbVFyY05kelBjRzQw",
         "image": null,
         "timestamp": 1771593360.0
-    },
-    {
-        "title_fa": "ترامپ به ایران ضرب‌الاجل ۱۰–۱۵ روزه؛ تهدید به «عواقب نظامی جدی» — کارشناسان: مذاکرات ممکن است وقت‌خری برای حمله باشد",
-        "title_en": "Trump gives Iran 10-day ultimatum, but experts signal talks may be buying time for strike",
-        "summary": [
-            "ترامپ به تهران ضرب‌الاجل ۱۰ تا ۱۵ روزه تعیین کرده و هشدار داده در صورت عدم ورود به مذاکره، «عواقب نظامی جدی» در پی خواهد داشت.",
-            "کارشناسان گزارش می‌دهند که این فراخوان مذاکره ممکن است در واقع ابزاری برای وقت‌خری و ایجاد زمینه برای عملیات نظامی باشد، نه صرفاً تلاش واقعی دیپلماتیک.",
-            "پیامدهای فوری شامل تشدید فشار خارجی بر رژیم، افزایش ریسک انزوای بین‌المللی و احتمال تشدید مخاطرات سیاسی-اقتصادی داخلی خواهد بود؛ این امور می‌توانند ثبات حکومتی را بیشتر تضعیف کنند. "
-        ],
-        "impact": "ضرب‌الاجل تقویت فشار خارجی و هم‌زمان افزایش احتمال تبدیل بن‌بست دیپلماتیک به اقدام نظامی است که ثبات داخلی رژیم را به مخاطره می‌اندازد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-gives-iran-10-day-ultimatum-but-experts-signal-talks-may-be-buying-time-for-strike/ar-AA1WL4nk",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-gives-iran-10-day-ultimatum-but-experts-signal-talks-may-be-buying-time-for-strike/ar-AA1WL4nk",
-        "image": "http://www.bing.com/th?id=OVFT.JbMAYxf-ws4QxN5JaNYN7S&pid=News",
-        "timestamp": 1771590567.0
-    },
-    {
-        "title_fa": "ترامپ ممکن است ظرف روزهای آینده به ایران حمله کند — چه چیزی برای بازار نفت در خطر است",
-        "title_en": "Trump could attack Iran in days — what's at stake for the oil market",
-        "summary": [
-            "CNBC از احتمال حمله قریب‌الوقوع آمریکا به ایران خبر داده؛ هر اقدام نظامی مستقیم می‌تواند زیرساخت‌های نفتی و مسیرهای صادراتی را در معرض اختلال قرار دهد و عرضه جهانی نفت را متلاطم کند.",
-            "فشار نظامی و خارجی ترکیب‌شده با تحریم‌ها ساختار اقتصادی و توان مالی دولت را تضعیف می‌کند؛ اگر حمله رخ دهد، کاهش درآمدهای نفتی و هزینه‌های نظامی مضاعف، فشار بودجه و نارضایتی داخلی را افزایش خواهد داد.",
-            "برای بازار جهانی نفت، خطر ایجاد «پریمیوم ریسک» به‌واسطه اختلال عرضه، افزایش هزینه‌های بیمه و نوسان شدید قیمت‌ها وجود دارد که پیامدهای فوری برای تولیدکنندگان و مصرف‌کنندگان دارد."
-        ],
-        "impact": "حمله احتمالی می‌تواند عرضه نفت منطقه را مختل کرده و فشارهای اقتصادی و سیاسی را علیه حکومت تشدید کند، هم‌زمان بازار جهانی نفت را با افزایش نوسان و قیمت مواجه خواهد ساخت.",
-        "tag": "نفت",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFRnT1EzM2I3OWdTWmFCNHdEMDI3VGpSdVk1QW9ESDBNQldJZExZZV9pSGZ4RHUzdFVQM24yWGQ2ZXhOemFuaURkcmpXU3NDNVo4SzlTUmpPNEk0V1R5eUxLZXFXS2VLbmx2ZzdZS1lsTUptQ2plX2JRSjZnck1lTi0xZ2x1QmxzWmNNQWRkd01QQjQ5WjFpNnRzcDZRN2RRYk9wZtIBqgFBVV95cUxQV3dNU294ekc4RTFmSGNWU2ItUG5aMlQxZUZsSVpBRjFRbVBkMTl4cEtWcUNNTnJfdkhfQ01MUUtNdjdKTnFsNVJyMHRSRjJDR0pBWmlOSXI2OHl0T19HN2RjRHp5VGg1Z2hnZGE4VUU3Z0ZRTkhPNnJQQ2xiVnByOXBkUDVVQ2t6b1pkTDR5Sk9Hdi1QaEczQW95QTl4d0s0aEFXWkgxbVBCdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFRnT1EzM2I3OWdTWmFCNHdEMDI3VGpSdVk1QW9ESDBNQldJZExZZV9pSGZ4RHUzdFVQM24yWGQ2ZXhOemFuaURkcmpXU3NDNVo4SzlTUmpPNEk0V1R5eUxLZXFXS2VLbmx2ZzdZS1lsTUptQ2plX2JRSjZnck1lTi0xZ2x1QmxzWmNNQWRkd01QQjQ5WjFpNnRzcDZRN2RRYk9wZtIBqgFBVV95cUxQV3dNU294ekc4RTFmSGNWU2ItUG5aMlQxZUZsSVpBRjFRbVBkMTl4cEtWcUNNTnJfdkhfQ01MUUtNdjdKTnFsNVJyMHRSRjJDR0pBWmlOSXI2OHl0T19HN2RjRHp5VGg1Z2hnZGE4VUU3Z0ZRTkhPNnJQQ2xiVnByOXBkUDVVQ2t6b1pkTDR5Sk9Hdi1QaEczQW95QTl4d0s0aEFXWkgxbVBCdw",
-        "image": null,
-        "timestamp": 1771588039.0
     }
 ]
