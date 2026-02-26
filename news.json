@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "آمریکا: روبیو و وانس پیش از مذاکرات درباره تهدید ایران هشدار دادند",
+        "title_en": "US: Rubio and Vance warn of Iran's threat ahead of talks",
+        "summary": [
+            "مارکو روبیو و جِی.دی. وانس در آستانه مذاکراتی که گزارش جزئیات آن را نیاورده، نسبت به «تهدید ایران» هشدار دادند.",
+            "چنین هشدارهایی می‌تواند به واشنگتن مبنایی برای تشدید فشار دیپلماتیک و درخواست برای اقدامات قوی‌تر از جمله تحریم‌ها بدهد؛ این نکته یک استنتاج تحلیلی است نه خبر مستقیم گزارش.",
+            "در داخل ایران، این روایت هشدار خارجی امکان تقویت دستورکار جناح‌های حاکم برای کنار زدن انتقادات درباره ناکارآمدی اقتصادی و نارضایتی اجتماعی را فراهم می‌کند؛ این نیز تحلیل محتاطانه‌ای مبتنی بر روندهای شناخته‌شده است."
+        ],
+        "impact": "فشار سیاسی آمریکا محتمل است تشدید شود و فضا را برای مواضع سخت‌تر یا تحریم‌های جدید علیه جمهوری اسلامی بازتر کند.",
+        "tag": "هشدار",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "DW.com",
+        "url": "https://www.msn.com/en-ca/news/world/us-officials-warn-of-iranian-threat-to-the-us-ahead-of-nuclear-talks/ar-AA1X5nkI",
+        "clean_url": "https://www.msn.com/en-ca/news/world/us-officials-warn-of-iranian-threat-to-the-us-ahead-of-nuclear-talks/ar-AA1X5nkI",
+        "image": null,
+        "timestamp": 1772075878.0
+    },
+    {
+        "title_fa": "گسترش هشدارهای سفر به خاورمیانه؛ تنش میان آمریکا و ایران افزایش می‌یابد",
+        "title_en": "Middle East travel warnings expanded as tensions between US and Iran increase",
+        "summary": [
+            "چندین دولت به شهروندان خود توصیه یا دستور خروج از ایران و منطقه دادند؛ خطوط هوایی پروازها را کاهش یا تعلیق کرده‌اند و برخی کشورها (از جمله استرالیا و آمریکا) خروج وابستگان و کارکنان غیرضروری دیپلماتیک را آغاز کردند.",
+            "در آستانه مذاکرات هسته‌ای، مقامات آمریکایی ایران را به بازسازی برنامه هسته‌ای متهم و از «پیامدهای شدید» در صورت عدم توافق سخن گفتند؛ اختلاف بر سر موضوعاتی مانند موشک‌های بالیستیک یکی از موانع مذاکرات گزارش شده است.",
+            "تعلیق پروازها توسط شرکت‌هایی مانند KLM و توصیه‌های خروج از سوی کشورهایی چون قبرس، آلمان، هند، لهستان، صربستان و سوئد نشان‌دهنده افزایش انزوا و اختلال در ارتباطات دیپلماتیک و اقتصادی منطقه‌ای است."
+        ],
+        "impact": "این روند انزوای بین‌المللی و اختلال اقتصادی رژیم را تشدید کرده و فشار بر شهروندان، دیپلمات‌ها و بنیه اقتصادی را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/feb/26/us-iran-middle-east-travel-warnings",
+        "clean_url": "https://www.theguardian.com/world/2026/feb/26/us-iran-middle-east-travel-warnings",
+        "image": null,
+        "timestamp": 1772073780.0
+    },
+    {
         "title_fa": "از سرگیری مذاکرات هسته‌ای ایران و آمریکا در حالی که «ساعت جنگ» ترامپ در حال اتمام است",
         "title_en": "Iran, U.S. nuclear negotiations resume as Trump’s war clock ticks down",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnZLYzlsYzloc0U0OXJWQnBuMmpqQlNzSlJya0lrRll3WG1KUnlXcUV2Zjh3aUctbE9tZGtjZnE2UmQtTl9BZzlBeWZOUWlZVDZHMmFKdU9Mai1LWkNQWFpQUlFoLV9LRTJFX05kdVhHZm84eEdVa2lyQ2ZzbU5pVjJxaUNvNUpWUFd3RFBMV3NmNE1STHgteUxFRlExNzF3LS13WGVUMlhyQQ",
         "image": null,
         "timestamp": 1771578255.0
-    },
-    {
-        "title_fa": "تنش‌های آمریکا و ایران باعث جهش قیمت نفت شد؛ آنچه می‌دانیم",
-        "title_en": "United States, Iran tensions cause jump in oil prices. What we know",
-        "summary": [
-            "رسانه‌ها گزارش می‌دهند که تشدید تنش‌های میان ایالات متحده و ایران موجب افزایش قیمت‌های جهانی نفت شده است؛ بازارها ریسک ژئوپولیتیک منطقه را در قیمت‌گذاری منعکس می‌کنند.",
-            "از منظر تحریم‌ها و فشار خارجی: هرچند افزایش قیمت نفت می‌تواند درآمدهای صادراتی نامنظم را بالا ببرد، اما ساختار تحریم‌ها و محدودیت‌های بانکی مانع تبدیل این درآمدها به بهبود اقتصادی پایدار و کاهش آسیب‌پذیری رژیم می‌شود.",
-            "پیامدهای داخلی و اقتصادی: جهش قیمت نفت احتمالاً تورم جهانی را تشدید و هزینه واردات را افزایش می‌دهد؛ در داخل ایران، اگر حکمرانی اقتصادی ناکارآمد ادامه یابد، فشار معیشتی می‌تواند باعث قوت گرفتن نارضایتی‌های اجتماعی شود."
-        ],
-        "impact": "افزایش قیمت نفت ریسک فشار اقتصادی بر حکومت ایران را افزایش می‌دهد و در صورت تداوم تنش‌ها، ثبات سیاسی و معیشت عمومی در معرض آسیب بیشتری قرار خواهد گرفت.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/nation/2026/02/20/us-iran-tensions-jump-oil-prices-what-to-know/88768110007/",
-        "clean_url": "https://www.usatoday.com/story/news/nation/2026/02/20/us-iran-tensions-jump-oil-prices-what-to-know/88768110007",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/23/PDEM/87896010007-gas-prices-cs-2.jpg?crop=8639,4861,x0,y449&width=3200&height=1801&format=pjpg&auto=webp",
-        "timestamp": 1771575240.0
-    },
-    {
-        "title_fa": "ترامپ هنوز ایران را بمباران نکرده؛ لابد این نظرسنجی‌ها را می‌خواند",
-        "title_en": "Trump hasn't bombed Iran yet. He must be reading these polls.",
-        "summary": [
-            "گزارش اعلام می‌کند که دونالد ترامپ تا کنون اقدام نظامی مستقیم علیه ایران انجام نداده و نویسنده احتمال می‌دهد که نظرسنجی‌های داخلی آمریکا تصمیم‌گیری را محدود کرده است.",
-            "معنا و پیامد استراتژیک: تعویق در حمله نظامی نشان می‌دهد فشار مستقیم نظامی فعلاً متوقف مانده، اما این توقف به معنای پایان فشارهای ساختاری مانند تحریم‌ها یا انزوای دیپلماتیک علیه رژیم نیست.",
-            "ابعاد داخلی: اتکا به احساسات و نظرسنجی‌های آمریکایی برای تصمیم‌گیری نظامی برجسته است؛ این محدودیت سیاست خارجی فرصت‌هایی برای اپوزیسیون فراهم می‌کند اما نشانه‌ای از اصلاح یا بهبود عملکرد حکومت نیست."
-        ],
-        "impact": "تعویق در عملیات نظامی، پنجره‌ای برای فشار سیاسی و سازماندهی اپوزیسیون ایجاد می‌کند و هم‌زمان نشانه‌ای از آسیب‌پذیری رژیم در برابر فشارهای خارجی و داخلی است.",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMzNNVUxYQUxzYWw2WG4wOFRWbjRoNW9lVUZMcGtrcWVsM1RLR2FNYlpkczhfWmo4c3pVSGphNWRuTmtjeS1jSzVJUHlyM2NIRHRHaDdrZ0Jhc1lFa3BEOWxRWGg5Nm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZMzNNVUxYQUxzYWw2WG4wOFRWbjRoNW9lVUZMcGtrcWVsM1RLR2FNYlpkczhfWmo4c3pVSGphNWRuTmtjeS1jSzVJUHlyM2NIRHRHaDdrZ0Jhc1lFa3BEOWxRWGg5Nm8",
-        "image": null,
-        "timestamp": 1771574315.0
     }
 ]
