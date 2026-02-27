@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "مذاکرات آمریکا و ایران بی‌نتیجه؛ خطر جنگ بالا",
+        "title_en": "U.S.-Iran Talks Lead to No Deal Amid Risk of War",
+        "summary": [
+            "مذاکرات میان آمریکا و ایران بدون توافق خاتمه یافت؛ وزیر خارجه عباس عراقچی هشدار داد هر درگیری می‌تواند به «جنگ ویرانگر» منجر شود.",
+            "عدم حصول توافق شانس تشدید تحریم‌ها و فشار خارجی را افزایش می‌دهد که ساختارهای اقتصادی و توان بقاء سیاسی رژیم را تضعیف و ثبات داخلی را کاهش می‌دهد.",
+            "افزایش تنش نظامی می‌تواند نارضایتی عمومی را تشدید کند و کمبودها و مشکلات اقتصادی را برجسته‌تر سازد؛ این وضعیت بازتاب مدیریت ناکارآمد و بحران مشروعیت رژیم است."
+        ],
+        "impact": "پیامد فوری شکست مذاکرات، بالا رفتن احتمال درگیری نظامی و فشار خارجی است که به سرعت فضای سیاسی-اقتصادی را بی‌ثبات‌تر خواهد کرد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "TIME",
+        "url": "https://www.msn.com/en-us/news/other/u-s-iran-talks-lead-to-no-deal-amid-risk-of-war/ar-AA1XcyGy",
+        "clean_url": "https://www.msn.com/en-us/news/other/u-s-iran-talks-lead-to-no-deal-amid-risk-of-war/ar-AA1XcyGy",
+        "image": null,
+        "timestamp": 1772202540.0
+    },
+    {
+        "title_fa": "گفت‌وگوهای آمریکا و ایران بی‌نتیجه ماند؛ خطر «جنگ ویرانگر» — وضعیت کنونی",
+        "title_en": "U.S.-Iran Talks Lead to No Deal Amid Risk of ‘Devastating War.’ Here’s Where Things Stand",
+        "summary": [
+            "بی‌نتیجه ماندن مذاکرات؛ فقدان توافق فرصت محدود برای کاهش فشار خارجی را از بین برد و رژیم را در معرض ادامه یا تشدید تحریم‌ها و فشارهای دیپلماتیک قرار می‌دهد که ساختار سیاسی و اقتصادی را تضعیف خواهد کرد.",
+            "خطر «جنگ ویرانگر» نشان‌دهنده افزایش واقعی احتمال درگیری نظامی مستقیم یا حملات هدفمند علیه دارایی‌ها و زیرساخت‌های رژیم است؛ این وضعیت ریسک پاسخ‌های نظامی متقابل و تشدید بی‌ثباتی منطقه‌ای را بالا می‌برد.",
+            "ادامه بن‌بست دیپلماتیک بدون بهبود اقتصادی ملموس، بار مشکلات معیشتی را بر شهروندان سنگین‌تر می‌کند و ضعف مدیریت اقتصادی-سیاسی رژیم را برجسته می‌سازد؛ این روند پتانسیل تقویت نارضایتی اجتماعی را دارد."
+        ],
+        "impact": "بی‌نتیجه ماندن مذاکرات ترکیب فشار خارجی و ناکارآمدی داخلی را تشدید می‌کند و شانس تضعیف گسترده‌تر مشروعیت و توان عملیاتی رژیم را افزایش می‌دهد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Time Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMHpjZXVydWF4YVo1ZVd2ZWtibEpsc1VNTHE2TXk4TUNUaHhBeG1tZ0hKVlFMUmhYMExiVjZPYVNQSlJGNDhSV3Q5Q2ZDcm5mR0Q2eTNmOGFURjRRRFhmZGtGZXNFelZQRTRWdGZWZlpzZ25mLXB0cjlQRTZGallkU2dkSW9obWtFd0FIOE5OMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMHpjZXVydWF4YVo1ZVd2ZWtibEpsc1VNTHE2TXk4TUNUaHhBeG1tZ0hKVlFMUmhYMExiVjZPYVNQSlJGNDhSV3Q5Q2ZDcm5mR0Q2eTNmOGFURjRRRFhmZGtGZXNFelZQRTRWdGZWZlpzZ25mLXB0cjlQRTZGallkU2dkSW9obWtFd0FIOE5OMA",
+        "image": null,
+        "timestamp": 1772201848.0
+    },
+    {
+        "title_fa": "ترامپ آمریکا را به سوی یک جنگ غیرضروری با ایران می‌برد",
+        "title_en": "Trump Is Potentially Leading the United States Into an Unnecessary War With Iran",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، پس از بزرگ‌ترین استقرار هواپیماهای نظامی آمریکا در خاورمیانه از سال ۲۰۰۳، ممکن است بار دیگر علیه ایران اقدام نظامی کند در حالی که دلایل منطقی و قانع‌کننده برای چنین عملی ارائه نشده است.",
+            "دولت آمریکا اهداف چندگانه‌ای را مطرح کرده — از حمایت از معترضان ایرانی که یک ماه پیش «به‌زور سرکوب» شدند تا نابودی برنامه هسته‌ای، موشک‌ها و شبکه نیابتی — که هیچ‌یک بدون دخالت نیروی زمینی و هزینه‌های سنگین عملیاتی قابل حصول نیستند؛ در عین حال ادعای «نابودی» برنامه هسته‌ای در حملات ژوئن یا نادرست بوده یا ناآگاهانه است.",
+            "اقدام احتمالی بدون تصویب کنگره، نه تنها ریسک جانی برای نظامیان آمریکایی و منافع واشنگتن دارد، بلکه مشروعیت قانون اساسی آمریکا را زیر سوال می‌برد؛ پرسش کلیدی این است که چرا پس از نبود شواهدی مبنی بر ازسرگیری تولید در سایت‌های هدف‌گرفته، حملات تکمیلی ناگهان ضروری شده‌اند."
+        ],
+        "impact": "فشار نظامی-دیپلماتیک آمریکا می‌تواند ثبات سیاسی و اقتصادی ایران را بیش از پیش تضعیف کند اما اهداف اعلام‌شده با ابزارهای نظامی کوتاه‌مدت دست‌یافتنی نیست و هزینه‌های انسانی و سیاسی گسترده‌ای به دنبال خواهد داشت.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Center for American Progress",
+        "url": "https://www.americanprogress.org/article/trump-is-potentially-leading-the-united-states-into-an-unnecessary-war-with-iran/",
+        "clean_url": "https://www.americanprogress.org/article/trump-is-potentially-leading-the-united-states-into-an-unnecessary-war-with-iran",
+        "image": null,
+        "timestamp": 1772201582.0
+    },
+    {
         "title_fa": "آمریکا از شهروندانش خواست فوراً اسرائیل را ترک کنند؛ در سایه تهدید حمله به ایران",
         "title_en": "US urges its citizens to leave Israel immediately amid strike threat on Iran",
         "summary": [
@@ -250,6 +304,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUXRNdkhQbkY0cEQ2dTdNeVlDLUJhVjZvZUR6NVJiSmM2T1AyX1V1RF9TTVFzTHUyS2pNTmFrU29MeEszaVZwaFhvOUxQMTJxUGk5eW9lNnhNVnhnNHk1RGxuQVhUbE40aDZF",
         "image": null,
         "timestamp": 1772172675.0
+    },
+    {
+        "title_fa": "ترامپ هشدار نتانیاهو درباره ایران را تکرار کرد و تهدید هسته‌ای را «نبرد آمریکا» خواند",
+        "title_en": "Trump echoes Netanyahu's Iran warning, reframing nuclear threat as America’s fight",
+        "summary": [
+            "تکرار زبان امنیتی نتانیاهو در سخنرانی سال ۲۰۱۵: ترامپ در سخنرانی State of the Union ایران را به‌عنوان «حامی شماره یک ترور» و تهدید هسته‌ای مستقیم برای آمریکا معرفی کرد؛ قالبی که راه را برای توجیه سیاست‌های تهاجمی باز می‌کند.",
+            "پیامدهای دیپلماتی/نظامیِ قابل‌پیش‌بینی: این قاب‌بندی سیاسی نقش تعیین‌کننده‌ای در گرایش واشینگتن بین دیپلماسی و اقدام نظامی دارد و احتمال اتخاذ گزینه‌های قهرآمیز را افزایش می‌دهد.",
+            "فشار خارجی و تضعیف ساختاری رژیم: هرچند متن به‌طور مستقیم از تحریم یا پیامدهای داخلی حرفی نزده، اما چنین لحن و توجیهی معمولاً پیش‌زمینه افزایش تحریم‌ها و فشار خارجی است که می‌تواند ثبات اقتصادی و مشروعیت سیاسی رژیم را تضعیف کند."
+        ],
+        "impact": "قاب‌بندی ترامپ شانس اتخاذ تحریم‌های شدید یا گزینه نظامی علیه ایران را بالا می‌برد و از منظر ساختاری رژیم را در برابر فشار خارجی و پیامدهای اقتصادی بیشتر آسیب‌پذیر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-echoes-netanyahus-iran-warning-135749751.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-echoes-netanyahus-iran-warning-135749751.html",
+        "image": "http://www.bing.com/th?id=OVFT.9ZF1Y0VMBiaz06q9QmRSlC&pid=News",
+        "timestamp": 1772172540.0
     },
     {
         "title_fa": "برنامه هسته‌ای ایران: مذاکرات با آمریکا ادامه دارد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfNWdMRDhOZHhhWWRrUUdJa3p1OFdVZkg5NHJ4cmx0TXMzY2FrT21wWVh4UW42X1pJd2p4a0JTSjdKTm5iX3hyWHJzUml2OEZRMEJCbnhUNA",
         "image": null,
         "timestamp": 1771724117.0
-    },
-    {
-        "title_fa": "تنش ایران-آمریکا و خیزش تازه دانشجویی با شعارهای ضد خامنه‌ای",
-        "title_en": "Iran-US tensions LIVE: Amid tensions with US, fresh protests erupt in Iran; students chant anti-Khamenei slogans",
-        "summary": [
-            "دونالد ترامپ تهدید تازه‌ای مطرح کرده و هشدار داده که «ناخوشایند» خواهد بود اگر حکومت ایران ظرف مهلتی برای مذاکره درباره توافق هسته‌ای اقدام نکند؛ این موضع فشار خارجی بر تهران را تشدید می‌کند.",
-            "در داخل ایران اعتراضات تازه‌ای آغاز شده و به‌ویژه دانشجویان شعارهای ضد خامنه‌ای سر می‌دهند؛ ورود نسل جوان به خیابان نشانه گسترش نارضایتی اجتماعی از مدیریت حکومتی است.",
-            "ترکیب فشارهای بین‌المللی و اعتراضات خیابانی بازتابی از شکست مدیریت و ناتوانی ساختاری حکومت است که ریسک تشدید سرکوب داخلی یا مواجهه با فشارهای بین‌المللی شدیدتر را بالا می‌برد."
-        ],
-        "impact": "همزمانی تهدیدهای آمریکا و موج تازه اعتراضات دانشجویی مشروعیت و ظرفیت مدیریت بحران حکومت را تضعیف کرده و احتمال تشدید سرکوب یا تقابل بین‌المللی را افزایش می‌دهد.",
-        "tag": "ناآرامی",
-        "urgency": 6,
-        "sentiment": -0.75,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/iran-us-tensions-donald-trump-ayatollah-ali-khamenei-nuclear-talks-tehran-student-protests-universities-latest-news-101771742710823.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-donald-trump-ayatollah-ali-khamenei-nuclear-talks-tehran-student-protests-universities-latest-news-101771742710823.html",
-        "image": null,
-        "timestamp": 1771720740.0
-    },
-    {
-        "title_fa": "چگونه ایران برای دوام آوردن مقابل ترامپ در جنگی بلندمدت آماده می‌شود",
-        "title_en": "How Iran Is Preparing to Outlast Trump in a Long War",
-        "summary": [
-            "گزارش Newsweek به نقل از یک تحلیلگر نظامی سابق اسرائیل می‌گوید ایران قابلیت‌هایی دارد که در دور قبلی به‌طور کامل به کار نگرفته است.",
-            "ذخیره یا پنهان نگه داشتن این قابلیت‌ها نشانه آماده‌سازی برای یک مواجهه فرسایشی و احتیاط در زمان‌بندی استفاده از توانمندی‌هاست.",
-            "پیامد عملی این رویکرد افزایش ریسک تشدید نظامی در منطقه و لزوم بازنگری رقبا و آمریکا در استراتژی بازدارندگی است."
-        ],
-        "impact": "این رفتار حکومتی نشان‌دهنده اولویت‌گذاری بر توان نظامی برای بقا در درازمدت است و می‌تواند ثبات منطقه‌ای و ظرفیت اقتصادی داخلی را فرسایشی تضعیف کند.",
-        "tag": "نظام",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/how-iran-is-preparing-to-outlast-trump-in-a-long-war-11559289",
-        "clean_url": "https://www.newsweek.com/how-iran-is-preparing-to-outlast-trump-in-a-long-war-11559289",
-        "image": "http://www.bing.com/th?id=OVFT.DZBkTQgDkinRMfd4C_rFii&pid=News",
-        "timestamp": 1771718400.0
-    },
-    {
-        "title_fa": "اروپا به دنبال احیای دیپلماسی با ایران؛ آمریکا گزینه حمله را بررسی می‌کند",
-        "title_en": "Europe seeks to revive Iran diplomacy, U.S. considers strikes",
-        "summary": [
-            "اروپا در پی بازکردن یا احیای کانال‌های دیپلماتیک با ایران است که نشان‌دهنده تمایل به کاهش تنش و جلوگیری از تقابل نظامی مستقیم است.",
-            "آمریکا گزینه حملات نظامی علیه ایران را بررسی می‌کند که سطح خطر تشدید سریع درگیری و رویارویی مستقیم را بالا می‌برد.",
-            "تلاقی دیپلماسی اروپایی و تهدید نظامی آمریکا فشار خارجی بر حکومت ایران را افزایش می‌دهد و می‌تواند زمینهٔ تشدید نارضایتی داخلی را فراهم کند."
-        ],
-        "impact": "تضاد میان فشار دیپلماتیک اروپا و تهدید نظامی آمریکا می‌تواند بحران را تشدید و ثبات داخلی حکومت ایران را بیش‌تر تضعیف کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "AOL.com",
-        "url": "https://www.msn.com/en-us/politics/international-relations/iran-weighs-nuclear-diplomacy-with-us-to-cool-fears-of-war/ar-AA1VuBLQ",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-weighs-nuclear-diplomacy-with-us-to-cool-fears-of-war/ar-AA1VuBLQ",
-        "image": null,
-        "timestamp": 1771716510.0
-    },
-    {
-        "title_fa": "ترامپ به ایران ۱۰ تا ۱۵ روز مهلت داد تا به توافق هسته‌ای معنادار برسد",
-        "title_en": "Trump gives Iran 10 to 15 days to reach a meaningful nuclear deal",
-        "summary": [
-            "پرزیدنت ترامپ به ایران حداکثر ۱۰–۱۵ روز فرصت داده و هم‌زمان گزینه‌های حمله محدود به اهداف نظامی یا دولتی را بررسی می‌کند؛ آمریکا در هفته‌های اخیر حضور نظامی خود را در منطقه تقویت کرده است.",
-            "گزارش‌ها می‌گویند حمله محدود به عنوان یکی از گزینه‌ها مطرح است و مقام‌های نزدیک به رئیس‌جمهور احتمال اقدام نظامی را روزافزون می‌دانند، هرچند تصمیم نهایی گرفته نشده است.",
-            "متن خبر اشاره مستقیمی به پیامدهای داخلی در ایران ندارد، اما فشار دیپلماتیک و نظامیِ فزاینده ساختار قدرت را هدف قرار می‌دهد و می‌تواند ظرفیت‌های اقتصادی و سیاسی رژیم را تضعیف کند یا تهران را به واکنش‌های تند و خطرناک سوق دهد."
-        ],
-        "impact": "این ضرب‌الاجل و تهدیدِ حمله، خطر تشدید درگیری نظامی و افزایش فشار بر ثبات داخلی و دیپلماسی رژیم را بلافاصله بالا می‌برد.",
-        "tag": "فشار",
-        "urgency": 10,
-        "sentiment": 0.6,
-        "source": "Scripps News",
-        "url": "https://www.yahoo.com/news/articles/trump-gives-iran-15-day-100006132.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-gives-iran-15-day-100006132.html",
-        "image": null,
-        "timestamp": 1771715614.0
     }
 ]
