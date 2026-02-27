@@ -18,6 +18,24 @@
         "timestamp": 1772220724.0
     },
     {
+        "title_fa": "استقرار اف-22های آمریکا در اسرائیل در پاسخ به اخطارهای ایران به شرکای عرب واشینگتن",
+        "title_en": "U.S. Deploys F-22s to Israel as Iran Tries To Intimidate Washington’s Arab Partners",
+        "summary": [
+            "آمریکا جنگنده‌های نسل پنجم F-22 را در اسرائیل مستقر کرده تا شرکای عرب را آرام کند و به اقدام‌های بازدارنده در برابر تلاش‌های ایران برای ارعاب منطقه‌ای پاسخ دهد.",
+            "این استقرار نشانه آمادگی واشینگتن برای افزایش واکنش نظامی است؛ حرکتی که احتمال مواجهه مستقیم یا تشدید درگیری را افزایش می‌دهد اما در متن گزارش نشانه‌ای از رویارویی مستقیم کنونی وجود ندارد.",
+            "برای جمهوری اسلامی، فشار نظامی و سیاسی آمریکا هزینه‌های راهبردی را بالا می‌برد و دسترسی تهران به فضای نفوذ در بین کشورهای عربی را محدودتر می‌کند؛ در عین حال این تنش می‌تواند آسیب‌پذیری‌های داخلی رژیم را تشدید کند."
+        ],
+        "impact": "استقرار اف-22ها خطر تشدید تنش نظامی منطقه‌ای را بالا می‌برد و همزمان موقعیت رژیم ایران را از نظر دیپلماتیک و عملیاتی تضعیف می‌کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Foundation for Defense of Democracies",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0Q2RFc4MVRjcHZldFhmaWtxeVVCemUxN3JZdEJTcjF1Z0xPanpJbnhPclJhaFdROHlvZnBwZXZudXpLZUJwRXJpdE1vLTBia0thTUdhN01FcEJ6YTFOajJWbWFfcVh0endENF9tcno0RlZSTVdIZktIZUh2cTFQOVk1R0NHeHotYl9vbW1ScjI4d2lTdVR2TXlDZTZsd09QbV8teG81TmFxU0c3T2ZkMGFQNldQLUxnbjhSZzJLcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0Q2RFc4MVRjcHZldFhmaWtxeVVCemUxN3JZdEJTcjF1Z0xPanpJbnhPclJhaFdROHlvZnBwZXZudXpLZUJwRXJpdE1vLTBia0thTUdhN01FcEJ6YTFOajJWbWFfcVh0endENF9tcno0RlZSTVdIZktIZUh2cTFQOVk1R0NHeHotYl9vbW1ScjI4d2lTdVR2TXlDZTZsd09QbV8teG81TmFxU0c3T2ZkMGFQNldQLUxnbjhSZzJLcw",
+        "image": null,
+        "timestamp": 1772220529.0
+    },
+    {
         "title_fa": "ترامپ: از مذاکرات با ایران «راضی نیستم» اما منتظر دورهای بعدی خواهم ماند",
         "title_en": "Trump says he's 'not happy' with Iran talks but will wait to see what happens in further rounds",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-gb/politics/international-relations/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters/ar-AA1WPJWS",
         "image": null,
         "timestamp": 1771750342.0
-    },
-    {
-        "title_fa": "ایران و آمریکا در دیدگاه درباره رفع تحریم‌ها اختلاف دارند، مقام ارشد ایرانی به رویترز",
-        "title_en": "Iran and US diverge in views on sanctions relief, senior Iranian official to Reuters",
-        "summary": [
-            "خبر رویترز: یک مقام ارشد ایرانی اعلام کرده ایران و آمریکا در موضوع نحوه و میزان رفع تحریم‌ها اختلاف نظر دارند.",
-            "اثر تحریمی/فشار خارجی: این اختلاف، مسیر بازگشت سریع به تسهیلات اقتصادی را مسدود می‌کند و بار ساختاری تحریم‌ها را بر حکومت حفظ می‌کند؛ فشار بلندمدت بر توان تحریری و سیاسی رژیم را افزایش می‌دهد.",
-            "اقتصاد و نارضایتی داخلی: تأخیر در حصول توافق بر رفع تحریم‌ها ریسک تشدید مشکلات اقتصادی را بالا می‌برد و می‌تواند نارضایتی عمومی و فشارهای اجتماعی را تشدید کند، بازتاب ناکارآمدی مدیریتی."
-        ],
-        "impact": "اختلاف تهران و واشنگتن در مورد رفع تحریم‌ها مانع از تسکین سریع اقتصادی می‌شود و فشار ساختاری بر حکومت را تقویت می‌کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Reuters",
-        "url": "https://www.usnews.com/news/world/articles/2026-02-22/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters",
-        "clean_url": "https://www.usnews.com/news/world/articles/2026-02-22/iran-and-us-diverge-in-views-on-sanctions-relief-senior-iranian-official-to-reuters",
-        "image": null,
-        "timestamp": 1771749869.0
     }
 ]
