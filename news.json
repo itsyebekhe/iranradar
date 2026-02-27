@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ایران: «پیشرفت خوب» در مذاکرات اخیر با آمریکا اعلام شد",
+        "title_en": "Iran says 'good progress' made as latest talks with US wrap up",
+        "summary": [
+            "مذاکرات در سوئیس به گفته میانجی‌ها «پیشرفت قابل توجهی» داشت و طرفین توافق کردند دور بعدی گفت‌وگوها ظرف هفته آینده برگزار شود؛ ایران اعلام کرده مذاکرات باید تنها بر برنامه هسته‌ای متمرکز باشد و گفت‌وگوهای فنی آژانس در وین آغاز می‌شود.",
+            "آمریکا با مهلت ۱۵ روزه، استقرار ناوگان هوایی-دریایی و تهدید به حمله، فشار حداکثری را حفظ کرده و خواستار توقف غنی‌سازی، عقب‌نشینی برنامه موشکی و کاهش حمایت از گروه‌های مسلح منطقه‌ای است؛ لغو تحریم‌ها یکی از محورها و موضوعات اساسی مورد مذاکره است.",
+            "گزارش به حملات قبلی آمریکا به تاسیسات هسته‌ای ایران اشاره می‌کند که «بخش عمده‌ای» از برنامه هسته‌ای را آسیب زده؛ این ترکیب از تحریم‌ها و ضربه‌های نظامی ساختار چانه‌زنی رژیم را تضعیف کرده و نیاز فوری به تضمین لغو تحریم‌ها را برای هر توافق واقعی برجسته می‌سازد. متن هیچ‌گونه شواهدی درباره اعتراضات داخلی یا وضعیت اقتصادی روزمره ارائه نمی‌دهد."
+        ],
+        "impact": "پیشرفت محدود مذاکرات ممکن است موقتاً از رویارویی نظامی کامل جلوگیری کند، اما اصرار دو طرف بر خطوط قرمز و تهدیدهای نظامی آمریکا همراه با تضعیف واقعی برنامه هسته‌ای ایران شانس رسیدن به توافق جامع را پایین نگه داشته و تنش را پابرجا نگاه می‌دارد.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Euronews.com",
+        "url": "https://www.yahoo.com/news/articles/iran-says-good-progress-made-041933932.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-says-good-progress-made-041933932.html",
+        "image": null,
+        "timestamp": 1772178983.0
+    },
+    {
+        "title_fa": "چرا کشورهای عربی از جنگ آمریکا با ایران وحشت دارند",
+        "title_en": "Why Arab states are terrified of US war with Iran",
+        "summary": [
+            "مقاله می‌گوید کشورهای عربی نگران سرایت جنگ به پهنهٔ خلیج فارس و به‌هم‌ریختگی امنیت دریایی و مسیرهای انرژی هستند که اقتصادشان را هدف قرار می‌دهد.",
+            "نویسنده اشاره می‌کند که یک رویارویی نظامی آمریکا-ایران می‌تواند باعث تشدید فعالیت گروه‌های نیابتی، افزایش حملات مرزی و فشار بر ثبات داخلی کشورهای منطقه شود و آنها را بین حمایت از واشنگتن و اجتناب از بی‌ثباتی مجبور کند.",
+            "مقاله هشدار می‌دهد که هزینه‌های سیاسی و اقتصادی جنگ — از جمله موج پناه‌جویی، افزایش قیمت نفت و اختلال سرمایه‌گذاری — برای حکومت‌های عرب منطقه پیامدهای سنگینی خواهد داشت."
+        ],
+        "impact": "احتمال تشدید فشارهای خارجی و اقتصادی بر ایران افزایش می‌یابد و هرگونه درگیری گسترده می‌تواند نارضایتی داخلی و بحران‌های حکمرانی را در داخل ایران و همسایگان منطقه شدت بخشد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NYWZXZTJGRldpaEhOWmJEdHJ1UVlJazB4WXlfa19DbGExX1FDb0xablgzeXNzZHFtazlZSnpTWkFwYWFxRzFPdkI1WlZ5VUY3ZVRHVFozdmU2T2RwRm9CSzh2cFJIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NYWZXZTJGRldpaEhOWmJEdHJ1UVlJazB4WXlfa19DbGExX1FDb0xablgzeXNzZHFtazlZSnpTWkFwYWFxRzFPdkI1WlZ5VUY3ZVRHVFozdmU2T2RwRm9CSzh2cFJIdw",
+        "image": null,
+        "timestamp": 1772175016.0
+    },
+    {
         "title_fa": "آمریکا و ایران دوری از گفت‌وگوها را کامل کردند؛ ترامپ میان دیپلماسی و حملات نظامی در تردید",
         "title_en": "U.S., Iran complete round of talks as Trump weighs diplomacy against strikes",
         "summary": [
@@ -124,6 +160,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/top-us-commander-in-the-middle-east-briefs-trump-on-iran-options/ar-AA1X9UfV",
         "image": null,
         "timestamp": 1772155211.0
+    },
+    {
+        "title_fa": "ترامپ و ایران: سه راه پیش روی کاخ سفید",
+        "title_en": "Trump and Iran: The three paths in front of the White House",
+        "summary": [
+            "کاخ سفید پس از بزرگ‌ترین تجمع نیروی آمریکایی در خاورمیانه از زمان جنگ عراق، سه گزینه را روی میز دارد: ادامه دیپلماسی غیرمستقیم، حمله محدود برای اجبار ایران، یا ریسکی بزرگ‌تر نظامی؛ مواضع نظامی آمریکا شامل دو ناو هواپیمابر و ده‌ها شناور و صدها هواپیما است.",
+            "دولت ترامپ اولویت خود را دیپلماسی اعلام کرده و مذاکرات غیرمستقیم با واسطه‌ها ادامه دارد؛ واشنگتن امیدوار است فشار نظامی تهران را به انعطاف وادارد، اما تهران بر حق غنی‌سازی اصرار دارد و رهبر ایران خواست حذف کامل غنی‌سازی را صراحتاً رد کرده است.",
+            "گزینه حمله محدود برای مجبور کردن ایران مطرح است — هدف‌هایی مانند سایت‌های موشکی و بخش‌هایی از برنامه هسته‌ای — اما مقام‌ها هشدار می‌دهند این دست‌کم گرفتن پیامدها نیست و هر اقدام نظامی خطرات سیاسی، نظامی و منطقه‌ای قابل توجهی دارد."
+        ],
+        "impact": "فشار نظامی و دیپلماتیک فعلی ساختار سیاسی و اقتصادی جمهوری اسلامی را تضعیف می‌کند؛ خطر تشدید بی‌ثباتی داخلی، تشدید انزوای بین‌المللی و تشدید آسیب‌پذیری اقتصاد کلان وجود دارد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/trump-and-iran-the-three-paths-in-front-of-the-white-house-article-13845593.html",
+        "clean_url": "https://www.moneycontrol.com/world/trump-and-iran-the-three-paths-in-front-of-the-white-house-article-13845593.html",
+        "image": "http://www.bing.com/th?id=OVFT.Ip4rlQSBX8jS_wOuyFA6ey&pid=News",
+        "timestamp": 1772151660.0
     },
     {
         "title_fa": "پایان مذاکرات آمریکا و ایران بدون توافق؛ میانجی: پیشرفت حاصل شد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/will-the-us-attack-iran-trump-weighs-options-floats-limited-strike/ar-AA1WNTsA",
         "image": null,
         "timestamp": 1771686480.0
-    },
-    {
-        "title_fa": "مقابله آمریکا و ایران محتمل‌تر از توافق، مقام‌ها در دو طرف می‌گویند",
-        "title_en": "U.S.-Iran Conflict More Likely Than Agreement, Officials on Both Sides Believe",
-        "summary": [
-            "مقام‌های آمریکایی و ایرانی احتمال وقوع درگیری را بیشتر از رسیدن به توافق ارزیابی می‌کنند؛ این نشان‌دهنده شکست نسبی مسیر دیپلماتیك و انحراف از راه‌حل‌های سیاسی است.",
-            "افزایش احتمال درگیری احتمال اعمال فشارها و تحریم‌های تازه را بالا می‌برد و ساختار شکننده ثبات سیاسی و اقتصادی رژیم تهران را بیش‌تر تضعیف خواهد کرد.",
-            "پیامد داخلی محتمل، تشدید مشکلات اقتصادی و افزایش نارضایتی عمومی است که می‌تواند هم به موج‌های گسترده‌تر اعتراض و هم به افزایش سرکوب پاسخ دهد."
-        ],
-        "impact": "در کوتاه‌مدت، چشم‌انداز فزاینده درگیری تهران را شکننده‌تر می‌کند و هزینه‌های تحمیلی (تحریم‌ها و هزینه‌های امنیتی) را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaFNlOWRQUEYzWTZROXVvbEZUUi01aWVRNE42M1hpY0pwLXY4aUVBZlBYdllVbmxCb1NzeWJNa1NtNVpnZC14UmlaMWVRU1lQSDFPcXhtbUR5QWJnR1oyRXh2cGQ0ZjVyUHdVX3ZpRWdxbnhaSUJ1VTdkTGNfcUJIV3lxb1VNcjBfYzJvS3o3VkhkaVdtQlZMVGZCSUdISXpKMlJDUTMyeHo3X181M0V4eGU2Qkk0NE94ZWJjckZ5TUdSYWtSQ3RmOXp6cXZmV0ZLX0FYblVXYU1iUUQ3Q2Q5dXZvZXJDdmtrTFR3TmlpekdKeTVHT1JjdWg5em1ILWF6Rjh4TG5vUTVHYlMzZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaFNlOWRQUEYzWTZROXVvbEZUUi01aWVRNE42M1hpY0pwLXY4aUVBZlBYdllVbmxCb1NzeWJNa1NtNVpnZC14UmlaMWVRU1lQSDFPcXhtbUR5QWJnR1oyRXh2cGQ0ZjVyUHdVX3ZpRWdxbnhaSUJ1VTdkTGNfcUJIV3lxb1VNcjBfYzJvS3o3VkhkaVdtQlZMVGZCSUdISXpKMlJDUTMyeHo3X181M0V4eGU2Qkk0NE94ZWJjckZ5TUdSYWtSQ3RmOXp6cXZmV0ZLX0FYblVXYU1iUUQ3Q2Q5dXZvZXJDdmtrTFR3TmlpekdKeTVHT1JjdWg5em1ILWF6Rjh4TG5vUTVHYlMzZmc",
-        "image": null,
-        "timestamp": 1771686300.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: ترامپ تعرفه‌ها را تشدید و حمله محدود نظامی به ایران را بررسی می‌کند",
-        "title_en": "Live updates: Trump doubles down on tariffs, weighs limited military strike on Iran",
-        "summary": [
-            "ترامپ تشدید تعرفه‌ها را اعلام کرده است؛ این جهت‌گیری اقتصادی به‌عنوان سیاست فشار خارجی، فضای تجارت بین‌المللی را متزلزل و سیگنالی از سخت‌تر شدن رویکرد واشنگتن ارسال می‌کند.",
-            "بررسی گزینه حمله محدود نظامی به ایران به‌معنای افزایش ریسک تقابل مستقیم است؛ حتی تهدید محدود می‌تواند محاسبات نظامی و سیاسی تهران را به‌شدت تحت تأثیر قرار دهد.",
-            "ترکیب فشار اقتصادی و تهدید نظامی، فشار ساختاری بر رژیم حاکم را افزایش می‌دهد و ظرفیت مدیریت ناکارآمد اقتصادی و کنترل سیاسی را بیشتر تضعیف می‌کند."
-        ],
-        "impact": "این سیاست‌ها فشار خارجی را تشدید و آسیب‌پذیری اقتصادی-سیاسی رژیم را افزایش می‌دهد؛ نتیجه قابل انتظار، تشدید ناتوانی در اداره اقتصاد و بالا رفتن خطر نارضایتی داخلی است.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": 0.4,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONzlVaGNXYnl1azZkeFg3QVdBWmZEZEwwa1dFdFcyT2FwTTJiRFVFazRuX1BaOGY2VVVlM3ZVZEVJUk04YmFsUERNamxEWVp2LTNLRkhxZHlpWnVnaDhVTmYzSG13a096Rm9CZFpjS1loXzBCWEtYaVdtWjNoSmRLellwLVNHeE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONzlVaGNXYnl1azZkeFg3QVdBWmZEZEwwa1dFdFcyT2FwTTJiRFVFazRuX1BaOGY2VVVlM3ZVZEVJUk04YmFsUERNamxEWVp2LTNLRkhxZHlpWnVnaDhVTmYzSG13a096Rm9CZFpjS1loXzBCWEtYaVdtWjNoSmRLellwLVNHeE0",
-        "image": null,
-        "timestamp": 1771685100.0
-    },
-    {
-        "title_fa": "تهدید ترامپ به حمله برای وادار کردن ایران به توافق ممکن است نتیجه معکوس داشته باشد",
-        "title_en": "Trump’s Threatened Strikes to Compel Iran Deal Risk Backfiring",
-        "summary": [
-            "تهدید به حمله نظامی از سوی ترامپ برای مجبور کردن ایران به پذیرش توافق می‌تواند به‌جای تضعیف حاکمیت، واکنش‌های ملی‌گرایانه و تقویت جناح‌های تندرو را برانگیزد و ظرفیت‌های سرکوب را مشروعیت بخشد.",
-            "از منظر فشارهای خارجی، اتکا به گزینه نظامی احتمال دارد ابزار تحریمی و دیپلماتیک را تضعیف کند چون چنین تهدیداتی می‌تواند به رژیم فرصت تبدیل فشار خارجی به روایت مقاومت و استفاده از منابع محدود داخلی برای حفظ قدرت دهد.",
-            "در حوزه اقتصاد و اعتراضات داخلی، تهدید به حمله ریسک بی‌ثباتی بازارها و ارز را بالا می‌برد، به حکومت بهانه‌ای برای محدودسازی اعتراضات می‌دهد و ضعف ساختاری در مدیریت اقتصادی و سیاسی را برجسته می‌کند."
-        ],
-        "impact": "پیامد محتمل این تحرک این است که تهدید نظامی به‌جای تحقق اهداف فوری واشنگتن، ثبات کوتاه‌مدت رژیم را افزایش و در عین حال خطر تشدید درگیری منطقه‌ای را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Bloomberg.com",
-        "url": "https://www.msn.com/en-us/news/world/trump-s-threatened-strikes-to-compel-iran-deal-risk-backfiring/ar-AA1WLBt3",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-s-threatened-strikes-to-compel-iran-deal-risk-backfiring/ar-AA1WLBt3",
-        "image": null,
-        "timestamp": 1771683908.0
     }
 ]
