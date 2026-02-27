@@ -162,6 +162,24 @@
         "timestamp": 1772155211.0
     },
     {
+        "title_fa": "ایران از آمریکا خواست «خواسته‌های بیش از حد» را برای رسیدن به توافق کنار بگذارد",
+        "title_en": "Iran urges US to drop 'excessive demands' to reach deal",
+        "summary": [
+            "تهران اعلام کرد برای حصول توافق واشنگتن باید خواسته‌های «بیش از حد» خود را کنار بگذارد؛ اظهارنظری که خوش‌بینی اولیه نسبت به مذاکرات را تضعیف کرد.",
+            "مذاکرات توصیف‌شده به‌عنوان آخرین تلاش برای جلوگیری از جنگ گزارش شده‌اند و اختلافات اساسی بر سر شرایط همچنان پابرجاست.",
+            "گزارش به نقش میانجی‌گرانه عمان اشاره کرده اما متن کامل لازم است تا نقش دقیق بازیگران منطقه‌ای و تاثیر آن بر مسیر مذاکرات قابل ارزیابی باشد."
+        ],
+        "impact": "این موضع‌گیری علامت آشکاری است از تلاش رژیم برای حفظ اهرم‌های سیاسی و اقتصادی؛ اگر واشنگتن با خواسته‌ها کنار نیاید، احتمال توقف مذاکرات بالا رفته که به تشدید فشارهای خارجی و تضعیف موقعیت داخلی رژیم منجر خواهد شد.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/02/iran-urges-us-drop-excessive-demands-reach-deal",
+        "clean_url": "https://www.al-monitor.com/originals/2026/02/iran-urges-us-drop-excessive-demands-reach-deal",
+        "image": "http://www.bing.com/th?id=OVFT.SwwA4XbtJ_DtqbYbI4uxcS&pid=News",
+        "timestamp": 1772154180.0
+    },
+    {
         "title_fa": "ترامپ و ایران: سه راه پیش روی کاخ سفید",
         "title_en": "Trump and Iran: The three paths in front of the White House",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdC1sNU5FYkRwWExXVzM0ejlneWx5UDlBOUVvV1FNLW9ka1Z0TEkxaW1HelRXYVpwUnBVZUk1T1JUYl9IMVM5RnpzLXlWa2lOVGdSam5sTDYzeGY1TTJWSUJYam9ZbWgzbTJkZ0R0TnRkNVBwMmlrNkJfOVJtWjdHU0ZfVXFwSEVrUWdNajBB",
         "image": null,
         "timestamp": 1771687620.0
-    },
-    {
-        "title_fa": "آیا آمریکا ایران را حمله خواهد کرد؟ ترامپ گزینه‌ها را بررسی می‌کند و حمله محدود را مطرح می‌کند",
-        "title_en": "Will the US attack Iran? Trump weighs options, floats limited strike",
-        "summary": [
-            "گزارش USA Today می‌گوید دونالد ترامپ در حال سنجش گزینه‌های نظامی علیه ایران و مطرح‌کردن امکان اجرای یک حمله محدود است؛ این روند احتمال تشدید تنش مستقیم بین آمریکا و ایران را افزایش می‌دهد.",
-            "یک حمله محدود، حتی اگر هدفمند باشد، فشار و انسداد خارجی بر ساختار رژیم را تقویت می‌کند و می‌تواند ثبات نهایی نظام را تضعیف کند؛ در عین حال ریسک تسری درگیری و پاسخ‌های منطقه‌ای را بالا می‌برد.",
-            "از منظر داخلی، تهدید یا وقوع ضربه نظامی می‌تواند ناکارآمدی و سوءمدیریت حکومت را برجسته کند و زمینه افزایش نارضایتی اجتماعی و سیاسی را فراهم سازد، اما شواهد مستقیم درباره انتفاضه یا فروپاشی اقتصادی وابسته به تحولات آینده است."
-        ],
-        "impact": "پیامد فوری: حتی حمله محدود آمریکا می‌تواند توازن قدرت داخلی رژیم را متزلزل و بحران سیاسی-اقتصادی را تشدید کند.",
-        "tag": "تهاجم",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "USA Today",
-        "url": "https://www.msn.com/en-us/news/world/will-the-us-attack-iran-trump-weighs-options-floats-limited-strike/ar-AA1WNTsA",
-        "clean_url": "https://www.msn.com/en-us/news/world/will-the-us-attack-iran-trump-weighs-options-floats-limited-strike/ar-AA1WNTsA",
-        "image": null,
-        "timestamp": 1771686480.0
     }
 ]
