@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آمریکا و ایران دوری از گفت‌وگوها را کامل کردند؛ ترامپ میان دیپلماسی و حملات نظامی در تردید",
+        "title_en": "U.S., Iran complete round of talks as Trump weighs diplomacy against strikes",
+        "summary": [
+            "یک دور گفتگو میان نمایندگان آمریکا و مقامات جمهوری اسلامی انجام و تکمیل شده است؛ همزمان دونالد ترامپ، رئیس‌جمهور آمریکا، بین ادامه دیپلماسی و گزینه حمله نظامی تردید دارد.",
+            "ادامه مذاکرات در کنار تهدید به ضربه نظامی نشان‌دهنده فشار خارجی مستمر است؛ چنین فشاری ساختار سیاست‌گذاری و توان اقتصادی ایران را هدف گرفته و به تضعیف طولانی‌مدت حکومت کمک می‌کند.",
+            "هرچند مذاکره ممکن است تنش را موقتا کاهش دهد، فقدان اصلاحات ساختاری و مدیریت اقتصادی نادرست می‌تواند نارضایتی عمومی و بی‌ثباتی سیاسی را تشدید کند."
+        ],
+        "impact": "این دور گفت‌وگو می‌تواند موقتاً از برخورد مستقیم جلوگیری کند اما رژیم را از فشار تحریم‌ها و ضعف ساختاری اقتصادی رها نخواهد کرد و فضای نارضایتی داخلی را تقویت می‌کند.",
+        "tag": "تنش",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/politics/international-relations/us-iran-complete-round-of-talks-as-trump-weighs-diplomacy-against-strikes/ar-AA1X9roL",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-iran-complete-round-of-talks-as-trump-weighs-diplomacy-against-strikes/ar-AA1X9roL",
+        "image": null,
+        "timestamp": 1772173289.0
+    },
+    {
         "title_fa": "تلاش اسرائیل برای جنگ با ایران در انزوا",
         "title_en": "Israel’s lonely push for war with Iran",
         "summary": [
@@ -358,6 +376,42 @@
         "clean_url": "https://www.cfr.org/articles/trumps-2026-state-of-the-union-foreign-policy-issue-guide",
         "image": null,
         "timestamp": 1772119952.0
+    },
+    {
+        "title_fa": "نظریات کارشناسان خاورمیانه درباره مذاکرات آمریکا–ایران و احتمال جنگ",
+        "title_en": "Mideast experts on U.S.-Iran negotiations and potential for war",
+        "summary": [
+            "منبع ارسال‌شده فاقد متن خبری است و تنها تیتر موجود است؛ بنابراین جزئیات دیدگاه کارشناسان قابل تأیید نیست.",
+            "با اتکا به موضوع تیتر، محورهای قابل انتظار اما غیراثباتی شامل سازوکار مذاکرات، آستانه‌های تقابل نظامی و نقش فشارهای خارجی/تحریم‌ها در تضعیف ساختار رژیم است — این موارد در منبع ارائه‌شده گزارش نشده‌اند.",
+            "در سطح تحلیل ساختاری، فشارهای خارجی و تحریم‌ها به شکل مزمن ظرفیت اقتصادی و مشروعیت سیاسی رژیم را تضعیف می‌کنند و شکست مذاکرات می‌تواند پیوند بین جناح‌های تندرو و سیاست‌های پرخطر را تقویت کند که همزمان ریسک درگیری نظامی و تشدید نارضایتی داخلی را بالا می‌برد؛ این نتیجه‌گیری‌ها کلی و مبتنی بر الگوهای شناخته‌شده‌اند نه اطلاعات مندرج در منبع."
+        ],
+        "impact": "در غیاب جزئیات، تحلیل واقع‌بینانه این است که بن‌بست در مذاکرات می‌تواند با تشدید تحریم‌ها و رشد گرایش‌های نظامی، ثبات داخلی رژیم را به‌سرعت تضعیف کند.",
+        "tag": "مذاکره",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "Public Broadcasting Service (PBS)",
+        "url": "https://www.pbs.org/newshour/show/mideast-experts-on-u-s-iran-negotiations-and-potential-for-war",
+        "clean_url": "https://www.pbs.org/newshour/show/mideast-experts-on-u-s-iran-negotiations-and-potential-for-war",
+        "image": "http://www.bing.com/th?id=OVFT.fYmRWYdm8gL7Dxy_JTJ5TS&pid=News",
+        "timestamp": 1772116500.0
+    },
+    {
+        "title_fa": "آینده مدیر جشنواره فیلم برلین در سایه جنجال غزه",
+        "title_en": "Berlin Film Festival Director's Future in Spotlight after Gaza Furore",
+        "summary": [
+            "مدیر جشنواره فیلم برلین پس از جنجالی مرتبط با موضوع غزه تحت فشار عمومی و سیاسی قرار گرفته و آینده حرفه‌ای او به‌شدت در معرض بازنگری قرار دارد.",
+            "این گزارش هیچ اشاره‌ای به تحریم‌ها یا فشارهای اقتصادی خارجی ندارد و بنابراین ادعاهای مربوط به تأثیر ساختاری تحریم بر ثبات رژیم‌ها در این پوشش قابل اثبات نیست.",
+            "موضوع محدود به نهاد فرهنگی و افکار عمومی آلمان است؛ هیچ نشانه‌ای از اعتراضات داخلی یا بحران اقتصادی در ایران در متن گزارش وجود ندارد و هر استنباط فراتر از این بدون شواهد مستند غیرواقع‌گرا خواهد بود."
+        ],
+        "impact": "این جنجال موقعیت شغلی مدیر جشنواره را به خطر انداخته و اعتبار جشنواره را در صحنه عمومی و سیاسی به چالش کشیده است.",
+        "tag": "فرهنگی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/features/5245099-berlin-film-festival-directors-future-spotlight-after-gaza-furore",
+        "clean_url": "https://english.aawsat.com/features/5245099-berlin-film-festival-directors-future-spotlight-after-gaza-furore",
+        "image": "https://english.aawsat.com/s3/files/styles/1200x600/public/2026-02/1412321_0.jpeg.webp",
+        "timestamp": 1772115600.0
     },
     {
         "title_fa": "استیو ویتکاف: ایران «یک هفته» تا ماده لازم برای بمب — کارشناسان تردید دارند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-s-threatened-strikes-to-compel-iran-deal-risk-backfiring/ar-AA1WLBt3",
         "image": null,
         "timestamp": 1771683908.0
-    },
-    {
-        "title_fa": "نتانیاهو و اسرائیل آمریکا را به حمله به ایران تحریک می‌کنند — و رسانه‌ها همچنان این موضوع را نادیده می‌گیرند",
-        "title_en": "Netanyahu and Israel are provoking the U.S. into attacking Iran — and the media continues to ignore it",
-        "summary": [
-            "مقاله ادعا می‌کند که نتانیاهو و نهادهای اسرائیلی جریان‌هایی را فعال می‌کنند که آمریکا را به سمت حمله نظامی علیه ایران سوق می‌دهد.",
-            "رسانه‌ها و پوشش خبری عمده در برابر این نقش‌آفرینی اسرائیل سکوت یا کم‌توجهی نشان می‌دهند و از بررسی انگیزه‌ها و پیامدها خودداری می‌کنند.",
-            "این ترکیب تحریک خارجی و خلأ نظارتی رسانه‌ای احتمال تشدید نظامی و یک برخورد مستقیم آمریکا-ایران را افزایش می‌دهد."
-        ],
-        "impact": "اگر ادعاها درست باشند، نقش‌آفرینی اسرائیل همراه با نادیده‌گرفتن رسانه‌ای، سطح خطر برخورد نظامی بین آمریکا و ایران را بالا می‌برد و نظارت عمومی را تضعیف می‌کند.",
-        "tag": "تحریک",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Mondoweiss",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX1ZGR2NSMmpQUFN3NXBUaVlBd1BXMTdVSlZnVk5ZaHFFaS1XMDFHeWVONWt2T1pVbE0zNllNdFNkUnFtdkhTR3FVbl90WDdYY2dTR0hBb204cXMyY3VySGx1cmQzWEZCYm1qRGkzUkliMjN3ZU8xMlZicUZ0NTBNaXNXV2YwTWNWU25qRjE5UFpib2VtbGZNNkNFRG4xZFRJUmlLUENaQndRLU96THdKaEs1dnhINENOdTdGVnl5VlZpTGl0M29naUJ6bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX1ZGR2NSMmpQUFN3NXBUaVlBd1BXMTdVSlZnVk5ZaHFFaS1XMDFHeWVONWt2T1pVbE0zNllNdFNkUnFtdkhTR3FVbl90WDdYY2dTR0hBb204cXMyY3VySGx1cmQzWEZCYm1qRGkzUkliMjN3ZU8xMlZicUZ0NTBNaXNXV2YwTWNWU25qRjE5UFpib2VtbGZNNkNFRG4xZFRJUmlLUENaQndRLU96THdKaEs1dnhINENOdTdGVnl5VlZpTGl0M29naUJ6bw",
-        "image": null,
-        "timestamp": 1771682400.0
-    },
-    {
-        "title_fa": "چرا کشورهای عربی از جنگ آمریکا با ایران وحشت دارند",
-        "title_en": "Why Arab states are terrified of US war with Iran",
-        "summary": [
-            "مقاله می‌گوید کشورهای عربی نگران سرایت جنگ به پهنهٔ خلیج فارس و به‌هم‌ریختگی امنیت دریایی و مسیرهای انرژی هستند که اقتصادشان را هدف قرار می‌دهد.",
-            "نویسنده اشاره می‌کند که یک رویارویی نظامی آمریکا-ایران می‌تواند باعث تشدید فعالیت گروه‌های نیابتی، افزایش حملات مرزی و فشار بر ثبات داخلی کشورهای منطقه شود و آنها را بین حمایت از واشنگتن و اجتناب از بی‌ثباتی مجبور کند.",
-            "مقاله هشدار می‌دهد که هزینه‌های سیاسی و اقتصادی جنگ — از جمله موج پناه‌جویی، افزایش قیمت نفت و اختلال سرمایه‌گذاری — برای حکومت‌های عرب منطقه پیامدهای سنگینی خواهد داشت."
-        ],
-        "impact": "احتمال تشدید فشارهای خارجی و اقتصادی بر ایران افزایش می‌یابد و هرگونه درگیری گسترده می‌تواند نارضایتی داخلی و بحران‌های حکمرانی را در داخل ایران و همسایگان منطقه شدت بخشد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NYWZXZTJGRldpaEhOWmJEdHJ1UVlJazB4WXlfa19DbGExX1FDb0xablgzeXNzZHFtazlZSnpTWkFwYWFxRzFPdkI1WlZ5VUY3ZVRHVFozdmU2T2RwRm9CSzh2cFJIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NYWZXZTJGRldpaEhOWmJEdHJ1UVlJazB4WXlfa19DbGExX1FDb0xablgzeXNzZHFtazlZSnpTWkFwYWFxRzFPdkI1WlZ5VUY3ZVRHVFozdmU2T2RwRm9CSzh2cFJIdw",
-        "image": null,
-        "timestamp": 1771681275.0
-    },
-    {
-        "title_fa": "ایران خواستار ارائه مدرک شد؛ ترامپ و کارشناسان سازمان ملل شمار قربانیان اعتراضات را برجسته کردند",
-        "title_en": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
-        "summary": [
-            "وزیر خارجه عباس عراقچی فهرستی شامل ۳،۱۱۷ نفر را به‌عنوان «قربانیان عملیات تروریستی» منتشر کرد و از هر کس که دقت داده‌ها را به چالش می‌کشد خواست مدرک ارائه کند؛ او پیش‌تر گفته بود ۶۹۰ نفر از فهرست «تروریست» بوده‌اند. هم‌زمان رئیس‌جمهور آمریکا دونالد ترامپ ادعای ۳۲،۰۰۰ کشته را مطرح کرد، گزارشگر ویژه سازمان ملل مای ساتو تخمین بیش از ۲۰،۰۰۰ کشته را بیان کرده و سازمان‌های مدنی مانند HRANA بیش از ۷،۰۰۰ مورد ثبت‌شده و تقریباً ۱۲،۰۰۰ مورد در دست بررسی گزارش داده‌اند.",
-            "اظهارات ترامپ و برآوردهای سازمان ملل فشار بین‌المللی را تشدید می‌کند؛ این افزایش نظارت و تبلیغ ارقام بالای تلفات مدنی ساختار مشروعیت بین‌المللی و اقتصادی رژیم را تضعیف می‌کند و می‌تواند زمینه‌ساز تحریم‌های جدید، انزوای دیپلماتیک یا اقدامات امنیتی خارجی شود که هزینه‌های اقتصادی و سیاسی داخلی را بالا می‌برد.",
-            "قطع گسترده اینترنت و خاموشی‌های ارتباطی شش هفته‌ای همراه با برگزاری آیین‌های سوگواری مستقل خانواده‌ها که با مراسم دولتی درگیر می‌شوند، نشانه‌های شکست مدیریت حکمرانی و افزایش نارضایتی عمومی است؛ تعمیق سرکوب در برابر این فشارها احتمالاً اقتصاد را بیشتر فلج و شکاف‌های اجتماعی و نهادی را عمیق‌تر خواهد کرد."
-        ],
-        "impact": "افزایش فشار بین‌المللی و شواهد گسترده تلفات مدنی مشروعیت داخلی رژیم را تضعیف کرده و خطر تشدید سرکوب و بی‌ثباتی سیاسی-اقتصادی را بالا می‌برد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-demands-evidence-trump-un-115458839.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-demands-evidence-trump-un-115458839.html",
-        "image": null,
-        "timestamp": 1771675875.0
     }
 ]
