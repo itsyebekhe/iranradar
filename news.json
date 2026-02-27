@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "مارکو روبیو هفته آینده از اسرائیل بازدید می‌کند؛ تنش‌های آمریکا و ایران پس از آخرین گفتگوها همچنان بالا است",
+        "title_en": "Rubio plans to visit Israel next week as U.S.-Iran tensions remain high after latest talks",
+        "summary": [
+            "اعلام برنامه بازدید سناتور مارکو روبیو از اسرائیل نشانه ادامه هم‌راستایی سیاسی واشینگتن با تل‌آویو و تداوم سطح بالای تنش آمریکا-ایران پس از مذاکرات اخیر است.",
+            "این اقدام یک سیگنال سیاسی به سوی مواضع سخت‌گیرانه‌تر است که می‌تواند فضای دیپلماتیک را محدود و گزینه‌های مصالحه را تضعیف کند.",
+            "در صورتی که این روند ادامه یابد، پیامد آن افزایش فشار خارجی بر ساختار قدرت در ایران و تشدید مشکلات اقتصادی و نارضایتی‌های عمومی خواهد بود."
+        ],
+        "impact": "افزایش فشار سیاسی و دیپلماتیک می‌تواند به تضعیف ساختاری بقا و افزایش شکنندگی اقتصادی-اجتماعی در داخل ایران بینجامد.",
+        "tag": "تنش",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "PBS",
+        "url": "https://www.djournal.com/news/nation-world/rubio-plans-to-visit-israel-next-week-as-us-iran-tensions-remain-high-after-latest/article_61c704e6-649c-52d6-9b9d-fd95986524b1.html",
+        "clean_url": "https://www.djournal.com/news/nation-world/rubio-plans-to-visit-israel-next-week-as-us-iran-tensions-remain-high-after-latest/article_61c704e6-649c-52d6-9b9d-fd95986524b1.html",
+        "image": null,
+        "timestamp": 1772212489.0
+    },
+    {
         "title_fa": "ایران: آمریکا باید «خواست‌های افراطی» را در مذاکرات هسته‌ای کنار بگذارد",
         "title_en": "Iran says US must drop ‘excessive demands’ in nuclear negotiations",
         "summary": [
@@ -574,6 +592,24 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/us-and-iran-wrap-up-most-intense-nuclear-talks-with-no-deal-more-negotiations-ahead/ar-AA1Xahn3",
         "image": null,
         "timestamp": 1772160540.0
+    },
+    {
+        "title_fa": "ایرانیان از پیشرفت در مذاکرات خبر می‌دهند، اما جلسه طولانی به توافق نینجامید",
+        "title_en": "Iranians Cite Progress in Talks, but a Marathon Session Produces No Deal",
+        "summary": [
+            "جلسه شش‌ساعته ژنو بدون دستیابی به پیشرفت دیپلماتیک خاتمه یافت؛ درخواست آمریکا برای خاتمه کامل برنامه هسته‌ای ایران حل‌وفصل نشد.",
+            "مقامات ایرانی و میانجی‌های عمانی اعلام کردند گفتگوها با هدف جلوگیری از جنگ هفته آینده ادامه می‌یابد.",
+            "این گزارش نشان‌دهنده فشار دیپلماتیک بین‌المللی و محدودیت در گزینه‌های رژیم است؛ گزارش اشاره‌ای به نقش روسیه، چین یا کره‌شمالی و نیز به وضعیت اعتراضات داخلی یا وضعیت اقتصادی ندارد."
+        ],
+        "impact": "ادامه مذاکرات بدون توافق مشخص، نمایانگر تضعیف ساختاری رژیم در برابر فشار خارجی است و ریسک تشدید فشارهای اقتصادی و سیاسی داخلی را که ثبات را کاهش می‌دهد، افزایش می‌دهد.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html",
+        "clean_url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html",
+        "image": null,
+        "timestamp": 1772157600.0
     },
     {
         "title_fa": "فرمانده ارشد منطقه‌ای آمریکا به ترامپ درباره گزینه‌های نظامی علیه ایران گزارش داد - ABC News",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-will-not-bow-down-to-us-pressure-in-nuclear-talks-pezeshkian-says/ar-AA1WPszq",
         "image": null,
         "timestamp": 1771745434.0
-    },
-    {
-        "title_fa": "ایران دموکراتیک می‌تواند متحد اسرائیل و قدرت منطقه‌ای شود",
-        "title_en": "A democratic Iran could become Israel’s ally, regional power",
-        "summary": [
-            "مقاله ادعا می‌کند که در صورت گذار به دموکراسی، ایران می‌تواند از وضعیت خصومت به شریکی استراتژیک برای اسرائیل تبدیل شده و نفوذ منطقه‌ای قابل توجهی بیابد.",
-            "تحول به دموکراسی مستلزم فشار داخلی ناشی از ناکارآمدی اقتصادی و نارضایتی عمومی و همچنین احتمالاً فشار و تحریم‌های خارجی است که می‌تواند ساختار رژیم را تضعیف و مسیر تغییر را هموار کند.",
-            "برای اسرائیل چنین سناریویی فرصت کاهش هزینه‌های امنیتی و بازتنظیم ائتلاف‌های منطقه‌ای را فراهم می‌آورد؛ اما تحقق آن نیازمند تغییراتی عمیق در قدرت داخلی ایران است که هیچ تضمینی برای آرام بودن گذار فراهم نمی‌کند."
-        ],
-        "impact": "تحقق ایران دموکراتیک توازن امنیتی منطقه را به سود اسرائیل و متحدانش تغییر خواهد داد و سیاست‌های بازداری و همکاری را نیازمند بازنویسی فوری می‌کند.",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFNiTklrRVc5RVFOOXJ5dEpWM1VyTUs1aW03cnMwenVXRWNtNjMyTVlxQnE5ZnZTYzhJeTBPaGpudXhZSnE0Z2gzOVVuNTl5cG4tSlBJdS1RaThFcEpZYnRqRERocy04NDQ5Sm9qR0lqVVEyQ25iamFhSEdLOFFuVUt4dDhwREN2dmhCaGZ6U0ZiZGhpcVRWUzB1c3FJejQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFNiTklrRVc5RVFOOXJ5dEpWM1VyTUs1aW03cnMwenVXRWNtNjMyTVlxQnE5ZnZTYzhJeTBPaGpudXhZSnE0Z2gzOVVuNTl5cG4tSlBJdS1RaThFcEpZYnRqRERocy04NDQ5Sm9qR0lqVVEyQ25iamFhSEdLOFFuVUt4dDhwREN2dmhCaGZ6U0ZiZGhpcVRWUzB1c3FJejQ",
-        "image": null,
-        "timestamp": 1771742736.0
-    },
-    {
-        "title_fa": "شجاعت اسرائیل میان زندگی عادی و جنگی در شُرف وقوع",
-        "title_en": "Israel’s courage between normal life and a looming war",
-        "summary": [
-            "تیتر نشان می‌دهد اسرائیل در تلاش برای حفظ زندگی روزمره در شرایط تهدید بالقوه جنگ است؛ تمرکز بر تاب‌آوری اجتماعی و پایداری روانی است.",
-            "پیام محتمل مقاله تاکید بر تناقض بین عادی‌سازی رفتار شهری و افزایش سطح آماده‌باش نظامی و امنیتی است؛ انتخاب سیاست‌مداران بین مدیریت روزمره و بسیج دفاعی برجسته می‌شود.",
-            "متن کامل مقاله در اختیار نیست؛ این خلاصه محدود به برداشت مستقیم از تیتر است و از افزودن جزئیات غیرموثق خودداری می‌کند."
-        ],
-        "impact": "این تعادل می‌تواند سطح هشدار را افزایش دهد و منابع سیاسی و نظامی را به سمت آماده‌باش و تمرکز بر ظرفیت‌های دفاعی معطوف کند.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85UXUwem41WlRuUVJCWE5VeHoxUmxZSGhWb3VMclVpM2JJLUw3NDVGOGpfSXREVFVyUEdtT3M0azU2dmE2aTJuTHRLNDVaWmpaS3hFSzNkZ1FSZjJEOFZ3NllOeUsyd2E1eEJucnlHbzcwZ185VmN2TXJmUXI0Z1U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85UXUwem41WlRuUVJCWE5VeHoxUmxZSGhWb3VMclVpM2JJLUw3NDVGOGpfSXREVFVyUEdtT3M0azU2dmE2aTJuTHRLNDVaWmpaS3hFSzNkZ1FSZjJEOFZ3NllOeUsyd2E1eEJucnlHbzcwZ185VmN2TXJmUXI0Z1U",
-        "image": null,
-        "timestamp": 1771742700.0
     }
 ]
