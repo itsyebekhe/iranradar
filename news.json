@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ونس: «هیچ شانسی» برای درگیری درازمدت آمریکا در خاورمیانه وجود ندارد",
+        "title_en": "Vance: ‘No chance’ U.S. will be in drawn-out war in Middle East",
+        "summary": [
+            "ونس اظهار کرده که آمریکا درگیر جنگی طولانی‌مدت در خاورمیانه نخواهد شد؛ این اظهار نشان‌دهنده اراده واشنگتن برای محدود نگه داشتن تعهدات نظامی است.",
+            "برای رژیم ایران این موضع محاسبات استراتژیک را تغییر می‌دهد — کاهش احتمال دخالت بلندمدت خارجی می‌تواند هم امکان مانور بالاتر برای تهران و هم کاهش اهرم بازدارنده علیه اقدامات نیابتی‌اش را به همراه داشته باشد.",
+            "اپوزیسیون باید این پیام را به‌عنوان هشدار بخواند: نبود تعهد نظامی بلندمدت از سوی آمریکا نباید به سرپوشی بر سوءمدیریت اقتصادی و سیاسی داخلی تبدیل شود؛ تمرکز باید بر افشای ضعف‌های حکمرانی و تقویت مقاومت مدنی باشد."
+        ],
+        "impact": "بیانیه ونس احتمالاً فشار فوری خطر مداخله نظامی مستقیم را کم می‌کند اما محاسبات داخلی و منطقه‌ای رژیم را پیچیده‌تر و فضا برای اقدامات سیاسی و اقتصادی رقابتی‌تر می‌سازد.",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRkdrTXNXWTBsMVRTNk51dS1vaml0QXBYSzlQckpybFVtXzZja2hyNXktanR0dnR3b25uNjRQSWNza2M0U25aRFZPc1hvT3NIbVpOOUxmdWhDNERDcHRVSUU3RDQ4X2xmeXpncHl2aW5qRXFBejJOUkRobEVLZ0RoT0piVy1kR1d3NUNRVEZMVXA1dnpoLXBZSThQYkpBRGFSandOWDh3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRkdrTXNXWTBsMVRTNk51dS1vaml0QXBYSzlQckpybFVtXzZja2hyNXktanR0dnR3b25uNjRQSWNza2M0U25aRFZPc1hvT3NIbVpOOUxmdWhDNERDcHRVSUU3RDQ4X2xmeXpncHl2aW5qRXFBejJOUkRobEVLZ0RoT0piVy1kR1d3NUNRVEZMVXA1dnpoLXBZSThQYkpBRGFSandOWDh3UQ",
+        "image": null,
+        "timestamp": 1772161121.0
+    },
+    {
+        "title_fa": "آمریکا و ایران «شدیدترین» مذاکرات هسته‌ای را بدون توافق به پایان رساندند — مذاکرات بیشتر در پیش است",
+        "title_en": "U.S. and Iran wrap up 'most intense' nuclear talks with no deal — more negotiations ahead",
+        "summary": [
+            "دور تازه گفت‌وگوها بین واشنگتن و تهران که طرف‌ها آن را «شدیدترین» توصیف کردند، بدون رسیدن به توافق پایان یافت.",
+            "گرچه طرفین وعده ادامه مذاکرات را داده‌اند، اما تا کنون هیچ دستاوردی برای کاهش فشار دیپلماتیک یا اقتصادی علیه ایران اعلام نشده است.",
+            "نبود توافق، افق رفع فوری محدودیت‌ها یا التیام فوری وضعیت اقتصادی داخلی را نامشخص نگه می‌دارد و پرونده تا مذاکرات بعدی باز می‌ماند."
+        ],
+        "impact": "عدم توافق به معنای تداوم فشارهای بین‌المللی و اقتصادی بر رژیم است و زمان و گزینه‌های تنش‌زدایی را محدودتر می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/money/markets/us-and-iran-wrap-up-most-intense-nuclear-talks-with-no-deal-more-negotiations-ahead/ar-AA1Xahn3",
+        "clean_url": "https://www.msn.com/en-us/money/markets/us-and-iran-wrap-up-most-intense-nuclear-talks-with-no-deal-more-negotiations-ahead/ar-AA1Xahn3",
+        "image": null,
+        "timestamp": 1772160540.0
+    },
+    {
         "title_fa": "فرمانده ارشد منطقه‌ای آمریکا به ترامپ درباره گزینه‌های نظامی علیه ایران گزارش داد - ABC News",
         "title_en": "Live - Top Mideast commander briefed Trump on military options for Iran - ABC News",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.npr.org/2026/02/21/nx-s1-5720966/trump-iran",
         "image": null,
         "timestamp": 1771671600.0
-    },
-    {
-        "title_fa": "چرا حمله به ایران می‌تواند پرخطرتر از دستگیری مادورو باشد",
-        "title_en": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
-        "summary": [
-            "نیویورک‌تایمز استدلال می‌کند که حمله نظامی به ایران در مقایسه با عملیات علیه مادورو با پیچیدگی‌های راهبردی و احتمال گسترش درگیری، پیامدهای منطقه‌ای و بین‌المللی بسیار بیشتری همراه است.",
-            "تحریم‌ها فشار ساختاری بر اقتصاد و دولت ایران وارد کرده‌اند اما این فشارها نه به‌طور قطع رژیم را از بین می‌برند و نه مسیر نظامی امن یا کم‌هزینه‌ای برای تحقق اهداف سیاسی فراهم می‌کنند.",
-            "ضعف حکمرانی و نارضایتی‌های داخلی پایه‌های شکنندگی را نشان می‌دهد، اما حمله نظامی می‌تواند به نتایجی ناپایدار و غیرقابل‌پیش‌بینی در داخل کشور و در سطح منطقه منجر شود."
-        ],
-        "impact": "حمله به ایران احتمالاً تشدید فوری تنش‌های منطقه‌ای، اختلال در بازار انرژی و افزایش هزینه‌های سیاسی و نظامی برای بازیگران مداخله‌گر را در پی خواهد داشت.",
-        "tag": "تقابل",
-        "urgency": 9,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
-        "clean_url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
-        "image": null,
-        "timestamp": 1771668130.0
-    },
-    {
-        "title_fa": "آمریکا تقویت حضور نظامی در خاورمیانه را در حالی افزایش می‌دهد که گفتگوها با ایران جریان دارد",
-        "title_en": "US ramps up military buildup in Middle East amid talks with Iran",
-        "summary": [
-            "منبع گزارش می‌دهد که ایالات متحده حضور نظامی خود در خاورمیانه را افزایش می‌دهد همزمان با ادامه گفتگوها با ایران؛ این اقدام همزمانی عملیات نظامی و دیپلماسی را نشان می‌دهد.",
-            "تقویت نظامی واشنگتن هزینه فشار خارجی بر تهران را بالا می‌برد و می‌تواند به‌عنوان اهرم فشار در مذاکرات به کار رود؛ این موضوع فشارهای امنیتی و سیاسی بر رژیم را افزایش می‌دهد.",
-            "همزمانی افزایش نیروها و مذاکرات ریسک پیچیده‌تر شدن سیاست خارجی و احتمال محاسبات غلط را بالا می‌برد؛ امکان تشدید تنش و اختلال در روند دیپلماتیک وجود دارد."
-        ],
-        "impact": "افزایش حضور نظامی آمریکا فشار راهبردی بر ایران را تشدید می‌کند، مذاکره را تحت‌الشعاع قرار می‌دهد و ریسک بروز تنش نظامی را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUplS1I2VURlWGk1YTdOUTE3UVlZRXpiOGxQQmR5NVZkR0NPelRPM1VmUXFTWk1HeGhwZWtFNmlqN29LaFB3NmdteHJfYkVSTzdSbklIWVAzMlRSRUtHZGZQZUhaa2drQlVSM1RIbmIzYWdiU3RTQUxHQ2FwU1V5cm9sWnZYRkN0QXpfS3IzVWczU0RvenlF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUplS1I2VURlWGk1YTdOUTE3UVlZRXpiOGxQQmR5NVZkR0NPelRPM1VmUXFTWk1HeGhwZWtFNmlqN29LaFB3NmdteHJfYkVSTzdSbklIWVAzMlRSRUtHZGZQZUhaa2drQlVSM1RIbmIzYWdiU3RTQUxHQ2FwU1V5cm9sWnZYRkN0QXpfS3IzVWczU0RvenlF",
-        "image": null,
-        "timestamp": 1771666152.0
     }
 ]
