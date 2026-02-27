@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "آمریکا از شهروندانش خواست فوراً اسرائیل را ترک کنند؛ در سایه تهدید حمله به ایران",
+        "title_en": "US urges its citizens to leave Israel immediately amid strike threat on Iran",
+        "summary": [
+            "وزارت خارجه آمریکا از شهروندان آمریکایی خواست فوراً اسرائیل را ترک کنند، با استناد به تهدید قریب‌الوقوع حمله به ایران.",
+            "این اخطار بازتاب افزایش قابل‌توجه خطر تشدید نظامی در منطقه است و احتمال واکنش‌های نظامی یا متقابل را بالا می‌برد.",
+            "برای حکومت ایران، این وضعیت می‌تواند فشارهای بین‌المللی و اقتصادی را تشدید کرده و نارضایتی داخلی نسبت به مدیریت بحران را عمیق‌تر کند، که دوام سیاسی‌اش را هدف می‌گیرد."
+        ],
+        "impact": "هشدار آمریکا خطر تشدید فوری تنش‌ها را افزایش می‌دهد و همزمان به‌عنوان عامل فشار خارجی عمل کرده و ناکارآمدی حکمرانی در مدیریت بحران را پررنگ می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3Y1ZHBCcEt5V25qWldkX0ZLdlZIYkFESHk4MTkwSmtaOGZvREhRRFBSUFByZkNtOVpOZEhSTlEtbFdoLXBidEQ3aERtWUZjcWNxa2NHWTY5Vmdxd2hNRHRSUlhCTGZfU0ZHM3NiWWxXQmsyYUd6blVyT0NaQ21MNl9KNzBVTGlpRWVuWUJfdXVWTmVvR0xNMnlGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3Y1ZHBCcEt5V25qWldkX0ZLdlZIYkFESHk4MTkwSmtaOGZvREhRRFBSUFByZkNtOVpOZEhSTlEtbFdoLXBidEQ3aERtWUZjcWNxa2NHWTY5Vmdxd2hNRHRSUlhCTGZfU0ZHM3NiWWxXQmsyYUd6blVyT0NaQ21MNl9KNzBVTGlpRWVuWUJfdXVWTmVvR0xNMnlGZw",
+        "image": null,
+        "timestamp": 1772198760.0
+    },
+    {
+        "title_fa": "سفارت آمریکا خواهان خروج کارکنان از اسرائیل شد؛ مذاکرات هسته‌ای ایران-آمریکا در ژنو بی‌نتیجه ماند",
+        "title_en": "U.S. Embassy urges staff to leave Israel as Iran strike fears grow: live",
+        "summary": [
+            "هشدار فوری سفارت آمریکا برای خروج کارکنان از اسرائیل همزمان با افزایش نگرانی‌ها درباره احتمال حمله ایران؛ مذاکرات غیرمستقیم هسته‌ای در ژنو بدون دستیابی به توافق به پایان رسید.",
+            "اثر تحریم‌ها/فشار خارجی: شکست مذاکرات احتمال ادامه یا تشدید تحریم‌های مرتبط با برنامه هسته‌ای را حفظ می‌کند و عملاً رژیم را از امکان کسب تسهیلات اقتصادی و دیپلماتیک محروم می‌سازد؛ این عامل ساختاراً توان بقا و مانور سیاسی رژیم را تضعیف می‌کند.",
+            "اقتصاد و نارضایتی داخلی: ناتوانی در تبدیل دیپلماسی به کاهش فشار اقتصادی بازتاب ضعف مدیریت و حکمرانی است و آستانه نارضایتی عمومی و آسیب‌پذیری داخلی رژیم را بالاتر می‌برد."
+        ],
+        "impact": "بی‌نتیجه ماندن مذاکرات همراه با هشدارهای دیپلماتیک فوری خطر تشدید درگیری منطقه‌ای را افزایش می‌دهد و در عین حال موقعیت داخلی و ظرفیت بقا سیاسی رژیم را تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Newsweek",
+        "url": "https://www.msn.com/en-us/news/world/us-embassy-urges-staff-to-leave-israel-as-iran-strike-fears-grow-live/ar-AA1Xc8ee",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-embassy-urges-staff-to-leave-israel-as-iran-strike-fears-grow-live/ar-AA1Xc8ee",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/02/GettyImages-2263300028.jpg?w=1200crop=1",
+        "timestamp": 1772195816.0
+    },
+    {
+        "title_fa": "آمریکا کارکنان سفارتش در اسرائیل را تخلیه کرد؛ نشانه‌های فزاینده جنگ با ایران",
+        "title_en": "U.S. evacuates Israel embassy amid growing signs of imminent war with Iran",
+        "summary": [
+            "اعلام تخلیه سفارت از سوی آمریکا نشان‌دهنده افزایش احتمال تقابل مستقیم نظامی بین آمریکا/اسرائیل و ایران است.",
+            "اقدام دیپلماتیک-امنیتی واشینگتن می‌تواند به تشدید فشارهای خارجی و بهانه‌جویی برای گسترش تحریم‌ها یا عملیات نظامی منجر شود، اگرچه گزارش به جزئیات تحریم یا پاسخ‌ها اشاره‌ای نکرده است.",
+            "گزارش هیچ‌گونه اشاره مستقیمی به اعتراضات داخلی یا پیامدهای اقتصادی در ایران ندارد؛ اثرات بر ثبات داخلی وابسته به چگونگی پیشرفت درگیری‌ها خواهد بود."
+        ],
+        "impact": "تخلیه سفارت ریسک ورود به تقابل نظامی مستقیم را بالا می‌برد و می‌تواند به حلقه‌ای از فشارهای خارجی و پاسخ‌های نظامی منتهی شود که ثبات داخلی ایران را بیشتر تضعیف خواهد کرد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3cySzBkUllrQkN3Mmc2dk5mX2NaVk9DdFRFLUh1MFNyZXJ3RzRtc1BfeUx4VUEzcko2Wk1zVXc3MnpSREdNaDc1MWNrZ0pDUC1GODlLRnNpZTB5cEJZVnZPWk1kTW90dXB6b1VORDcxUVJHbEdMUVYtYU15WXl5NkFKcGFqc1VwbWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3cySzBkUllrQkN3Mmc2dk5mX2NaVk9DdFRFLUh1MFNyZXJ3RzRtc1BfeUx4VUEzcko2Wk1zVXc3MnpSREdNaDc1MWNrZ0pDUC1GODlLRnNpZTB5cEJZVnZPWk1kTW90dXB6b1VORDcxUVJHbEdMUVYtYU15WXl5NkFKcGFqc1VwbWc",
+        "image": null,
+        "timestamp": 1772194728.0
+    },
+    {
         "title_fa": "آمریکا خروج برخی کارکنان دیپلماتیک از اسرائیل را مجاز دانست؛ تنش با ایران همچنان ادامه دارد",
         "title_en": "U.S. clears some diplomatic staff to leave Israel as tension with Iran continues despite talks",
         "summary": [
@@ -430,6 +484,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-iran-talks-conclude-with-claims-of-progress-but-few-details/ar-AA1X99Jt",
         "image": null,
         "timestamp": 1772137574.0
+    },
+    {
+        "title_fa": "طرح‌های ترور ترامپ در محاکمه‌ای مرتبط با سپاه برجسته شد",
+        "title_en": "Iran's efforts to assassinate Trump highlighted in IRGC-linked terror trial started this week",
+        "summary": [
+            "دادستان‌های فدرال و سرویس‌های اطلاعاتی آمریکا مدعی‌اند که دو طرح ترور علیه دونالد ترامپ در سال ۲۰۲۴ با ارتباط به نهادهای اطلاعاتی ایران طراحی شده و یکی از این پرونده‌ها این هفته در دادگاه آغاز شده است.",
+            "دادستانی پرونده متهمی را به نام Asif Merchant، تبعه پاکستان، متهم به ارتباط با یکی از این نهادهای اطلاعاتی معرفی کرده که محاکمه وی این هفته کلید خورده است.",
+            "این افشاگری احتمال تشدید فشارهای حقوقی و دیپلماتیک آمریکا و تحریم‌های جدید را بالا می‌برد؛ چنین فشاری ساختارهای مالی و سیاسی رژیم را تضعیف کرده، هزینه‌های امنیتی را افزایش می‌دهد و نارضایتی و بحران مشروعیت داخلی را تشدید می‌کند."
+        ],
+        "impact": "این پرونده می‌تواند به چمبرهٔ فشارهای حقوقی و تحریمی آمریکا بر تهران دامن بزند و با افزایش هزینه‌های مالی و سیاسی، ثبات رژیم را که پیش از این از فساد و ضعف مدیریتی رنج می‌برد، بیش از پیش تضعیف کند.",
+        "tag": "ترور",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Just The News",
+        "url": "https://justthenews.com/government/courts-law/iranian-efforts-assassinate-trump-highlighted-irgc-linked-terror-trial-which",
+        "clean_url": "https://justthenews.com/government/courts-law/iranian-efforts-assassinate-trump-highlighted-irgc-linked-terror-trial-which",
+        "image": "http://www.bing.com/th?id=OVFT.UNNxAfmBKH8D1fP59ByruS&pid=News",
+        "timestamp": 1772136780.0
     },
     {
         "title_fa": "مذاکرات آمریکا و ایران پس از «پیشرفت قابل توجه» به پایان رسید، میانجی‌گر می‌گوید",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-gives-iran-15-day-100006132.html",
         "image": null,
         "timestamp": 1771715614.0
-    },
-    {
-        "title_fa": "اعتراض رهبران ارشد کلیسای کاتولیک آمریکا به سیاست خارجی واشینگتن",
-        "title_en": "US foreign policy",
-        "summary": [
-            "رابرت مک‌الروی، اسقف واشینگتن دی.سی. همراه با اسقف‌های شیکاگو و نیوارک در بیانیه‌ای سیاست خارجی دولت ترامپ در برابر ونزوئلا، اوکراین و گرینلند را محکوم کردند و خواستار دیپلماسی چندجانبه و گفت‌وگو شدند.",
-            "آنها با استناد به اظهارات پاپ لئو چهاردهم، استفاده از جنگ را فقط به عنوان آخرین چاره و در شرایط اضطراری مشروع دانستند و اعلام کردند سیاست جاری فاقد چندجانبه‌گرایی و منافع مشترک کشورهای دخیل است.",
-            "این انتقاد دو هفته پس از عملیات نظامی اعلام‌شده آمریکا برای بیرون آوردن نیکلاس مادورو در ۳ ژانویه و اعلام قصد خرید گرینلند توسط ترامپ مطرح شد؛ استادیار تئولوژی دانشگاه جورج‌تاون می‌گوید این بیانیه‌ها بر مبنای «نظریه جنگ عادلانه» شکل گرفته‌اند."
-        ],
-        "impact": "بیانیه سه تن از مقامات ارشد کلیسایی شکاف قابل‌توجهی در اجماع داخلی بر سر سیاست خارجی ایجاد می‌کند که اعتبار و توان واشینگتن برای شکل‌دادن ائتلاف‌ها و اعمال فشار یکپارچه را تضعیف می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 2,
-        "sentiment": -0.5,
-        "source": "The Guardian",
-        "url": "https://thehoya.com/news/dc-cardinal-condemns-us-foreign-policy/",
-        "clean_url": "https://thehoya.com/news/dc-cardinal-condemns-us-foreign-policy",
-        "image": null,
-        "timestamp": 1771714383.0
-    },
-    {
-        "title_fa": "دانشجویان ایران نخستین اعتراض بزرگ ضددولتی پس از سرکوب مرگبار را برگزار کردند",
-        "title_en": "Iran students stage first large anti-government protests since deadly crackdown",
-        "summary": [
-            "دانشجویان برای نخستین بار پس از سرکوب مرگبار اعتراض‌های پیشین تجمعات بزرگ ضددولتی برگزار کردند؛ نشانه‌ای روشن از تداوم نارضایتی در میان طبقه دانشجویی.",
-            "این تجمع آزمونی برای کارآیی اقدام امنیتی پیشین است: موفقیت در متوقف‌سازی موج اعتراضات از طریق سرکوب قبلی اکنون زیر سؤال رفته است.",
-            "پیام عملی این رویداد افزایش فشار سیاسی بر حکومت و احتمال تشدید اقدامات امنیتی یا برعکس گسترش دامنه اعتراضات است؛ هر دو سناریو ریسک بی‌ثباتی را بالا می‌برد."
-        ],
-        "impact": "این اعتراض‌ها ثبات سیاسی حکومت را متزلزل‌تر می‌کند و احتمال تشدید سرکوب و گسترش اعتراضات را افزایش می‌دهد.",
-        "tag": "اعتراض",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SGdGMVBFcm9oVjE0T1Q3bXlBTG1pN3VyeElYSXcxa2lJU1RTOXBrSkVKSzY1T2NvSjBMYlBhUjVFZ1dEYllVb3ByVFozYnp4TTd5cDdabjNKZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SGdGMVBFcm9oVjE0T1Q3bXlBTG1pN3VyeElYSXcxa2lJU1RTOXBrSkVKSzY1T2NvSjBMYlBhUjVFZ1dEYllVb3ByVFozYnp4TTd5cDdabjNKZw",
-        "image": null,
-        "timestamp": 1771711759.0
-    },
-    {
-        "title_fa": "آمادگی‌های ایران برای جنگ و برنامه‌های بقا",
-        "title_en": "Inside Iran’s Preparation for War and Plans for Survival",
-        "summary": [
-            "علی خامنه‌ای مسئولیت تضمین ادامه‌دادن جمهوری اسلامی در صورت جنگ یا ترور را به علی لاریجانی، مسئول ارشد امنیت ملی، واگذار کرده است.",
-            "این تصمیم نشان‌دهنده نگرانی رهبری از احتمال تعرض خارجی یا قتل هدفمند مقامات بلندپایه و تمرکز ساختار تصمیم‌گیری برای مدیریت سناریوهای بحران است.",
-            "تمرکز بر «بقا» احتمال طراحی سازوکارهای متمرکز امنیتی و مدیریتی را افزایش می‌دهد که می‌تواند تصمیم‌گیری‌های اقتدارگرا و بسیج منابع دولتی را تسریع کند."
-        ],
-        "impact": "واگذاری چنین تکلیفی به لاریجانی نشانه ضعف ساختاری و ترس از فروپاشی از بالا است که با متمرکزسازی اختیارات، کارایی مدیریت اقتصادی و کنترل نارضایتی‌های داخلی را تضعیف و ریسک خطاهای راهبردی را بالا می‌برد.",
-        "tag": "بقا",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html",
-        "clean_url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html",
-        "image": "http://www.bing.com/th?id=OVFT._PU-jAQp3P5wwJw4fJ8fzC&pid=News",
-        "timestamp": 1771710720.0
-    },
-    {
-        "title_fa": "اسرائیل حزب‌الله را هدف قرار می‌دهد در آستانه احتمال رویارویی بر سر حمله به ایران",
-        "title_en": "Israel Targeting Hezbollah Ahead of Possible Clash Over Iran Strike, Security Sources Say",
-        "summary": [
-            "هارتص به نقل از منابع امنیتی گزارش می‌دهد که اسرائیل مواضع حزب‌الله را هدف قرار می‌دهد در آستانه احتمال درگیری مرتبط با حمله‌ای به ایران.",
-            "اقدامات اسرائیل ظاهراً با هدف کاهش ظرفیت تلافی‌جویی حزب‌الله و ایجاد بازدارندگی پیشاپیش از یک رویارویی گسترده تفسیر می‌شود.",
-            "این رفتار ریسک گسترش درگیری در مرزهای شمالی اسرائیل را بالا می‌برد و احتمال تشدید تنش‌های منطقه‌ای بین اسرائیل و شبکه‌های تحت نفوذ ایران را افزایش می‌دهد."
-        ],
-        "impact": "اگر این حملات ادامه یابد یا پاسخ وسیعی از سوی حزب‌الله یا متحدان ایران صادر شود، احتمال تشدید سریع یک درگیری فرامرزی افزایش می‌یابد و این تنش می‌تواند فشارهای خارجی و داخلی بر رژیم ایران را تشدید کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQN1FlSGxxNzh5NzQ0UnlYeElncDBFbE1KN2JmU3RUdzdrRGtBWGlxX2hUQnl2MF9EbUhvekROVC1PakZEcnoyZktfX1dqS3VKWEVrT1hiN3VVTkFzUWo0VUNJblRhU0NqX3J6VlNTSnVHTXRxQW9ZOUo0eklFVEk1bklaSTRpR3Jnb3dZbGlmczZuSE5mYmMtRVdhRjVrMnhTYXBCZTdKNkdMVVlyYVAxZUJ1MUlibXM2bUpzOFRHeS1NLWRoczRsZ0d5aUtNZ2tYdVZkaEdrTGI5U2h1aVQ3RFQ2bjVXQzJIMmlJb2FiRjB5aW51VndoUDlzUHdkWktEODJvemR2bXREMHJFV2cxVTkzX25lNzVwT1NqVGptMXk0R2JpenE2cU91YWZRajZab1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQN1FlSGxxNzh5NzQ0UnlYeElncDBFbE1KN2JmU3RUdzdrRGtBWGlxX2hUQnl2MF9EbUhvekROVC1PakZEcnoyZktfX1dqS3VKWEVrT1hiN3VVTkFzUWo0VUNJblRhU0NqX3J6VlNTSnVHTXRxQW9ZOUo0eklFVEk1bklaSTRpR3Jnb3dZbGlmczZuSE5mYmMtRVdhRjVrMnhTYXBCZTdKNkdMVVlyYVAxZUJ1MUlibXM2bUpzOFRHeS1NLWRoczRsZ0d5aUtNZ2tYdVZkaEdrTGI5U2h1aVQ3RFQ2bjVXQzJIMmlJb2FiRjB5aW51VndoUDlzUHdkWktEODJvemR2bXREMHJFV2cxVTkzX25lNzVwT1NqVGptMXk0R2JpenE2cU91YWZRajZab1E",
-        "image": null,
-        "timestamp": 1771709820.0
     }
 ]
