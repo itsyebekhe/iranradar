@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تلاش اسرائیل برای جنگ با ایران در انزوا",
+        "title_en": "Israel’s lonely push for war with Iran",
+        "summary": [
+            "نشریه +972 می‌گوید اسرائیل فعالانه برای توجیه یا پیشبرد گزینه نظامی علیه ایران فشار می‌آورد و این تلاش در سطح بین‌المللی حمایت گسترده‌ای ندارد.",
+            "گزارش هشدار می‌دهد که فشار یک‌جانبه اسرائیل خطر تشدید سریع تنش‌های منطقه‌ای و احتمال گسترش درگیری فراتر از مرزهای فعلی را بالا می‌برد.",
+            "از منظر داخلی ایران، هر تشدید نظامی یا فشار خارجی می‌تواند مشکلات اقتصادی و نارضایتی اجتماعی موجود را افزایش دهد و بدین‌ ترتیب ثبات حکومت را بیشتر در معرض خطر قرار دهد."
+        ],
+        "impact": "اگر این فشارها به اقدام نظامی منجر شوند، ریسک انفجار منطقه‌ای و تشدید فروپاشی اقتصادی-سیاسی در ایران به‌طور قابل‌توجهی افزایش می‌یابد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "+972 Magazine",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUXRNdkhQbkY0cEQ2dTdNeVlDLUJhVjZvZUR6NVJiSmM2T1AyX1V1RF9TTVFzTHUyS2pNTmFrU29MeEszaVZwaFhvOUxQMTJxUGk5eW9lNnhNVnhnNHk1RGxuQVhUbE40aDZF?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUXRNdkhQbkY0cEQ2dTdNeVlDLUJhVjZvZUR6NVJiSmM2T1AyX1V1RF9TTVFzTHUyS2pNTmFrU29MeEszaVZwaFhvOUxQMTJxUGk5eW9lNnhNVnhnNHk1RGxuQVhUbE40aDZF",
+        "image": null,
+        "timestamp": 1772172675.0
+    },
+    {
         "title_fa": "برنامه هسته‌ای ایران: مذاکرات با آمریکا ادامه دارد",
         "title_en": "Iran’s nuclear program: Talks with the US are continuing.",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-demands-evidence-trump-un-115458839.html",
         "image": null,
         "timestamp": 1771675875.0
-    },
-    {
-        "title_fa": "هاکابی: جنگ ممکن است تنها زبان ایران باشد",
-        "title_en": "Amb. Huckabee to Newsmax: War may be Iran's only language",
-        "summary": [
-            "هاکابی در گفت‌وگو با نیوزمکس گفته که ممکن است جنگ تنها زبان پاسخگویی به ایران باشد.",
-            "این اظهارنظر نشان‌دهنده ناامیدی از ابزارهای سیاسی و تحریمی و گرایش به راه‌حل‌های نظامی در مواجهه با تهران است.",
-            "تشدید لحن جنگ‌طلبانه می‌تواند فضای حمایت از گزینه‌های نظامی را تقویت کند و ریسک افزایش تنش و بی‌ثباتی منطقه‌ای را بالا ببرد."
-        ],
-        "impact": "در صورت تبدیل این رویکرد به سیاست رسمی، تشدید تحریم‌ها یا اقدامات نظامی می‌تواند ساختار اقتصادی و مشروعیت حکومت ایران را بیشتر تضعیف کند اما همزمان خطر بروز درگیری مستقیم و ناپایداری منطقه‌ای را به‌شدت افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Newsmax on MSN",
-        "url": "https://www.msn.com/en-us/news/world/amb-huckabee-to-newsmax-war-may-be-iran-s-only-language/ar-AA1WO38b",
-        "clean_url": "https://www.msn.com/en-us/news/world/amb-huckabee-to-newsmax-war-may-be-iran-s-only-language/ar-AA1WO38b",
-        "image": "http://www.bing.com/th?id=OVFT.zkUYH-rX1NJy_cVO37XaXi&pid=News",
-        "timestamp": 1771675383.0
     }
 ]
