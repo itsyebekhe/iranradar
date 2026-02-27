@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "فرمانده ارشد منطقه‌ای آمریکا به ترامپ درباره گزینه‌های نظامی علیه ایران گزارش داد - ABC News",
+        "title_en": "Live - Top Mideast commander briefed Trump on military options for Iran - ABC News",
+        "summary": [
+            "ABC News گزارش می‌دهد که فرمانده ارشد نظامی آمریکا در منطقه، ترامپ را درباره گزینه‌های نظامی علیه ایران مطلع کرده است؛ نشانه ادامه تمرکز واشنگتن بر آمادگی برای اقدام نظامی در برابر تهران.",
+            "چنین اطلاع‌رسانی‌ای خود بخشی از فشارهای خارجی است که ساختار تضعیف‌کننده رژیم را تقویت می‌کند: آشکار شدن گزینه‌های نظامی می‌تواند به تشدید تحریم‌ها، انزوای دیپلماتیک و افزایش ریسک اختلال در صادرات نفت و خروج سرمایه منجر شود.",
+            "از منظر داخلی، این وضعیت بار اضافه‌ای بر اقتصاد ضعیف و مدیریت ناکارآمد حکومت تحمیل می‌کند؛ احتمال افزایش نارضایتی عمومی، فرار سرمایه و تلاطم ارزی وجود دارد که رژیم را بین بحران اقتصادی و بحران امنیتی گرفتار می‌کند."
+        ],
+        "impact": "افشا و تمرکز بر گزینه‌های نظامی آمریکا سیاست‌های تهران را در معرض فشار مضاعف امنیتی و اقتصادی قرار می‌دهد و توان بقاء سیاسی حکومت را تضعیف می‌کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.msn.com/en-us/news/world/top-us-commander-in-the-middle-east-briefs-trump-on-iran-options/ar-AA1X9UfV",
+        "clean_url": "https://www.msn.com/en-us/news/world/top-us-commander-in-the-middle-east-briefs-trump-on-iran-options/ar-AA1X9UfV",
+        "image": null,
+        "timestamp": 1772155211.0
+    },
+    {
+        "title_fa": "پایان مذاکرات آمریکا و ایران بدون توافق؛ میانجی: پیشرفت حاصل شد",
+        "title_en": "No deal reached as U.S.-Iran talks conclude, but mediator says progress made",
+        "summary": [
+            "مذاکرات پایان یافت اما توافقی حاصل نشد؛ ادعای میانجی درباره «پیشرفت» نشان می‌دهد طرفین در موارد کلیدی به تفاهم نرسیده‌اند.",
+            "نبود توافق به معنای ادامه فشار تحریمی و دیپلماتیک بر حکومت است و ساختارهای اقتصادی-سیاسی را در معرض تضعیف بیشتر قرار می‌دهد.",
+            "خروجی مذاکرات، نشانه‌ای از محدودیت‌های دیپلماتیک و ضعف مدیریتی رژیم در تبدیل گفت‌وگوهای بین‌المللی به نتایج قابل‌لمس است."
+        ],
+        "impact": "اثر فوری این نتیجه‌گیری، تأیید ماندن یا احتمال تشدید تحریم‌ها و استمرار فشار بر اقتصاد و مشروعیت داخلی حکومت است.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/show/no-deal-reached-as-u-s-iran-talks-conclude-but-mediator-says-progress-made",
+        "clean_url": "https://www.pbs.org/newshour/show/no-deal-reached-as-u-s-iran-talks-conclude-but-mediator-says-progress-made",
+        "image": null,
+        "timestamp": 1772149232.0
+    },
+    {
         "title_fa": "مذاکرات هسته‌ای آمریکا و ایران در سایه تهدیدهای ترامپ",
         "title_en": "What to Know About U.S.-Iran Nuclear Talks Amid Trump Threats",
         "summary": [
@@ -160,6 +196,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2pydnFyM3dxMTBDckFkYkdpMFlnRjFtZmsyUi0zaEQyeDFGeUlHVmZ2ek1qZ2pqREZhUzN6eHZaYnpuNUtRTy00aFJRSmJaRG05NTlnaUMyTGZlUVJ0VzZNNXoxWE9jY2lfcVBLaFhsRTlEc24tM3JyaVB1bjJZN3ZkSnlHenpWcTdmV0Y4TC1iV0tQR3JiN2FpcUVaLTFDTXdlcjRaVjBzdUdEcng2Vk95RmdPTTNkMEpZ",
         "image": null,
         "timestamp": 1772129760.0
+    },
+    {
+        "title_fa": "آمریکا و ایران: «پیشرفت قابل توجه» در دور سوم مذاکرات در ژنو",
+        "title_en": "‘Significant progress’ made in US-Iran talks: Oman foreign minister",
+        "summary": [
+            "دور سوم مذاکرات در ژنو برگزار شد؛ بدر البوسعيدی، وزیر خارجه عمان از «پیشرفت قابل توجه» خبر داد و عباس عراقچی، وزیر خارجه ایران تأیید کرد؛ مذاکرات فنی هفته آینده در وین دنبال خواهد شد.",
+            "موج جدید تحریم‌های آمریکا علیه افراد و شرکت‌های مرتبط با برنامه موشکی، تولید پهپاد و فروش غیرقانونی نفت، ضربه‌ای ساختاری به منابع مالی و ظرفیت تدارکاتی رژیم وارد می‌کند و احتمالاً فشار اقتصادی بر مردم و رقابت میان نخبگان را تشدید می‌کند.",
+            "ایالات متحده همزمان دیپلماسی و تهدید نظامی را حفظ کرده است؛ نماینده ویژه استیو ویتکاف با عراقچی دیدار کرد، جرد کوشنر حضور داشت و تهدید به حمله نظامی مطرح است؛ اعزام ناو جرالد فورد نیز به منطقه فرستادن پیام قاطع نظامی است."
+        ],
+        "impact": "پیشرفت مذاکرات ممکن است احتمال درگیری مستقیم را کاهش دهد اما تحریم‌های هدفمند و فشار نظامی-دیپلماتیک ظرفیت اقتصادی و نظامی رژیم را تضعیف کرده و ثبات داخلی آن را زیر فشار قرار می‌دهد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/us-iran-hold-third-round-115108359.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-iran-hold-third-round-115108359.html",
+        "image": "http://www.bing.com/th?id=OVFT._yVPFNBe8BmYgIlIbqNLYy&pid=News",
+        "timestamp": 1772124660.0
+    },
+    {
+        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران در ژنو بدون توافق؛ ترامپ حمله را بررسی می‌کند",
+        "title_en": "US-Iran nuclear talks wrap up without a deal as Trump weighs strike",
+        "summary": [
+            "مذاکرات غیرمستقیم در ژنو با حضور عباس عراقچی (وزیر خارجه ایران) و نمایندگان آمریکایی به سرپرستی استیو ویتکوف و حضور جارد کوشنر پایان یافت اما توافقی حاصل نشد؛ وزیر خارجه عمان، بدر البوسعیدی، از «پیشرفت قابل‌توجه» گفت و گفتگوهای فنی قرار است در وین ادامه یابد.",
+            "ایران اعلام کرد به غنی‌سازی ادامه می‌دهد، پیشنهاد انتقال اورانیوم به خارج را رد کرد و خواستار رفع تحریم‌ها شد؛ هم‌زمان استقرار ناوها و هواپیماهای آمریکایی در منطقه فشار نظامی و اقتصادی را علیه ساختار حکومتی ایران شدت می‌بخشد و امکان استفاده از زور را پیش روی دونالد ترامپ قرار می‌دهد.",
+            "رد مذاکره درباره برنامه موشکی و حمایت از گروه‌های مسلح در کنار نارضایتی و اعتراضات سراسری داخلی آشکارا نشان‌دهنده ضعف مدیریتی و فروپاشی نسبی مشروعیت است؛ نبود توافق خطر تشدید تقابل نظامی و افزایش آسیب‌پذیری سیاسی را بالا می‌برد. "
+        ],
+        "impact": "عدم توافق، در متن افزایش فشارهای نظامی-اقتصادی و بحران‌های داخلی، احتمال رویارویی نظامی را بالا می‌برد و ثبات سیاسی حکومت را بیشتر تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/us-iran-nuclear-talks-wrap-224448218.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-iran-nuclear-talks-wrap-224448218.html",
+        "image": null,
+        "timestamp": 1772122200.0
     },
     {
         "title_fa": "شورای روابط خارجی — منبع فاقد محتوا",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUplS1I2VURlWGk1YTdOUTE3UVlZRXpiOGxQQmR5NVZkR0NPelRPM1VmUXFTWk1HeGhwZWtFNmlqN29LaFB3NmdteHJfYkVSTzdSbklIWVAzMlRSRUtHZGZQZUhaa2drQlVSM1RIbmIzYWdiU3RTQUxHQ2FwU1V5cm9sWnZYRkN0QXpfS3IzVWczU0RvenlF",
         "image": null,
         "timestamp": 1771666152.0
-    },
-    {
-        "title_fa": "تحلیل خبری: رئیس‌جمهور ترامپ در حال بررسی تعهد آمریکا به عملیات نظامی دیگری علیه ایران",
-        "title_en": "News Analysis: President Trump is considering committing the U.S. to another military campaign against Iran. This decision carries the risk of igniting a conflict that could prove to be longer, deadlier and far more dangerous than last year’s 12-day war.",
-        "summary": [
-            "گزارش می‌گوید ترامپ بررسی می‌کند آمریکا را به کارزار نظامی جدیدی علیه ایران متعهد کند که احتمال دارد از جنگ ۱۲ روزه سال گذشته طولانی‌تر و کشنده‌تر شود.",
-            "پیاده‌سازی عملیات نظامی آمریکا می‌تواند فشار خارجی و هزینه‌های تحریمی-نظامی را بر رژیم افزایش دهد؛ این فشار ساختاری منابع اقتصادی و ظرفیت تصمیم‌گیری حکومت را تضعیف کرده و ریسک فروپاشی مدیریتی جزئی را بالا می‌برد.",
-            "در صورت تشدید درگیری، بدون اصلاحات ساختاری و بهبود حکمرانی، آسیب اقتصادی و کاهش معیشت عمومی احتمالاً نارضایتی‌ها را افزایش داده و توان سرکوب یا کنترل سیاسی را تحت فشار قرار می‌دهد."
-        ],
-        "impact": "پیامد محتمل این تصمیم، شعله‌ور شدن یک مناقشه طولانی‌تر و خطرناک‌تر است که فشار داخلی-اقتصادی و تزلزل سیاسی را بر حکومت ایران به‌صورت معناداری افزایش خواهد داد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNmFsNGdXWGVRcVUzemRnUU10S2ZJcTVJR3ZMS3FTbm5HakdIdlVndkRYXzZKMGYyTTM1dTRXRHNlT2tfMWlpSXAtNmVUbXVGcXR1NEpNUXVSNlpqOERyTzhJRHNkTVd3U2h5cnF4VnpIZHBSYWpJajlNQVBrcDh6Vk5MVkV4TzZWazNGSmZ0T2lIb3RFX1BKNmZFNW01M3NZRGlEWGR3b1NrdHg4TFVDaXRyMmRnVVlrdFVfT3dwYkEtc3pMZy1WNnk3X3ZtT2VfYlJj?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNmFsNGdXWGVRcVUzemRnUU10S2ZJcTVJR3ZMS3FTbm5HakdIdlVndkRYXzZKMGYyTTM1dTRXRHNlT2tfMWlpSXAtNmVUbXVGcXR1NEpNUXVSNlpqOERyTzhJRHNkTVd3U2h5cnF4VnpIZHBSYWpJajlNQVBrcDh6Vk5MVkV4TzZWazNGSmZ0T2lIb3RFX1BKNmZFNW01M3NZRGlEWGR3b1NrdHg4TFVDaXRyMmRnVVlrdFVfT3dwYkEtc3pMZy1WNnk3X3ZtT2VfYlJj",
-        "image": null,
-        "timestamp": 1771665182.0
-    },
-    {
-        "title_fa": "مقامات اسرائیلی معتقدند آمریکا و ایران در بن‌بستی غیرقابل عبور قرار دارند و به درگیری آشکار نزدیک می‌شوند",
-        "title_en": "Israeli officials believe US, Iran at unbridgeable impasse as they near open conflict",
-        "summary": [
-            "مقامات اسرائیلی اعلام کرده‌اند که تنش بین آمریکا و ایران به مرحله‌ای رسیده که بن‌بستی غیرقابل عبور ایجاد کرده و نشانه‌ها به سمت احتمال درگیری نظامی آشکار حرکت می‌کند.",
-            "این بن‌بست احتمال تشدید تحریم‌ها و به‌کارگیری گزینه‌های نظامی از سوی آمریکا و متحدانش را افزایش می‌دهد؛ فشار خارجی ساختار اقتصادی رژیم را تضعیف کرده و توان مدیریتی دولت را کاهش می‌دهد.",
-            "افزایش تنش بیرونی فضای مانور سیاسی رژیم را محدود می‌کند و از آنجا که اقتصاد ضعیف و مدیریت ناکارا ادامه دارد، این وضعیت می‌تواند نارضایتی عمومی را تشدید کرده و انسجام داخلی را بیشتر تضعیف کند."
-        ],
-        "impact": "این بن‌بست، خطر تضعیف کنترل سیاسی رژیم و تشدید بحران اقتصادی-اجتماعی را بالا می‌برد و شانس گسترش مواجهه‌های نظامی منطقه‌ای را افزایش می‌دهد.",
-        "tag": "تصعيد",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbDN3VWRwaGhWNTY5QUcxQU56c21GTFRzYkF0RENUSDIzOEdWdTJEcnlBbUJRYlN3WlZxYXF5LUN1OGVyblhzbWF1NHVCSUVyWEpMYXZvNno4RDVXWUpNMWhDOFRqTGxsN041Tm5SS3VWdXQzYVVUNGZnNF9PNGJXRFBMM3hYT1JQeTZiQVRJcUN6ckNob3NiRGhYTGRKRllQWGNrSTBzUmdjRk04UzZaOFlBUWNxZ9IBuwFBVV95cUxOdDJWaEdkRm84OEd3bmRaMUFwTnVocm43MTRWdVlRLTlvVHpkWEM5b3o5Z1FGdXlXWUYxd01MZ1FvOVV6bE8yWEZzYUJ2TlVZVEtzUkNfY29lOTBQdkEtdlI1NFctT1c1aFhVeWRJTGdadmVjcW5QYkRvZS1nOFdsVWlZY3V5T1ZrUXN3OVZKRFN0VWxpeEZzcGZwLVE0TU5sbXBWQVNIRWZxLU5rWU1sYVFJSlpSOWVlTkl3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbDN3VWRwaGhWNTY5QUcxQU56c21GTFRzYkF0RENUSDIzOEdWdTJEcnlBbUJRYlN3WlZxYXF5LUN1OGVyblhzbWF1NHVCSUVyWEpMYXZvNno4RDVXWUpNMWhDOFRqTGxsN041Tm5SS3VWdXQzYVVUNGZnNF9PNGJXRFBMM3hYT1JQeTZiQVRJcUN6ckNob3NiRGhYTGRKRllQWGNrSTBzUmdjRk04UzZaOFlBUWNxZ9IBuwFBVV95cUxOdDJWaEdkRm84OEd3bmRaMUFwTnVocm43MTRWdVlRLTlvVHpkWEM5b3o5Z1FGdXlXWUYxd01MZ1FvOVV6bE8yWEZzYUJ2TlVZVEtzUkNfY29lOTBQdkEtdlI1NFctT1c1aFhVeWRJTGdadmVjcW5QYkRvZS1nOFdsVWlZY3V5T1ZrUXN3OVZKRFN0VWxpeEZzcGZwLVE0TU5sbXBWQVNIRWZxLU5rWU1sYVFJSlpSOWVlTkl3",
-        "image": null,
-        "timestamp": 1771664688.0
-    },
-    {
-        "title_fa": "تهران در حالت آماده‌باش؛ ساکنان نگران حمله آمریکا",
-        "title_en": "Tehran on edge as residents fear US attack",
-        "summary": [
-            "فایننشال تایمز گزارش می‌دهد شهروندان تهران در پی تهدید یا احتمال حمله آمریکا در وضعیت اضطراری قرار دارند و فضای عمومی با ترس و نگرانی گسترده توصیف شده است.",
-            "این وضعیت ضعف عملکرد امنیتی و اطلاع‌رسانی حکومت را عیان می‌کند؛ ناتوانی در تأمین احساس امنیتِ حداقلی برای مردم بار سیاسی و اجتماعی رژیم را افزایش می‌دهد.",
-            "افزایش ریسک نظامی و فشار خارجی می‌تواند به صورت بالقوه پیامدهای اقتصادی (کاهش سرمایه‌گذاری، تشدید خروج سرمایه) و سیاسی (افزایش نارضایتی عمومی و فشار بر نهادهای امنیتی) را تشدید کند."
-        ],
-        "impact": "پیامد فوری این است که فشار روانی و سیاسی بر رژیم بالا می‌رود و ریسک تشدید تنش منطقه‌ای و فرسایش مشروعیت داخلی را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/c8f309fd-ab19-48c6-953b-03b884bfd065",
-        "clean_url": "https://www.ft.com/content/c8f309fd-ab19-48c6-953b-03b884bfd065",
-        "image": null,
-        "timestamp": 1771663076.0
-    },
-    {
-        "title_fa": "درگیری ایران و اسرائیل: اخبار برتر امروز به زبان هندی",
-        "title_en": "Iran-Israel Conflict: Today's Top Hindi News",
-        "summary": [
-            "منبع گزارش یک گردآوری خبری به زبان هندی درباره درگیری ایران و اسرائیل است؛ متن خبری اصلی در دادهٔ ارائه‌شده وجود ندارد.",
-            "به‌دلیل فقدان محتوای تفصیلی، امکان تحلیل آثار تحریم‌ها یا فشار خارجی، و نیز نقش روسیه/چین/کره‌شمالی طبق چهارچوب تحلیلی وجود ندارد.",
-            "چنین پوشش رسانه‌ای می‌تواند برداشت عمومی در میان مخاطبان هندی‌زبان را جهت‌دهی کند، اما بدون جزئیات نمی‌توان اثر ملموسی بر تحولات میدانی یا انسجام داخلی پیش‌بینی کرد."
-        ],
-        "impact": "فقدان متن خبری واقعی ارزیابی تأثیر بر ثبات داخلی یا تصمیم‌گیری‌های منطقه‌ای را غیرممکن می‌سازد؛ تنها تأثیر روشن، انتقال و شکل‌دهی برداشت در جمعیت هندی‌زبان است.",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "thedetroitbureau.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3hsdmFLRGl2VkxXT0szVTZPQXlMRklta2FHbTloTzVrdFlTQ0hVMi05bERvejdWTXZESGs3cDRMV1VOeF8yZFNINmhFYVZES0dzMm9sWkJDX3FpRWUxU1ptbFpVblg4QXhNZVBnTmdsVGMzcl94ZVU3dEIxcDEzU3ZKZ2NGTkcxa0tpZTltdVhDVVNjcVJQNHk0Qm1qRE5s?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3hsdmFLRGl2VkxXT0szVTZPQXlMRklta2FHbTloTzVrdFlTQ0hVMi05bERvejdWTXZESGs3cDRMV1VOeF8yZFNINmhFYVZES0dzMm9sWkJDX3FpRWUxU1ptbFpVblg4QXhNZVBnTmdsVGMzcl94ZVU3dEIxcDEzU3ZKZ2NGTkcxa0tpZTltdVhDVVNjcVJQNHk0Qm1qRE5s",
-        "image": null,
-        "timestamp": 1771662844.0
     }
 ]
