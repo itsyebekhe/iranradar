@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "برنامه هسته‌ای ایران: مذاکرات با آمریکا ادامه دارد",
+        "title_en": "Iran’s nuclear program: Talks with the US are continuing.",
+        "summary": [
+            "گزارش Table.Briefings: مذاکرات هسته‌ای بین ایران و آمریکا در جریان است.",
+            "ادامه گفتگوها می‌تواند برای کاستن فشارهای خارجی و باز کردن مسیر کاهش تحریم‌ها باشد، اما هیچ تضمینی برای دستاوردهای پایدار یا تغییرات ساختاری در حکومت وجود ندارد.",
+            "در صورت عدم انجام اصلاحات واقعی در مدیریت اقتصادی و سیاسی، حتی مذاکرات موفق کوتاه‌مدت نیز قادر به حل ریشه‌ای نارضایتی عمومی و ضعف‌های حکمرانی نخواهند بود."
+        ],
+        "impact": "ادامه مذاکرات ممکن است به‌طور موقت فشار اقتصادی و دیپلماتیک را کاهش دهد، اما بدون اصلاحات ساختاری ثبات داخلی و مشروعیت بلندمدت حکومت همچنان در معرض خطر خواهد بود.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Table.Briefings",
+        "url": "https://www.msn.com/en-us/money/investment/gold-edges-higher-as-traders-digest-us-iran-talks/ar-AA1X9Hl6",
+        "clean_url": "https://www.msn.com/en-us/money/investment/gold-edges-higher-as-traders-digest-us-iran-talks/ar-AA1X9Hl6",
+        "image": null,
+        "timestamp": 1772167280.0
+    },
+    {
+        "title_fa": "آمریکا و ایران پس از مذاکرات «فشرده» پنج‌شنبه با برگزاری چهارمین نشست در وین موافقت کردند",
+        "title_en": "US and Iran agree to fourth meeting in Vienna after 'intense' negotiations Thursday",
+        "summary": [
+            "آمریکا و ایران توافق کردند دور چهارم مذاکرات در وین برگزار شود؛ این تصمیم پس از یک جلسه «فشرده» در روز پنج‌شنبه اتخاذ شد.",
+            "ادامه جلسات نشان می‌دهد طرفین هنوز گزینه چانه‌زنی دیپلماتیک را دنبال می‌کنند و حاضر به باز گذاشتن فضای مذاکره برای حل اختلافات هستند.",
+            "در صورتی که محور مذاکرات مربوط به پرونده هسته‌ای و تحریم‌ها باشد، فشار خارجی و تحریمی عامل مهمی در واداشتن رژیم به نشست‌های مکرر بوده است؛ متن خبر هیچ شاهد مستقیمی درباره تأثیرات داخلی مانند وضعیت اقتصادی یا اعتراضات مردمی ارائه نمی‌دهد."
+        ],
+        "impact": "تأیید برگزاری دور چهارم مذاکرات علامت ادامه فشار و چانه‌زنی دیپلماتیک است که می‌تواند ظرفیت‌های بقاء رژیم را تحت فشار قرار دهد، اما خبر نشانه‌ای از تغییر بنیادین در اوضاع داخلی ارائه نمی‌کند.",
+        "tag": "وین",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "KBOI",
+        "url": "https://komonews.com/news/nation-world/us-and-iran-agree-to-fourth-meeting-vienna-after-intense-negotiations-thursday-witkoff-kushner-oman-foreign-minister-nuclear-weapons-ballistic-missiles-trump",
+        "clean_url": "https://komonews.com/news/nation-world/us-and-iran-agree-to-fourth-meeting-vienna-after-intense-negotiations-thursday-witkoff-kushner-oman-foreign-minister-nuclear-weapons-ballistic-missiles-trump",
+        "image": null,
+        "timestamp": 1772163617.0
+    },
+    {
         "title_fa": "ونس: «هیچ شانسی» برای درگیری درازمدت آمریکا در خاورمیانه وجود ندارد",
         "title_en": "Vance: ‘No chance’ U.S. will be in drawn-out war in Middle East",
         "summary": [
@@ -106,6 +142,24 @@
         "clean_url": "https://www.msn.com/en-gb/news/world/us-and-iran-make-significant-progress-in-talks-will-meet-again-soon-mediator-says/ar-AA1X9Atv",
         "image": "https://www.reuters.com/resizer/v2/UAQ6RLNREBLSLAVZQRQKIC4CS4.jpg?auth=d705837b2258cbf728adfe41fb79a0256eb2f0eebe74077af51b515943d31400&height=1005&width=1920&quality=80&smart=true",
         "timestamp": 1772140168.0
+    },
+    {
+        "title_fa": "دستیابی به اهداف محدود جنگ آمریکا علیه ایران دشوار خواهد بود",
+        "title_en": "Even Narrow U.S. War Aims in Iran Will Be Hard to Achieve",
+        "summary": [
+            "نیروهای نیابتی ایران در عراق و حزب‌الله لبنان از ورود به میدان خودداری کردند تا ریسک تخریب بیشتر در مواجهه با حملات آمریکا یا اسرائیل را نپذیرند.",
+            "روسیه و چین صرفاً بیانیه‌های لفظی صادر کردند و فعالانه وارد عمل نشدند؛ این کمک‌های لفظی می‌تواند به‌عنوان پوششی دیپلماتیک و سیاسی برای بقا عمل کند اما مداخله میدانی انجام ندادند.",
+            "ترکیب خودداری نیابتی‌ها و عدم مداخله بین‌المللی، تحقق اهداف محدود نظامی آمریکا را پیچیده می‌کند؛ متن هیچ اشاره‌ای به اعتراضات داخلی یا ضربه اقتصادی مستقیم ندارد و درباره تزلزل داخلی نمی‌توان نتیجه‌گیری قطعی کرد."
+        ],
+        "impact": "این پویایی، احتمال تشدید گسترده جنگ را کاهش می‌دهد اما همزمان ضعف کنترلی تهران بر نیابتی‌ها و وابستگی به حمایت دیپلماتیک خارجی را برجسته می‌سازد.",
+        "tag": "استراتژیک",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/02/26/iran-trump-war-objectives-washington-nuclear-program/",
+        "clean_url": "https://foreignpolicy.com/2026/02/26/iran-trump-war-objectives-washington-nuclear-program",
+        "image": null,
+        "timestamp": 1772137680.0
     },
     {
         "title_fa": "پایان مذاکرات آمریکا-ایران: ادعای پیشرفت با ابهامات فراوان",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/amb-huckabee-to-newsmax-war-may-be-iran-s-only-language/ar-AA1WO38b",
         "image": "http://www.bing.com/th?id=OVFT.zkUYH-rX1NJy_cVO37XaXi&pid=News",
         "timestamp": 1771675383.0
-    },
-    {
-        "title_fa": "هشدار ترامپ به رژیم ایران درباره «توافق عادلانه» و تهدید به اقدام نظامی",
-        "title_en": "US President Donald Trump continues to warn the Iranian regime to make a “fair deal” to avoid US military action.",
-        "summary": [
-            "اعلامیه مکرر دونالد ترامپ که از رژیم می‌خواهد برای دستیابی به «توافق عادلانه» اقدام کند، عملاً یک اخطار علنی و اهرم فشار است که احتمال استفاده از نیروی نظامی را به عنوان گزینه‌ای روی میز نگه می‌دارد.",
-            "چنین تهدیدهایی ساختارهای بازدارنده و منابع امنیتی رژیم را تحت فشار قرار می‌دهد، هزینه‌های دفاعی و سیاسی را افزایش می‌دهد و توان مانور داخلی حکومت را تضعیف می‌کند.",
-            "در عرصه داخلی، تشدید فشار خارجی بار اقتصادی و سیاسی را افزایش داده و ضعف مدیریت حکومتی و ناتوانی در تضمین امنیت ملی را در چشم مردم برجسته می‌کند؛ این امر می‌تواند به تشدید نارضایتی عمومی بینجامد."
-        ],
-        "impact": "هشدار ترامپ خطر تقابل نظامی را بالا می‌برد و فشارهای خارجی را تشدید می‌کند، که می‌تواند ناپایداری سیاسی و اقتصادی رژیم را بیشتر کند.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": 0.4,
-        "source": "facebook.com",
-        "url": "https://www.skynews.com.au/world-news/united-states/they-better-negotiate-trump-warns-iran-to-make-fair-deal-to-avoid-us-military-action/video/bc61d68610693d80f6b72187be3a2645",
-        "clean_url": "https://www.skynews.com.au/world-news/united-states/they-better-negotiate-trump-warns-iran-to-make-fair-deal-to-avoid-us-military-action/video/bc61d68610693d80f6b72187be3a2645",
-        "image": null,
-        "timestamp": 1771673542.0
-    },
-    {
-        "title_fa": "اسرائیلی‌ها چمدان‌ها را آماده نگه داشته‌اند؛ ترامپ تصمیم احتمالی حمله به ایران را می‌سنجد",
-        "title_en": "Israelis keep suitcases packed and ready as Trump weighs potential Iran strike decision",
-        "summary": [
-            "گزارش فاکس نیوز می‌گوید شهروندان اسرائیلی در حالت آماده‌باش کامل قرار دارند و چمدان‌های اضطراری برای احتمال تشدید نظامی آماده نگه داشته‌اند در حالی که ترامپ درباره اقدام نظامی احتمالی علیه ایران تصمیم‌گیری می‌کند.",
-            "این رفتار شهری نشانه کاهش اطمینان عمومی نسبت به ثبات منطقه‌ای و افزایش ریسک تشدید نظامی است که می‌تواند پیامدهای زنجیره‌ای برای امنیت مدنی و نظامی در خاورمیانه داشته باشد.",
-            "متن گزارش اشاره‌ای به تحریم‌ها، نقش روسیه/چین/کره‌شمالی یا اعتراضات داخلی ایران نکرده است؛ هرگونه تحلیل درباره اثرات ساختاری تحریم‌ها یا دخالت‌های خارجی خارج از محتوای گزارش به شواهد اضافی نیاز دارد. "
-        ],
-        "impact": "آماده‌باش گسترده در اسرائیل نشان‌دهنده افزایش احتمال تشدید سریع درگیری‌ها و بی‌ثباتی بیشتر در منطقه است.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzRxVmFGdTlYclZSOFQ4Y3pxbW5ZdTFRcTJQQzFZcXZWWE5IUVpfMFUtX3M2T3JMYjRHVEFjOHBEUENoRjdZR010NzlaaGJSNExNNGlEMkczX1BrV1dQZjNmQVd4UjFwM1UyUlBxa0lKclM0OWtuNWhWMFZ6YW85RG5naFJjU1dfaVgxRloweDRUY1E5NWhzNlNkekVvaGx0M3ZLbXZhaGMxNFhTQnZJ0gG0AUFVX3lxTE5BTThyM21XbjFCUlVDOG5uMVNHa19felNqc2tDaUlRb09KbUM4YUdiUE1ON3FDLW0tYnhCak1NY0ZvZG9hYzRQb2ZEbFJuTjF2VDJva05mTmJUV1BoeUhZQWFjbENPemNGcmw3VkFIQVI2YTRYWi1ZMGM4OTc5cDRmM2xhSkVQVDhZQ1hlZzJtQVk1cjBpcGNoOE5GUHgzVWlldUdqQTc4YlRYMHB4M0pJektUNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzRxVmFGdTlYclZSOFQ4Y3pxbW5ZdTFRcTJQQzFZcXZWWE5IUVpfMFUtX3M2T3JMYjRHVEFjOHBEUENoRjdZR010NzlaaGJSNExNNGlEMkczX1BrV1dQZjNmQVd4UjFwM1UyUlBxa0lKclM0OWtuNWhWMFZ6YW85RG5naFJjU1dfaVgxRloweDRUY1E5NWhzNlNkekVvaGx0M3ZLbXZhaGMxNFhTQnZJ0gG0AUFVX3lxTE5BTThyM21XbjFCUlVDOG5uMVNHa19felNqc2tDaUlRb09KbUM4YUdiUE1ON3FDLW0tYnhCak1NY0ZvZG9hYzRQb2ZEbFJuTjF2VDJva05mTmJUV1BoeUhZQWFjbENPemNGcmw3VkFIQVI2YTRYWi1ZMGM4OTc5cDRmM2xhSkVQVDhZQ1hlZzJtQVk1cjBpcGNoOE5GUHgzVWlldUdqQTc4YlRYMHB4M0pJektUNQ",
-        "image": null,
-        "timestamp": 1771671633.0
-    },
-    {
-        "title_fa": "با استقرار نیروهای آمریکا، ترامپ گزینه‌های خود علیه ایران را بررسی می‌کند",
-        "title_en": "With U.S. forces in position, Trump mulls his options for Iran",
-        "summary": [
-            "استقرار نیروهای آمریکایی در منطقه نشان‌دهنده آماده‌باش نظامی است و نشان می‌دهد کاخ سفید در حال سنجش گزینه‌های فشار و واکنش علیه ایران است.",
-            "این شرایط احتمال افزایش تحریم‌ها و اقدامات نظامی محدود را بالا می‌برد؛ چنین فشارهایی ساختار سیاسی-اقتصادی رژیم را از نظر مالی و مشروعیت داخلی تضعیف خواهند کرد.",
-            "تهدیدات خارجی می‌تواند نارضایتی عمومی را تشدید کند و ضعف مدیریت داخلی را آشکار سازد؛ واکنش مردم و بازیگران داخلی تعیین‌کننده میزان پایداری خواهد بود."
-        ],
-        "impact": "استقرار نیروها و بررسی گزینه‌ها ریسک تشدید درگیری نظامی و افزایش فشارهای اقتصادی را بالا می‌برد که ثبات داخلی ایران را بیش از پیش تهدید می‌کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/02/21/nx-s1-5720966/trump-iran",
-        "clean_url": "https://www.npr.org/2026/02/21/nx-s1-5720966/trump-iran",
-        "image": null,
-        "timestamp": 1771671600.0
     }
 ]
