@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ می‌گوید از مذاکرات هسته‌ای با ایران «خوشحال نیست» اما به آنها زمان بیشتری می‌دهد",
+        "title_en": "Trump says he is 'not happy' with the Iran nuclear talks but indicates he'll give them more time",
+        "summary": [
+            "دونالد ترامپ گفته از روند مذاکرات هسته‌ای با ایران «خوشحال نیست» اما قصد دارد به این مذاکرات زمان بیشتری اختصاص دهد.",
+            "این موضع علنی ترکیبی از نارضایتی و خودداری از تشدید فوری را نشان می‌دهد که در کوتاه‌مدت سیاست واشنگتن را به وضعیت بلاتکلیفی می‌برد و فرصت تصمیم‌گیری استراتژیک نامشخصی ایجاد می‌کند.",
+            "برای تهران این پیام می‌تواند فرصت موقتی تنفس سیاسی فراهم کند، اما به‌هیچ‌وجه اثر ساختاری تحریم‌ها یا پیامدهای سوءمدیریت اقتصادی و نارضایتی داخلی را از بین نمی‌برد و احتمالاً رقابت بین جریان‌های مذاکره‌کننده و تندروها را تشدید خواهد کرد."
+        ],
+        "impact": "اظهارنظر ترامپ یک دوره بلاتکلیفی راهبردی ایجاد می‌کند که به حکومت ایران فرصت کاهش فشار فوری می‌دهد اما ساختارهای اقتصادی و سیاسی ضعیف‌شده توسط تحریم‌ها و سوءمدیریت همچنان آسیب‌پذیر باقی می‌ماند.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGFrd3B6TWljNHNsMzQyV1FVYTM5cUY4TUxyT3AtbktfZTg5dHkwMDZvYkZRMmVycjVSSlRDMVpBZ0ZzTlMwSTJQRkNpNmw3TmhLems4UVBwWUF5UzhHemFRbV95RV83N2FyMVlfeVc0YXVLaGZ2S2JLX0xYekh4WVRab2c1T1ItT2FaYWpVX2ZyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGFrd3B6TWljNHNsMzQyV1FVYTM5cUY4TUxyT3AtbktfZTg5dHkwMDZvYkZRMmVycjVSSlRDMVpBZ0ZzTlMwSTJQRkNpNmw3TmhLems4UVBwWUF5UzhHemFRbV95RV83N2FyMVlfeVc0YXVLaGZ2S2JLX0xYekh4WVRab2c1T1ItT2FaYWpVX2ZyUQ",
+        "image": null,
+        "timestamp": 1772230020.0
+    },
+    {
         "title_fa": "ترامپ پس از مذاکرات هسته‌ای: از ایران خشنود نیست",
         "title_en": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
         "summary": [
@@ -288,6 +306,24 @@
         "timestamp": 1772194728.0
     },
     {
+        "title_fa": "بدر البوسعیدی: توافق آمریکا و ایران در دسترس است؛ دیپلماسی تنها راه",
+        "title_en": "Full Transcript: Omani Foreign Minister Badr Albusaidi tells \"Face the Nation\" a U.S. Iran deal is \"within our reach\"",
+        "summary": [
+            "بدر البوسعیدی، میانجی عمانی مذاکرات، می‌گوید پیشرفت ملموسی حاصل شده و «قلبِ توافق» به‌دست آمده است؛ او تأکید کرد اگر به دیپلماسی فضای لازم داده شود، توافقی که مانع دستیابی ایران به مواد هسته‌ای بمب‌ساز شود در دسترس است.",
+            "اظهارات او نشان می‌دهد محور توافق احتمالی متکی به تعهدات محدودکننده درباره مواد هسته‌ای است؛ اگر این مسیر به توافق منتهی شود، امکان کاهش یا تعلیق تحریم‌ها وجود دارد که ساختار فشار خارجی بر تهران را تضعیف می‌کند و پیامدهای اقتصادی و سیاسی داخلی دارد.",
+            "رئیس‌جمهور آمریکا از روند مذاکرات ابراز نارضایتی کرده و میانجی عمانی از نیاز به «فضا» برای ادامه گفت‌وگوها سخن گفته است؛ ادامه یا توقف این روند زمان‌بندی سیاسی و امنیتی منطقه و احتمال استفاده از گزینه‌های اهرمی علیه تهران را تعیین خواهد کرد."
+        ],
+        "impact": "در صورت تحقق توافق و هرگونه کاهش تحریم‌ها، فشار اقتصادی کوتاه‌مدت بر حکومت کاهش یافته و توان بازتوزیع منابع برای تقویت بقا و تثبیت سیاسی رژیم افزایش خواهد یافت.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/full-transcript-omani-foreign-minister-badr-albusaidi/",
+        "clean_url": "https://www.cbsnews.com/news/full-transcript-omani-foreign-minister-badr-albusaidi",
+        "image": null,
+        "timestamp": 1772194440.0
+    },
+    {
         "title_fa": "آمریکا خروج برخی کارکنان دیپلماتیک از اسرائیل را مجاز دانست؛ تنش با ایران همچنان ادامه دارد",
         "title_en": "U.S. clears some diplomatic staff to leave Israel as tension with Iran continues despite talks",
         "summary": [
@@ -448,6 +484,24 @@
         "clean_url": "https://www.timesnownews.com/world/us/us-iran-geneva-talks-live-updates-trump-ayotallah-khamenei-sanctions-military-buildup-kushner-iran-us-tensions-news-liveblog-153698456",
         "image": "http://www.bing.com/th?id=OVFT.uET06IjK80GMK2zafuBbBC&pid=News",
         "timestamp": 1772183340.0
+    },
+    {
+        "title_fa": "ترامپ: از روند مذاکرات ایران-آمریکا راضی نیست",
+        "title_en": "Trump says he’s ‘not happy’ with state of Iran-US talks",
+        "summary": [
+            "دونالد ترامپ اعلام کرد که از وضعیت مذاکرات بین آمریکا و ایران «راضی نیست» و پیشرفتی که گزارش شده به شکست راهبردی نرسیده است.",
+            "وزیر خارجه عمان به شبکه CBS گفت که تهران موافقت کرده در صورت حصول توافق، انباشت اورانیوم غنی‌شده را متوقف کند؛ یعنی به‌صورت نظری دیگر مواد کافی برای ساخت سلاح هسته‌ای انبار نخواهد کرد.",
+            "رسانه‌ها از «نشانه‌های پیشرفت» خبر دادند اما تأکید کردند که هنوز هیچ پیشرفت شکاف‌گونه یا توافق نهایی به‌دست نیامده است."
+        ],
+        "impact": "اگر توقف انباشت اورانیوم غنی‌شده به‌همراه امتیازات متقابل رسمی شود، فشار خارجی بر مؤلفه هسته‌ای رژیم کاهش می‌یابد؛ تأثیر واقعی بر ثبات داخلی و کارآمدی سیاست‌های اقتصادی تنها به جزئیات بسته توافق و مشوق‌های احتمالی وابسته است که در خبر گزارش نشده‌اند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/politics/live-news/trump-administration-news-02-27-26",
+        "clean_url": "https://www.cnn.com/politics/live-news/trump-administration-news-02-27-26",
+        "image": null,
+        "timestamp": 1772182980.0
     },
     {
         "title_fa": "اختلاف علنی رضا پهلوی و گروه‌های کردی در صف اپوزیسیون ایرانی",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.newsweek.com/witkoff-says-iran-near-making-nuclear-bomb-material-despite-us-june-strike-11563179",
         "image": null,
         "timestamp": 1771752540.0
-    },
-    {
-        "title_fa": "پتر جنینگز: ایران مذاکرات هسته‌ای با آمریکا را کش می‌دهد",
-        "title_en": "Former Defence Deputy Secretary for Strategy Peter Jennings says Iran is trying to “string out” negotiations with the US concerning their nuclear program.",
-        "summary": [
-            "پتر جنینگز، معاون سابق وزارت دفاع در امور راهبردی، ادعا کرده ایران تلاش می‌کند مذاکرات هسته‌ای با آمریکا را «کش دهد».",
-            "چنین رفتار تأخیری در مذاکرات می‌تواند به حفظ یا طولانی شدن وضعیت تحریم‌ها و فشار خارجی بینجامد که تأثیرات ساختاری بر ثبات اقتصادی و سیاسی رژیم دارد.",
-            "استراتژی کش دادن مذاکرات نشان‌دهنده ناکارآمدی در مدیریت پرونده حساس هسته‌ای است و احتمال افزایش نارضایتی عمومی در میان شهروندان تحت فشار اقتصادی را بالا می‌برد."
-        ],
-        "impact": "این ادعا هشدار می‌دهد که هر تأخیر عمدی در مذاکرات، خطر تشدید فشارهای بین‌المللی و افزایش نارضایتی داخلی را بالا می‌برد و ثبات رژیم را تضعیف می‌کند.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZkp3SElVbmVhSFpPbU81VlBYcXdRSURhQmFLYWtxVkN3VVYxSE1KRWVwaHpuWXVKZFZHV2hKb0ZZejVJZ3huYkFBUGs4UDBtRmdtVE1zVVFzS3VwQi1raW5sbl9GVmE0Vl9kNndXY3Y5LTFURlZ2TlNkTUF1azZsNUF0MGZtMTlwTUlnNlNNYVpCWVZQS3VNSTMwd1F0Q0ZiRmpiQkZnX3VjQjZvTkxtcm5mbGNxRHVNQXdMRWFkYVlraDR4WUhYMGlTZlF1VThFaDM0SS1GYmMwWU54T1pV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZkp3SElVbmVhSFpPbU81VlBYcXdRSURhQmFLYWtxVkN3VVYxSE1KRWVwaHpuWXVKZFZHV2hKb0ZZejVJZ3huYkFBUGs4UDBtRmdtVE1zVVFzS3VwQi1raW5sbl9GVmE0Vl9kNndXY3Y5LTFURlZ2TlNkTUF1azZsNUF0MGZtMTlwTUlnNlNNYVpCWVZQS3VNSTMwd1F0Q0ZiRmpiQkZnX3VjQjZvTkxtcm5mbGNxRHVNQXdMRWFkYVlraDR4WUhYMGlTZlF1VThFaDM0SS1GYmMwWU54T1pV",
-        "image": null,
-        "timestamp": 1771752225.0
-    },
-    {
-        "title_fa": "علی خامنه‌ای لاریجانی را به نقش مدیر بحران ارتقا داد؛ احتمال تقابل با آمریکا افزایش یافته",
-        "title_en": "Iran's Khamenei elevates Larijani as prospects of war with US grow",
-        "summary": [
-            "علی خامنه‌ای لاریجانی را به نقش عملیاتی مدیر بحران گماشته تا حکومت برای رویارویی احتمالی با آمریکا و حفظ عملکرد نهادهای دولتی آماده شود.",
-            "گماردن لاریجانی نشان‌دهنده ضعف ساختاری در مدیریت حکمرانی و ناتوانی سیستم در مقابله با شوک‌های امنیتی و سیاسی است؛ تقابل با آمریکا می‌تواند به افزایش فشار خارجی و تضعیف بیشتر ساختار اقتصادی-سیاسی بینجامد.",
-            "این اقدام صرفاً بازتوزیع قدرت درون حاکمیت است تا عملکرد روزمره دولت حفظ شود، اما هم‌زمان مشروعیت و ظرفیت مدیریتی حکومت را زیر سؤال می‌برد و احتمال تشدید نارضایتی عمومی را بالا می‌برد."
-        ],
-        "impact": "تعیین لاریجانی به‌عنوان مدیر بحران نشانه آماده‌سازی رژیم برای شوک جنگی بالقوه است و می‌تواند ثبات داخلی و توان اقتصادی را سریع‌تر تضعیف کند.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Benzinga on MSN",
-        "url": "https://www.msn.com/en-us/news/world/irans-khamenei-elevates-larijani-as-prospects-of-war-with-us-grow/ar-AA1WQZYj",
-        "clean_url": "https://www.msn.com/en-us/news/world/irans-khamenei-elevates-larijani-as-prospects-of-war-with-us-grow/ar-AA1WQZYj",
-        "image": null,
-        "timestamp": 1771751422.0
-    },
-    {
-        "title_fa": "ترامپ به یاد نمی‌آورد که آیا سلاح‌های هسته‌ای ایران را «نابود» کرده است",
-        "title_en": "Trump can't remember whether he 'obliterated' Iran's nukes | Opinion",
-        "summary": [
-            "ادعای متناقض ترامپ درباره نابودی برنامه هسته‌ای ایران اعتمادپذیری آمریکا و بازدارندگی آن را تضعیف می‌کند.",
-            "پیام‌های ناپیوسته واشینگتن می‌تواند به تهران مجال تبلیغاتی و بهره‌برداری سیاسی بدهد و در عمل اهرم فشار خارجی را کم‌اثر کند.",
-            "برای اپوزیسیون ایرانی، این شکاف پیام‌رسانی فرصتی برای برجسته‌کردن ضعف‌های حکمرانی و فشار به جامعه بین‌المللی جهت تدوین استراتژی شفاف‌تر است."
-        ],
-        "impact": "این اظهارنامشخص، اهرم فشار بین‌المللی علیه حکومت ایران را تضعیف و میدان تبلیغاتی تهران را تقویت می‌کند.",
-        "tag": "اعتبار",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemJTMi1GeTNzY3pwbkZuX0NlQnRKTnpCQkxhNFF0aVJWdkNhTENuLTUweXh1SXR3M0dRY1JLTWJZX1JGSE11WGN0QnlUSDFCSGEzeENxV3ZraWFYUkZVV0hKUXNEenltalBUcl9LNW1tTjRIS1BUUXNzcGJXd2hlUHJmeW56UzVGRW4ybVF5ZWNmSnI4SXhVLU5sRnBWLTlu?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemJTMi1GeTNzY3pwbkZuX0NlQnRKTnpCQkxhNFF0aVJWdkNhTENuLTUweXh1SXR3M0dRY1JLTWJZX1JGSE11WGN0QnlUSDFCSGEzeENxV3ZraWFYUkZVV0hKUXNEenltalBUcl9LNW1tTjRIS1BUUXNzcGJXd2hlUHJmeW56UzVGRW4ybVF5ZWNmSnI4SXhVLU5sRnBWLTlu",
-        "image": null,
-        "timestamp": 1771750860.0
     }
 ]
