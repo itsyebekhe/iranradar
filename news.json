@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "گزارش بلومبرگ در دسترس نیست؛ تحلیل غیرممکن",
+        "title_en": "Key Things to Know About the US-Israel Conflict With Tehran",
+        "summary": [
+            "صفحه بلومبرگ با پیامِ «تأیید ربات» مسدود شده و متن گزارش درباره درگیری آمریکا-اسرائیل و تهران در دسترس قرار نگرفته است.",
+            "بدون دسترسی مستقیم به محتوای گزارش، استخراج اطلاعات راستی‌آزمایی‌شده درباره تحریم‌ها، نقش بازیگران خارجی یا جزئیات نظامی ممکن نیست.",
+            "نمی‌توان روی پایهٔ گزارش ادعاهایی درباره اثرات بر ثبات حکومتی، اقتصاد یا خیزش‌های مردمی مطرح کرد؛ هر تحلیلی بدون متن منبع صرفاً حدس خواهد بود."
+        ],
+        "impact": "عدم دسترسی به گزارش، ارزیابی پیامدهای فشار خارجی و تأثیرات داخلی بر رژیم را غیرممکن می‌سازد.",
+        "tag": "مسدود",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-28/iran-strikes-key-things-to-know-about-the-us-israel-conflict-with-tehran",
+        "clean_url": "https://www.bloomberg.com/news/articles/2026-02-28/iran-strikes-key-things-to-know-about-the-us-israel-conflict-with-tehran",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir0ngwM2CIvE/v1/1200x800.jpg",
+        "timestamp": 1772295660.0
+    },
+    {
+        "title_fa": "نقشه‌ها و نمودارها: حمله آمریکا و اسرائیل به ایران و تلافی‌جویی",
+        "title_en": "Visualizing the US-Israeli attack on Iran and retaliation in maps and charts",
+        "summary": [
+            "ایالات متحده و اسرائیل حمله‌ای گسترده به ایران را انجام داده‌اند؛ گزارش مبتنی بر تصویرسازی حمله و واکنش‌هاست.",
+            "رییس‌جمهور دونالد ترامپ ادعا کرده این عملیات ارتش ایران را ویران، برنامه هسته‌ای را نابود و احتمالاً رژیم را ساقط خواهد کرد.",
+            "مقاله به صورت تصویری — با نقشه‌ها و نمودارها — مسیر حمله و توان واکنش ایران را نمایش می‌دهد."
+        ],
+        "impact": "این حمله و فشار خارجی بالقوه ساختار سیاسی و اقتصادی رژیم را تضعیف و خطر تشدید بی‌ثباتی داخلی و شوک اقتصادی را افزایش می‌دهد.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/other/visualizing-the-us-israeli-attack-on-iran-and-retaliation-in-maps-and-charts/ar-AA1XguTq",
+        "clean_url": "https://www.msn.com/en-us/news/other/visualizing-the-us-israeli-attack-on-iran-and-retaliation-in-maps-and-charts/ar-AA1XguTq",
+        "image": null,
+        "timestamp": 1772295471.0
+    },
+    {
         "title_fa": "از هشدار ترامپ درباره «کارهای بد» علیه ایران تا حملات تمام‌عیار که خاورمیانه را در بر گرفت: چگونه رخ داد",
         "title_en": "From Trump's 'bad things' warning to Iran to full-blown strikes extending over Middle East: How it happened",
         "summary": [
@@ -628,6 +664,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/israel-s-strike-on-iran-was-coordinated-with-the-us-israeli-source-tells-cnn/ar-AA1Xfj8o",
         "image": null,
         "timestamp": 1772261653.0
+    },
+    {
+        "title_fa": "حملات گسترده آمریکا و اسرائیل به اهداف نظامی و هسته‌ای ایران؛ ترامپ 'عملیات خشم حماسی' نامید",
+        "title_en": "Iran live updates: U.S. and Israel launch strikes, Trump dubs attack 'Operation Epic Fury'",
+        "summary": [
+            "ایالات متحده و اسرائیل طبق اعلام دونالد ترامپ حملاتی را علیه تاسیسات نظامی و هسته‌ای ایران آغاز کردند؛ ترامپ این اقدام را «عملیات خشم حماسی» خواند و هدف را حذف تهدیدات قریب‌الوقوع اعلام کرد.",
+            "رسانه‌های دولتی ایران از حملات موشکی به پایگاه‌های آمریکایی در منطقه (العُدید در قطر، الکویت، الظفرا در امارات و ناوگان پنجم در بحرین) و شنیده شدن انفجارها در شهرهایی از جمله اورشلیم خبر دادند؛ خطر تعمیم درگیری به سراسر منطقه بالا رفته است.",
+            "اقدام یک‌جانبه ترامپ بدون کسب مجوز کنگره و تاکید واشینگتن بر فشار نظامی برای مهار برنامه هسته‌ای تهران، به‌طور ساختاری ظرفیت بازدارندگی رژیم را نشانه گرفته و می‌تواند هزینه‌های خارجی و داخلی حکومت را افزایش دهد؛ در صورت ادامه مواجهه، احتمال تشدید مشکلات اقتصادی و افزایش نارضایتی عمومی وجود دارد."
+        ],
+        "impact": "این ضربات خطر تبدیل شدن درگیری به یک جنگ منطقه‌ای تمام‌عیار را به‌شدت افزایش می‌دهد و ثبات سیاسی و اقتصادی رژیم را بیشتر تضعیف می‌کند.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/28/trump-iran-strikes-live-updates.html",
+        "clean_url": "https://www.cnbc.com/2026/02/28/trump-iran-strikes-live-updates.html",
+        "image": null,
+        "timestamp": 1772261160.0
     },
     {
         "title_fa": "اسرائیل خبر از «حمله پیش‌دستانه» به ایران داد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/oil-rises-to-near-seven-month-high-on-us-iran-tensions-trade-policy/ar-AA1WWlVH",
         "image": null,
         "timestamp": 1771907220.0
-    },
-    {
-        "title_fa": "مردم می‌گویند توقف ایران؟ بله. اقدام یک‌جانبه؟ عمدتاً نه.",
-        "title_en": "Stop Iran? Yes. Go it alone? Mostly no. Passions flow on possible war: The Readers Write",
-        "summary": [
-            "خوانندگان آمریکایی موافق جلوگیری از تهدیدات ایران هستند ولی اکثراً با اقدام نظامی یک‌جانبه آمریکا مخالفت می‌کنند؛ این گرایش ضرورت ائتلاف‌بندی را برجسته می‌کند.",
-            "تصویر همراه گزارش از مانور مشترک نیروی دریایی ایران و روسیه نشان می‌دهد مسکو همچنان نقش تسهیل‌کننده و بازوان عملیاتی رژیم را ایفا می‌کند و ظرفیت تهران برای خنثی‌سازی فشار خارجی را افزایش می‌دهد.",
-            "تحریم‌ها و فشار خارجی در صورت تداوم می‌توانند ساختارهای اقتصادی و مشروعیت سیاسی رژیم را تضعیف کنند، اما اثرگذاری واقعی وابسته به هماهنگی بین‌المللی و توان طرف‌های حامی ایران است؛ گزارش مستند داخلی درباره اعتراضات یا فروپاشی اقتصادی ارائه نمی‌دهد."
-        ],
-        "impact": "در غیاب ائتلاف بین‌المللی قوی، تکیه رژیم بر پشتیبانی روسیه می‌تواند فشارها را خنثی کند و گزینه‌های سیاسی برای تغییر رفتار تهران را محدود سازد.",
-        "tag": "جنگ",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "cleveland.com",
-        "url": "https://www.cleveland.com/news/2026/02/stop-iran-yes-go-it-alone-mostly-no-passions-flow-on-possible-war-the-readers-write.html",
-        "clean_url": "https://www.cleveland.com/news/2026/02/stop-iran-yes-go-it-alone-mostly-no-passions-flow-on-possible-war-the-readers-write.html",
-        "image": null,
-        "timestamp": 1771905600.0
-    },
-    {
-        "title_fa": "پیامک «ترامپ مرد عمل است؛ صبر کنید» ایران را به هراس انداخت",
-        "title_en": "How ‘Trump is a man of action’ SMS alert sent Iran into panic",
-        "summary": [
-            "هزاران شهروند ایرانی روز ۴ اسفند پیامکی به فارسی دریافت کردند: «رئیس‌جمهور آمریکا مرد عمل است. صبر کنید.» پیام از شماره‌ای ناشناس ارسال شد و رسانه‌ها گزارش دادند که متن شامل «به مردم تحت ستم ایران» نیز بوده است.",
-            "این هشدار هم‌زمان با گزارش‌های افزایش حضور نظامی آمریکا در خاورمیانه—از جمله اشاره به ورود مخفی‌کاری هواپیماهایی مانند F‑22—منتشر شد؛ پنتاگون این تحرکات را «رسمی برای تقویت ثبات منطقه‌ای» خواند و ترامپ نیز ضرب‌الاجل‌های عمومی علیه تهران صادر کرده است.",
-            "وقوع چنین پیامکی که مردم را به وحشت واداشت، ضعف اطلاع‌رسانی و ناتوانی رژیم در تضمین امنیت روانی شهروندان را نشان می‌دهد و فشار خارجی (فشار دیپلماتیک و تهدید نظامی) را به‌صورت مستقیم در تضعیف مشروعیت و کنترل داخلی منعکس می‌کند."
-        ],
-        "impact": "این هشدار و تحرکات نظامی همراه آن ابهام و بی‌اعتمادی عمومی را تشدید می‌کند، ظرفیت رژیم برای مدیریت بحران را کاهش داده و موقعیت تهران را در هر مذاکره یا پاسخ نظامی تضعیف می‌سازد.",
-        "tag": "هراس",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/explainers/how-trump-is-a-man-of-action-sms-alert-sent-iran-into-panic-13983155.html",
-        "clean_url": "https://www.firstpost.com/explainers/how-trump-is-a-man-of-action-sms-alert-sent-iran-into-panic-13983155.html",
-        "image": "http://www.bing.com/th?id=OVFT.ZoPBeMiUMQf2FxbYViH6Ii&pid=News",
-        "timestamp": 1771903740.0
-    },
-    {
-        "title_fa": "ترامپ: یک فرمانده ارشد مخالف جنگ با ایران نیست و فکر می‌کند جنگ «به‌راحتی پیروز می‌شود»",
-        "title_en": "Trump: Top general doesn’t oppose Iran war, thinks it would be ‘easily won’",
-        "summary": [
-            "ترامپ ادعا کرده که یکی از فرماندهان ارشد نظامی آمریکا مخالفتی با اقدام نظامی علیه ایران ندارد و باور دارد جنگ به‌راحتی پیروز خواهد شد؛ خودِ گزارش صرفاً این گزاره را نقل می‌کند.",
-            "این اظهارنظر می‌تواند آستانه اقدام نظامی را پایین بیاورد و کار تصمیم‌سازان را برای توجیه گزینه قهرآمیز تسهیل کند؛ پیامد عملی آن افزایش خطر محاسبات اشتباه و تنش منطقه‌ای است.",
-            "اگر چنین گفتمانی منجر به تشدید فشار خارجی یا بازگشت جدی به گزینه نظامی شود، اثر تضعیف ساختاری بر ثبات رژیم خواهد داشت؛ گزارش به‌طور مستقیم به تحریم‌ها یا اعتراضات داخلی اشاره‌ای نکرده است، بنابراین هر تحلیل از این منظر باید مشروط و مبتنی بر تحولات بعدی باشد."
-        ],
-        "impact": "اظهارات ترامپ پتانسیل کاهش بازدارندگی، افزایش احتمال برخورد نظامی و تشدید مخاطرات برای ثبات داخلی و منطقه‌ای را دارد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDFNS0RxdlltelViSVRESVpkaVVNaHhBVi04c0I3elNYbFNIdXdsQmRXVklJQ0NWay03Um8zNkNCc2MtUmg2SkFZeHhKSDZldmFJSFlOenRXeGNQejdrVklOVXVWVjBvMkVlZHZvdnFDclhad2pJbkc1OGs3c3J3d014a3diZWs1SEdfeE53Qk9pd0xORWhqRlVjNHo1NHRUTm5FYmh4d2IweHlESjRKZTJFZjlaeGx6dzFOWkFB0gHDAUFVX3lxTE1nNUJlTlVyV0RRNi1sLUlDdjF0VUFkaU1mb3dTeUp6NXVLT0dzNTFxMXhGamRfbWNud1R0WnB0Z0s3N1U3YkdoT2JYdUxUY0diRVBoQTZpXzlFLVRJQ2pnTXcyOExhU2x1RXE1U3Fybk1Sb3NFNml2cWYzQXlhSW1yYzdYbEJ4QmU4UnZmdTI5QURicnktMFNlOW9pcURoOFBqVnpYN0t2Y1l6eEpjM244aHhseTRUX2hlT2NJMVJ3WUg4VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDFNS0RxdlltelViSVRESVpkaVVNaHhBVi04c0I3elNYbFNIdXdsQmRXVklJQ0NWay03Um8zNkNCc2MtUmg2SkFZeHhKSDZldmFJSFlOenRXeGNQejdrVklOVXVWVjBvMkVlZHZvdnFDclhad2pJbkc1OGs3c3J3d014a3diZWs1SEdfeE53Qk9pd0xORWhqRlVjNHo1NHRUTm5FYmh4d2IweHlESjRKZTJFZjlaeGx6dzFOWkFB0gHDAUFVX3lxTE1nNUJlTlVyV0RRNi1sLUlDdjF0VUFkaU1mb3dTeUp6NXVLT0dzNTFxMXhGamRfbWNud1R0WnB0Z0s3N1U3YkdoT2JYdUxUY0diRVBoQTZpXzlFLVRJQ2pnTXcyOExhU2x1RXE1U3Fybk1Sb3NFNml2cWYzQXlhSW1yYzdYbEJ4QmU4UnZmdTI5QURicnktMFNlOW9pcURoOFBqVnpYN0t2Y1l6eEpjM244aHhseTRUX2hlT2NJMVJ3WUg4VQ",
-        "image": null,
-        "timestamp": 1771903680.0
     }
 ]
