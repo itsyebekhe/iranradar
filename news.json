@@ -630,6 +630,24 @@
         "timestamp": 1772254427.0
     },
     {
+        "title_fa": "ترامپ از مار-ا-لاگو اعلام حمله به ایران",
+        "title_en": "From Mar-a-Lago, Trump announces attack on Iran",
+        "summary": [
+            "عنوان خبر ادعا می‌کند که ترامپ از مار-ا-لاگو اعلام حمله به ایران کرده؛ متن اصلی در دسترس نیست و تا تایید رسمی، این گزارش باید محتاطانه تلقی شود.",
+            "پیامدهای خارجی: در صورت تایید، چنین اعلامیه‌ای فشار بین‌المللی و خطر تشدید نظامی را افزایش می‌دهد و ساختار امنیتی و دیپلماتیک حکومت ایران را بیش‌تر در معرض آسیب قرار می‌دهد.",
+            "پیامدهای داخلی/اقتصادی: حتی اعلام فرضی حمله می‌تواند بی‌ثباتی داخلی را تشدید کند، سرمایه‌گذاری و بازارها را تحت فشار قرار دهد و احتمال سرکوب بیشتر معترضان و اختلال در عملکرد دولت را بالا ببرد."
+        ],
+        "impact": "اگر خبر تأیید شود، بلافاصله تنش‌های منطقه‌ای را بالا می‌برد و فشار خارجی و داخلی بر رژیم را تشدید می‌کند.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "The Palm Beach Post",
+        "url": "https://www.palmbeachpost.com/story/news/trump/2026/02/28/trump-announces-attack-on-iran-in-coordination-with-israel/88916210007/",
+        "clean_url": "https://www.palmbeachpost.com/story/news/trump/2026/02/28/trump-announces-attack-on-iran-in-coordination-with-israel/88916210007",
+        "image": "http://www.bing.com/th?id=OVFT.O2mUsGV0EOJqr5vPIkXcTi&pid=News",
+        "timestamp": 1772253900.0
+    },
+    {
         "title_fa": "ریاست‌جمهوری ترامپ اکنون در دستان ایران است",
         "title_en": "Trump’s Presidency Is Now in Iran’s Hands",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/02/24/politics/iran-trump-military-options-nuclear",
         "image": null,
         "timestamp": 1771880400.0
-    },
-    {
-        "title_fa": "واکنش «وحشیانه» ایران به هر حمله آمریکا؛ هشدار درباره احتمال درگیری منطقه‌ای",
-        "title_en": "Iran would react 'ferociously' to any US attack, warns of regional conflict",
-        "summary": [
-            "ایران اعلام کرده که در صورت هر حمله‌ای از سوی آمریکا «وحشیانه» واکنش خواهد داد؛ لحن تهدیدآمیز بر احتمال تقابل نظامی مستقیم دلالت دارد.",
-            "تهدید تهران شامل هشدار به گسترش درگیری به سطح منطقه‌ای است؛ این رویکرد ریسک تصاعد بحران را برای بازیگران منطقه‌ای و خطوط ارتباط نظامی افزایش می‌دهد.",
-            "ایجاد روایت تهدید خارجی می‌تواند به‌عنوان ابزار سیاسی برای مهار نارضایتی داخلی و توجیه تدابیر امنیتی به‌کار رود؛ همزمان هر مواجهه نظامی یا افزایش فشار خارجی می‌تواند موجب تشدید تحریم‌ها و تضعیف بیشتر اقتصاد شود."
-        ],
-        "impact": "این اعلام تهدید ریسک تشدید تنش‌های نظامی و تشدید فشارهای بین‌المللی را بالا می‌برد که به‌سرعت ثبات داخلی و وضعیت اقتصادی را بدتر خواهد کرد.",
-        "tag": "تصاعد",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "France 24",
-        "url": "https://www.barrons.com/news/iran-would-react-ferociously-to-any-us-attack-warns-of-regional-conflict-dc5ca625",
-        "clean_url": "https://www.barrons.com/news/iran-would-react-ferociously-to-any-us-attack-warns-of-regional-conflict-dc5ca625",
-        "image": null,
-        "timestamp": 1771880115.0
     }
 ]
