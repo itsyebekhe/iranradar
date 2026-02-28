@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "از هشدار ترامپ درباره «کارهای بد» علیه ایران تا حملات تمام‌عیار که خاورمیانه را در بر گرفت: چگونه رخ داد",
+        "title_en": "From Trump's 'bad things' warning to Iran to full-blown strikes extending over Middle East: How it happened",
+        "summary": [
+            "حملات هوایی و موشکی ایالات متحده و اسرائیل علیه تأسیسات مرتبط با ایران انجام شد، مذاکرات هسته‌ای در جریان بود و پاسخ‌های متقابل ایران به‌سرعت به یک رویارویی نظامی گسترده در فوریه ۲۰۲۶ منجر شد.",
+            "تحریم‌ها و فشارهای دیپلماتیک ماه‌های اخیر ظرفیت تدارکاتی و اقتصادی رژیم را تضعیف کرده‌اند؛ این محدودیت‌ها گزینه‌های راهبردی دولت را کم‌رنگ کرده و هزینه تحمل شوک‌های امنیتی را افزایش داده است.",
+            "موج‌های پی‌درپی اعتراضات داخلی و مشکلات اقتصادی نشان‌دهنده ناتوانی مدیریتی در برآورده‌سازی مطالبات اساسی مردم است؛ نارضایتی عمومی پیش از تشدید درگیری‌ها رشد کرده و سرمایه اجتماعی حکومت را ضعیف کرده است."
+        ],
+        "impact": "این برخورد نظامی خطر گسترش مواجهه به خاورمیانه را افزایش می‌دهد، فشارهای اقتصادی داخلی را تشدید می‌کند و مشروعیت سیاسی رژیم را بیش از پیش فرسایش خواهد داد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Mint",
+        "url": "https://www.msn.com/en-in/news/world/from-trumps-bad-things-warning-to-iran-to-full-blown-strikes-extending-over-middle-east-how-it-happened/ar-AA1XgxtD",
+        "clean_url": "https://www.msn.com/en-in/news/world/from-trumps-bad-things-warning-to-iran-to-full-blown-strikes-extending-over-middle-east-how-it-happened/ar-AA1XgxtD",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/600x338/news2_1733464197434_1733464227231.jpg",
+        "timestamp": 1772293500.0
+    },
+    {
+        "title_fa": "ایران در برابر اسرائیل | سرگذشت جنگی پیش‌بینی‌شده",
+        "title_en": "Iran vs Israel | Chronicles of a war foretold",
+        "summary": [
+            "آمریکا و اسرائیل به دنبال تغییر رژیم و جابه‌جایی دائمی در توازن قوای غرب آسیا هستند؛ جمهوری اسلامی این وضع را «جنگ بقا» می‌داند و گزارش حاکی از تصاعد تنش‌هاست (ردی از رهگیری موشک بر فراز تل‌آویو در ۲۸ فوریه ۲۰۲۶).",
+            "پیشینه تاریخی نشان می‌دهد رابطه نظامی-فناورانه پیش از انقلاب میان ایران و اسرائیل وجود داشت (قراردادهای «نفت در مقابل سلاح» در دهه ۱۳۵۰ خورشیدی) و انقلاب ۱۹۷۹ همه‌چیز را دگرگون کرد؛ سقوط محمدرضا پهلوی توسط اعتراضات سراسری نمونه‌ای از ظرفیت تغییر داخلی است.",
+            "فشار خارجی و تلاش برای تغییر رژیم ساختار سیاسی و اقتصادی را تضعیف می‌کند؛ تداوم این فشارها همراه با سوءمدیریت حکومتی ریسک گسترش نارضایتی داخلی و بی‌ثباتی سیاسی را افزایش می‌دهد."
+        ],
+        "impact": "شدت گرفتن درگیری‌ها میان ایران و اسرائیل احتمال تبدیل تقابل محدود به درگیری گسترده‌تر منطقه‌ای را بالا می‌برد و رژیم کنونی را تحت فشار امنیتی، سیاسی و اقتصادی بی‌سابقه‌ای قرار می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/iran-vs-israel-chronicles-of-a-war-foretold/article70688723.ece",
+        "clean_url": "https://www.thehindu.com/news/international/iran-vs-israel-chronicles-of-a-war-foretold/article70688723.ece",
+        "image": null,
+        "timestamp": 1772291580.0
+    },
+    {
         "title_fa": "چرا آمریکا به ایران حمله می‌کند؟ شش نکته برای دانستن",
         "title_en": "Why is the U.S. attacking Iran? Six things to know",
         "summary": [
@@ -196,6 +232,24 @@
         "clean_url": "https://www.foxnews.com/live-news/israel-us-launch-attack-on-iran-amid-escalating-protests",
         "image": null,
         "timestamp": 1772279514.0
+    },
+    {
+        "title_fa": "حمله آمریکا و اسرائیل ترس و هراس گسترده در ایران را تشدید کرد",
+        "title_en": "US-Israeli attack triggers fear and panic in Iran",
+        "summary": [
+            "رویترز گزارش می‌دهد که پس از حمله مشترک آمریکا و اسرائیل، شهروندان در صف‌های طولانی پمپ‌بنزین تجمع کرده و شمار زیادی از مردم شهرها را به‌قصد ایمنی ترک کردند.",
+            "این واکنش‌های فوری نشان‌دهنده فشار بر تدارکات و خدمات پایه‌ای—به‌ویژه عرضه سوخت—و ضعف محسوس در مدیریت بحران و تضمین امنیت شهری است.",
+            "فشار خارجی ناشی از عملیات نظامی مستقیم ساختارهای امنیتی و سیاسی رژیم را ضعیف و اعتماد عمومی را تحلیل می‌برد، که ریسک گسترش ناآرامی‌های اجتماعی و از هم‌گسیختگی عملکرد حکمرانی را بالا می‌برد."
+        ],
+        "impact": "اثر فوری: حمله و فرار جمعی مردم ثبات عملیاتی رژیم را تضعیف کرده و هزینه سیاسی و مدیریتی کنترل اوضاع را به‌سرعت افزایش می‌دهد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/us-israeli-attack-triggers-fear-and-panic-in-iran/ar-AA1Xgawg",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-israeli-attack-triggers-fear-and-panic-in-iran/ar-AA1Xgawg",
+        "image": "https://www.reuters.com/resizer/v2/AYZ2SIURQRJDDDLCWACUOXA7PQ.jpg?auth=64e713883070b0bceb9c1c5126bb390c5776d3137de7328e0efdb779b7de6adb&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1772278892.0
     },
     {
         "title_fa": "آمریکا و اسرائیل ایران را بمباران کردند: خط زمانی مذاکرات و تهدیدها تا حملات",
@@ -700,6 +754,24 @@
         "clean_url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
         "image": null,
         "timestamp": 1772257200.0
+    },
+    {
+        "title_fa": "ترامپ: آمریکا «عملیات رزمی عمده» علیه ایران را آغاز کرد؛ حملاتی تهران را هدف گرفت",
+        "title_en": "Trump says the US has started 'major combat operations' against Iran as strikes hit Tehran",
+        "summary": [
+            "اظهار ترامپ مبنی بر آغاز «عملیات رزمی عمده» توسط آمریکا و گزارش‌هایی درباره حملاتی که تهران را هدف گرفته‌اند؛ گزارش منبع اشاره به شروع درگیری مستقیم را نشان می‌دهد.",
+            "فشار خارجی/تحریم‌ها: تشدید عملیات نظامی مستقیماً ظرفیت بازدارندگی و تداوم دیپلماتیک رژیم را تحت فشار قرار می‌دهد و می‌تواند زمینه‌ساز تشدید تحریم‌ها و انزوای بین‌المللی بیشتر شود (پیامدهای مشخص بسته به اقدامات بعدی آمریکا و متحدان).",
+            "داخلی/اقتصاد: حملات و پیامدهای امنیتی-نظامی هزینه‌های دفاعی و اقتصادی را افزایش می‌دهد، منابع حکومتی را به مصرف نظامی می‌کشاند و ریسک افزایش نارضایتی عمومی و افت مشروعیت حکومتی را تقویت می‌کند."
+        ],
+        "impact": "اقدام نظامی مستقیم آمریکا ثبات داخلی رژیم را کاهش داده و فضای سیاسی-اقتصادی را به سمت تشدید بحران و تضعیف کنترل حکومتی سوق می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/israel-us-strike-iran-preemptive-defense-chief-2026-2",
+        "clean_url": "https://www.businessinsider.com/israel-us-strike-iran-preemptive-defense-chief-2026-2",
+        "image": null,
+        "timestamp": 1772256300.0
     },
     {
         "title_fa": "حملات «عظیم» آمریکا به ایران؛ رهبر کشور هدف قرار گرفت — به‌روزرسانی",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDFNS0RxdlltelViSVRESVpkaVVNaHhBVi04c0I3elNYbFNIdXdsQmRXVklJQ0NWay03Um8zNkNCc2MtUmg2SkFZeHhKSDZldmFJSFlOenRXeGNQejdrVklOVXVWVjBvMkVlZHZvdnFDclhad2pJbkc1OGs3c3J3d014a3diZWs1SEdfeE53Qk9pd0xORWhqRlVjNHo1NHRUTm5FYmh4d2IweHlESjRKZTJFZjlaeGx6dzFOWkFB0gHDAUFVX3lxTE1nNUJlTlVyV0RRNi1sLUlDdjF0VUFkaU1mb3dTeUp6NXVLT0dzNTFxMXhGamRfbWNud1R0WnB0Z0s3N1U3YkdoT2JYdUxUY0diRVBoQTZpXzlFLVRJQ2pnTXcyOExhU2x1RXE1U3Fybk1Sb3NFNml2cWYzQXlhSW1yYzdYbEJ4QmU4UnZmdTI5QURicnktMFNlOW9pcURoOFBqVnpYN0t2Y1l6eEpjM244aHhseTRUX2hlT2NJMVJ3WUg4VQ",
         "image": null,
         "timestamp": 1771903680.0
-    },
-    {
-        "title_fa": "بانک مرکزی وارد فاز اجرایی مقدماتی حذف چهار صفر و جایگزینی ریال تا ۲۰۳۰ شد",
-        "title_en": "Iran to phase out old rial by 2030 in four-zero redenomination",
-        "summary": [
-            "بانک مرکزی ایران فاز اجرایی مقدماتی حذف چهار صفر و redenomination واحد پول را آغاز کرده و هدف‌گذاری کرده ریال قدیم تا سال ۲۰۳۰ به‌صورت کامل از چرخه خارج شود.",
-            "این اقدام تکنیکی در شرایطی انجام می‌شود که هیچ تضمینی در متن گزارش برای حل مشکلات ساختاری اقتصاد (از جمله کسری بودجه، کنترل تورم و کمبود ارز) ذکر نشده است؛ لذا تغییر صورت پولی در غیاب اصلاحات پولی و مالی عمیق می‌تواند صرفاً نمایشی باشد.",
-            "در چارچوب فشارهای خارجی و تحریم‌ها، حذف صفرها توان بازگرداندن دسترسی به ارز و تجارت خارجی را ندارد و احتمال دارد اعتماد عمومی نسبت به سیاست پولی کاهش یابد و هزینه‌های اجرایی و سیاسی برای حکومت افزایش یابد."
-        ],
-        "impact": "اقدام فنی حذف چهار صفر بدون سیاست‌های پولی و مالی مکمل ریسک تشدید بی‌اعتمادی عمومی و ایجاد اختلالات اداری و اقتصادی را دارد و به تنهایی ثبات ساختاری رژیم را تقویت نخواهد کرد.",
-        "tag": "پول",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "bne IntelliNews on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/iran-to-phase-out-old-rial-by-2030-in-four-zero-redenomination/ar-AA1WXT5Z",
-        "clean_url": "https://www.msn.com/en-us/money/markets/iran-to-phase-out-old-rial-by-2030-in-four-zero-redenomination/ar-AA1WXT5Z",
-        "image": "http://www.bing.com/th?id=OVFT.DWfxPutbx7i9yxyZ50FXHS&pid=News",
-        "timestamp": 1771902312.0
-    },
-    {
-        "title_fa": "۵ دلیل که ایران برای ترامپ لحظهٔ مادورو نیست",
-        "title_en": "The 5 Reasons Iran Isn’t Another Maduro Moment for Trump",
-        "summary": [
-            "مقاله تأکید می‌کند ایران یک نظام سخت‌جان و لایه‌لایه است؛ شباهت ساده‌انگارانه با ونزوئلا نادرست است و ضربهٔ سریع برای سرنگونی کارساز نخواهد بود.",
-            "تحریم‌ها و فشار خارجی ساختار اقتصادی و سیاسی را تضعیف می‌کنند اما اثراتشان تدریجی و پیچیده‌اند؛ فشار بیرونی می‌تواند بحران اقتصادی را تشدید و به نارضایتی عمومی دامن بزند در حالی که هم‌زمان ابزارهای بقا و سرکوب رژیم را تقویت می‌کند.",
-            "ناآرامی‌های داخلی نشانهٔ شکست مدیریت و نارضایتی مردم است، اما وجود سازوکارهای امنیتی، شبکه‌های نخبه و مقاومت نهادی شانس تغییر فوری از طریق مداخله خارجی یا عملیات یک‌مرحله‌ای را کاهش می‌دهد."
-        ],
-        "impact": "پیام روشن برای اپوزیسیون و سیاست‌گذاران: برنامه‌ریزی برای فروپاشی یا تغییر باید بلندمدت، ترکیبی از فشار هدفمند اقتصادی و پشتیبانی از مقاومت داخلی باشد؛ اتکا به «لحظه مادورو» و ضربهٔ سریع خطرناک و غیرعملی است.",
-        "tag": "هشدار",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/trump-iran-option-riskier-venezuela-11571760",
-        "clean_url": "https://www.newsweek.com/trump-iran-option-riskier-venezuela-11571760",
-        "image": null,
-        "timestamp": 1771901400.0
-    },
-    {
-        "title_fa": "حمله جدید آمریکا به ایران می‌تواند واکنش گسترده‌ای را به دنبال داشته باشد",
-        "title_en": "A new U.S. attack on Iran could risk large-scale retaliation",
-        "summary": [
-            "هر حملهٔ جدید آمریکا به ایران به‌طور مستقیم خطر تشدید نظامی را بالا می‌برد و احتمال واکنش گسترده از سوی نیروهای مسلح ایران و شبکه‌های نیابتی آن را افزایش می‌دهد.",
-            "فشار خارجی و تحریم‌ها نقش تضعیف ساختاری رژیم را تشدید می‌کنند؛ یک درگیری جدید می‌تواند پاسخ‌های سیاسی و اقتصادی بین‌المللی را سخت‌تر کند، وصول درآمدها را کاهش دهد و ظرفیت مدیریت بحران حکومت را محدود نماید.",
-            "بار اقتصادی و انسانی چنین رویارویی‌ای بر دوش مردم خواهد بود؛ اختلال در تجارت، افزایش هزینه‌های نظامی و نااطمینانی اقتصادی می‌تواند نارضایتی عمومی را تشدید و ریسک بی‌ثباتی داخلی را افزایش دهد."
-        ],
-        "impact": "یک حملهٔ جدید آمریکا می‌تواند سریعاً تنش را به برخورد گسترده‌تر ارتقا دهد و هم‌زمان با تضعیف اقتصادی رژیم، شانس گسترش نارضایتی داخلی و بحران سیاسی را بالا ببرد.",
-        "tag": "تقابل",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://www.msn.com/en-us/news/world/a-new-us-attack-on-iran-could-risk-large-scale-retaliation/ar-AA1WVR3O",
-        "clean_url": "https://www.msn.com/en-us/news/world/a-new-us-attack-on-iran-could-risk-large-scale-retaliation/ar-AA1WVR3O",
-        "image": null,
-        "timestamp": 1771898400.0
-    },
-    {
-        "title_fa": "ترامپ به گزارش‌ها درباره هشدار فرمانده ارشد درباره خطرات حمله به ایران تاخت",
-        "title_en": "Trump hits out at reports that top general flagged risks of attacking Iran",
-        "summary": [
-            "گزارش‌ها حاکی از آن بودند که یک فرمانده ارشد نظامی نسبت به ریسک‌های اقدام نظامی علیه ایران هشدار داده؛ ترامپ به این گزارش‌ها واکنش تند نشان داد.",
-            "اختلاف آشکار میان نهاد سیاسی (رئیس‌جمهور) و مشاوران/فرماندهان نظامی، روند تصمیم‌گیری راهبردی آمریکا را مبهم و احتمال خطای محاسباتی را افزایش می‌دهد.",
-            "برای ایران این مناقشه هم فرصت و هم خطر دارد: فرصت بهره‌برداری تبلیغاتی توسط حکومت برای منحرف‌سازی نقدهای داخلی و خطر تشدید تنش‌های احتمالی که ثبات منطقه را تهدید می‌کند."
-        ],
-        "impact": "نمایش اختلافات داخلی واشنگتن می‌تواند هم ریسک تشدید کنش‌های نظامی را افزایش دهد و هم به نااطمینانی منطقه‌ای دامن بزند، در حالی که اثر مستقیم ساختاری بر ثبات فوری داخل ایران محدود و مشروط است.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/world/trump-hits-out-at-reports-that-top-general-flagged-risks-of-attacking-iran/ar-AA1WVVhY",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-hits-out-at-reports-that-top-general-flagged-risks-of-attacking-iran/ar-AA1WVVhY",
-        "image": null,
-        "timestamp": 1771897554.0
     }
 ]
