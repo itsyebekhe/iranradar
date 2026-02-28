@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "حملات آمریکا و اسرائیل به ایران در عملیات «خشم حماسی»؛ ترامپ خواستار سرنگونی رژیم شد",
+        "title_en": "U.S. and Israel strike Iran in operation 'Epic Fury.' Trump calls for regime overthrow",
+        "summary": [
+            "ایالات متحده و اسرائیل در عملیاتی با نام «Epic Fury» اهدافی در ایران را هدف قرار دادند؛ رسانه گزارش این حملات را به‌طور مستقیم منعکس کرده است.",
+            "دونالد ترامپ علناً خواستار سرنگونی رژیم شده است؛ این فراخوان سیاسی نشان‌دهنده افزایش فشار صریحِ آمریکا بر حکومت و تقویت گفتمان تغییر نظام است.",
+            "ترکیب فشار نظامی خارجی و فشار سیاسیِ علنی می‌تواند کارآیی و مشروعیتِ ساختارهای امنیتی و اقتصادی حکومت را تضعیف کند؛ در زمینه ضعف‌های ساختاری و مشکلات اقتصادی موجود، خطر افزایش سرکوب داخلی و ناپایداری بالاتر رفته است."
+        ],
+        "impact": "این حملات و فراخوان سیاسی، هزینه بقا برای حکومت را بالا می‌برد و روند تضعیف مشروعیت و توان عملیاتی آن را تسریع می‌کند و احتمال تشدید سرکوب و ناآرامی داخلی را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": 0.7,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vejQ1R1ZGTDlrYW9PUWcwSjc0dF9tRnBob19Hd0wzSkdlazNuNjJ1YkRtV0VPSDV2SnMxNWt6TnlRSG9KcWdIQ21kTTFMd3R5b2piZmpxeUFYNHRaV1FVTVJadzVPRGt4NjVseHM1UnQ2dG9ITzFRaWsweTJDUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vejQ1R1ZGTDlrYW9PUWcwSjc0dF9tRnBob19Hd0wzSkdlazNuNjJ1YkRtV0VPSDV2SnMxNWt6TnlRSG9KcWdIQ21kTTFMd3R5b2piZmpxeUFYNHRaV1FVTVJadzVPRGt4NjVseHM1UnQ2dG9ITzFRaWsweTJDUQ",
+        "image": null,
+        "timestamp": 1772287169.0
+    },
+    {
+        "title_fa": "واکنش رهبران و دولت‌های جهان به حملات آمریکا و اسرائیل به ایران",
+        "title_en": "World leaders and governments react to U.S.-Israeli attacks on Iran",
+        "summary": [
+            "واکنش جهانی: دولت‌ها و رهبران جهان نگرانی جدی خود را از احتمال گسترش یک جنگ جدید در خاورمیانه اعلام کردند؛ این واکنش‌ها نشان‌دهنده افزایش انزوای دیپلماتیک و فشار بین‌المللی بر تهران است.",
+            "تشدید نظامی: حمله مشترک آمریکا و اسرائیل مرحله‌ای از افزایش درگیری را نشان می‌دهد و احتمال ضربات تلافی‌جویانه، تشدید فعالیت‌های منطقه‌ای و اشتباه محاسباتی که منجر به درگیری وسیع‌تر شود را بالا برده است.",
+            "پیامدهای داخلی و اقتصادی: حتی بدون شواهد مستقیم درباره اعتراضات فعلی، تشدید فشار خارجی و تهدید جنگ می‌تواند اقتصاد آسیب‌پذیر و مدیریت ناکارآمد رژیم را بیشتر تحت فشار قرار دهد و زمینه افزایش نارضایتی عمومی و اختلال در دسترسی به سرمایه و منابع را فراهم کند."
+        ],
+        "impact": "این حملات ثبات ساختاری رژیم را تضعیف می‌کند، فشارهای اقتصادی و سیاسی را افزایش می‌دهد و ریسک کشیده شدن به درگیری منطقه‌ای گسترده‌تر را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CBS News",
+        "url": "https://www.msn.com/en-us/news/world/world-leaders-and-governments-react-to-us-israeli-attacks-on-iran/ar-AA1XgvH2",
+        "clean_url": "https://www.msn.com/en-us/news/world/world-leaders-and-governments-react-to-us-israeli-attacks-on-iran/ar-AA1XgvH2",
+        "image": null,
+        "timestamp": 1772286718.0
+    },
+    {
         "title_fa": "تحلیل اولیه چاتم‌هاوس: پیامدهای حمله مستقیم آمریکا و اسرائیل به ایران",
         "title_en": "US and Israel attack Iran: Early analysis from Chatham House experts",
         "summary": [
@@ -664,6 +700,24 @@
         "clean_url": "https://www.mcall.com/2026/02/28/death-toll-in-a-strike-on-girls-school-in-southern-iran-rises-to-40-state-media-say",
         "image": "http://www.bing.com/th?id=OVFT.AtJzXKzUzTngC6nBE_Gw2y&pid=News",
         "timestamp": 1772250180.0
+    },
+    {
+        "title_fa": "قمار بزرگ ترامپ بر تغییر رژیم در ایران",
+        "title_en": "Trump’s Enormous Gamble on Regime Change in Iran",
+        "summary": [
+            "عنوان مقاله نشان می‌دهد که سیاست ترامپ به‌صورت یک قمار بزرگ معطوف به تغییر رژیم در ایران تصویر شده است.",
+            "چنین رویکردی ریسک بالایی از لحاظ تشدید درگیری نظامی و تنش دیپلماتیک دارد و پیامدهای امنیتی منطقه‌ای را افزایش می‌دهد.",
+            "فشار خارجی هدفمند برای تغییر رژیم می‌تواند فشارهای اقتصادی و نارضایتی داخلی را تشدید کند، اما اثرگذاری نهایی وابسته به شیوه اجرا و عکس‌العمل‌های درون‌حکومتی است."
+        ],
+        "impact": "ادامه مسیر تغییر رژیم از سوی واشنگتن خطر افزایش بی‌ثباتی منطقه‌ای و همزمان تضعیف یا تشدید بحران‌های داخلی در ایران را بالا می‌برد.",
+        "tag": "تغییررژیم",
+        "urgency": 9,
+        "sentiment": 0.3,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/",
+        "clean_url": "https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190",
+        "image": "http://www.bing.com/th?id=OVFT.joHA0ktROXYyol317Xc2Ui&pid=News",
+        "timestamp": 1772248200.0
     },
     {
         "title_fa": "به‌روزرسانی زنده ایران: دونالد ترامپ اعلام کرد «عملیات‌های عمده رزمی» آغاز شده؛ ممکن است روزها ادامه یابد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.barrons.com/news/iran-would-react-ferociously-to-any-us-attack-warns-of-regional-conflict-dc5ca625",
         "image": null,
         "timestamp": 1771880115.0
-    },
-    {
-        "title_fa": "آمریکا و ایران هنوز می‌توانند از جنگ پرهیز کنند",
-        "title_en": "The U.S. and Iran Can Still Avoid a War",
-        "summary": [
-            "گزارش تاکید می‌کند که جنگ بین آمریکا و ایران قابل اجتناب است اگر دو طرف فوراً کانال‌های ارتباطی را برقرار کرده، از تشدید نظامی و حملات نیابتی خودداری کنند و تضمین‌های عملی برای کاهش تنش ارائه دهند؛ راه‌حل سیاسی ممکن است اما به اراده و گام‌های ملموس نیاز دارد.",
-            "تحریم‌ها و فشار خارجی ساختارهای اقتصادی و ظرفیت‌های دولتی را تضعیف کرده و در کوتاه‌مدت هم توانایی نظامی و هم مشروعیت داخلی را کاهش می‌دهند؛ این فشارها هم می‌توانند حکومت را به رفتارهای مخاطره‌آمیز برای انحراف افکار عمومی سوق دهند و هم منابع لازم برای ادامه تقابل را تضعیف کنند.",
-            "مشکلات اقتصادی و مدیریت ضعیف حکمرانی باعث افزایش نارضایتی اجتماعی شده که خطر محاسبات اشتباه را بالا می‌برد؛ خروجی‌های گزارش نشان می‌دهد که بدون پرداخت جدی به معضلات داخلی و کاهش تنش خارجی، ثبات بلندمدت ایران تضمین‌پذیر نیست."
-        ],
-        "impact": "اجتناب از جنگ احتمالاً ثبات نسبی کوتاه‌مدت را حفظ می‌کند اما فشار تحریم‌ها و مدیریت ناکارآمد داخلی تهدیدی ساختاری علیه بقای سیاسی رژیم ایجاد می‌کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "International Crisis Group",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHJpcmMwMk9KOVVKNklMd1Y0bUNZQTE3dGNjVlRPRHM4NWRGTmc5d3dIa2xLMUNPQXE1TVlPVG9Ua2lrdnpmeDRJX1lKYlFUYzRNeFhpVEhpeHF1aGhqTjRtS0wxLUZpa0JTbnRUODBJR1JKMi1vUXQzWEtnUl9Kck92a2ttNl9xUWFRTlFnTTd1U29ha0xFUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHJpcmMwMk9KOVVKNklMd1Y0bUNZQTE3dGNjVlRPRHM4NWRGTmc5d3dIa2xLMUNPQXE1TVlPVG9Ua2lrdnpmeDRJX1lKYlFUYzRNeFhpVEhpeHF1aGhqTjRtS0wxLUZpa0JTbnRUODBJR1JKMi1vUXQzWEtnUl9Kck92a2ttNl9xUWFRTlFnTTd1U29ha0xFUg",
-        "image": null,
-        "timestamp": 1771878155.0
-    },
-    {
-        "title_fa": "اجماع راهبردی اسرائیل درباره ایران — و مخاطرات آن",
-        "title_en": "Israel’s Strategic Consensus on Iran — and Its Risks",
-        "summary": [
-            "عنوان نشان می‌دهد که نویسنده وجود یک اجماع راهبردی اسرائیل در قبال ایران را شناسایی کرده و مقاله به بررسی پیامدها و ریسک‌های مرتبط با این اجماع می‌پردازد.",
-            "از عنوان برمی‌آید که مخاطرات مطرح‌شده احتمالاً شامل تشدید نظامی و محاسبات اشتباه است؛ چنین اجماعی می‌تواند فشار دیپلماتیک و اقتصادی بر تهران را افزایش دهد که به تضعیف ساختارهای اقتصادی و تشدید نارضایتی داخلی بینجامد.",
-            "تبعات منطقه‌ای عبارتند از محدود شدن گزینه‌های راهبردی تهران و افزایش احتمال درگیری‌های فرعی یا بحرانی که ثبات منطقه و داخلی را پیچیده‌تر می‌کند؛ مدیریت این ریسک‌ها نیازمند تحلیل دقیق گزینه‌های سیاسی و اقتصادی است."
-        ],
-        "impact": "این اجماع می‌تواند فشارها و ریسک‌های نظامی-دیپلماتیک علیه تهران را بالا ببرد و در شرایط کنونی به تضعیف بیشتر ثبات سیاسی و اقتصادی رژیم بینجامد.",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Stimson Center",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd256Ry1JM2RTemxjVzVROVVzLXItX1lGcmExV29JbzA0aGIxU2E0dUZaRzlISjBaQ2IzQWN6Sm9LdmxUZDA2THlmWGx2M2JZOUlwVWFUZ0V4QkdpR3ZsN3l1QW9OWk4yeExGTlVyMjRvUTVJLVFYTkFNOXc2S1lIdm5wN2llUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd256Ry1JM2RTemxjVzVROVVzLXItX1lGcmExV29JbzA0aGIxU2E0dUZaRzlISjBaQ2IzQWN6Sm9LdmxUZDA2THlmWGx2M2JZOUlwVWFUZ0V4QkdpR3ZsN3l1QW9OWk4yeExGTlVyMjRvUTVJLVFYTkFNOXc2S1lIdm5wN2llUQ",
-        "image": null,
-        "timestamp": 1771877135.0
-    },
-    {
-        "title_fa": "استقرار بزرگ‌ترین ناوگان جنگی و هوایی آمریکا در خاورمیانه در چند دهه اخیر",
-        "title_en": "US military builds up the largest force of warships and aircraft in the Middle East in decades",
-        "summary": [
-            "گسترش بزرگ‌ترین نیروی دریایی و هوایی آمریکا در منطقه نشانه آماده‌باش برای مهار تهدیدها و بازدارندگی است و احتمال تشدید تقابل منطقه‌ای را بالا می‌برد.",
-            "این تقویت نظامی فشار راهبردی بر رژیم ایران را افزایش می‌دهد؛ توان مانور تهران در منطقه محدود شده و خطر واکنش از طریق شبکه‌های نیابتی یا عملیات نامتقارن بیشتر می‌شود.",
-            "تبعات داخلی می‌تواند شامل تشدید هزینه‌های امنیتی، افزایش سرکوب برای مهار نارضایتی و هم‌زمان تشدید فشار اقتصادی-سیاسی بر حکومت باشد که مشروعیت آن را تضعیف می‌کند."
-        ],
-        "impact": "برای رژیم ایران این تقویت نظامی به معنای محدودشدن گزینه‌های راهبردی، افزایش هزینه‌های امنیتی و بالاتر رفتن ریسک برخورد مستقیم با آمریکا یا متحدان منطقه‌ای است.",
-        "tag": "امنیت",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40",
-        "clean_url": "https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40",
-        "image": "https://dims.apnews.com/dims4/default/e39e0da/2147483647/strip/true/crop/3345x2229+0+1/resize/980x653!/quality/90/?url=https://assets.apnews.com/03/bb/fdfb1a4290196da65f6caa6813a8/e63f70f913ad47568e4e04968f0e5a44",
-        "timestamp": 1771873920.0
     }
 ]
