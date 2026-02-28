@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "واکنش محتاطانه جهان به حملات آمریکا و اسرائیل به ایران؛ هراس از گسترش جنگ",
+        "title_en": "World leaders react cautiously to US and Israeli strikes on Iran as fears grow of a wider war",
+        "summary": [
+            "رهبران جهانی به ضربات نظامی آمریکا و اسرائیل علیه ایران واکنش‌های محافظه‌کارانه نشان دادند؛ ادعای مقامات اسرائیلی درباره مرگ خامنه‌ای در گزارش‌ها مطرح شده اما آمریکا و ایران آن را تأیید نکرده‌اند که نتیجه‌اش افزایش عدم قطعیت و ریسک اشتباه محاسباتی است.",
+            "این حملات ابزار فشار خارجی را فعال‌تر کرده و ساختارهای سیاسی-اقتصادی رژیم را در معرض تضعیف قرار می‌دهد؛ تداوم یا تشدید فشار خارجی می‌تواند درآمدهای ارزی، سرمایه‌گذاری خارجی و ظرفیت مدیریتی دولت را محدود کند و فضای اقتصادی کشور را بدتر سازد.",
+            "ذکر کره‌شمالی در پوشش خبری (هدیه اسلحه توسط کیم جونگ اون) نشان‌دهنده آن است که بازیگران فرامنطقه‌ای بالقوه می‌توانند به روش‌هایی نقش تسهیل‌گر بقای رژیم ایفا کنند؛ همزمان، ضعف مدیریتی و فرسایش اقتصادی داخلی بستر افزایش نارضایتی و بحران سیاسی را فراهم می‌کند."
+        ],
+        "impact": "پیامد فوری: افزایش خطر واکنش‌های تلافی‌جویانه و تشدید بی‌ثباتی داخلی که شانس گسترش درگیری منطقه‌ای را به شدت بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-us-israel-attack-european-allies-reactions-b7c1071c7c07036ce41040863e38ed64",
+        "clean_url": "https://apnews.com/article/iran-us-israel-attack-european-allies-reactions-b7c1071c7c07036ce41040863e38ed64",
+        "image": null,
+        "timestamp": 1772310960.0
+    },
+    {
         "title_fa": "اختصاصی: ترامپ پس از حمله به ایران گزینه‌های «خروج» را مطرح کرد",
         "title_en": "Exclusive: Trump floats \"off ramps\" after attacking Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOWjdkejV6Y3ZSMmhYRWVUZTNYaHZPdWdaYUdfWjFzZ0R2S2gzVHBKQ1gxSXhRUEFPQ1Q5ZFdURDlQSXN0dEI0ZUYweWlWVnlPN0tHczJDV1o2VzlqUXNlZWFGSU5oTjlXTG9RSGZUWHlpUQ",
         "image": null,
         "timestamp": 1772306642.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: آمریکا و اسرائیل ایران را مورد حمله قرار دادند؛ تهدیدی برای گسترش درگیری منطقه‌ای",
+        "title_en": "Live Updates: U.S. and Israel Attack Iran, Threatening Broader Regional Conflict",
+        "summary": [
+            "نیویورک‌تایمز گزارش می‌دهد که آمریکا و اسرائیل حملاتی علیه اهداف در ایران انجام داده‌اند که تهدیدی برای گسترش درگیری در خاورمیانه است.",
+            "روند اطلاع‌رسانی کنونی به کنگره در تضاد با عملیات نظامی قبلی دونالد ترامپ قرار گرفته که بدون مشورت با کنگره اجرا شده و موج نارضایتی دوحزبی در آمریکا برانگیخته بود.",
+            "حمله مستقیم احتمال افزایش فشارهای بین‌المللی و تحریم‌ها را بالا می‌برد و به‌صورت ساختاری ثبات رژیم را تضعیف و محدودیت‌های اقتصادی را تشدید می‌کند؛ این امر می‌تواند نارضایتی عمومی و بحران مدیریتی داخلی را تشدید کند."
+        ],
+        "impact": "این عملیات خطر شعله‌ور شدن یک جنگ منطقه‌ای را بالا می‌برد و هم‌زمان فشار اقتصادی-سیاسی بر حکومت را در سطحی ساختاری افزایش می‌دهد.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/congress-iran-notification",
+        "clean_url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/congress-iran-notification",
+        "image": null,
+        "timestamp": 1772305680.0
     },
     {
         "title_fa": "تفکراتی درباره جنگ آمریکا-اسرائیل علیه ملاهای ایران",
@@ -754,6 +790,24 @@
         "clean_url": "https://taskandpurpose.com/news/us-israel-combat-bomb-iran",
         "image": null,
         "timestamp": 1772266076.0
+    },
+    {
+        "title_fa": "حملات آمریکا به ایران: قمار ترامپ ممکن است جنگ گسترده‌تری با ایران را شعله‌ور کند",
+        "title_en": "US strikes Iran: Trump’s gamble could spark wider Iran war",
+        "summary": [
+            "تیتر گزارش می‌دهد که ایالات متحده حملاتی علیه ایران انجام داده و پیام اصلی هشدار درباره خطر گسترش یک جنگ منطقه‌ای است.",
+            "تیتر این اقدام را «قمار» از سوی ترامپ توصیف می‌کند؛ راهبردی که به‌سادگی می‌تواند تنش‌ها را فراتر از درگیری‌های محدود ببرد.",
+            "پیامدهای ساختاری شامل تشدید فشار خارجی و احتمال افزایش تحریم‌ها، اختلال اقتصادی و تشدید نارضایتی عمومی است که ضعف‌های مدیریتی رژیم را برجسته می‌کند."
+        ],
+        "impact": "این اقدامات هم بستر سیاسی-اقتصادی داخل ایران را بیشتر تضعیف می‌کند و هم شانس گسترش درگیری به یک جنگ منطقه‌ای تمام‌عیار را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/02/28/us-strikes-iran-trump-gamble-wider-war/88916186007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/02/28/us-strikes-iran-trump-gamble-wider-war/88916186007",
+        "image": "http://www.bing.com/th?id=OVFT.GVJUem4G7JKXRlU4wsKR2i&pid=News",
+        "timestamp": 1772264340.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: آمریکا و اسرائیل به ایران حمله کردند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.channelnewsasia.com/world/iran-us-protests-trump-warning-students-5950446",
         "image": null,
         "timestamp": 1771927860.0
-    },
-    {
-        "title_fa": "تصاویر ماهواره‌ای افزایش سریع هواپیماهای نظامی آمریکا در نزدیکی ایران را نشان می‌دهد",
-        "title_en": "Satellite imagery shows rapid increase of U.S. military planes near Iran",
-        "summary": [
-            "گزارش: تصاویر ماهواره‌ای افزایش سریع حضور هواپیماهای نظامی آمریکا در حوالی مرزهای هوایی ایران را ثبت کرده‌اند—نشانه‌ای از تشدید آماده‌باش نظامی آمریکا در منطقه.",
-            "پیامد راهبردی: این جمع‌شدن نیروهای هوایی فشار خارجی مستقیم را بر رژیم افزایش می‌دهد؛ از منظر ساختاری می‌تواند گزینه‌های اقتصادی و دیپلماتیک تهران را محدود کند و احتمال تشدید تحریم‌ها یا اقدامات تنبیهی را بالا ببرد.",
-            "ابعاد داخلی: گزارش به وجود ناآرامی‌های جدید اشاره نمی‌کند، اما تشدید تهدید خارجی می‌تواند هزینه‌های اقتصادی و فشار امنیتی را افزایش دهد و در غیاب اصلاح مدیریتی، به نارضایتی عمومی دامن بزند."
-        ],
-        "impact": "افزایش سریع حضور هواپیماهای نظامی آمریکا خطر برخورد تصادفی یا عمدی را بالا می‌برد و هم‌زمان توان مانور سیاسی و اقتصادی رژیم را تضعیف می‌کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/world/satellite-imagery-shows-rapid-increase-of-us-military-planes-near-iran/ar-AA1WXmKY",
-        "clean_url": "https://www.msn.com/en-us/news/world/satellite-imagery-shows-rapid-increase-of-us-military-planes-near-iran/ar-AA1WXmKY",
-        "image": null,
-        "timestamp": 1771927595.0
-    },
-    {
-        "title_fa": "ایران در آستانه توافق با چین برای موشک مافوق‌صوت ضدکشتی؛ ناوهای آمریکا در منطقه متمرکز",
-        "title_en": "Iran nears China anti-ship supersonic missile deal as US carriers mass in region: report",
-        "summary": [
-            "گزارش‌ها حاکی است ایران نزدیک به امضای قراردادی با چین برای دریافت موشک‌های مافوق‌صوت ضدکشتی است که قابلیت تهدید گروه‌های ضربت حامل هواپیمابر آمریکا در آب‌های منطقه‌ای را دارند.",
-            "چین به‌عنوان توانمندساز استراتژیک نقش کلیدی ایفا می‌کند؛ انتقال چنین تسلیحاتی می‌تواند قابلیت‌های ضددسترسی ایران را تقویت کند، موضع نیروی دریایی آمریکا را پیچیده‌تر سازد و همزمان احتمال تشدید تحریم‌ها و فشارهای بین‌المللی را افزایش دهد.",
-            "سرمایه‌گذاری در خرید تسلیحات سطح بالا در شرایط بحران اقتصادی داخلی، نشان‌دهنده سوءمدیریت حکومتی و اولویت‌بندی نظامی به‌جای بهبود معیشت است که می‌تواند نارضایتی عمومی و آسیب‌پذیری سیاسی رژیم را تشدید کند."
-        ],
-        "impact": "این معامله خطر تشدید تنش نظامی با آمریکا را بالا می‌برد و می‌تواند موج جدیدی از تحریم‌ها و فشارهای بین‌المللی را علیه حکومت ایران برانگیزد.",
-        "tag": "موشکی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-nears-china-anti-ship-supersonic-missile-deal-as-us-carriers-mass-in-region-report/ar-AA1WZkZV",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-nears-china-anti-ship-supersonic-missile-deal-as-us-carriers-mass-in-region-report/ar-AA1WZkZV",
-        "image": null,
-        "timestamp": 1771927294.0
-    },
-    {
-        "title_fa": "انحصاری: ایران به توافق خرید موشک‌های ضدکشتی مافوق صوت از چین نزدیک می‌شود",
-        "title_en": "Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China",
-        "summary": [
-            "رویترز گزارش داده ایران نزدیک به توافق برای خرید موشک‌های ضدکشتی مافوق صوت از چین است؛ جزئیات کمی منتشر شده اما معامله در حال نهایی شدن توصیف می‌شود.",
-            "حضور چین به‌عنوان تأمین‌کننده نشان‌دهنده نقش راهبردی خارجی در توانمندسازی نظامی رژیم است که توان ضددریایی ایران را تقویت خواهد کرد.",
-            "این خرید می‌تواند موج جدیدی از فشارهای بین‌المللی و تحریم‌ها را برانگیزد و همزمان منابع مالی محدود داخلی را به هزینه‌های نظامی هدایت کند که احتمالاً نارضایتی عمومی را تشدید خواهد کرد."
-        ],
-        "impact": "تکمیل این معامله توان بازدارندگی دریایی رژیم را افزایش می‌دهد، خطر تشدید تحریم‌ها را بالا می‌برد و با منابع‌زدایی از اقتصاد شکننده، آستانه نارضایتی داخلی را پایین می‌آورد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/exclusive-iran-nears-deal-to-buy-supersonic-anti-ship-missiles-from-china/ar-AA1WXKIT",
-        "clean_url": "https://www.msn.com/en-us/news/world/exclusive-iran-nears-deal-to-buy-supersonic-anti-ship-missiles-from-china/ar-AA1WXKIT",
-        "image": null,
-        "timestamp": 1771926295.0
     }
 ]
