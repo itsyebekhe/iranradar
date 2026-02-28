@@ -594,6 +594,24 @@
         "timestamp": 1772269412.0
     },
     {
+        "title_fa": "حملات علیه ایران بدون مجوز کنگره اجرا شد؛ قانون‌گذاران به‌شدت دوقطبی شدند",
+        "title_en": "Iran strikes were launched without approval from Congress, deeply dividing lawmakers",
+        "summary": [
+            "کاخ سفید پیش از اجرای حملات از کنگره مجوز رسمی نگرفت و فقط قانون‌گذاران ارشد را اندکی قبل از عملیات مطلع کرد.",
+            "اقدام بدون کسب موافقت کنگره شکاف عمیقی میان نمایندگان ایجاد کرده و بحث درباره مشروعیت و حدود اختیار اجرایی را تشدید کرده است.",
+            "این شکاف سیاسی واشنگتن می‌تواند انسجام سیاست فشار علیه حکومت ایران را تضعیف کرده و به تهران فضایی تاکتیکی برای بهره‌برداری از اختلافات بدهد."
+        ],
+        "impact": "اجرای حملات بدون مجوز کنگره از یک‌سو مشروعیت سیاسی در آمریکا را پایین می‌آورد و از سوی دیگر احتمالاً مانع از تدوین یک راهبرد مستمر و منسجم فشار بر حکومت ایران می‌شود.",
+        "tag": "دوقطبی",
+        "urgency": 9,
+        "sentiment": 0.4,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/02/28/nx-s1-5730203/iran-israel-trump-congress-strikes-reaction",
+        "clean_url": "https://www.npr.org/2026/02/28/nx-s1-5730203/iran-israel-trump-congress-strikes-reaction",
+        "image": "http://www.bing.com/th?id=OVFT.35V031BcsiXTVDZ_t2GBuS&pid=News",
+        "timestamp": 1772268000.0
+    },
+    {
         "title_fa": "ترامپ حملات «بسیار گسترده و جاری» به ایران را تأیید کرد و از ایرانیان خواست رژیم را سرنگون کنند",
         "title_en": "Trump confirms 'massive and ongoing' attacks on Iran and calls on Iranians to overthrow regime",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/oil-rises-with-focus-on-us-iran/ar-AA1WVEaQ",
         "image": null,
         "timestamp": 1771923840.0
-    },
-    {
-        "title_fa": "کاخ سفید: گزینه اول ترامپ درباره ایران دیپلماسی است، کارولین لیویت گفت",
-        "title_en": "White House says Trump's first option on Iran is diplomacy, Leavitt says",
-        "summary": [
-            "کارولین لیویت، سخنگوی کاخ سفید، در آستانه سخنرانی سالانه ترامپ اعلام کرد که گزینه اول رئیس‌جمهور درباره ایران دیپلماسی است.",
-            "اعلام رسمی در آستانه سخنرانی دولت نشان می‌دهد واشینگتن فعلاً اولویت را به راه‌حل‌های دیپلماتیک و ابزار غیرنظامی می‌دهد تا تشدید مستقیم نظامی.",
-            "این اظهارنظر می‌تواند چارچوب به‌کارگیری تحریم‌ها و فشار خارجی را تحت تأثیر قرار دهد، اما گزارش هیچ مدرکی مبنی بر تغییر فوری در سیاست‌های تحریمی یا اقتصادی ارائه نمی‌دهد."
-        ],
-        "impact": "موضع‌گیری رسمی کاخ سفید مبنی بر «دیپلماسی به عنوان گزینه اول» احتمالاً شانس تشدید نظامی کوتاه‌مدت را کاهش می‌دهد اما به‌صورت مشروط می‌تواند ابزارهای فشار اقتصادی و دیپلماتیک علیه رژیم را بازتعریف کند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/white-house-says-trumps-first-option-on-iran-is-diplomacy-leavitt-says/ar-AA1WYTRm",
-        "clean_url": "https://www.msn.com/en-us/news/world/white-house-says-trumps-first-option-on-iran-is-diplomacy-leavitt-says/ar-AA1WYTRm",
-        "image": "http://www.bing.com/th?id=OVFT.U_qvFqW7FfeTPhhaAqSN8i&pid=News",
-        "timestamp": 1771923543.0
     }
 ]
