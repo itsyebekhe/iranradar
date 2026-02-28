@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "به‌روزرسانی ایران، ۲۷ فوریه ۲۰۲۶",
+        "title_en": "Iran Update, February 27, 2026",
+        "summary": [
+            "آژانس بین‌المللی انرژی اتمی گزارش داده که قادر به راستی‌آزمایی تعلیق کامل غنی‌سازی اورانیوم در ایران نیست — این شکست شفافیت فنی، اهرم دیپلماتیک تهران را تضعیف می‌کند و ریسک بازگشت یا تشدید فشارهای بین‌المللی و محدودیت‌های جدید را بالا می‌برد.",
+            "ترامپ اعلام کرده از مذاکرات هسته‌ای «خشنود نیست» اما حاضر است به آنها زمان بیشتری بدهد — موضع ایالات متحده همچنان متضاد و تک‌بعدی است: فشار سیاسی حفظ می‌شود اما تمدید زمان به رژیم امکان اجرای تاکتیک‌های تأخیر و کسب فضای عمل محدود را می‌دهد.",
+            "فهرست اخبار منطقه‌ای شامل گزارش «جنگ علنی» پاکستان و افغانستان است — تشدید بی‌ثباتی منطقه‌ای محاسبات امنیتی تهران را پیچیده‌تر می‌کند و نشان می‌دهد بحران‌های فرامنطقه‌ای می‌توانند حواس بین‌المللی را از پرونده هسته‌ای منحرف یا بالعکس باعث تشدید نظارت خارجی شوند."
+        ],
+        "impact": "ترکیب گزارش آژانس و موضع دوپهلو آمریکا در وضعیتی قرار می‌دهد که رژیم هم از نظر دیپلماتیک منزوی‌تر و هم قادر به خرید زمان کوتاه‌مدت است؛ فشارهای بین‌المللی محتملاً تشدید خواهند شد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Critical Threats",
+        "url": "https://apnews.com/article/iran-us-israel-embassy-staff-436162f886bdaed30c8dd0cdbe1b5aea",
+        "clean_url": "https://apnews.com/article/iran-us-israel-embassy-staff-436162f886bdaed30c8dd0cdbe1b5aea",
+        "image": null,
+        "timestamp": 1772241154.0
+    },
+    {
         "title_fa": "ترامپ در آستانه حمله به ایران؛ میانجی می‌گوید توافق هسته‌ای نزدیک است",
         "title_en": "Trump moves toward Iran attack as mediator says nuclear deal is close",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHVXR3JLMjFjbzgtWlNvd09BUmJNblRwNFItYktEWXp1SjhmbXVzcHdSald6M04wdzVtQ0Qyb1haN3lvY3ljdUFWWncyUDU1TXozWkk0d0w0YVZYU3poVFR3RGlzdW02YnduS1VZSl9hTWVKSlBSNVEzSjk3OElxa3FNWFR3SWs5c1RNcFpFSWhGeHhrR2hkTk5uZUdVaVU",
         "image": null,
         "timestamp": 1772240818.0
+    },
+    {
+        "title_fa": "آمریکا در آستانه حمله به ایران؛ میانجی خواستار «فضای کافی» برای رسیدن به توافق شد",
+        "title_en": "With U.S. on brink of Iran attack, mediator asks for 'enough space' to reach deal",
+        "summary": [
+            "گزارش PBS حاکی است که ایالات متحده در آستانه اقدام نظامی علیه ایران قرار دارد و این امر پنجره دیپلماتیک را به شدت در معرض خطر قرار می‌دهد.",
+            "یک میانجی از طرف‌های درگیر خواسته «فضای کافی» برای رسیدن به توافق؛ این خواست نشان‌دهنده وجود یک فرصت دیپلماتیک حساس است که در صورت تشدید تنش به سرعت بسته خواهد شد.",
+            "تهدید به حمله و فشار خارجی ساختارهای سیاسی-اقتصادی رژیم را تضعیف می‌کند: توان مدیریتی دولت برای کنترل اقتصاد و مهار نارضایتی عمومی کاهش می‌یابد و خطر واکنش‌های ضربتی یا اختلال در فرآیند تصمیم‌گیری افزایش می‌یابد."
+        ],
+        "impact": "خطر تشدید نظامی بالا رفته و همزمان ظرفیت دیپلماتیک و مدیریتی رژیم برای جلوگیری از فروپاشی عملکردی کاهش یافته است.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/show/with-u-s-on-brink-of-iran-attack-mediator-asks-for-enough-space-to-reach-deal",
+        "clean_url": "https://www.pbs.org/newshour/show/with-u-s-on-brink-of-iran-attack-mediator-asks-for-enough-space-to-reach-deal",
+        "image": null,
+        "timestamp": 1772236550.0
     },
     {
         "title_fa": "ترامپ می‌گوید از مذاکرات هسته‌ای با ایران «خوشحال نیست» اما به آنها زمان بیشتری می‌دهد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaTJXQ1dpcHoyZ2o0TXBzVk5jNkpFbDhONVExRHNXM1EwZmFpVGxHaEF6UEF1Zl91WGliMWxzNkRNSFV4bFFQM2h6bDBmdTNKYUQ3Mm1qc1pnUXBneW1ESWlNN1BLdnRxWTRpRmNMVE9FUFZtbWdCLTVjekxsM3hfblNjeXhQelIxMWNIUldxZHI0SXRMMWRObEpUbWI0eDN2ZTQyQTVMX1FnRGdYRVpvU0xYZndaN2x1LVRMNG50dGhEeFpwN0J3b3RORmd1YUt2NWlLWHlR",
         "image": null,
         "timestamp": 1771764304.0
-    },
-    {
-        "title_fa": "خلاصه روزانه ۲۲ فوریه — ارتش اسرائیل حملات علیه حزب‌الله را تشدید می‌کند در حالی که ایران از گروه نیابتی حمایت می‌کند",
-        "title_en": "Daily Briefing Feb. 22 — IDF ramps up Hezbollah strikes as Iran supports proxy group",
-        "summary": [
-            "افسران ایرانی در لبنان حزب‌الله را آموزش می‌دهند و آماده‌باش گروه بالاتر رفته تا در صورت حمله آمریکا یا واکنش ایران به اسرائیل وارد عمل شود.",
-            "ارتش اسرائیل در هفته‌های اخیر حملات علیه مواضع حزب‌الله را تشدید کرده؛ گزارش‌ها از کشته شدن دست‌کم ۱۲ نفر در حملات اسرائیل در لبنان از جمله یک مقام ارشد حزب‌الله خبر می‌دهند.",
-            "رسیدن ناو هواپیمابر USS Gerald Ford منطقه را در آستانه افزایش آماده‌باش آمریکا قرار داده و هم‌زمان ورود ده‌ها فعال شهرک‌نشین به نوار غزه توجه ارتش را منحرف کرده است."
-        ],
-        "impact": "افزایش فشار نظامی آمریکا و تشدید حملات اسرائیل بر شبکه‌های نیابتی تهران توان بازدارندگی و موقعیت استراتژیک رژیم را تضعیف کرده و خطر تشدید سریع‌تر بحران و واکنش‌های نامنظم نیابتی را افزایش می‌دهد.",
-        "tag": "امنیت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/daily-briefing-feb-22-idf-ramps-up-hezbollah-strikes-as-iran-supports-proxy-group/",
-        "clean_url": "https://www.timesofisrael.com/daily-briefing-feb-22-idf-ramps-up-hezbollah-strikes-as-iran-supports-proxy-group",
-        "image": null,
-        "timestamp": 1771763259.0
-    },
-    {
-        "title_fa": "پزشکیان در میانه تحرک نظامی گسترده آمریکا اطلاع‌رسانی کرد",
-        "title_en": "Iran president gives update amid massive US military buildup",
-        "summary": [
-            "پزشکیان گزارش خود را ارائه کرد؛ هم‌زمان ترامپ و مقامات آمریکایی با تجمع نظامی گسترده اعلام کردند زمان برای توافق دیپلماتیک در حال اتمام است.",
-            "تحرک نظامی آمریکا و هشدارهای رسمی فضای مذاکره را فشرده کرده و در کوتاه‌مدت گزینه‌های رژیم را تنگ‌تر می‌کند، که خود به‌مثابه فشار خارجی است که ثبات ساختاری حکومت را هدف می‌گیرد.",
-            "خبر اشاره مستقیم به وضعیت داخلی مانند اقتصاد یا اعتراضات نکرد، اما تشدید تهدید خارجی می‌تواند ناتوانی مدیریتی حکومت در حفظ امنیت و ثبات داخلی را نمایان‌تر سازد."
-        ],
-        "impact": "فشار نظامی و سیاسی هم‌زمان آمریکا شانس حصول توافق دلخواه حکومت را کاهش و ریسک تشدید بحران و تضعیف بیشتر رژیم را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/iran-president-gives-update-amid-massive-us-military-buildup/ar-AA1WQRIc",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-president-gives-update-amid-massive-us-military-buildup/ar-AA1WQRIc",
-        "image": "http://www.bing.com/th?id=OVFT.fPL03pBIUy-xfDaSzDd8Vi&pid=News",
-        "timestamp": 1771762517.0
     }
 ]
