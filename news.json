@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران موافقت کرد مواد غنی‌شده را انبار نکند؛ عمان: «صلح در دسترس» است",
+        "title_en": "Peace ‘within reach’ as Iran agrees no nuclear material stockpile: Oman FM",
+        "summary": [
+            "وزیر خارجه عمان گفت در مذاکرات غیرمستقیم با آمریکا ایران توافق کرده هیچ ماده غنی‌شده‌ای را که بتواند برای ساخت بمب استفاده شود، انبار نکند و با راستی‌آزمایی جامع آژانس بین‌المللی انرژی اتمی موافقت شده است.",
+            "عمان تأکید کرد ایران آماده بحث درباره همه مسائل از جمله برنامه موشکی است و پیشرفت در جلسات اخیر می‌تواند زمینه حل «تمامی مسائل» ظرف چند ماه و دستیابی به یک توافق جامع را فراهم کند.",
+            "تبعات تحریمی و داخلی: اگر این پیشرفت به کاهش تحریم‌ها بینجامد، فشار اقتصادی و سیاسی بر رژیم کاهش خواهد یافت و به تقویت توان بقاگرایانه آن کمک می‌کند؛ با این حال کاهش فشار به‌تنهایی ریشه‌های نارضایتی عمومی و پیامدهای سوءمدیریت ساختاری اقتصاد ایران را بدون اصلاحات عمیق از میان نمی‌برد."
+        ],
+        "impact": "این پیشرفت دیپلماتیک می‌تواند ظرف چند ماه پایه‌ای برای کاهش تحریم‌ها و احیای ظرفیت سیاسی رژیم فراهم کند، مگر اینکه جامعه سیاسی معاند نتواند آن را به تغییرات ساختاری تبدیل کند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/peace-within-reach-iran-agrees-035114516.html",
+        "clean_url": "https://www.yahoo.com/news/articles/peace-within-reach-iran-agrees-035114516.html",
+        "image": null,
+        "timestamp": 1772250975.0
+    },
+    {
         "title_fa": "به‌روزرسانی ایران، ۲۷ فوریه ۲۰۲۶",
         "title_en": "Iran Update, February 27, 2026",
         "summary": [
@@ -430,6 +448,24 @@
         "clean_url": "https://www.cbsnews.com/news/full-transcript-omani-foreign-minister-badr-albusaidi",
         "image": null,
         "timestamp": 1772194440.0
+    },
+    {
+        "title_fa": "ترامپ می‌پرسد چرا ایران در برابر برنامه هسته‌ای خود «تسلیم» نمی‌شود؛ دلایل",
+        "title_en": "Trump wonders why Iran won’t ‘capitulate’ on its nuclear program. Here’s why",
+        "summary": [
+            "تهران اصرار دارد غنی‌سازی اورانیوم در داخل خاک ایران حق قانونی تحت معاهده منع گسترش هسته‌ای است و موضوع برای رهبران جمهوری اسلامی نماد حاکمیت و اقتدار ملی است.",
+            "جلسه سوم مذاکرات غیرمستقیم آمریکا–ایران که طبق گزارش ایران و عمان پیشرفت‌هایی داشت، با بی‌انعطافی تهران نسبت به مطالبه‌های کلیدی واشنگتن—به‌ویژه چشم‌پوشی از غنی‌سازی داخلی—مواجه شد.",
+            "آمریکا حق ایران برای انرژی صلح‌آمیز را به رسمیت می‌شناسد اما به‌دلیل بی‌اعتمادی، برنامه غنی‌سازی را تهدیدی امنیتی می‌داند و فشارهای دیپلماتیک و احتمالا اقتصادی را حفظ کرده است."
+        ],
+        "impact": "ایستادگی تهران روی غنی‌سازی داخلی، اگرچه پایه‌های مشروعیت ملی نظام را تقویت می‌کند، تداوم فشار و انزوای بین‌المللی را محتمل می‌سازد و در کوتاه‌مدت ظرفیت هزینه‌های اقتصادی و سیاسی را برای جامعه ایرانی افزایش خواهد داد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/02/27/middleeast/trump-iran-capitulated-reasons-intl",
+        "clean_url": "https://www.cnn.com/2026/02/27/middleeast/trump-iran-capitulated-reasons-intl",
+        "image": null,
+        "timestamp": 1772194260.0
     },
     {
         "title_fa": "آمریکا خروج برخی کارکنان دیپلماتیک از اسرائیل را مجاز دانست؛ تنش با ایران همچنان ادامه دارد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng/ar-AA1WQdv8",
         "image": null,
         "timestamp": 1771767658.0
-    },
-    {
-        "title_fa": "توقف مذاکرات هسته‌ای آمریکا و ایران و افزایش نگرانی‌های جنگی در پی تقویت توان نظامی",
-        "title_en": "U.S.-Iran Nuclear Talks Stall as Military Buildup Raises War Fears",
-        "summary": [
-            "مذاکرات هسته‌ای میان آمریکا و ایران متوقف شده است؛ بن‌بستی که مسیر دیپلماتیک برای کاهش تنش را بسته است.",
-            "گسترش تقویت و تجمع نیروهای نظامی در منطقه، ترس از تشدید درگیری و بروز رویارویی نظامی را افزایش داده است.",
-            "ترکیب بن‌بست دیپلماتیک و آماده‌سازی نظامی احتمال تشدید فشارهای بین‌المللی، تضعیف ثبات سیاسی داخلی و افزایش ریسک خطاهای محاسباتی را بالا می‌برد."
-        ],
-        "impact": "این وضعیت احتمال افزایش انزوای بین‌المللی، فشار اقتصادی بر کشور و تبدیل اختلافات به درگیری نظامی محدود یا فراتر از آن را تقویت می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.75,
-        "source": "La Voce di New York",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGwyVUFEZUs4Nk9TNmRuV1lhSl9CQ04xT2N0OVgycmFnSkE4QjZLbGYyNDNreU9RMFBZa3JWbUswdGNyaGtsYjhGQl8xc0M2MDRHbGg1N3F2QklWbjFpcGl5THpVdkNPM0FDR0NYMG80bVYwd2JCSDQ5UGhSVEpFcWJETVdkUmhrZFNKQUNLVi1BREtBMTAzWHNCbVNhaDM3azZFaW1jZWU4TUlOT0Q3NnNtMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGwyVUFEZUs4Nk9TNmRuV1lhSl9CQ04xT2N0OVgycmFnSkE4QjZLbGYyNDNreU9RMFBZa3JWbUswdGNyaGtsYjhGQl8xc0M2MDRHbGg1N3F2QklWbjFpcGl5THpVdkNPM0FDR0NYMG80bVYwd2JCSDQ5UGhSVEpFcWJETVdkUmhrZFNKQUNLVi1BREtBMTAzWHNCbVNhaDM3azZFaW1jZWU4TUlOT0Q3NnNtMA",
-        "image": null,
-        "timestamp": 1771764984.0
-    },
-    {
-        "title_fa": "ویتکوف: ترامپ از اینکه ایران در برابر تجمع نظامی آمریکا «تسلیم» نشده کنجکاو است",
-        "title_en": "Trump curious why Iran has not 'capitulated' amid US military buildup, says Witkoff",
-        "summary": [
-            "رویترز به نقل از ویتکوف گزارش می‌دهد که ترامپ ابراز کنجکاوی کرده چرا ایران در پی افزایش استقرار نظامی آمریکا «تسلیم» نشده است.",
-            "افزایش تحرکات نظامی آمریکا نمایانگر تشدید فشار خارجی است و می‌تواند ساختاراً هزینه‌های سیاسی و اقتصادی برای رژیم افزایش دهد، اما گزارش جزئیات مشخصی درباره تحریم‌های جدید یا پیامدهای اقتصادی ارائه نمی‌دهد.",
-            "خبر اشاره‌ای به شواهد مستقیم از اعتراضات داخلی یا فروپاشی اقتصادی نکرده؛ نتیجه‌گیری درباره تأثیر بر ثبات داخلی باید بر پایه شواهد بیشتر انجام شود."
-        ],
-        "impact": "اظهارات ترامپ در کنار تمرکز نظامی آمریکا فشار بین‌المللی را تشدید می‌کند، اما گزارش حاضر شواهد روشنی از تغییر فوری در ثبات داخلی ایران نشان نمی‌دهد.",
-        "tag": "فشار",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaTJXQ1dpcHoyZ2o0TXBzVk5jNkpFbDhONVExRHNXM1EwZmFpVGxHaEF6UEF1Zl91WGliMWxzNkRNSFV4bFFQM2h6bDBmdTNKYUQ3Mm1qc1pnUXBneW1ESWlNN1BLdnRxWTRpRmNMVE9FUFZtbWdCLTVjekxsM3hfblNjeXhQelIxMWNIUldxZHI0SXRMMWRObEpUbWI0eDN2ZTQyQTVMX1FnRGdYRVpvU0xYZndaN2x1LVRMNG50dGhEeFpwN0J3b3RORmd1YUt2NWlLWHlR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaTJXQ1dpcHoyZ2o0TXBzVk5jNkpFbDhONVExRHNXM1EwZmFpVGxHaEF6UEF1Zl91WGliMWxzNkRNSFV4bFFQM2h6bDBmdTNKYUQ3Mm1qc1pnUXBneW1ESWlNN1BLdnRxWTRpRmNMVE9FUFZtbWdCLTVjekxsM3hfblNjeXhQelIxMWNIUldxZHI0SXRMMWRObEpUbWI0eDN2ZTQyQTVMX1FnRGdYRVpvU0xYZndaN2x1LVRMNG50dGhEeFpwN0J3b3RORmd1YUt2NWlLWHlR",
-        "image": null,
-        "timestamp": 1771764304.0
     }
 ]
