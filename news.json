@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تفکراتی درباره جنگ آمریکا-اسرائیل علیه ملاهای ایران",
+        "title_en": "Reflections on the American-Israeli War on the Mullahs of Iran",
+        "summary": [
+            "نویسنده بازتاب‌هایی درباره نقش مشترک آمریکا و اسرائیل در فشار نظامی و سیاسی بر هسته قدرت رژیم مذهبی ایران ارائه می‌دهد.",
+            "تأکید بر اینکه فشار خارجی و تحریم‌ها ساختار بقای حکومت را تضعیف می‌کند و می‌تواند پیامدهای اقتصادی و سیاسی داخلی را از جمله افزایش بی‌ثباتی و تشدید نارضایتی عمومی تشدید نماید.",
+            "یادآوری پیامدهای منطقه‌ای و گزینه‌های راهبردی احتمالی؛ این خلاصه بر اساس عنوان و متادیتا تهیه شده و جزئیات دقیق در متن کامل منبع قابل بررسی است."
+        ],
+        "impact": "ادامه هماهنگی عملیاتی آمریکا و اسرائیل علیه رهبری ایران می‌تواند ثبات سیاسی حکومت را به‌طور ملموسی تضعیف و فضای نارضایتی داخلی را تشدید کند.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "The Blogs | The Times of Israel",
+        "url": "https://blogs.timesofisrael.com/reflections-on-the-american-israeli-war-on-the-mullahs-of-iran/",
+        "clean_url": "https://blogs.timesofisrael.com/reflections-on-the-american-israeli-war-on-the-mullahs-of-iran",
+        "image": null,
+        "timestamp": 1772296560.0
+    },
+    {
         "title_fa": "برآورد تأثیر حملات گسترده مشترک آمریکا و اسرائیل علیه ایران",
         "title_en": "Gauging the Impact of Massive U.S.-Israeli Strikes on Iran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/white-house-says-trumps-first-option-on-iran-is-diplomacy-leavitt-says/ar-AA1WYTRm",
         "image": "http://www.bing.com/th?id=OVFT.U_qvFqW7FfeTPhhaAqSN8i&pid=News",
         "timestamp": 1771923543.0
-    },
-    {
-        "title_fa": "ایران برای توافق موقت زمان می‌خرد؛ آمریکا و تهران در بازی «جوجه‌کشی» درباره جنگ",
-        "title_en": "Iran stalls for interim deal as US-Tehran play 'game of chicken' with war, expert tells \"Post\"",
-        "summary": [
-            "لینت نوسباچر، کارشناس به Jerusalem Post گفت که آمریکا برای انجام حملات هوایی هدفمند آماده شده اگر تهران صادقانه مذاکره نکند.",
-            "تهران به دنبال یک توافق موقت برای مصون نگه داشتن برنامه موشکی‌اش است؛ اقدامی که نشان‌دهنده اولویت‌دادن توانمندی نظامی بر مصالح دیپلماتیک بلندمدت است.",
-            "این تقابل به «بازی جوجه‌کشی» شباهت دارد و ریسک تشدید نظامی و افزایش فشار خارجی را بالا برده؛ هر محاسبهٔ اشتباه می‌تواند به درگیری مستقیم تبدیل شود."
-        ],
-        "impact": "افزایش احتمال برخورد نظامی مستقیم و تشدید انزوای بین‌المللی که ثبات رژیم را بیش از پیش تضعیف می‌کند.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-stalls-for-interim-deal-as-us-tehran-play-game-of-chicken-with-war-expert-tells-post/ar-AA1WZm4j",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-stalls-for-interim-deal-as-us-tehran-play-game-of-chicken-with-war-expert-tells-post/ar-AA1WZm4j",
-        "image": null,
-        "timestamp": 1771923540.0
     }
 ]
