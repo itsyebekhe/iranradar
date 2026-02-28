@@ -72,6 +72,24 @@
         "timestamp": 1772284620.0
     },
     {
+        "title_fa": "سیاست اتمی آشفته و بی‌پرواِ ترامپ علیه ایران",
+        "title_en": "Trump’s Chaotic and Reckless Iran Nuclear Policy",
+        "summary": [
+            "خروج ترامپ از توافق هسته‌ای ۲۰۱۵ و بازگرداندن تحریم‌های گسترده، پیامدهای ساختاری برای توان اقتصادی رژیم داشت؛ تحریم‌ها نقدینگی و درآمدهای دولت را کاهش دادند و فشار معیشتی بر شهروندان را تشدید کردند.",
+            "تحریم‌ها و فشار حداکثری هم‌زمان به تضعیف اهرم‌های دیپلماتیک آمریکا و فرسایش چارچوب‌های کنترل هسته‌ای منتهی شد؛ این روند جایگاه سیاست خارجی را بی‌ثبات کرد و ریسک تصاعد نظامی و گسترش برنامه‌های هسته‌ای را بالا برد.",
+            "پیامد داخلی سیاست ترامپ نشان‌دهنده شکست مدیریت اقتصادی و سیاسی حکومت است: هزینه تحریم‌ها عمدتاً بر دوش مردم افتاد و زمینهٔ خشم اجتماعی و بی‌اعتمادی عمومی به کارگزاران حاکم را تقویت کرد."
+        ],
+        "impact": "سیاست آشفته ترامپ رژیم را هم اقتصاداً و هم سیاسی تضعیف کرد و همزمان احتمال مواجهه نظامی و تشدید توان هسته‌ای را افزایش داد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Arms Control Association",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2w4Y3BrbmZzaUZrN05oeFczX0phWUhidmhqOHFIUXpsRzBIanJPdy1NeEtVdnhKLTJWRUZDcXVRTi13dlhCT1lIcXFVRHY0dVp4MTlucGl3Tk84ZWVsaVJrWEVJUXd2cjBvam5lWkJJX0ZoVjh1aGRTenk0YmVIUUtpS1lUbVk1bnotWkZ1NDJoVW1aT2RLbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2w4Y3BrbmZzaUZrN05oeFczX0phWUhidmhqOHFIUXpsRzBIanJPdy1NeEtVdnhKLTJWRUZDcXVRTi13dlhCT1lIcXFVRHY0dVp4MTlucGl3Tk84ZWVsaVJrWEVJUXd2cjBvam5lWkJJX0ZoVjh1aGRTenk0YmVIUUtpS1lUbVk1bnotWkZ1NDJoVW1aT2RLbA",
+        "image": null,
+        "timestamp": 1772283492.0
+    },
+    {
         "title_fa": "ایران زمانی که صلح در دسترس بود، توسط آمریکا و اسرائیل مورد حمله قرار گرفت",
         "title_en": "Iran has been attacked by US and Israel when peace was within reach",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://thehill.com/policy/international/5751330-witkoff-iran-nuclear-threat",
         "image": null,
         "timestamp": 1771880580.0
-    },
-    {
-        "title_fa": "ترامپ میان سه گزینه علیه ایران: از دیپلماسی تا تلاش برای سرنگونی رژیم",
-        "title_en": "Trump confronts his 3 main options on Iran — from diplomacy to trying to topple a regime",
-        "summary": [
-            "کاخ سفید سه مسیر روشن را بررسی می‌کند: بازگشت به مذاکرات زیر پوشش نمایش قدرت نیروی دریایی، حملات محدود برای هدف قراردادن تاسیسات نظامی و هسته‌ای، یا گزینه ماکزیمم برای تلاش به سرنگونی حاکمیت — هر کدام پیامدها و ریسک‌های جدی دارند.",
-            "ایالات متحده بزرگ‌ترین تجمع نظامی در خاورمیانه از زمان جنگ عراق را ایجاد کرده (دو ناو هواپیمابر، ده‌ها کشتی و صدها جنگنده)؛ اهداف دقیق، ماندگاری ماموریت و توجیهات قانونی برای اقدام نظامی روشن نیست و میان مشاوران اختلاف نظر وجود دارد.",
-            "ترامپ تلویحاً می‌گوید ترجیحش «معامله» است اما تهدید به «روز بسیار بد» برای ایران کرده؛ گزینه سرنگونی مطرح است اما رسانه‌ها و منابع می‌گویند نتایج جایگزین و پیامدهای پساشرکتِ احتمالی نامعلوم‌اند."
-        ],
-        "impact": "فشار نظامی و تهدید به تهاجم می‌تواند سازوکارهای بقای رژیم را تضعیف کند اما همزمان ریسک ورود به جنگ فراگیر، تشدید هزینه‌های اقتصادی و پیامدهای سنگین انسانی و سیاسی برای مردم ایران را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": 0.2,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/02/24/politics/iran-trump-military-options-nuclear",
-        "clean_url": "https://www.cnn.com/2026/02/24/politics/iran-trump-military-options-nuclear",
-        "image": null,
-        "timestamp": 1771880400.0
     }
 ]
