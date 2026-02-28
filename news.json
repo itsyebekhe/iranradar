@@ -288,6 +288,24 @@
         "timestamp": 1772280767.0
     },
     {
+        "title_fa": "علی خامنه‌ای کشته شد، مقام ارشد اسرائیلی می‌گوید",
+        "title_en": "Iran's Supreme Leader Ali Khamenei killed, senior Israeli official says",
+        "summary": [
+            "یک مقام ارشد اسرائیلی به رویترز گفت علی خامنه‌ای در حملات نظامی مشترک آمریکا و اسرائیل کشته شده؛ تا کنون تأیید رسمی ایرانی ارائه نشده است. حملات هدف رهبران عالی‌رتبه ایران قرار گرفت و منطقه را وارد یک منازعه بزرگ‌تر کرد.",
+            "حملات مستقیم به رهبری سیاسی و نظامی تهران، فشار خارجی و تضعیف ساختاری دستگاه حکومتی را تشدید می‌کند؛ این اقدام ظرفیت فرماندهی و هماهنگی نظامی-سیاسی رژیم را کاهش می‌دهد و فضای اقتصادی-سیاسی را شکننده‌تر می‌سازد.",
+            "ایران پیش از این با شورش‌های داخلی سرکوب‌شده و تأثیرات جنگ ژوئن ۲۰۲۵ و مشکلات اقتصادی روبه‌رو بود؛ کشته شدن خامنه‌ای می‌تواند خلأ قدرت، رقابت‌های داخلی برای جانشینی و هم‌زمان فرصتی برای اپوزیسیون و خطر سرکوب گسترده یا درگیری داخلی بیشتر ایجاد کند."
+        ],
+        "impact": "مرگ علی خامنه‌ای خلأ قدرتی فوری و تضعیف توان سیاسی و نظامی تهران ایجاد می‌کند که هم خطر تشدید ناآرامی داخلی را بالا می‌برد و هم پنجره تاریخی‌ای برای نیروهای مخالف رژیم باز می‌سازد.",
+        "tag": "ترور",
+        "urgency": 10,
+        "sentiment": 0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/irans-supreme-leader-ali-khamenei-194449508.html",
+        "clean_url": "https://www.yahoo.com/news/articles/irans-supreme-leader-ali-khamenei-194449508.html",
+        "image": null,
+        "timestamp": 1772280720.0
+    },
+    {
         "title_fa": "اسرائیل و آمریکا حملهٔ هماهنگ علیه ایران را آغاز کردند",
         "title_en": "Israel, United States launch coordinated attack on Iran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTldyOHhYd0dMa2QzUzUzaTMxT0JZMDAza1czbmswZUw0Z0dGMmpqZ21tbGRpYWNuenNLSmZ5d0NaMS13MWVBNGtWeEtwMUZnNVlPWXl3em1EWDJraVlaV2c0akpVQ1huaFRmUXBwU2ZkRUQxdGxka2ZyQXA0NUdUQ3hfNnppU1ZwcEFzdUhKOA",
         "image": null,
         "timestamp": 1771923898.0
-    },
-    {
-        "title_fa": "افزایش قیمت نفت در سایه تمرکز بر روابط آمریکا و ایران",
-        "title_en": "Oil Rises With Focus on U.S.-Iran",
-        "summary": [
-            "بازار نفت به‌خاطر تمرکز تحلیلی و خبری بر تنش‌ها و تعاملات آمریکا و ایران شاهد افزایش قیمت شد؛ این واکنش بازار بر ریسک ژئوپلیتیک تاکید دارد.",
-            "افزایش قیمت‌ها، فشار بر ساختار مالی رژیم را برجسته می‌کند؛ هر نوسان در درآمد نفتی به سرعت بر ترازهای بودجه‌ای و توان هزینه‌کرد حکومت اثر می‌گذارد.",
-            "حساسیت بازار نسبت به این رابطه نشان‌دهنده آسیب‌پذیری سیستم اقتصادی ایران است؛ نوسانات نفتی می‌تواند نارضایتی عمومی را تشدید کند و ضعف مدیریت حکمرانی را عیان سازد."
-        ],
-        "impact": "افزایش قیمت نفت در پی تمرکز بر روابط آمریکا و ایران ریسک مالی و سیاسی رژیم را تشدید می‌کند و قدرت اهرم فشار خارجی بر اقتصاد کشور را افزایش می‌دهد.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.65,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/money/markets/oil-rises-with-focus-on-us-iran/ar-AA1WVEaQ",
-        "clean_url": "https://www.msn.com/en-us/money/markets/oil-rises-with-focus-on-us-iran/ar-AA1WVEaQ",
-        "image": null,
-        "timestamp": 1771923840.0
     }
 ]
