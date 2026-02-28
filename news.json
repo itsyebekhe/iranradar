@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تحلیل اولیه چاتم‌هاوس: پیامدهای حمله مستقیم آمریکا و اسرائیل به ایران",
+        "title_en": "US and Israel attack Iran: Early analysis from Chatham House experts",
+        "summary": [
+            "فشار خارجی و عملیات نظامی مستقیم ساختارهای اقتصادی و سیاسی رژیم را تضعیف می‌کند؛ افزایش تحریم‌ها و قطع روابط می‌تواند توان مالی و دسترسی به تجهیزات را کاهش دهد.",
+            "در کوتاه‌مدت احتمال تشدید سرکوب داخلی بالا می‌رود، اما ناکارآمدی مدیریتی و وخامت اقتصادی می‌تواند مخالفت‌های اجتماعی و نارضایتی گسترده‌تری را برانگیزد.",
+            "گسترش درگیری به بازیگران منطقه‌ای و اختلال در مسیرهای انرژی و تجارت محتمل است؛ استمرار این وضعیت شانس حفظ کنترل بلندمدت حکومت را کاهش می‌دهد."
+        ],
+        "impact": "نتیجه فوری این حادثه کاهش مشروعیت داخلی و افزایش احتمال تفرقه در نهادهای امنیتی است که ثبات دوام‌پذیر حکومت را به خطر می‌اندازد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Chatham House",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWFLbUZ4MW9ZN3B2bU9PaWZqZ1dXWmJyRVY2NzdfUmpodjhKZ2o4RFBpMWd0TVJHNmJZN0xybU1MMHB3anhCYWZwNFRDeVhMaFlTbWlueWVVdjYzeU9uTjJVZ2FTT3lCV0xZMC1Mb3hlTkg1QjRia0lBeW01Z3pTRnJGTlkwNTZhS2pQaUpoWDhKanFBdFZvRTd5dERnVGxP?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWFLbUZ4MW9ZN3B2bU9PaWZqZ1dXWmJyRVY2NzdfUmpodjhKZ2o4RFBpMWd0TVJHNmJZN0xybU1MMHB3anhCYWZwNFRDeVhMaFlTbWlueWVVdjYzeU9uTjJVZ2FTT3lCV0xZMC1Mb3hlTkg1QjRia0lBeW01Z3pTRnJGTlkwNTZhS2pQaUpoWDhKanFBdFZvRTd5dERnVGxP",
+        "image": null,
+        "timestamp": 1772284818.0
+    },
+    {
         "title_fa": "حاکمان ایران در برابر نبرد تمام‌عیار بقا",
         "title_en": "Iran's rulers face an all-out battle for survival",
         "summary": [
@@ -502,6 +520,42 @@
         "clean_url": "https://www.yahoo.com/news/articles/breaking-israel-launches-pre-emptive-071819778.html",
         "image": null,
         "timestamp": 1772260440.0
+    },
+    {
+        "title_fa": "شلیک موشکی ایران به دست‌کم شش کشور؛ گزارش نحوه درگیری",
+        "title_en": "Iran has been firing missiles into at least half a dozen countries. Here's how the fight has been playing out.",
+        "summary": [
+            "اصل ماجرا: تهران دست‌کم به شش کشور موشک شلیک کرده که نشان‌دهنده گسترش عملیات فرامرزی و افزایش مقیاس نظامی است.",
+            "فشار خارجی/تحریم‌ها: این اقدامات بلافاصله ریسک تشدید فشار دیپلماتیک و تحریم‌ها را بالا می‌برد؛ چنین فشارهایی ساختار اقتصادی را تضعیف و توان بقا سیاسی رژیم را کاهش می‌دهد.",
+            "پیامدهای داخلی: تخصیص منابع به عملیات فرامرزی و رفتار امنیتی تهاجمی، نشان‌دهنده ناکارآمدی در اولویت‌گذاری حاکمیت است و احتمال افزایش نارضایتی عمومی و فرسایش مشروعیت را تقویت می‌کند."
+        ],
+        "impact": "گسترش حملات موشکی تنش‌ها را تشدید و انزوای بین‌المللی و فشار اقتصادی را افزایش می‌دهد که به طور ساختاری توان بقا و حاکمیت را تضعیف خواهد کرد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/iran-missiles-multiple-countries-what-happened-2026-2",
+        "clean_url": "https://www.businessinsider.com/iran-missiles-multiple-countries-what-happened-2026-2",
+        "image": "http://www.bing.com/th?id=OVFT.RjiEskh4Y1Ixt3XRhbl7pS&pid=News",
+        "timestamp": 1772257500.0
+    },
+    {
+        "title_fa": "حمله آمریکا و اسرائیل به ایران؛ تهران در خاورمیانه تلافی کرد",
+        "title_en": "US and Israel attack Iran as Tehran retaliates across Middle East",
+        "summary": [
+            "آمریکا و اسرائیل حملاتی را آغاز کردند که بنا بر گزارش CNN ساختمان‌های اطلاعاتی و اهدافی را هدف قرار داد که رسانه‌ها آنها را شامل رهبر، رئیس‌جمهور و فرمانده نیروها دانسته‌اند.",
+            "رئیس‌جمهور آمریکا خواستار تغییر رژیم شد و حمله را «بسیار گسترده و ادامه‌دار» خواند؛ ایران به‌صورت بی‌سابقه‌ای موشک‌هایی به سمت اسرائیل و اهداف مرتبط با آمریکا در منطقه شلیک و در امارات، بحرین و قطر انفجار گزارش شد.",
+            "پیامدهای فوری شامل تعلیق پروازها در دبی و تهدید به اختلال در زیرساخت‌های حمل‌ونقلی و اقتصادی است که بحران را از درگیری نظامی فراتر و به تحمیل هزینه‌های سیاسی و اقتصادی برای حکومت تبدیل می‌کند."
+        ],
+        "impact": "عملیات نظامی مشترک و تلافی گسترده ایران ساختار فرماندهی و توان سرکوب رژیم را هدف گرفته و همزمان باعث اختلال در اقتصاد و افزایش فشارهای سیاسی-اجتماعی داخلی و بین‌المللی می‌شود.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl?post-id=cmm61vzk50006356sztr02pjo",
+        "clean_url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+        "image": null,
+        "timestamp": 1772257200.0
     },
     {
         "title_fa": "حملات «عظیم» آمریکا به ایران؛ رهبر کشور هدف قرار گرفت — به‌روزرسانی",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40",
         "image": "https://dims.apnews.com/dims4/default/e39e0da/2147483647/strip/true/crop/3345x2229+0+1/resize/980x653!/quality/90/?url=https://assets.apnews.com/03/bb/fdfb1a4290196da65f6caa6813a8/e63f70f913ad47568e4e04968f0e5a44",
         "timestamp": 1771873920.0
-    },
-    {
-        "title_fa": "آمریکا با چشمان بسته به سمت جنگ با ایران پیش می‌رود؛ ترامپ توضیح نمی‌دهد",
-        "title_en": "Opinion | The U.S. is sleepwalking into war with Iran. Trump won’t explain why.",
-        "summary": [
-            "نویسنده هشدار می‌دهد که سیاست خارجی ایالات متحده در مسیر تصاعدی و بدون توضیح روشن به سوی تقابل نظامی با ایران حرکت می‌کند؛ این وضعیت از منظر مقاله شبیه «خواب‌گردی» در آستانه جنگ توصیف شده است.",
-            "مقاله تأکید می‌کند که دونالد ترامپ از ارائه توجیه علنی یا استراتژی مشخص برای این فشارها خودداری می‌کند؛ خلأ توضیح‌دهی ریسک‌های محاسبه‌ناپذیری و تصمیم‌گیری‌های شتاب‌زده را افزایش می‌دهد.",
-            "اگر تنش‌ها و فشار خارجی (از جمله تحریم‌ها یا تهدید نظامی) تشدید شود، این امر می‌تواند شکنندگی ساختاری اقتصادی و سیاسی ایران را برجسته کند؛ هرچند مقاله به‌طور مشخص به اعتراضات داخلی اشاره نکرده، ضعف‌های مدیریتی و ناکارآمدی اقتصادی موجود می‌تواند اثر فشارها را تشدید کند."
-        ],
-        "impact": "ادامه این مسیر بی‌تدبیری خطر رویارویی نظامی مستقیم را بالا می‌برد و همزمان می‌تواند فشار اقتصادی و بی‌ثباتی سیاسی را در داخل ایران تشدید کند.",
-        "tag": "تصاعد",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXhXemR3QkMxcGY3V2xwVl92Yk5PY19mQU1BQzEyM2p0cnoydVIzNFZ0ZUhfTUl3YlU3WDFZNTF1S0lNTWJOZUNDVHE0TTNLTTY4alE2dFppMGQ3Zm1zald0N0xheUx5MHY5Z1N6R09DN0VBVTEzUWlkVE1fQlU1R1dvcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXhXemR3QkMxcGY3V2xwVl92Yk5PY19mQU1BQzEyM2p0cnoydVIzNFZ0ZUhfTUl3YlU3WDFZNTF1S0lNTWJOZUNDVHE0TTNLTTY4alE2dFppMGQ3Zm1zald0N0xheUx5MHY5Z1N6R09DN0VBVTEzUWlkVE1fQlU1R1dvcw",
-        "image": null,
-        "timestamp": 1771871526.0
-    },
-    {
-        "title_fa": "ایران روی «امین‌های» مبهم نفتی در آستانه جنگ با آمریکا حساب باز کرده",
-        "title_en": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
-        "summary": [
-            "گزارش می‌گوید رژیم برای دورزدن تحریم‌ها و حفظ جریان درآمد نفتی از شبکه‌ای از «امین‌ها» یا واسطه‌های مبهم استفاده می‌کند؛ این نشان‌دهنده فروریختن سازوکارهای رسمی و فقدان شفافیت است.",
-            "اتکا به این واسطه‌ها فساد سازمان‌یافته را تقویت و درآمدهای نفتی را غیرقابل‌ردیابی می‌کند؛ نتیجه، تضعیف مدیریت اقتصادی و تشدید نارضایتی عمومی است.",
-            "هشدار درباره احتمال تقابل نظامی با آمریکا ریسک‌ها را دو چندان می‌کند: هم احتمال تشدید تحریم‌ها و هم خطر برخورد نظامی را بالا می‌برد و ثبات داخلی را بیشتر به مخاطره می‌اندازد."
-        ],
-        "impact": "فشار تحریم‌ها رژیم را به سازوکارهای پنهانی سوق داده که کوتاه‌مدت درآمدزایی دارند اما بلندمدت مشروعیت، اقتصاد و امنیت داخلی را تضعیف می‌کنند.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/world/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon/ar-AA1WUNfk",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon/ar-AA1WUNfk",
-        "image": null,
-        "timestamp": 1771870540.0
-    },
-    {
-        "title_fa": "تنش ایران-آمریکا؛ ترامپ: «ترجیح می‌دهم توافق شود» اما درباره «روز بسیار بد» برای ایران هشدار داد",
-        "title_en": "Iran-US tensions live updates: Trump says 'would rather have deal' before issuing 'very bad day' warning for Iran",
-        "summary": [
-            "دونالد ترامپ گزارش‌های رسانه‌ای درباره احتمال جنگ با ایران را رد کرد، گفت ترجیح می‌دهد توافق حاصل شود اما هشدار داد که در غیر این صورت «یک روز بسیار بد» برای ایران خواهد بود.",
-            "تهدیدهای نظامی و سیاسی آمریکا به‌عنوان فشار خارجی ساختارهای اقتصادی و سیاسی حکومت را تضعیف می‌کند: هزینه‌های بین‌المللی افزایش می‌یابد، فضای سرمایه‌گذاری بیشتر محدود می‌شود و ظرفیت حکمرانی در برابر شوک‌ها کاهش می‌یابد.",
-            "افزایش تنش‌های خارجی می‌تواند نارضایتی عمومی را تشدید و آسیب‌پذیری اقتصادی را عمیق‌تر کند؛ این در حالی است که ضعف مدیریت و سوء‌عملکرد ساختاری حکومت توان پاسخگویی به این فشارها را محدود می‌سازد."
-        ],
-        "impact": "افزایش موضع‌گیری‌های تهدیدآمیز آمریکا فشارهای اقتصادی و سیاسی را تشدید می‌کند و به تضعیف مشروعیت و کارایی حکومت منجر شده، احتمال تشدید سرکوب یا پذیرش امتیازهای استراتژیک را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Hindustan Times on MSN",
-        "url": "https://www.msn.com/en-in/news/world/iran-us-tensions-live-updates-trump-says-would-rather-have-deal-before-issuing-very-bad-day-warning-for-iran/ar-AA1WVW0z",
-        "clean_url": "https://www.msn.com/en-in/news/world/iran-us-tensions-live-updates-trump-says-would-rather-have-deal-before-issuing-very-bad-day-warning-for-iran/ar-AA1WVW0z",
-        "image": "http://www.bing.com/th?id=OVFT.Lb7kEFPFVMq5ss-IMtChJy&pid=News",
-        "timestamp": 1771870445.0
     }
 ]
