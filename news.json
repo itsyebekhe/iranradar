@@ -18,6 +18,24 @@
         "timestamp": 1772250975.0
     },
     {
+        "title_fa": "ترامپ از مذاکرات با ایران «راضی نیست» اما درباره حملات هنوز تصمیم نگرفته",
+        "title_en": "Trump ‘Not Happy’ With Iran Talks, but Says He Remains Undecided on Strikes",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، از روند مذاکرات با ایران اعلام نارضایتی کرده و همزمان گفته درباره انجام حملات نظامی علیه ایران هنوز تصمیم نگرفته است.",
+            "این موضع واشنگتن احتمال تشدید نظامی و افزایش فشار دیپلماتیک را بالا می‌برد؛ در صورت اتخاذ اقدامات سخت‌گیرانه مانند تحریم‌های جدید یا ضربه‌های نظامی، آثار ساختاری منفی بر ثبات رژیم ایران قابل انتظار است.",
+            "تا زمان تصمیم نهایی آمریکا هیچ اقدام نظامی یا اقتصادی جدیدی در متن گزارش تأیید نشده؛ با این حال، تهدیدِ تشدید تنش می‌تواند نارضایتی‌های عمومی را تشدید و هزینه حکمرانی رژیم را افزایش دهد."
+        ],
+        "impact": "تهدید بالقوه به اعمال زور یا تحریم‌های شدید می‌تواند به‌سرعت فضای امنیتی و اقتصادی را تحت فشار گذاشته و ثبات سیاسی رژیم ایران را تضعیف کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lZmJ3ckZpclNKMjMxZDRBUE5HQ252WmtjM0pSYVl0dm9GRUxkVHUxSjN4clM1YTZaT0ZqMkZwUzFWOE0yTHlCUDVmeFFZN1MyZy1wWFc3aHFRVDYyRnZkaU1UbkVmMkpteFNkY0FabU9zUi1XTWNN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lZmJ3ckZpclNKMjMxZDRBUE5HQ252WmtjM0pSYVl0dm9GRUxkVHUxSjN4clM1YTZaT0ZqMkZwUzFWOE0yTHlCUDVmeFFZN1MyZy1wWFc3aHFRVDYyRnZkaU1UbkVmMkpteFNkY0FabU9zUi1XTWNN",
+        "image": null,
+        "timestamp": 1772247740.0
+    },
+    {
         "title_fa": "به‌روزرسانی ایران، ۲۷ فوریه ۲۰۲۶",
         "title_en": "Iran Update, February 27, 2026",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.nbcnews.com/world/iran/iran-us-will-hold-nuclear-talks-friday-oman-tensions-remain-high-rcna257494",
         "image": null,
         "timestamp": 1771768924.0
-    },
-    {
-        "title_fa": "تنش‌های ایران و آمریکا: مسدود کردن تنگه هرمز چه پیامدی برای نفت و LNG دارد؟",
-        "title_en": "Iran-US tensions: What would blocking Strait of Hormuz mean for oil, LNG?",
-        "summary": [
-            "مسدود شدن تنگه هرمز می‌تواند بلافاصله صادرات نفت و LNG را مختل کند، باعث شوک عرضه در بازارهای جهانی و افزایش هزینه‌های حمل و نقل و مسیرهای جایگزین شود.",
-            "چنین اقدامی به‌عنوان تشدید تنش، احتمال واکنش نظامی و تحریمی آمریکا و متحدانش را بالا می‌برد؛ افت درآمدهای ارزی نتیجه‌ای ساختاری که ثبات مالی و توان دولت را تضعیف خواهد کرد.",
-            "از منظر داخلی، تصمیم به بستن تنگه نشان‌دهنده شکست مدیریت و هزینه‌زایی سیاست‌های مخاطره‌آمیز است که فشار اقتصادی بر مردم را افزایش داده و فضای نارضایتی اجتماعی را تشدید می‌کند."
-        ],
-        "impact": "مسدودسازی تنگه هرمز هم رژیم را با کاهش درآمد و تحریم‌های شدید‌تر روبه‌رو می‌کند و هم بازار جهانی انرژی را به بی‌ثباتی و افزایش قیمت‌ها می‌کشاند.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/world/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng/ar-AA1WQdv8",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng/ar-AA1WQdv8",
-        "image": null,
-        "timestamp": 1771767658.0
     }
 ]
