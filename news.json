@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "اسرائیل خبر از «حمله پیش‌دستانه» به ایران داد",
+        "title_en": "Israel says launched 'preemptive' strike against Iran",
+        "summary": [
+            "اسرائیل اعلام کرده حمله‌ای «پیش‌دستانه» علیه اهدافی در ایران انجام داده؛ تا کنون جزئیات مستقل برای تأیید ادعا منتشر نشده است.",
+            "در صورت صحت، این اقدام به معنای ورود مستقیم به یک رویارویی بین دولت‌هاست و فوری خطر گسترش درگیری‌های نظامی در منطقه را افزایش می‌دهد.",
+            "این رویداد فشار خارجی بر حکومت ایران را تشدید می‌کند و می‌تواند به بهانه‌ای برای تشدید سرکوب داخلی و احتمال افزایش تحریم‌ها و انزوای بیشتر نظام منجر شود."
+        ],
+        "impact": "این حمله می‌تواند ثبات سیاسی و اقتصادی ایران را با تشدید فشارهای بین‌المللی و موج جدید سرکوب داخلی به‌شدت تضعیف کند.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "DW.com",
+        "url": "https://www.ft.com/content/b8ad2fe0-0df8-4a43-bc5a-6fd53b48cc1e",
+        "clean_url": "https://www.ft.com/content/b8ad2fe0-0df8-4a43-bc5a-6fd53b48cc1e",
+        "image": null,
+        "timestamp": 1772260988.0
+    },
+    {
+        "title_fa": "اسرائیل اعلام کرد ایران را هدف قرار داده و وضعیت اضطراری اعلام شد",
+        "title_en": "Israel says it has attacked Iran, declares state of emergency",
+        "summary": [
+            "وزیر دفاع اسرائیل، اسرائیل کاتز، اعلام کرد کشورش به ایران حمله کرده و هم‌زمان دود غلیظی از انفجاری در مرکز تهران بالا آمد؛ تلویزیون دولتی ایران انفجار را تایید کرد اما جزئیات ارائه نداد.",
+            "آژیرها در سراسر اسرائیل به صدا درآمد و ارتش اسرائیل هشدار پیشگیرانه برای احتمال شلیک موشک به سمت این کشور صادر کرد.",
+            "این اعلامیه، یک حمله مستقیم اعلام‌شده از سوی اسرائیل علیه ایران را نشان می‌دهد و احتمال تشدید فوری درگیری منطقه‌ای و افزایش فشار بر ساختار امنیتی و مدیریتی داخل ایران را بالا می‌برد."
+        ],
+        "impact": "حمله مستقیم و اعلام وضعیت اضطراری، هزینه‌های امنیتی و سیاسی را برای حکومت ایران افزایش می‌دهد و توان آن در مدیریت بحران و مهار نارضایتی‌های داخلی را تضعیف خواهد کرد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.nbcnewyork.com/news/national-international/israel-israel-attacks-iran-state-of-emergency/6470558/",
+        "clean_url": "https://www.nbcnewyork.com/news/national-international/israel-israel-attacks-iran-state-of-emergency/6470558",
+        "image": null,
+        "timestamp": 1772260801.0
+    },
+    {
         "title_fa": "سوالات گسترده پیرامون جنگ هوایی عمده آمریکا علیه ایران",
         "title_en": "The Massive Questions Surrounding A Major American Air War Against Iran",
         "summary": [
@@ -106,6 +142,60 @@
         "clean_url": "https://www.pbs.org/newshour/show/with-u-s-on-brink-of-iran-attack-mediator-asks-for-enough-space-to-reach-deal",
         "image": null,
         "timestamp": 1772236550.0
+    },
+    {
+        "title_fa": "اسرائیل حمله پیش‌دستانه علیه ایران را آغاز کرد",
+        "title_en": "Iran-Israel conflict LIVE: Israel launches 'pre-emptive attack' on Iran",
+        "summary": [
+            "اسرائیل اعلام کرده که حمله‌ای پیش‌دستانه علیه ایران اجرا کرده؛ در تهران انفجار گزارش شد و وزیر دفاع اسرائیل وضعیت اضطراری فوری در سراسر کشور اعلام کرد؛ منابع می‌گویند ایالات متحده در این حملات مشارکت دارد.",
+            "مشارکت آمریکا و تکرار تهدیدها نشان‌دهنده افزایش فشار خارجی است که می‌تواند ظرفیت بازدارندگی و زیرساخت‌های نظامی رژیم را هدف قرار دهد و هزینه‌های اقتصادی و سیاسی بلندمدت بر تهران تحمیل کند.",
+            "ادامه برنامه‌های هسته‌ای و موشکی که بهانه این ضربات اعلام شده‌اند، نشان‌دهنده شکست راهبردی و اولویت‌بندی نادرست مدیریت رژیم است؛ این رویکرد به‌احتمال زیاد بار اقتصادی را بر مردم سنگین‌تر و نارضایتی عمومی را تشدید می‌کند."
+        ],
+        "impact": "این عملیات فوری احتمالاً ثبات داخلی رژیم را تضعیف، فضای سرکوب را تشدید و اقتصاد آسیب‌دیده را به بحران عمیق‌تری خواهد کشاند.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/iran-israel-conflict-west-asia-us-trump-live-updates-february-28-2026/article70687247.ece",
+        "clean_url": "https://www.thehindu.com/news/international/iran-israel-conflict-west-asia-us-trump-live-updates-february-28-2026/article70687247.ece",
+        "image": "http://www.bing.com/th?id=OVFT.ibrwqeIxv9mFISyCiN63Ui&pid=News",
+        "timestamp": 1772232780.0
+    },
+    {
+        "title_fa": "تنش ایران-آمریکا/اسرائیل: انفجارها در تهران پس از حمله اسرائیل نزدیک دفاتر رهبری",
+        "title_en": "Iran-US tensions live: Explosions heard in Tehran as Israel strikes Iran near Ayatollah's offices",
+        "summary": [
+            "حملات هوایی اسرائیل به اهدافی در داخل ایران گزارش شده است؛ در پی آن انفجارهایی در تهران شنیده شد و آژیرها نیز در اسرائیل به صدا درآمدند، ارتش اسرائیل هشدار پیشگیرانه‌ای برای آماده‌سازی مردم در برابر احتمال پرتاب موشک صادر کرد.",
+            "ورود درگیری مستقیم به خاک ایران نشان‌دهنده جهش در فشار نظامی خارجی است که پناهگاه و نماد قدرت رژیم را هدف گرفته و توانایی امنیتی و فرماندهی-کنترلی حکومت را زیر سوال می‌برد.",
+            "بازتاب داخلی این حمله به مثابه نشانه‌ای از ناکارآمدی مدیریت امنیتی و راهبردی رژیم است؛ انتظار می‌رود رژیم از ماجرای کنونی برای توجیه سرکوب و بسیج داخلی بهره ببرد و در عین حال فشارهای خارجی و هزینه‌های دفاعی بلندمدت ساختار حاکم را تضعیف کند."
+        ],
+        "impact": "این ضربه مستقیم به خاک ایران، احتمال تشدید مقابله نظامی و افزایش فشارهای داخلی و اقتصادی بر رژیم را به‌طور قابل‌توجهی بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/iran-us-latest-news-live-nuclear-talks-oman-donald-trump-ayatollah-khamenei-vienna-geneva-101772239617278.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-news/iran-us-latest-news-live-nuclear-talks-oman-donald-trump-ayatollah-khamenei-vienna-geneva-101772239617278.html",
+        "image": null,
+        "timestamp": 1772232720.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: اسرائیل ادعا می‌کند حمله «پیش‌دستانه» به ایران را اجرا کرده؛ وضعیت اضطراری اعلام شد — ایران حریم هوایی را بست",
+        "title_en": "Israel-Iran conflict Live Updates: Israel says it launches ‘preemptive strike against Iran’, declares national emergency",
+        "summary": [
+            "اسرائیل اعلام کرده حمله‌ای «پیش‌دستانه» علیه ایران اجرا کرده و وضعیت اضطراری ملی اعلام نموده — نشانه ورود بحران به فاز مستقیم نظامی.",
+            "سازمان هواپیمایی کشوری ایران حریم هوایی را بست و تمامی پروازها تا صبح پنج‌شنبه لغو شد؛ اختلال مستقیم در حمل‌ونقل هوایی و خدمات زیرساختی.",
+            "این رویارویی فوری خطر تشدید منطقه‌ای را بالا می‌برد و می‌تواند فشار خارجی، هزینه‌های اقتصادی و تضعیف مشروعیت حاکمیت فعلی را تشدید کند."
+        ],
+        "impact": "بسته شدن حریم هوایی همراه با اعلام وضعیت اضطراری نشانه کاهش توان عملیاتی و مدیریتی حاکمیت در مدیریت بحران و افزایش ریسک پیامدهای اقتصادی و سیاسی است.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/israel-iran-conflict-live-updates-israel-says-it-launches-preemptive-strike-against-iran-declares-national-emergency-liveblog-13984610.html",
+        "clean_url": "https://www.firstpost.com/world/israel-iran-conflict-live-updates-israel-says-it-launches-preemptive-strike-against-iran-declares-national-emergency-liveblog-13984610.html",
+        "image": null,
+        "timestamp": 1772232600.0
     },
     {
         "title_fa": "ترامپ می‌گوید از مذاکرات هسته‌ای با ایران «خوشحال نیست» اما به آنها زمان بیشتری می‌دهد",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IUWxHVFJLY3FYTVh0STU1ZmlnT0gyTzMwLU1KQTYtRHZzc0Y0YU56OGd0S1pnay10bmM3ZTFlaGNvZlBtcWkyM1hLZ291RGFRZU9rdTZncDhETTNpWDN3WnpwUzY3VXY0RXA1Sl9qTU04dHk3",
         "image": null,
         "timestamp": 1771783383.0
-    },
-    {
-        "title_fa": "ایران: مذاکرات هسته‌ای با فرستاده ترامپ این هفته از سر گرفته می‌شود",
-        "title_en": "Iran Says Nuclear Talks With Trump’s Envoy to Resume This Week",
-        "summary": [
-            "دولت ایران اعلام کرده مذاکرات هسته‌ای با فرستاده ترامپ این هفته از سر گرفته می‌شود؛ جزئیات درباره دستور کار، محل و شرکت‌کنندگان اعلام نشده است.",
-            "از سرگیری گفتگوها نشانه ادامه فشار خارجی و تلاش حکومت برای کاهش تحریم‌ها و تنش‌های بین‌المللی است، اما اطلاعات کنونی درباره امتیازات یا موانع مطرح‌شده محدود است.",
-            "بدون داده‌های بیشتر، بعید است این دور مذاکرات به‌سرعت مشکلات ساختاری اقتصادی و ضعف‌های حکمرانی را حل کند؛ احتمال تأثیر کوتاه‌مدت بر کاهش فشار اقتصادی وجود دارد."
-        ],
-        "impact": "از سرگیری مذاکرات ممکن است فشارهای بین‌المللی را موقتاً کاهش دهد اما آسیب‌پذیری‌های ساختاری رژیم در مدیریت اقتصاد و مشروعیت داخلی را برطرف نخواهد کرد.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Bloomberg",
-        "url": "https://www.msn.com/en-us/news/world/us-and-iran-to-resume-nuclear-talks-as-israel-presses-strike-option/ar-AA1WrYz1",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-to-resume-nuclear-talks-as-israel-presses-strike-option/ar-AA1WrYz1",
-        "image": null,
-        "timestamp": 1771781545.0
-    },
-    {
-        "title_fa": "ازسرگیری مذاکرات هسته‌ای پس از اعلام گزینه حمله توسط ترامپ",
-        "title_en": "Iran talks to resume after Trump goes public on strike option",
-        "summary": [
-            "مذاکرات هسته‌ای آمریکا و ایران این هفته از سر گرفته می‌شود؛ موقعیتی سرنوشت‌ساز که اعلام علنی گزینه حمله از سوی رئیس‌جمهور آمریکا دونالد ترامپ فضای گفتگو را تحت‌الشعاع قرار می‌دهد.",
-            "اظهارنظر علنی درباره گزینه حمله فشار خارجی را تشدید می‌کند و احتمال تندتر شدن مواضع تهران یا واکنش تلافی‌جویانه را افزایش می‌دهد، که روند مذاکرات را پیچیده‌تر می‌سازد.",
-            "واکنش واشنگتن به‌صورت نمایش قدرت، تهران را بین دادن امتیاز برای حفظ دیپلماسی یا پایبندی به خط‌مشی‌ِ دفاع از وجهه رژیم قرار می‌دهد؛ هر انتخاب هزینه‌های سیاسی و امنیتی داخلی را بالا می‌برد."
-        ],
-        "impact": "تهدید علنی به حمله مذاکرات را به نقطه‌ای تعیین‌کننده برده و فشار خارجیِ افزایشی می‌تواند ثبات سیاسی-اقتصادی رژیم را بیش از پیش تضعیف کند.",
-        "tag": "مذاکرات",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-talks-to-resume-after-trump-goes-public-on-strike-option/ar-AA1WRhqg",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-talks-to-resume-after-trump-goes-public-on-strike-option/ar-AA1WRhqg",
-        "image": null,
-        "timestamp": 1771779620.0
-    },
-    {
-        "title_fa": "آمادگی آمریکا برای دور جدید مذاکرات در صورت دریافت پیشنهاد هسته‌ای ظرف ۴۸ ساعت",
-        "title_en": "US ready to hold another round of talks with Iran on Friday if nuclear proposal received within 48 hours: Report",
-        "summary": [
-            "آمریکا اعلام کرده در صورتی که ظرف ۴۸ ساعت از ایران پیشنهادی درباره پرونده هسته‌ای دریافت شود، آماده برگزاری دور دیگری از مذاکرات در روز جمعه است.",
-            "این اقدام نشان‌دهنده حفظ اهرم فشار دیپلماتیک از سوی واشنگتن است؛ پاسخ تهران تعیین‌کننده خواهد بود که فشارها تداوم یابند یا امکان کاهش موقت فراهم شود.",
-            "برای رژیم فعلی این موقعیت آزمونی است: ارسال یا عدم ارسال پیشنهاد، پیام سیاسی داخلی و خارجی روشنی دارد و می‌تواند بر فضای تصمیم‌گیری نخبگی و اقتصادی تأثیر بگذارد."
-        ],
-        "impact": "آمادگی آمریکا اهرم فشار خارجی را تقویت می‌کند و می‌تواند به کاهش موقت تحریم‌ها یا، در صورت رفتار معطل‌کننده تهران، تشدید بی‌ثباتی سیاسی-اقتصادی بینجامد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS3hyUFBGbzhicXllSG9TRm9NMVBWbFVqSlpVUXBfeUpRdmFWUVJ1RGdSN1pLNFNxVXNDdzVmNUVYWXExZm5CUW9wZVIwbEN2REJrTEN5azBxOUxNS3dVQ0diV2VBWXNRa3NDUTNYaVNTSGZfaWNQcWxLQk54RzI4bUJMWjNhY0FacE9wTE1vN3hXbllrXzJrTmxGUEZQZUJTRDg2ZEJEQ0xLOG05V0dlUFBWd2g4QldXYTFpWTVFUU5FVk91X0VlQUZCQUZWbk92MFBjWW1ibDV0VDlENjMwaEhXNW1CVVE2?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS3hyUFBGbzhicXllSG9TRm9NMVBWbFVqSlpVUXBfeUpRdmFWUVJ1RGdSN1pLNFNxVXNDdzVmNUVYWXExZm5CUW9wZVIwbEN2REJrTEN5azBxOUxNS3dVQ0diV2VBWXNRa3NDUTNYaVNTSGZfaWNQcWxLQk54RzI4bUJMWjNhY0FacE9wTE1vN3hXbllrXzJrTmxGUEZQZUJTRDg2ZEJEQ0xLOG05V0dlUFBWd2g4QldXYTFpWTVFUU5FVk91X0VlQUZCQUZWbk92MFBjWW1ibDV0VDlENjMwaEhXNW1CVVE2",
-        "image": null,
-        "timestamp": 1771776675.0
-    },
-    {
-        "title_fa": "آمریکا: در صورت ارائه سریع توافق از سوی ایران، مذاکرات هسته‌ای در ژنو برگزار می‌شود",
-        "title_en": "US to hold Geneva nuclear talks if Iran submits deal soon",
-        "summary": [
-            "ایالات متحده اعلام کرده در صورت ارائه سریع توافق از سوی ایران، مذاکرات هسته‌ای را در ژنو برگزار خواهد کرد.",
-            "این شرط نشان‌دهنده استفاده از فشار دیپلماتیک و تحریمی آمریکا است؛ واشنگتن با شرط‌گذاری، اهرم‌های فشار خود را برای وادار کردن تهران به امتیازدهی فعال نگه می‌دارد.",
-            "قید زمانی «سریع» اشاره به محاسبه تهران درباره نیاز فوری به کاهش فشارهای اقتصادی و سیاسی دارد؛ سرنوشت هر توافق تأثیر مستقیم بر توانایی حکومت در مدیریت بحران‌های داخلی و رضایت عمومی خواهد داشت."
-        ],
-        "impact": "این شرط آمریکا فشار دیپلماتیک را تشدید می‌کند و تهران را بین پذیرش امتیاز برای کاهش تحریم‌ها یا تشدید بحران اقتصادی-سیاسی قرار می‌دهد.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IRi1PZEt4Q19rcEphVFR6eFpzbllfaFdmaXQwQXhJUi1QbFhkWWt4bTQ4alFPc3g2Z1QzWFRFSmIxRVNBdkdDakdmaUl5dGFjRVlIcVlIYkU5UG01cC1DeDFxdWt4bnUzc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IRi1PZEt4Q19rcEphVFR6eFpzbllfaFdmaXQwQXhJUi1QbFhkWWt4bTQ4alFPc3g2Z1QzWFRFSmIxRVNBdkdDakdmaUl5dGFjRVlIcVlIYkU5UG01cC1DeDFxdWt4bnUzc0E",
-        "image": null,
-        "timestamp": 1771776418.0
-    },
-    {
-        "title_fa": "چه گزینه‌های حمله‌ای برای دونالد ترامپ علیه ایران وجود دارد؟",
-        "title_en": "What are Donald Trump’s strike options in Iran?",
-        "summary": [
-            "مقاله به بررسی گزینه‌های بالقوه نظامی و ضربتی ترامپ علیه ایران می‌پردازد و پرسش اصلی را حول امکان‌سنجی و پیامدهای این اقدام‌ها می‌سازد.",
-            "نقل‌قول از استیو ویتکوف گزارش می‌شود که کاخ سفید از اینکه ایران هنوز «تسلیم» نشده است، شگفت‌زده است؛ نویسنده این انتظار را ساده‌انگارانه و خطرآفرین توصیف می‌کند.",
-            "تحلیل هشدار می‌دهد که تکیه بر اقدامات نظامی یا فشار حداکثری بدون درک ساختارهای داخلی ایران و محاسبات منطقه‌ای می‌تواند نتیجه معکوس داشته و ثبات را زیر سؤال ببرد."
-        ],
-        "impact": "پیشروی در مسیر حمله یا فشار حداکثری بدون ارزیابی واقع‌بینانه احتمالاً تنش‌ها را بالا می‌برد، مقاومت داخلی را تقویت می‌کند و ریسک‌های ژئوپلیتیکی و انزوای بین‌المللی را افزایش می‌دهد.",
-        "tag": "تهاجم",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Economist",
-        "url": "https://www.economist.com/middle-east-and-africa/2026/02/22/what-are-donald-trumps-strike-options-in-iran",
-        "clean_url": "https://www.economist.com/middle-east-and-africa/2026/02/22/what-are-donald-trumps-strike-options-in-iran",
-        "image": null,
-        "timestamp": 1771770420.0
     }
 ]
