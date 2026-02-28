@@ -504,6 +504,24 @@
         "timestamp": 1772267100.0
     },
     {
+        "title_fa": "آسمان دودآلود و پناهگاه‌های مملو پس از حمله به تهران",
+        "title_en": "Smoke-Filled Skies and Crowded Bomb Shelters After Iran Is Attacked",
+        "summary": [
+            "ایالات متحده و اسرائیل شنبه حمله‌ای گسترده به تهران انجام دادند؛ تصاویر منتشرشده آسمان‌ پر از دود و پناهگاه‌های شهری مملو از مردم را نشان می‌دهد.",
+            "حمله مستقیم به پایتخت علامتی از تشدید درگیری نظامی بین تهران و واشنگتن/تل‌آویو است که ریسک گسترش نبرد به لایه‌های شهری و زیرساختی را بالا می‌برد.",
+            "تصاویر از ترس عمومی و اختلال در زندگی روزمره حکایت دارد؛ این شرایط می‌تواند فشار بر توان حکمرانی و تاب‌آوری اقتصادی کشور را افزایش دهد."
+        ],
+        "impact": "یک حمله نظامی مستقیم به تهران نه تنها ضربه‌ای نمادین به مشروعیت حکومتی وارد می‌کند بلکه توان مدیریتی و اقتصادی آن را تضعیف نموده و فضای نارضایتی و بی‌ثباتی داخلی را تشدید خواهد کرد.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/02/28/world/iran-israel-trump-attack-photos.html",
+        "clean_url": "https://www.nytimes.com/2026/02/28/world/iran-israel-trump-attack-photos.html",
+        "image": "http://www.bing.com/th?id=OVFT.nmlmJTcQ03oGo0G8GYBkvy&pid=News",
+        "timestamp": 1772266140.0
+    },
+    {
         "title_fa": "آمریکا و اسرائیل حمله‌ای به ایران انجام دادند؛ تنش‌ها بر سر مذاکرات هسته‌ای بالا گرفته",
         "title_en": "US and Israel launch an attack on Iran with tensions high over nuclear talks",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-top-general-desperately-trying-122425298.html",
         "image": "http://www.bing.com/th?id=OVFT.6RTzOBqr0AOtbexwtUMNSS&pid=News",
         "timestamp": 1771908420.0
-    },
-    {
-        "title_fa": "نفت زیر اوج هفت‌ماهه باقی می‌ماند؛ معامله‌گران منتظر مذاکرات آمریکا و ایران و سیاست تجاری",
-        "title_en": "Oil hovers below seven-month high as traders eye U.S.–Iran talks, trade policy",
-        "summary": [
-            "قیمت نفت نزدیک به بالاترین سطح هفت‌ماهه معامله می‌شود و معامله‌گران تمرکز خود را روی مذاکرات آمریکا و ایران و تحولات سیاست تجاری آمریکا گذاشته‌اند.",
-            "هرگونه پیشرفت در مذاکرات آمریکا و ایران می‌تواند چارچوب تحریم‌ها و دسترسی رژیم به منابع ارزی را دگرگون کند؛ کاهش تحریم‌ها ساختار فشار خارجی را تضعیف می‌کند و افزایش یا تداوم تحریم‌ها فشار اقتصادی و سیاسی را تشدید خواهد کرد.",
-            "خبر به اعتراضات داخلی اشاره‌ای ندارد؛ با این حال تغییرات در درآمدهای نفتی و سیاست‌های تجاری مستقیماً بر توان مالی حکومت اثر می‌گذارد و هر تنش اقتصادی می‌تواند نارضایتی عمومی را افزایش دهد."
-        ],
-        "impact": "نوسان قیمت نفت در کنار مذاکرات آمریکا–ایران می‌تواند محور تعیین‌کننده‌ای برای توان مالی رژیم و شدت فشارهای خارجی باشد و پیامدهای مستقیم اقتصادی بر ثبات داخلی خواهد داشت.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "CNBC",
-        "url": "https://www.msn.com/en-us/money/economy/oil-rises-to-near-seven-month-high-on-us-iran-tensions-trade-policy/ar-AA1WWlVH",
-        "clean_url": "https://www.msn.com/en-us/money/economy/oil-rises-to-near-seven-month-high-on-us-iran-tensions-trade-policy/ar-AA1WWlVH",
-        "image": null,
-        "timestamp": 1771907220.0
     }
 ]
