@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ در آستانه حمله به ایران؛ میانجی می‌گوید توافق هسته‌ای نزدیک است",
+        "title_en": "Trump moves toward Iran attack as mediator says nuclear deal is close",
+        "summary": [
+            "الگویی از تشدید نظامی: گزارش می‌گوید دونالد ترامپ به سمت اقدام نظامی علیه ایران حرکت می‌کند که خطر برخورد مستقیم را بالا می‌برد.",
+            "اطلاع میانجی درباره توافق هسته‌ای نزدیک است، اما هم‌زمانیِ این ادعا با تهدید نظامی احتمال موفقیت دیپلماسی را کاهش می‌دهد.",
+            "تأثیرات داخلی: تهدید به حمله و فشار خارجی می‌تواند هزینه‌های نظامی و اقتصادی رژیم را افزایش داده و زمینهٔ تشدید نارضایتی عمومی را فراهم کند."
+        ],
+        "impact": "پیامد فوری این خبر افزایش احتمال درگیری نظامی و فشار اقتصادی-سیاسی بر رژیم است که ثبات داخلی و ظرفیت دیپلماسی را هم‌زمان تضعیف می‌کند.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHVXR3JLMjFjbzgtWlNvd09BUmJNblRwNFItYktEWXp1SjhmbXVzcHdSald6M04wdzVtQ0Qyb1haN3lvY3ljdUFWWncyUDU1TXozWkk0d0w0YVZYU3poVFR3RGlzdW02YnduS1VZSl9hTWVKSlBSNVEzSjk3OElxa3FNWFR3SWs5c1RNcFpFSWhGeHhrR2hkTk5uZUdVaVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHVXR3JLMjFjbzgtWlNvd09BUmJNblRwNFItYktEWXp1SjhmbXVzcHdSald6M04wdzVtQ0Qyb1haN3lvY3ljdUFWWncyUDU1TXozWkk0d0w0YVZYU3poVFR3RGlzdW02YnduS1VZSl9hTWVKSlBSNVEzSjk3OElxa3FNWFR3SWs5c1RNcFpFSWhGeHhrR2hkTk5uZUdVaVU",
+        "image": null,
+        "timestamp": 1772240818.0
+    },
+    {
         "title_fa": "ترامپ می‌گوید از مذاکرات هسته‌ای با ایران «خوشحال نیست» اما به آنها زمان بیشتری می‌دهد",
         "title_en": "Trump says he is 'not happy' with the Iran nuclear talks but indicates he'll give them more time",
         "summary": [
@@ -250,6 +268,24 @@
         "clean_url": "https://www.americanprogress.org/article/trump-is-potentially-leading-the-united-states-into-an-unnecessary-war-with-iran",
         "image": null,
         "timestamp": 1772201582.0
+    },
+    {
+        "title_fa": "ترامپ: از مذاکرات با ایران راضی نیستم",
+        "title_en": "Trump says he's 'not exactly happy' with Iran",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، گفت از روند مذاکرات جاری با ایران درباره برنامه هسته‌ای «راضی نیست» و خواستار «انکار مالکیت و کسب سلاح هسته‌ای» از طرف تهران شده است؛ او گفت ایران آن «جملات طلایی» را بیان نکرده است.",
+            "واشنگتن با اعلام مهلت تقریبی ۱۰–۱۵ روزه برای تصمیم‌گیری ایران و اظهارنظر ضمنی درباره امکان استفاده از زور نظامی، هم‌زمان با برنامه جلسات فنی در وین (به گفته عباس عراقچی، وزیر خارجه ایران) روند دیپلماتیک را پیش می‌برد.",
+            "تهران خواستار لغو تحریم‌های سنگین در ازای محدودسازی فعالیت‌های هسته‌ای شده؛ فشار تحریمی ساختاری سرمایه و ظرفیت اقتصادی رژیم را تضعیف می‌کند و می‌تواند فضای سیاسی-اقتصادی داخلی را محدودتر و آسیب‌پذیرتر سازد."
+        ],
+        "impact": "در کوتاه‌مدت، تشدید فشار دیپلماتیک و تهدید نظامی آمریکا احتمالاً مذاکرات را متشنج می‌کند و تحریم‌ها را به عنوان اهرمی که ظرفیت اقتصادی و چانه‌زنی رژیم را کاهش می‌دهد تقویت می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-says-hes-not-exactly-212826839.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-says-hes-not-exactly-212826839.html",
+        "image": "http://www.bing.com/th?id=OVFT.1m4upz2k50eN0xePkRu5lC&pid=News",
+        "timestamp": 1772200260.0
     },
     {
         "title_fa": "دولت ترامپ ایران را حامی بازداشت‌های ناعادلانه نامید",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-president-gives-update-amid-massive-us-military-buildup/ar-AA1WQRIc",
         "image": "http://www.bing.com/th?id=OVFT.fPL03pBIUy-xfDaSzDd8Vi&pid=News",
         "timestamp": 1771762517.0
-    },
-    {
-        "title_fa": "تداوم اعتراضات دانشجویی در روز دوم علیرغم سرکوب خونین رژیم",
-        "title_en": "Iran Students Protest for Second Day Despite State Crackdown",
-        "summary": [
-            "اعتراضات ضد حکومتی برای دومین روز پیاپی در دست‌کم هفت دانشگاه در تهران و مشهد رخ داد؛ ویدئوهای تأییدشده حضور دانشجویان در دانشگاه هنر تهران و دانشگاه علم و صنعت را نشان می‌دهد.",
-            "دانشجویان نماداً سیاه‌پوش شدند و خواستار پایان حکمرانی علی خامنه‌ای شده‌اند؛ این خیزش در سایه سرکوب ژانویه با هزاران کشته و حدود ۴۰٬۰۰۰ بازداشت شکل می‌گیرد.",
-            "حکومت دارایی‌های حامیان اعتراضات را توقیف کرده و هم‌زمان تنش فزاینده با واشنگتن که ریسک برخورد نظامی را بالا می‌برد، توانایی رژیم در مدیریت بحران داخلی را پیچیده‌تر کرده است."
-        ],
-        "impact": "این موج دانشگاهی نشان‌دهنده تداوم بی‌اعتمادی گسترده و ضعف مشروعیت رژیم است و می‌تواند به سرایت مجدد اعتراضات سراسری و تضعیف بیشتر انسجام داخلی منجر شود.",
-        "tag": "اعتراضات",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
-        "clean_url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
-        "image": "http://www.bing.com/th?id=OVFT.duSc0r3v7oG6hJkDd026wC&pid=News",
-        "timestamp": 1771760220.0
-    },
-    {
-        "title_fa": "ازسرگیری مذاکرات ایران و آمریکا در ژنو با وجود تهدیدات حمله",
-        "title_en": "Iran-US talks expected Thursday despite fears of strikes",
-        "summary": [
-            "فشار خارجی و تهدید نظامی: آمریکا با اعزام دو ناو هواپیمابر و استقرار جنگنده‌ها و تقویت پدافند منطقه‌ای، فشار نظامی شدیدی بر تهران وارد کرده؛ این فشار ساختاری توان مانور سیاسی و نظامی حکومت را تضعیف و لزوم پذیرش امتیاز یا تلاش برای زمان‌خریدن را افزایش می‌دهد.",
-            "روند مذاکرات: وزیر خارجه ایران عباس عراقچی می‌گوید پیش‌نویس توافق تهیه شده و عمان به میانجیگری ادامه می‌دهد؛ نماینده آمریکا استیو ویتکاف آماده ازسرگیری مذاکرات در صورتی است که پیشنهاد تهران ظرف ۴۸ ساعت ارائه شود — گفت‌وگوها در بستر تهدید به حمله جریان دارد که هم احتمال جلوگیری از درگیری را دارد و هم حکومت را در موضع ضعف قرار می‌دهد.",
-            "نارضایتی داخلی و شکست مدیریتی: جنبش اعتراضی سراسری و سرکوب خونین (به‌گفته گروه‌های حقوقی هزاران کشته) نشان‌دهنده ضعف‌های ساختاری در حکمرانی است؛ تجمع‌های دانشجویی موافق و مخالف حکومت و ریسک بازداشت یا بدتر برای منتقدان، میراثی از بی‌اعتباری داخلی است که ظرفیت واکنش رژیم به تهدیدات خارجی را کاهش می‌دهد."
-        ],
-        "impact": "ادامه مذاکرات می‌تواند در کوتاه‌مدت مانع اقدام نظامی مستقیم شود اما همزمان حکمرانی کنونی را بیشتر در معرض فرسایش سیاسی و فشار داخلی قرار می‌دهد.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/iranus-talks-expected-thursday-despite-fears-of-strikes-101771788486693.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/us-news/iranus-talks-expected-thursday-despite-fears-of-strikes-101771788486693.html",
-        "image": null,
-        "timestamp": 1771759680.0
     }
 ]
