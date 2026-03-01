@@ -198,6 +198,24 @@
         "timestamp": 1772364081.0
     },
     {
+        "title_fa": "مرگ علی خامنه‌ای در حملات هوایی هماهنگ آمریکا و اسرائیل",
+        "title_en": "Iranian Supreme Leader Ali Khamenei, the longest-serving Head of State in the Middle East",
+        "summary": [
+            "علی خامنه‌ای (۱۹۳۹–۲۰۲۶)، دومین رهبر جمهوری اسلامی ایران، در ۲۸ فوریه در حملات هوایی هماهنگ آمریکا و اسرائیل به تهران کشته شد؛ رسانه‌های دولتی خبر را در ۱ مارس تأیید کردند.",
+            "حمله مستقیم به پایتخت و حذف بلندپایه‌ترین مقام حکومتی، نشان‌دهنده شکستِ ساختاری امنیت و بازدارندگی نظام علیه فشار نظامی خارجی است و موقعیت بین‌المللی رژیم را به شدت تضعیف می‌کند.",
+            "این رویداد فوراً خلأ رهبری ایجاد می‌کند، مسیر را برای تشدید تنش‌های منطقه‌ای و افزایش فشارهای خارجی و تحریمی هموار می‌کند و احتمالاً به ناپایداری سیاسی و فشار اقتصادی در داخل کشور دامن خواهد زد."
+        ],
+        "impact": "کشته شدن خامنه‌ای ساختار اقتدار رژیم را تضعیف کرده و به احتمال زیاد منجر به بحران رهبری، تشدید ناآرامی‌های داخلی و افزایش فشارهای بین‌المللی و اقتصادی خواهد شد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": 0.75,
+        "source": "UNITED NEWS OF INDIA",
+        "url": "https://uniindia.com/~/iranian-supreme-leader-ali-khamenei-the-longest-serving-head-of-state-in-the-middle-east/India/news/3758677.html",
+        "clean_url": "https://uniindia.com/~/iranian-supreme-leader-ali-khamenei-the-longest-serving-head-of-state-in-the-middle-east/India/news/3758677.html",
+        "image": null,
+        "timestamp": 1772364060.0
+    },
+    {
         "title_fa": "ترامپ بررسی حملهٔ هدفمند علیه ایران و سپس حملهٔ بزرگ‌تر را در نظر دارد",
         "title_en": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
         "summary": [
@@ -252,6 +270,24 @@
         "timestamp": 1772362713.0
     },
     {
+        "title_fa": "عدم دسترسی به متن کامل: گزارش ناقص درباره تحولات آمریکا و ایران",
+        "title_en": "US, Iran live updates: 3 US service members dead; poll shows low approval",
+        "summary": [
+            "متن ارائه‌شده صرفاً پیام فنی سایت درباره پشتیبانی مرورگر است؛ محتوای خبری اصلی در دسترس نیست.",
+            "تیتر ادعا می‌کند سه نیروی آمریکایی کشته شده و نظرسنجی نشان‌دهنده رضایت پایین است، اما این ادعاها در متن تأیید یا مستندسازی نشده‌اند؛ بدون متن کامل نمی‌توان به‌صورت موثق تحلیل راهبردی ارائه داد.",
+            "برای تحلیل موثر باید متن کامل گزارش یا منابع معتبر جایگزین فراهم شود؛ در غیاب آن نمی‌توان تاثیربرداری درباره تحریم‌ها، نقش بازیگران خارجی، یا نارضایتی داخلی را با استناد قابل‌قبول مطرح کرد."
+        ],
+        "impact": "عدم دسترسی به متن کامل مانع هر ارزیابی واقع‌گرایانه از پیامدهای امنیتی، سیاسی یا اقتصادی گزارش شده می‌شود و هر نتیجه‌گیری فعلی فاقد اتکا به شواهد است.",
+        "tag": "عدم‌دسترسی",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "The Indianapolis Star",
+        "url": "https://www.indystar.com/live-story/news/politics/2026/03/01/us-iran-israel-attack-live-updates-news/88922229007/",
+        "clean_url": "https://www.indystar.com/live-story/news/politics/2026/03/01/us-iran-israel-attack-live-updates-news/88922229007",
+        "image": "http://www.bing.com/th?id=OVFT.k32uBhbXrAQ640YkwoHcfC&pid=News",
+        "timestamp": 1772360280.0
+    },
+    {
         "title_fa": "حملات تازه آمریکا و اسرائیل به ایران پس از کشته‌شدن علی خامنه‌ای",
         "title_en": "Live Updates: U.S.-Israel launch another round of strikes on Iran following Khamenei's killing",
         "summary": [
@@ -286,6 +322,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWpMbl80VUs0N3ZsSS1HN004bkJ0TTJDOUFwVllzUllrMU1fcTRnX0Rrb2d2UXY3Z2VxLUVReVkxU2dSc2hRN01fUnRwR3hwdmJHNUFlbUhiVUJac3FrQlZDTUJQQmhENXlXMUF6dnJhU2tDdEl5aWY0aUNLMEJLbHFnaUF2NUxjREtCWV9hT191dmtIb1drY0czTkNnZ9IBowFBVV95cUxPQUhPR0FqNzBneF85SDFoQXE5enRfU05PZ1BDVVJiZDR6RmtVRUZRXzR0Z2F4ZUd4UER0WjlETUs1Tmp3UWFsc2R0YkxsWTBvYTFJYXhNbzJOZC1jMVUwUTZLczhHQThKSzlQWUZLWXNHejAtbnk5VDg4VDZYd3J3dE81OFA1enp2eUl2VlZnLUdpb2laaVkxZGpJQ3JmMDBnZjVN",
         "image": null,
         "timestamp": 1772356880.0
+    },
+    {
+        "title_fa": "نظارت طولانیِ CIA و اسرائیل پیش از حملات مرگبار به خامنه‌ای و دیگر رهبران ایران",
+        "title_en": "CIA closely watched Khamenei for months before fatal strikes in Iran",
+        "summary": [
+            "نظریه میدانی: CIA و اطلاعات اسرائیل ماه‌ها الگوهای روزمره خامنه‌ای و جمع‌شدن رهبران ارشد را زیرنظر داشتند و فرصت هم‌زمان بودن اجلاس‌ها در مجموعه دولتی تهران را به‌عنوان نقطه ضعف عملیاتی تشخیص دادند؛ حمله هماهنگ روزانه با موشک‌ها و مهمات دقیق از سوی آمریکا و اسرائیل اجرا شد.",
+            "ضعف سازمانی و محاسبات غلط: تجمع مقامات ارشد از جمله فرمانده سپاه پاسداران و وزیر دفاع در نزدیکی خامنه‌ای نشان‌دهنده تمرکز قدرت و اشتباهات حفاظتی بود که امکان اصابت هم‌زمان به چند هدف کلیدی و مرگ رهبران را فراهم کرد.",
+            "پیامدهای خارجی و داخلی: مشارکت مستقیم آمریکا و اسرائیل در عملیات، فشار بین‌المللی و انزوای رژیم را تشدید می‌کند؛ این ضربه احتمالاً شکاف‌های درون‌نخبگانی، اختلال در زنجیره فرماندهی و تشدید ناامنی‌های اقتصادی و سیاسی را تسریع خواهد کرد."
+        ],
+        "impact": "این عملیات یک ضربه ساختاری به لایه‌های رهبری رژیم وارد کرده که احتمالاً خلا قدرت، رقابت جناحی و تشدید فشارهای خارجی و اقتصادی را شتاب می‌دهد.",
+        "tag": "حمله",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/cia-closely-watched-khamenei-months-160953918.html",
+        "clean_url": "https://www.yahoo.com/news/articles/cia-closely-watched-khamenei-months-160953918.html",
+        "image": "http://www.bing.com/th?id=OVFT.sga0MsHB5EGKT5LzKQ0ZRi&pid=News",
+        "timestamp": 1772355120.0
     },
     {
         "title_fa": "اروپایی‌ها نگران گسترش درگیری؛ تأکید کردند در حملات ایران شرکت نداشتند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/doomsday-planes-j-20s-f-22s-the-iran-escalation-explained/vi-AA1WMA5I",
         "image": null,
         "timestamp": 1772049735.0
-    },
-    {
-        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران در مرحله حساسی؛ تهدید ترامپ به پاره‌کردن شروط موفقیت",
-        "title_en": "US and Iran nuclear talks at critical stage amid threat of Trump tearing up terms of success",
-        "summary": [
-            "مذاکرات مربوط به بازگشت به چارچوب توافق هسته‌ای در یک مرحله حیاتی قرار دارد و نتیجه نهایی در معرض تغییر سریع است.",
-            "تهدید دونالد ترامپ به لغو یا پاره‌کردن «شروط موفقیت» هر توافق، پایداری و اعتبار تعهدات آمریکا را تضعیف می‌کند و شانس دوام توافق را کاهش می‌دهد.",
-            "عدم قطعیت درباره بقای توافق، محاسبات سیاسی و اقتصادی تهران را پیچیده می‌سازد و توان مانور حکومت را در مواجهه با فشارهای خارجی و داخلی محدود می‌کند."
-        ],
-        "impact": "خطر یک‌جانبه‌گرایی آمریکا در صورت تغییر سیاسی داخلی رویه را نامطمئن می‌سازد؛ این مسئله احتمال تحکیم بحران اقتصادی-سیاسی در داخل ایران را افزایش و همزمان اعتماد بازیگران بین‌المللی را تضعیف می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1dMZUdsU1ZqX1A2U1JDcmJkTXlvNE5pMDR3RkNkWTdJUy1qdkhERWtKdWVjTnlFWUFkWnl5QUR3dGwtTUp1YWh6N2U4NlA1STJaYkIzS290dTljc1lOWUotY21hWVVieUV5OVBsTTZ2SFhWVF9WTlVrZkw3d0FmSHBNV1lwN2oxRWdweDJiX3EtUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1dMZUdsU1ZqX1A2U1JDcmJkTXlvNE5pMDR3RkNkWTdJUy1qdkhERWtKdWVjTnlFWUFkWnl5QUR3dGwtTUp1YWh6N2U4NlA1STJaYkIzS290dTljc1lOWUotY21hWVVieUV5OVBsTTZ2SFhWVF9WTlVrZkw3d0FmSHBNV1lwN2oxRWdweDJiX3EtUQ",
-        "image": null,
-        "timestamp": 1772047020.0
-    },
-    {
-        "title_fa": "آمریکا تحریم‌های خود علیه ایران را گسترش داد؛ هدف: فروش نفت و برنامه‌های تسلیحاتی",
-        "title_en": "US expands sanctions on Iran over oil sales, weapons programs",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا بیش از 30 فرد، نهاد و کشتی‌های «ناوگان سایه» را به‌خاطر نقش در تسهیل فروش غیرقانونی نفت ایران و حمایت از برنامه‌های تسلیحاتی تحریم کرد.",
-            "این بسته تحریمی ساختار درآمدی رژیم را هدف می‌گیرد و می‌تواند انتقال درآمدهای ارزی را محدود کند؛ پیامد مستقیم آن تشدید فشارهای اقتصادی و سیاسی داخلی خواهد بود.",
-            "تمرکز روی «ناوگان سایه» نشان می‌دهد واشنگتن به قطع مسیرهای دورزدن تحریم برای کسب درآمد نفتی می‌پردازد؛ این مسیرها محصول ضعف مدیریت و فساد ساختاری در حکومت است."
-        ],
-        "impact": "اثر فوری این تحریم‌ها کاهش توان مالی رژیم برای پیشبرد برنامه‌های تسلیحاتی و افزایش فشار اقتصادی است که پتانسیل تشدید نارضایتی عمومی را دارد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/us-expands-sanctions-on-iran-over-oil-sales-weapons-programs/ar-AA1X4VsW",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-expands-sanctions-on-iran-over-oil-sales-weapons-programs/ar-AA1X4VsW",
-        "image": null,
-        "timestamp": 1772045555.0
-    },
-    {
-        "title_fa": "پیام دوگانه ونس به ایران: دنبال دیپلماسی‌اند اما گزینه نظامی محفوظ است",
-        "title_en": "Vance to Iran: Talks show US pursuing diplomatic deal; Trump has right to use military option if he chooses",
-        "summary": [
-            "ونس اعلام کرده مذاکرات نشان‌دهنده پیگیری آمریکا برای یک توافق دیپلماتیک است، اما تأکید کرده ترامپ حق استفاده از گزینه نظامی را در صورت انتخاب دارد.",
-            "این پیام دوگانه نشان می‌دهد واشنگتن هم‌زمان از ابزار دیپلماسی و تهدید نظامی برای افزایش اهرم فشار علیه تهران استفاده می‌کند؛ ساز و کارهایی که می‌تواند به تقویت فشارهای تحریمی و امنیتی منجر شود.",
-            "برای حکومت ایران این ترکیب فشار خارجی و تهدید نظامی ریسک افزایش انزوای بین‌المللی و تشدید شکنندگی داخلی را بالا می‌برد، به‌خصوص سطح ناتوانی مدیریتی و اقتصادی در مهار تبعات آن قابل توجه است."
-        ],
-        "impact": "حفظ همزمان دیپلماسی و تهدید نظامی فشارها را تشدید می‌کند و شکنندگی سیاسی-اقتصادی حکومت را بالا برده و خطر اشتباه محاسباتی یا تشدید بحران را افزایش می‌دهد.",
-        "tag": "فشار",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekRDeE5SdmRIVW5kUTNjdHJ4WGFORTF1V0RYU2M0S2phTC1aT3B0MldCZGExX0JNTXM2Tk1qUFh2eU9adm5wUnIteUlrZDh3ZHpxNmdKNjdrQ19iZnNRWHhBOEpXNkpmS0JfRU1KUkdsd0tVaVNFYVUxTWpTd3BFY2Iyc0Q1QjRkb0HSAY8BQVVfeXFMUFVUUmRDc1NYMTkwMkZOeXh2ckdGOXE5QnFJX2RmNXl5YTNBcTcyYTgxQUF5UEpyNlJtaW9KRXROdDNCYXhmb2FZZ05Rd1IxQXpOWV91M2lySDNYNk9fWTQ2OTNOUFZnbXVtT0lielQ2SmFBZHlUZ3ZPOU5lXzljYXFrWDBfdklNTlR6aERmaEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekRDeE5SdmRIVW5kUTNjdHJ4WGFORTF1V0RYU2M0S2phTC1aT3B0MldCZGExX0JNTXM2Tk1qUFh2eU9adm5wUnIteUlrZDh3ZHpxNmdKNjdrQ19iZnNRWHhBOEpXNkpmS0JfRU1KUkdsd0tVaVNFYVUxTWpTd3BFY2Iyc0Q1QjRkb0HSAY8BQVVfeXFMUFVUUmRDc1NYMTkwMkZOeXh2ckdGOXE5QnFJX2RmNXl5YTNBcTcyYTgxQUF5UEpyNlJtaW9KRXROdDNCYXhmb2FZZ05Rd1IxQXpOWV91M2lySDNYNk9fWTQ2OTNOUFZnbXVtT0lielQ2SmFBZHlUZ3ZPOU5lXzljYXFrWDBfdklNTlR6aERmaEE",
-        "image": null,
-        "timestamp": 1772042640.0
     }
 ]
