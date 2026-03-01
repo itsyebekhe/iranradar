@@ -36,6 +36,24 @@
         "timestamp": 1772340561.0
     },
     {
+        "title_fa": "واکنش‌های جهان به حملات آمریکا و اسرائیل علیه ایران",
+        "title_en": "How the world has reacted to US and Israeli strikes on Iran",
+        "summary": [
+            "گزارش BBC واکنش‌های بین‌المللی به حملات مستقیم آمریکا و اسرائیل علیه ایران را ثبت می‌کند؛ واکنش‌ها طیفی از حمایت آشکار تا محکومیت صریح را دربرمی‌گیرد.",
+            "اکثر بازیگران بین‌المللی خواهان خویشتنداری و جلوگیری از تشدید درگیری منطقه‌ای شده‌اند؛ نگرانی از گسترش جنگ و پیامدهای انسانی و اقتصادی برجسته است.",
+            "در حالی که گزارش بر واکنش‌های بین‌المللی متمرکز است و اشاره مستقیمی به اعتراضات داخلی ندارد، فشار دیپلماتیک و اقتصادی ناشی از این واکنش‌ها می‌تواند ناکارآمدی‌های مدیریتی و نارضایتی‌های اقتصادی را تشدید کند."
+        ],
+        "impact": "پیامد استراتژیک فوری، افزایش هزینه‌های سیاسی و دیپلماتیک برای حاکمیت و تقویت ریسک تشدید ناآرامی‌های داخلی و بی‌ثباتی منطقه‌ای است.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://www.washingtonpost.com/world/2026/03/01/iran-us-israel-reactions-03-01-2026/676c011a-152c-11f1-8e8d-fe91db44677b_story.html",
+        "clean_url": "https://www.washingtonpost.com/world/2026/03/01/iran-us-israel-reactions-03-01-2026/676c011a-152c-11f1-8e8d-fe91db44677b_story.html",
+        "image": null,
+        "timestamp": 1772338295.0
+    },
+    {
         "title_fa": "سقوط علی خامنه‌ای؛ گزارش از پایان رهبر جمهوری اسلامی",
         "title_en": "The fall of Ayatollah Khamenei: How Iran's Supreme Leader met his end",
         "summary": [
@@ -144,6 +162,24 @@
         "timestamp": 1772320012.0
     },
     {
+        "title_fa": "مرگ علی خامنه‌ای در حمله آمریکا و اسرائیل تأیید شد",
+        "title_en": "Iran’s Supreme Leader Ayatollah Ali Khamenei Is Dead, Iranian State Media Reports",
+        "summary": [
+            "رسانه‌های رسمی ایران مرگ علی خامنه‌ای را در پی حمله هوایی مشترک آمریکا و اسرائیل اعلام کردند؛ تصاویر ماهواره‌ای و اظهارات رئیس‌جمهور آمریکا وقوع بمبارانی گسترده بر محل را نشان می‌دهد و واشنگتن آن را برای «خنثی‌سازی توان هسته‌ای» توجیه کرده است.",
+            "این ضربه مستقیم به رأس تصمیم‌گیری نظام، خلأ رهبری و تضعیف ساختار فرماندهی را تشدید می‌کند و رژیم را در معرض انزوای بیشتر و فشار خارجی شدید قرار می‌دهد که پیامدهای سیاسی و اقتصادی داخلی قابل‌توجهی خواهد داشت.",
+            "اظهارات ترامپ مبنی بر اینکه اکنون «بزرگ‌ترین فرصت» برای ایرانیان است، می‌تواند موجی از تلاش‌های سیاسی ضد رژیم را تقویت کند و هم‌زمان خطر اقدام انتقامی و گسترش درگیری‌های منطقه‌ای را افزایش دهد؛ رقابت برای جانشینی در میان نهادهای مسلط از جمله سپاه محتمل است."
+        ],
+        "impact": "این واقعه فوراً خطر جنگ منطقه‌ای و بی‌ثباتی داخلی را بالا می‌برد و فضای تصمیم‌گیری را به نبرد برای جانشینی و فروپاشی کنترل مرکزی سوق می‌دهد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/israel-iran-us-attack_n_69a29565e4b00f9077394f34",
+        "clean_url": "https://www.huffpost.com/entry/israel-iran-us-attack_n_69a29565e4b00f9077394f34",
+        "image": null,
+        "timestamp": 1772319060.0
+    },
+    {
         "title_fa": "علی خامنه‌ای، رهبر ایران که دیکتاتوری نظامی بالفعل ساخت، در حملات آمریکا و اسرائیل کشته شد",
         "title_en": "Ali Khamenei, Iran's Supreme Leader Who Built a De Facto Military Dictatorship, Killed in U.S.-Israeli Strikes",
         "summary": [
@@ -196,6 +232,24 @@
         "clean_url": "https://www.al-monitor.com/originals/2025/07/irans-supreme-leader-ali-khamenei-architect-regional-expansion-declared-dead",
         "image": null,
         "timestamp": 1772317140.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: حملات تلافی‌جویانه ایران و تشدید تنش‌ها پس از کشته شدن خامنه‌ای",
+        "title_en": "Live Updates: Iran’s retaliatory strikes and regional tensions surge post-Khamenei",
+        "summary": [
+            "خلاصه رخدادها: آمریکا و اسرائیل شبانه حمله گسترده‌ای علیه ایران انجام دادند؛ ایران حملات تلافی‌جویانه‌ای در منطقه از جمله به اورشلیم انجام داد؛ انفجارات در دبی، دوحه و منامه شنیده شد، بیش از ۱۴۰۰ پرواز در خاورمیانه لغو شد و رسانه‌های رسمی مرگ خامنه‌ای را تأیید کردند.",
+            "فشار خارجی و پیامدهای ساختاری: حملات مستقیم نظامی آمریکا و اسرائیل ساختار بازدارندگی و ظرفیت عملیاتی رژیم را هدف گرفته و احتمال تشدید فشارهای سیاسی و اقتصادی (شامل تحریم‌ها و محاصره اقتصادی) را افزایش می‌دهد؛ این امر منابع مالی، توان عملیاتی و مشروعیت حکمرانی را از منظر ساختاری تضعیف می‌کند.",
+            "پیامدهای داخلی و اقتصادی: اختلال گسترده در حمل‌ونقل، خسارت به زیرساخت‌ها و اختلال در زندگی روزمره شهروندان پیامدهای اقتصادی فوری دارد؛ این شوک‌ها ضعف مدیریت و اولویت‌های رژیم را برجسته کرده و ریسک افزایش نارضایتی عمومی و فشارهای داخلی را بالا می‌برند."
+        ],
+        "impact": "کشته شدن خامنه‌ای همراه با حملات گسترده، فشار عملیاتی و سیاسی بر ساختار حکومتی را به‌طور قابل‌توجهی افزایش داده و خطر از دست رفتن کنترل مرکزی یا تشدید درگیری منطقه‌ای را بالا برده است.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/01/us-iran-live-updates-khamenei-death-trump-gulf-strikes.html",
+        "clean_url": "https://www.cnbc.com/2026/03/01/us-iran-live-updates-khamenei-death-trump-gulf-strikes.html",
+        "image": null,
+        "timestamp": 1772312580.0
     },
     {
         "title_fa": "واکنش محتاطانه جهان به حملات آمریکا و اسرائیل به ایران؛ هراس از گسترش جنگ",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.moneycontrol.com/world/us-iran-war-news-live-updates-donald-trump-ali-khamenei-tehran-attack-us-iran-nuclear-talks-feb-25-liveblog-13841990.html",
         "image": null,
         "timestamp": 1771985040.0
-    },
-    {
-        "title_fa": "ترامپ: ایران بیش از آمریکا خواستار توافق است؛ نیروهای آمریکایی در منطقه نفتی مستقر می‌شوند",
-        "title_en": "Trump says Iran wants a deal more than the U.S. as American forces build up in oil-rich Middle East",
-        "summary": [
-            "ترامپ مدعی شده ایران بیش از ایالات متحده تمایل به توافق دارد و همزمان واشنگتن با ارسال نیرو به خاورمیانه نفت‌خیز، فشار نظامی را تشدید می‌کند.",
-            "ترکیب فشار نظامی و دیپلماتیک، ابزارهای اهرمی آمریکا را برای تقویت سیاست فشار حداکثری علیه تهران افزایش می‌دهد و ظرفیت‌های اقتصادی ـ سیاسی رژیم را در معرض تضعیف ساختاری قرار می‌دهد.",
-            "این وضعیت هم می‌تواند تهران را به پذیرش امتیازهای محدود سوق دهد و هم احتمال واکنش‌های تندتر از سوی عناصر سخت‌گیر را افزایش دهد؛ هر دو مسیر ریسک بی‌ثباتی و تشدید تنش منطقه‌ای را بالا می‌برند."
-        ],
-        "impact": "تقویت حضور نظامی آمریکا در منطقه همراه با پیام‌دهی درباره تمایل طرف مقابل، توازن فشار را علیه حکومت ایران افزایش می‌دهد و اختیار عمل حکومتی را در مذاکرات و مدیریت داخلی محدود می‌سازد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkxSY09iTkJ0eEh1TmxTT0FvQ0g0Qmhad0ZVcC00SGNPSkk3S25hZGpTczJwWGRXNjh4VV9BSTNLM3VhV0hNWmN3N3JLMkJuU1plb1RKXzJBc1M4YnhhM1RtSW1aRmJJQ1NvQWxPcWZFcUtfamNUREpIN1VRUXZ4SDlSN0xwYndQSUFtS1EwdlJHTlhJM1RjWXg2d25YclRTRVh1SXhPNk1KekF6UmZOZFFydFh6LWo1ejZxelRvcXBsdi0tLVdR0gHMAUFVX3lxTFBwNnpwSG1kZ2RSUXVpUHE0M0dzLXNRUVRSUDJwNlRXY0NvYzJWbUtlUEtKNHN6c0dZZUZWWENfQU1maEkxd3ZCNDlqZXRXR0I2Q3FwWFlCdmZEWnFIbjBUNVNab0RKWmt5YWEtXzJxZDVXRkFpMkFVdFItUExSSHFFQ0ltenpNbWFuR0owMjdWQW1KdGtnLWd5ZVAwckF6SEJIU0EyYU1lTUozZ3QycGZOanNyVklyVmNPR0cyWklUdFBETUY4Z1BnY3JraA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkxSY09iTkJ0eEh1TmxTT0FvQ0g0Qmhad0ZVcC00SGNPSkk3S25hZGpTczJwWGRXNjh4VV9BSTNLM3VhV0hNWmN3N3JLMkJuU1plb1RKXzJBc1M4YnhhM1RtSW1aRmJJQ1NvQWxPcWZFcUtfamNUREpIN1VRUXZ4SDlSN0xwYndQSUFtS1EwdlJHTlhJM1RjWXg2d25YclRTRVh1SXhPNk1KekF6UmZOZFFydFh6LWo1ejZxelRvcXBsdi0tLVdR0gHMAUFVX3lxTFBwNnpwSG1kZ2RSUXVpUHE0M0dzLXNRUVRSUDJwNlRXY0NvYzJWbUtlUEtKNHN6c0dZZUZWWENfQU1maEkxd3ZCNDlqZXRXR0I2Q3FwWFlCdmZEWnFIbjBUNVNab0RKWmt5YWEtXzJxZDVXRkFpMkFVdFItUExSSHFFQ0ltenpNbWFuR0owMjdWQW1KdGtnLWd5ZVAwckF6SEJIU0EyYU1lTUozZ3QycGZOanNyVklyVmNPR0cyWklUdFBETUY4Z1BnY3JraA",
-        "image": null,
-        "timestamp": 1771983240.0
-    },
-    {
-        "title_fa": "ایران ادعاهای موشکی و هسته‌ای را پس از اتهام «نیات شوم» ترامپ رد کرد",
-        "title_en": "Iran dismisses missile, nuclear claims after Trump alleges 'sinister ambitions'",
-        "summary": [
-            "واکنش رسمی تهران: نهادهای دولتی ایران اتهامات دونالد ترامپ درباره «نیات شوم» در برنامه موشکی و هسته‌ای را صریحاً رد کردند.",
-            "پیامدهای خارجی: اتهامات علنی رئیس‌جمهور سابق آمریکا می‌تواند به عنوان توجیهی برای فشار دیپلماتیک یا تشدید تحریم‌ها از سوی واشنگتن و متحدانش به‌کار رود، هرچند گزارش اشاره‌ای به تصمیمات مشخص تحریمی نکرده است.",
-            "پیام داخلی و واقعیت‌سنجی: رد رسمی ممکن است برای مصرف داخلی به‌عنوان حفظ وجهه امنیتی به‌کار رود؛ گزارش هیچ ادعای مستقیمی درباره تأثیر فوری بر اعتراضات یا وضعیت اقتصادی ارائه نمی‌دهد."
-        ],
-        "impact": "پیش‌داوری‌های عمومی و دیپلماتیک علیه ایران که توسط اظهارنظرهای سیاسی تقویت شوند، می‌توانند در کوتاه‌مدت به تشدید تحریم‌ها و انزوای دیپلماتیک منتهی شوند.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/world/iran-missile-nuclear-dismiss-trump-claims-sinister-ambitions-5952041",
-        "clean_url": "https://www.channelnewsasia.com/world/iran-missile-nuclear-dismiss-trump-claims-sinister-ambitions-5952041",
-        "image": null,
-        "timestamp": 1771981800.0
-    },
-    {
-        "title_fa": "اتهام ریاکاری نخبگان به خرج‌کردن ثروت دولت برای فرزندان در غرب",
-        "title_en": "Members of Iran’s elite accused of hypocrisy over children’s lives in west",
-        "summary": [
-            "معترضان و فعالان مدنی مدعی‌اند که اعضای بلندپایه نظام از ثروت و امکانات دولتی برای تامین زندگی فرزندان بالغ خود در غرب استفاده می‌کنند؛ نام‌هایی مانند علی لاریجانی (مشاور ارشد امنیت ملی) به‌ویژه مورد انتقاد قرار گرفته‌اند و گزارش شده دختر و خویشاوندان وی در آمریکا و اروپا زندگی می‌کنند.",
-            "این افشاگری‌ها هم‌زمان با تشدید تنش‌های بین تهران و واشنگتن مطرح شده است: دونالد ترامپ ناوگروهی عظیم به منطقه اعزام کرده و درباره حمله احتمالی اظهار نظر کرده، و واشنگتن وعده کرده امتیازات حضور مقام‌های ارشد ایران و خانواده‌هایشان در آمریکا را لغو خواهد کرد هرچند نحوه اجرا نامشخص است.",
-            "خسارت داخلی قابل توجه است: سرکوب اعتراضات اخیر که برخی منابع آمار کشته‌شدگان را در ده‌ها هزار می‌دانند، خشم عمومی نسبت به آقازاده‌ها را تشدید کرده و این روایت فساد و مدیریت ناکارآمد اقتصادی را تقویت می‌کند؛ فعالان حقوقی و حتی بعضی فرماندهان سپاه به وجود هزاران عضو خانواده مقامات در غرب اشاره کرده‌اند."
-        ],
-        "impact": "این پرونده افشاگری و هم‌زمانی آن با تهدید عملیاتی آمریکا فشارهای بین‌المللی را افزایش می‌دهد و در کنار انفجار نارضایتی داخلی، ثبات سیاسی و اقتصادی رژیم را به طور ملموسی تضعیف می‌کند.",
-        "tag": "آقازاده‌ها",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/feb/25/members-of-irans-elite-accused-of-hypocrisy-over-childrens-lives-in-west",
-        "clean_url": "https://www.theguardian.com/world/2026/feb/25/members-of-irans-elite-accused-of-hypocrisy-over-childrens-lives-in-west",
-        "image": null,
-        "timestamp": 1771981200.0
     }
 ]
