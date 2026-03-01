@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آمریکا به ایران حمله کرد. این برای شما در پمپ بنزین چه معنایی دارد",
+        "title_en": "The US attacked Iran. Here's what that means for you at the gas pump.",
+        "summary": [
+            "منبع ارائه‌شده تنها تیتر را نشان می‌دهد و متن خبری در دسترس نیست؛ بنابراین هیچ جزئیات تأییدشده‌ای درباره گستره یا هدف حمله از این مقاله استخراج نمی‌شود.",
+            "اگر ادعای حمله آمریکا صحت داشته باشد، پیامد مستقیم و قابل‌انتظار اختلال در تولید و توزیع سوخت و افزایش سریع قیمت بنزین داخلی و بین‌المللی است؛ بازارها و زنجیره تأمین انرژی حساس واکنش نشان می‌دهند.",
+            "هرگونه اقدام نظامی خارجی به‌عنوان فشار خارجی ساختار رژیم را بیشتر تضعیف می‌کند و می‌تواند فشار اقتصادی و سیاسی داخلی را تشدید کند؛ اما فقدان اطلاعات موثق مانع از ارزیابی دقیق دامنه نارضایتی و احتمال موج‌های اعتراضی می‌شود."
+        ],
+        "impact": "در صورت تأیید حمله، مصرف‌کنندگان باید منتظر افزایش سریع قیمت بنزین و تشدید ناپایداری اقتصادی-سیاسی در ایران باشند.",
+        "tag": "انرژی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/money/2026/02/28/will-us-attacks-on-iran-drive-up-gas-prices/88922177007/",
+        "clean_url": "https://www.usatoday.com/story/money/2026/02/28/will-us-attacks-on-iran-drive-up-gas-prices/88922177007",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/02/28/USAT/88922196007-usatsi-28142866.jpg?crop=989,557,x0,y241&width=989&height=557&format=pjpg&auto=webp",
+        "timestamp": 1772326140.0
+    },
+    {
         "title_fa": "واکنش کارشناسان: حملات «خشم حماسی» ایران چه پیامی به جهان می‌دهد",
         "title_en": "Experts React: What the Epic Fury Iran Strikes Signal to the World",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://www.msn.com/en-in/news/world/from-trumps-bad-things-warning-to-iran-to-full-blown-strikes-extending-over-middle-east-how-it-happened/ar-AA1XgxtD",
         "image": "https://www.livemint.com/lm-img/img/2024/12/06/600x338/news2_1733464197434_1733464227231.jpg",
         "timestamp": 1772293500.0
+    },
+    {
+        "title_fa": "چرا حالا به ایران حمله؟ مشاوران ارشد ترامپ «بازی‌ها، حقه‌ها و تعلل» ایران را مقصر می‌دانند",
+        "title_en": "Why Attack Iran Now? Key Trump Aides Blame Iran’s ‘Games, Tricks and Stall Tactics’",
+        "summary": [
+            "سه مقام ارشد ترامپ می‌گویند او نگران حمله احتمالی اول ایران بود و مذاکرات هسته‌ای را بی‌ثمر ارزیابی می‌کرد — این روایت دلالت بر توجیه گزینه‌های نظامی دارد.",
+            "چنین ادراکاتی از سوی واشنگتن معمولاً به تشدید فشارهای خارجی (تحریم‌ها و تهدید نظامی) می‌انجامد؛ فشار بلندمدت ساختارهای سیاسی و اقتصادی رژیم را تضعیف می‌کند و فضای تصمیم‌گیری داخلی را محدودتر می‌سازد.",
+            "گزارش اشاره‌ای به واکنش‌های داخلی، اعتراضات یا وضعیت اقتصادی ایران نکرده؛ بنابراین هر گونه پیوند مستقیم میان این ادعاها و افزایش نارضایتی داخلی نیازمند شواهد مستقل است."
+        ],
+        "impact": "پیام کلیدی: ترس از واکنش نظامی ایران و ارزیابی بی‌ثمری مذاکرات می‌تواند کاخ سفید را به گزینه‌های تهاجمی سوق دهد و احتمال تشدید درگیری منطقه‌ای و فشار بر ثبات داخلی ایران را افزایش دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "TIME",
+        "url": "https://time.com/7381896/trump-attack-iran-why-now-factors/",
+        "clean_url": "https://time.com/7381896/trump-attack-iran-why-now-factors",
+        "image": "http://www.bing.com/th?id=OVFT.IqDBvHT49UBLmJZWX9DQQi&pid=News",
+        "timestamp": 1772292840.0
     },
     {
         "title_fa": "ایران در برابر اسرائیل | سرگذشت جنگی پیش‌بینی‌شده",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZFX1QwLTd6VUxLc1ViVzExb0h3SENpWGVCcUpPMFV6QmJvbEc4bmk3QzBJMEpZU3F3bzVBRzg5TFZXNFR1Mm5Pek1qenRIMldjNTB4ZndObmNJNjV3QzFNZ2NwNmdiVGVQYnYzWVpXTVRGeThMclJJTFlqeEx3Zm9sWGh1aWZVZGROYXZoX0RGUmdrT2Q3RzNyYXVNVjYySDljT2dB0gGrAUFVX3lxTE1VU3VTQTNuX1VmMEU5T0YxN1pzeEZmU21KWWtKRVpZeFR3YS1iSXNzSXg1OXlUNFRrdHBhSU9qdHBJM2lKX0g5cV9WVldvTnNhSW84YlIzbjh5OXZHcHN1ZGNkZThXQm9EV2k0T21Bck5fVFNsRVlkVlIyR3VjY2NTbEdwZ2g2M1JpZEFaNnlic0lUci1FZEtFTWNqaFkySVEtb2NRbUFjOEZJaw",
         "image": null,
         "timestamp": 1771951026.0
-    },
-    {
-        "title_fa": "طرح ترامپ برای حمله به ایران خطرات عمده‌ای دارد — و ارتش آمریکا از آن آگاه است",
-        "title_en": "Trump’s plan for strikes on Iran carries major risks – and the US military knows it",
-        "summary": [
-            "دستور کار حمله نظامی پیشنهادی ترامپ از نظر عملیاتی و استراتژیک دارای ریسک‌های عمده‌ای است و فرماندهی نظامی آمریکا این محدودیت‌ها و خطرها را به‌وضوح می‌بیند.",
-            "ریسک‌های کلیدی شامل تشدید فوری تنش منطقه‌ای، احتمال پاسخ متقابل ایران از مسیرهای مستقیم یا نیابتی، و پیامدهای غیرقابل‌پیش‌بینی برای نیروهای آمریکایی و متحدان است.",
-            "تحلیل نظامی بر هزینه‌های سیاسی و انسانی بالا، خطاها و کاستی‌های اطلاعاتی و پیچیدگی‌های هدف‌گیری تأکید دارد که هرگونه عملیات نظامی را پرهزینه و غیرقابل‌پیش‌بینی می‌کند."
-        ],
-        "impact": "حمله مستقیم ممکن است ساختارهای قدرت رژیم را از نظر سیاسی و اقتصادی ضعیف کند اما همزمان خطر شعله‌ور شدن جنگ منطقه‌ای، افزایش تلفات و بی‌ثباتی گسترده را به‌شدت بالا می‌برد.",
-        "tag": "تهاجم",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Conversation",
-        "url": "https://www.msn.com/en-gb/news/world/trump-s-plan-for-strikes-on-iran-carries-major-risks-and-the-us-military-knows-it/ar-AA1WZ717",
-        "clean_url": "https://www.msn.com/en-gb/news/world/trump-s-plan-for-strikes-on-iran-carries-major-risks-and-the-us-military-knows-it/ar-AA1WZ717",
-        "image": null,
-        "timestamp": 1771950010.0
-    },
-    {
-        "title_fa": "ایران قادر به شکست توان نظامی آمریکا نیست، اما می‌تواند پیروز شود",
-        "title_en": "Iran cannot defeat US military might, but it can still win",
-        "summary": [
-            "الجزیره می‌نویسد ایران در درگیری نظامی متقارن توان شکست ارتش ایالات متحده را ندارد؛ رقابت مستقیم نظامی برای تهران قابل برد نیست.",
-            "مقاله می‌گوید «پیروزی» می‌تواند به شکل تحمیل هزینه، حفظ ظرفیت‌های بازدارنده و استفاده از ابزارها و تاکتیک‌های نامتقارن تفسیر شود، نه لزوماً تسلط نظامی جامع.",
-            "این راهبرد جایگاه تهران را در معرض تشدید منطقه‌ای قرار می‌دهد و هم‌زمان فشارهای خارجی و محدودیت‌های داخلی را برجسته می‌سازد."
-        ],
-        "impact": "فشارهای خارجی و تحریم‌ها ساختار توانایی‌های اقتصادی و دسترسی به فناوری را تضعیف می‌کنند و این ضعف، هم مانع ظرفیت‌های متعارف می‌شود و هم استراتژی‌های نامتقارن را به ابزاری پرریسک و سیاسی تبدیل می‌کند.",
-        "tag": "نامتقارن",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOE9PZ3dKcGlxdXRyZ1dHbE9ZSG80RXhkVDdiSENmenF4ZE5UeDh3Sm95bGhRRHROQWFNYjZ5NmVvT1VYRngtbzRXNExuS3RqSlpaNnIxNzYzTlpkSklvR0w1Znl0RHdMLWZlY1g4NVlkRHZuSVU2S1RVT0t6X3VSc3RIdlVabFhiWUY1NXRldlVPbmY1M0EzaUplUEN3cEpob3d6V9IBqgFBVV95cUxNbjA4RklhOFlkWXFkdi05cE82bWFUU2dTY2ozbWVkX05iOGdjYkhFLVhGX0N3T3ZiekdRUGN4RDRIcGJSMTQ5RVNVUUlzY0ZDNXgwVVVhNTZqOGxwMS1nU0hrNHA1am5PLTFwS2w1cnZsQVhkdVc3UEY3d0dCRWdhMW5vdS1tRTRIU055TTlabjM4ZXhKNXo5QVVSWkRIU283RENKSEN1ZUZWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOE9PZ3dKcGlxdXRyZ1dHbE9ZSG80RXhkVDdiSENmenF4ZE5UeDh3Sm95bGhRRHROQWFNYjZ5NmVvT1VYRngtbzRXNExuS3RqSlpaNnIxNzYzTlpkSklvR0w1Znl0RHdMLWZlY1g4NVlkRHZuSVU2S1RVT0t6X3VSc3RIdlVabFhiWUY1NXRldlVPbmY1M0EzaUplUEN3cEpob3d6V9IBqgFBVV95cUxNbjA4RklhOFlkWXFkdi05cE82bWFUU2dTY2ozbWVkX05iOGdjYkhFLVhGX0N3T3ZiekdRUGN4RDRIcGJSMTQ5RVNVUUlzY0ZDNXgwVVVhNTZqOGxwMS1nU0hrNHA1am5PLTFwS2w1cnZsQVhkdVc3UEY3d0dCRWdhMW5vdS1tRTRIU055TTlabjM4ZXhKNXo5QVVSWkRIU283RENKSEN1ZUZWQQ",
-        "image": null,
-        "timestamp": 1771942717.0
     }
 ]
