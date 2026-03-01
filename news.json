@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "سقوط علی خامنه‌ای؛ گزارش از پایان رهبر جمهوری اسلامی",
+        "title_en": "The fall of Ayatollah Khamenei: How Iran's Supreme Leader met his end",
+        "summary": [
+            "سرخط: The Times of India تیتر زده که علی خامنه‌ای، رهبر جمهوری اسلامی، جان باخته است؛ متن منبع ارائه شده در ورودی ناقص است و تأیید مستقل لازم است.",
+            "فشار خارجی و تحریم‌ها: اگر این خبر تأیید شود، خلأ رهبری ساختار سیاسی را ضعیف‌تر خواهد کرد و به بازیگران خارجی بهانه و فرصت بیشتری برای افزایش فشار سیاسی و اقتصادی بر رژیم می‌دهد؛ توان پاسخ‌دهی حکومت به بحران کاهش می‌یابد.",
+            "نارضایتی داخلی و اقتصاد: با احتیاط و بدون اغراق—با توجه به سابقه مدیریت ضعیف و نارضایتی عمومی—پایان رهبری می‌تواند فوراً محرک موج جدیدی از اعتراضات، بی‌ثباتی بازار ارز و فرار سرمایه باشد، البته مشروط بر تأیید رسمی خبر."
+        ],
+        "impact": "در صورت تأیید، این خبر به‌سرعت خلأ رهبری و موجی از بی‌ثباتی سیاسی و اقتصادی را ایجاد خواهد کرد که رژیم فعلی را در وضعیت شکننده‌تری قرار می‌دهد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/the-fall-of-irans-supreme-leader-ayatollah-ali-khamenei-and-what-comes-after/articleshow/128904511.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/the-fall-of-irans-supreme-leader-ayatollah-ali-khamenei-and-what-comes-after/articleshow/128904511.cms",
+        "image": "https://static.toiimg.com/thumb/msid-128904552,width-1280,height-720,imgsize-812508,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1772337060.0
+    },
+    {
+        "title_fa": "علی خامنه‌ای، رهبر، در حملات هوایی تهران کشته شد",
+        "title_en": "Iran's Supreme Leader Ali Khamenei killed in Tehran airstrikes",
+        "summary": [
+            "مرگ علی خامنه‌ای یک فصل سرنوشت‌ساز در تاریخ معاصر ایران را بست و خلأ رهبری فوری و عدم‌قطعیت درباره جانشینی ایجاد کرد.",
+            "تحریم‌ها و فشارهای خارجی پیشین ساختار اقتصادی و سیاسی رژیم را تضعیف کرده‌اند؛ در غیاب خامنه‌ای این آسیب‌پذیری می‌تواند فرایند جانشینی را بی‌ثبات‌تر کند و پیامدهای اقتصادی و سیاسی را تشدید نماید.",
+            "سابقه سوءمدیریت و نارضایتی عمومی موجود، همراه با این شوک رهری، خطر رقابت‌های درونی نخبگان، افزایش اعتراضات و فرسایش سریع مشروعیت را بالا می‌برد."
+        ],
+        "impact": "مرگ خامنه‌ای به‌احتمال زیاد دوره‌ای از بی‌ثباتی سیاسی و رقابت شدید برای جانشینی آغاز می‌کند که می‌تواند بحران‌های اقتصادی و اجتماعی را تشدید و ارکان امنیتی-سیاسی رژیم را زیر فشار قرار دهد.",
+        "tag": "جانشینی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Edge Singapore",
+        "url": "https://www.theedgesingapore.com/news/news/irans-supreme-leader-ali-khamenei-killed-tehran-airstrikes",
+        "clean_url": "https://www.theedgesingapore.com/news/news/irans-supreme-leader-ali-khamenei-killed-tehran-airstrikes",
+        "image": null,
+        "timestamp": 1772335500.0
+    },
+    {
+        "title_fa": "در حمله‌ای غافلگیرکننده در روز، آمریکا و اسرائیل رهبری ایران را از بین بردند",
+        "title_en": "In surprise daytime attack, U.S., Israel take out Iranian leadership",
+        "summary": [
+            "واشنگتن‌پست گزارش می‌دهد که یک حمله غافلگیرکننده در روز توسط آمریکا و اسرائیل انجام شده و به از بین رفتن بخش‌هایی از رهبری جمهوری اسلامی منجر شده—نشانه‌ای از تشدید مستقیم فشار نظامی خارجی علیه رژیم.",
+            "این ضربه ساختار بقا و قابلیت‌های بین‌المللی رژیم را تضعیف می‌کند؛ ترکیب فشارهای نظامی و تحریم‌ها دسترسی به شبکه‌های مالی و توانمندی‌های بازدارنده را محدودتر کرده و چشم‌انداز سیاسی رژیم را شکننده‌تر می‌سازد.",
+            "در عرصه داخلی، ناکارآمدی مدیریتی و نارضایتی‌های اقتصادی موجود می‌توانند با این شوک تشدید شوند؛ احتمال افزایش اعتراضات، فروپاشی انسجام نخبگان و واکنش‌های سرکوبگرانه رژیم وجود دارد و هم‌زمان ریسک تشدید درگیری‌های منطقه‌ای بالاست."
+        ],
+        "impact": "این حمله به‌طور ساختاری مشروعیت و کارایی فرماندهی رژیم را کاهش می‌دهد و احتمال واکنش نظامی و موج جدیدی از ناآرامی‌های داخلی را به‌طور چشمگیر افزایش می‌دهد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": 0.5,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/in-surprise-daytime-attack-us-israel-take-out-iranian-leadership/ar-AA1XhEK1",
+        "clean_url": "https://www.msn.com/en-us/news/world/in-surprise-daytime-attack-us-israel-take-out-iranian-leadership/ar-AA1XhEK1",
+        "image": null,
+        "timestamp": 1772333822.0
+    },
+    {
+        "title_fa": "جنگ نتانیاهو؟ تحلیلگران می‌گویند حملات ترامپ علیه ایران به نفع اسرائیل است، نه آمریکا",
+        "title_en": "Netanyahu’s war? Analysts say Trump’s Iran strikes benefit Israel, not US",
+        "summary": [
+            "تحلیلگران مورد اشاره در تیتر می‌گویند حملات نظامی ایالات متحده علیه اهداف ایرانی عمدتاً منافع استراتژیک اسرائیل را تقویت می‌کند و نه منافع بلندمدت آمریکا؛ این ادعا نشان‌دهنده استفاده از نیروی آمریکایی برای تحقق اهداف منطقه‌ای بازیگر ثالث است.",
+            "از منظر فشار خارجی، مداخله نظامی مستقیم نوعی تحمیل ساختاری است که اگر ادامه یابد می‌تواند تثبیت‌کننده موقعیت جناح‌های امنیتی در داخل ایران شود، به توجیه سرکوب داخلی کمک کند و بار مدیریتی اقتصادی و سیاسی رژیم را افزایش دهد — اقداماتی که به تضعیف مشروعیت حکومتی دامن می‌زنند.",
+            "پیامدهای منطقه‌ای شامل افزایش خطر تشدید و درگیری فرسایشی، قرار گرفتن آمریکا در معرض گیر افتادن در منافع متحدانش و تقویت گفتمان مقتدرانه در اسرائیل و ایران است؛ تحلیلگران هشدار می‌دهند که این وضعیت بیش از همه به نفع اسرائیل تمام می‌شود."
+        ],
+        "impact": "اگر ادعاهای تحلیلگران صحت داشته باشد، ضربات آمریکا می‌توانند موجب تشدید تنش، تقویت جناح‌های تندرو داخلی در ایران و کاهش اعتبار و نفوذ آمریکا در منطقه شوند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd05XdkpJRU95T2FLOUVVT0JLZ2dxZ3JHY3Q5X3I0U1ZuNU1LUFczUTQ4WVZQRF9wNWh4VjRObDR6d0E3OWhJQ2c5SWplMnlTYzh6d0ZzTDlFZFNhN3FmSDNsY2Z4LTFuUEVlNy1tUHc1MXFxenZPODhfSVhJdmc4VEdEYXRISHdtaWw1R3lwWm51Sm5vMXMtS1hOZW5MOUNMTE5PUFUyVHp2RUR3TkHSAbMBQVVfeXFMTTBZZ3laakplVDVMY0R1ZmNlaWxEeElvOHFjNlN1a0h4a0hEWUtreWppdzluY2g3d3FLanBiLTFwaUR3SjhyVVVwOUVfR05rbEJrTkliVWhjMVgyOG1XUTNXZ2J0S29PV3JiSV9wNEd4VC1NVFRFd3RQYy1IVkxteU54QmJuVWZKY19McGp0SUVEM3ZEaHJHUUluWkxkRzZtZTg4RmtsNFNldjZJTlE1WXctNkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd05XdkpJRU95T2FLOUVVT0JLZ2dxZ3JHY3Q5X3I0U1ZuNU1LUFczUTQ4WVZQRF9wNWh4VjRObDR6d0E3OWhJQ2c5SWplMnlTYzh6d0ZzTDlFZFNhN3FmSDNsY2Z4LTFuUEVlNy1tUHc1MXFxenZPODhfSVhJdmc4VEdEYXRISHdtaWw1R3lwWm51Sm5vMXMtS1hOZW5MOUNMTE5PUFUyVHp2RUR3TkHSAbMBQVVfeXFMTTBZZ3laakplVDVMY0R1ZmNlaWxEeElvOHFjNlN1a0h4a0hEWUtreWppdzluY2g3d3FLanBiLTFwaUR3SjhyVVVwOUVfR05rbEJrTkliVWhjMVgyOG1XUTNXZ2J0S29PV3JiSV9wNEd4VC1NVFRFd3RQYy1IVkxteU54QmJuVWZKY19McGp0SUVEM3ZEaHJHUUluWkxkRzZtZTg4RmtsNFNldjZJTlE1WXctNkk",
+        "image": null,
+        "timestamp": 1772331790.0
+    },
+    {
         "title_fa": "آمریکا به ایران حمله کرد. این برای شما در پمپ بنزین چه معنایی دارد",
         "title_en": "The US attacked Iran. Here's what that means for you at the gas pump.",
         "summary": [
@@ -108,6 +180,24 @@
         "timestamp": 1772310960.0
     },
     {
+        "title_fa": "مرگ رهبر ایران در حمله هوایی مشترک آمریکا و اسرائیل",
+        "title_en": "Iran’s supreme leader killed in major attack by US and Israel",
+        "summary": [
+            "گزارش می‌گوید رهبر ایران در پی بمباران هوایی مشترک نیروهای آمریکا و اسرائیل که اهداف نظامی و دولتی را نشانه گرفت، کشته شده است.",
+            "عملیات دقیق روی تاسیسات نظامی و دولتی نشان‌دهنده حمله هدفمند به مراکز اقتدار سیاسی و امنیتی کشور است.",
+            "مرگ یک مقام ارشد به‌طور فوری خطر خلا قدرت، تشدید تنش‌های منطقه‌ای و افزایش اقدامات امنیتی داخلی را بالا می‌برد."
+        ],
+        "impact": "این ضربه ساختار اقتدار سیاسی را به‌طور جدی تضعیف می‌کند و احتمالاً موجی از بی‌ثباتی و پاسخ‌های امنیتی شدید در داخل کشور را به دنبال خواهد داشت.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "mlive",
+        "url": "https://www.mlive.com/news/2026/02/iraq-closes-its-airspace-as-israel-attacks-iran.html",
+        "clean_url": "https://www.mlive.com/news/2026/02/iraq-closes-its-airspace-as-israel-attacks-iran.html",
+        "image": "http://www.bing.com/th?id=OVFT.Pd6PMOqSTkaWJTn7Nf7wdy&pid=News",
+        "timestamp": 1772307180.0
+    },
+    {
         "title_fa": "اختصاصی: ترامپ پس از حمله به ایران گزینه‌های «خروج» را مطرح کرد",
         "title_en": "Exclusive: Trump floats \"off ramps\" after attacking Iran",
         "summary": [
@@ -142,6 +232,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/congress-iran-notification",
         "image": null,
         "timestamp": 1772305680.0
+    },
+    {
+        "title_fa": "علی خامنه‌ای، رهبر جمهوری اسلامی، در ۸۶ سالگی درگذشت",
+        "title_en": "Supreme Leader Ali Khamenei, who ruled Iran with iron fist, dies at 86",
+        "summary": [
+            "گزارش اولیه حاکی از مرگ علی خامنه‌ای با سن ۸۶ سال است؛ این خبر بلافاصله خلا رهبری و تشویش سیاسی در رأس نظام را فعال می‌کند.",
+            "از منظر فشارهای خارجی و تحریم‌ها، فقدان یک مرکز تثبیت‌کننده می‌تواند ساختار بقای رژیم را تضعیف کند و امکان افزایش هزینه‌های اقتصادی و سیاسی برای حکومت را فراهم سازد.",
+            "در سطح داخلی، مدیریت ناکارآمد اقتصادی و نارضایتی عمومی که پیش از این وجود داشت احتمالاً با افزایش رقابت برای جانشینی و ظهور اعتراضات جدید شدت می‌یابد؛ چشم‌انداز سیاست داخلی به‌سرعت متحول خواهد شد."
+        ],
+        "impact": "این رخداد خلا قدرتی ایجاد می‌کند که هم‌زمان خطر بی‌ثباتی سیاسی، تشدید رقابت برای جانشینی و افزایش فشارهای اقتصادی و بین‌المللی را بالا می‌برد.",
+        "tag": "خلاقدرت",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2026/02/28/iran-supreme-leader-ali-khamenei-obituary/88927375007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/02/28/iran-supreme-leader-ali-khamenei-obituary/88927375007",
+        "image": "http://www.bing.com/th?id=OVFT.fD5m7kxcH0HhugfUKgWhVy&pid=News",
+        "timestamp": 1772304840.0
     },
     {
         "title_fa": "تفکراتی درباره جنگ آمریکا-اسرائیل علیه ملاهای ایران",
@@ -988,6 +1096,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/know-joint-us-israel-attack-090337775.html",
         "image": null,
         "timestamp": 1772269412.0
+    },
+    {
+        "title_fa": "درگیری اسرائیل و ایران",
+        "title_en": "Israel Iran Conflict",
+        "summary": [
+            "پوشش خبری از «درگیری اسرائیل و ایران» در سایت moneycontrol صرفاً صفحه‌ای برای جمع‌آوری اخبار، ویدئوها و مقالات مرتبط است و متن منبع جزئیات رویداد مشخصی ارائه نمی‌دهد.",
+            "نبود اطلاعات دقیق در منبع مانع از ارزیابی مستقیم پیامدهای نظامی، دیپلماتیک یا اقتصادی می‌شود؛ هر تحلیل راهبردی مستلزم استناد به گزارش‌های تکمیلی و منابع میدانی است.",
+            "برای بازیگران داخلی و خارجی ضروری است به‌روزرسانی‌های موثق را دنبال کنند و نسبت به انتشار اطلاعات ناقص یا گمراه‌کننده هوشیار بمانند."
+        ],
+        "impact": "به دلیل فقدان جزئیات در این گزارش، نمی‌توان تأثیر راهبردی قطعی اعلام کرد؛ اما انتشار چنین صفحات جمع‌آوری خبری می‌تواند به‌سرعت ابهام رسانه‌ای را افزایش داده و فضای اضطراب منطقه‌ای را تشدید کند.",
+        "tag": "خبر",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/tags/israel-iran-conflict.html",
+        "clean_url": "https://www.moneycontrol.com/news/tags/israel-iran-conflict.html",
+        "image": null,
+        "timestamp": 1772269260.0
     },
     {
         "title_fa": "حملات علیه ایران بدون مجوز کنگره اجرا شد؛ قانون‌گذاران به‌شدت دوقطبی شدند",
@@ -5272,131 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVRza0prd1lVQkkwR1NXcFE5bVY3YWE5U1hBazQ4Wm5nRnBIbHQtTGJocXJ5VmNCeG42aDhjV1cySE83cVZ1UUN3RGU0YkpReDYwRHUyMHdNZ292T19FWkt1djJIU21CSElGODdqLWd5U0tTT01lcTFRR3RMSUo4c0NTMmx4XzB0Tk1RWjZUYjhZMnV6TnJZRW9YZ9IBoAFBVV95cUxONWxDTlIwLWI3Z09UMzZTR3BMQWo1VEx0aDJ6cWdMQUFfYnJ6QXV4ZXZOMWlqZnJULVJqem1jMUx0OFhHc0l3aUZkeVlVaDR0eTZYb1VUaTdyMDFSTm5WSFNDTmgyUzJORWpnMjlmR2I4TVRhWTQtU1lHYjJ2eUZTUVp1V09mRG9RX1FLVW9xVzJMNDFRbFlwNko1T2Utdi1h",
         "image": null,
         "timestamp": 1771967100.0
-    },
-    {
-        "title_fa": "ترامپ باید هشدار ارتش آمریکا درباره ایران را جدی بگیرد",
-        "title_en": "Trump Should Take the U.S. Military’s Warning on Iran Seriously",
-        "summary": [
-            "مقاله از ترامپ می‌خواهد هشدارهای اطلاعاتی و نظامی درباره ایران را جدی بگیرد تا از محاسبه غلط و تشدید درگیری مستقیم جلوگیری شود.",
-            "هشدار نظامی نشان‌دهنده افزایش ریسک عملیاتی و پیچیدگی‌های منطقه‌ای است؛ نادیده‌گرفتن آن می‌تواند بازدارندگی ایالات‌متحده را تضعیف کند و احتمال رویارویی ناخواسته را بالا ببرد.",
-            "این توصیه همچنین تلویحاً به آسیب‌پذیری ساختاری رژیم ایران در برابر فشارهای خارجی و تاثیرات اقتصادی اشاره دارد؛ مدیریت نادرست تنش‌ها می‌تواند وضعیت داخلی را تشدید کند."
-        ],
-        "impact": "نادیده‌گرفتن هشدارها احتمال تشدید تنش و برخورد نظامی را افزایش می‌دهد و به تضعیف موضع دیپلماتیک واشینگتن در منطقه منجر می‌شود.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUl90MzhRZ0ZHOW1kWng1ZDVvd3QzTEJudkd3UXpNV25IUGF1S2szallHOElOcG80OG5tZ20wRGUzZF9hd0c0UHhPNUo5MmtyY3dlNUdfaDQydGZRRWY0NUt1Z0kwb21YRTVibHB6RVpSWmQ0V0ZVdjF2bFVJSDduVXZkRDZiVkppemxXM092Zmd6bFZM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUl90MzhRZ0ZHOW1kWng1ZDVvd3QzTEJudkd3UXpNV25IUGF1S2szallHOElOcG80OG5tZ20wRGUzZF9hd0c0UHhPNUo5MmtyY3dlNUdfaDQydGZRRWY0NUt1Z0kwb21YRTVibHB6RVpSWmQ0V0ZVdjF2bFVJSDduVXZkRDZiVkppemxXM092Zmd6bFZM",
-        "image": null,
-        "timestamp": 1771967084.0
-    },
-    {
-        "title_fa": "ورود بیش از ۱۵۰ فروند هواپیمای آمریکایی به اروپا و خاورمیانه در حالی که ترامپ بررسی حملات را مطرح می‌کند",
-        "title_en": "Over 150 U.S. aircraft sweep into Europe, Middle East as Trump mulls strikes",
-        "summary": [
-            "واشنگتن‌پست گزارش می‌دهد بیش از ۱۵۰ فروند هواپیمای نظامی آمریکا به‌طور هماهنگ به اروپا و منطقه خاورمیانه اعزام شده‌اند همزمان که دونالد ترامپ گزینه حملات نظامی را بررسی می‌کند.",
-            "این تحرک گسترده نشان‌دهنده افزایش فشار خارجی و آماده‌باش برای حمله احتمالی است؛ ظرفیت عملیاتی آمریکا برای هدف‌گذاری دارایی‌های نظامی و استراتژیک حکومت ایران و شبکه‌های همپیمانش تقویت شده ارزیابی می‌شود.",
-            "از منظر داخلی، چنین فشار خارجی‌ای می‌تواند ضعف مدیریت و انزوای بین‌المللی حکومت را برجسته کند و ریسک افزایش بی‌ثباتی سیاسی یا هزینه‌های امنیتی و اقتصادی برای جامعه را بالا ببرد."
-        ],
-        "impact": "استقرار گسترده هواپیماهای آمریکایی فشار خارجی مستقیم بر توان نظامی و سیاسی حکومت ایران وارد می‌آورد و فضای تصمیم‌گیری داخلی را به سمت افزایش سرکوب یا تشدید تنش سوق می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/other/over-150-us-aircraft-sweep-into-europe-middle-east-as-trump-mulls-strikes/ar-AA1WXmKY",
-        "clean_url": "https://www.msn.com/en-us/news/other/over-150-us-aircraft-sweep-into-europe-middle-east-as-trump-mulls-strikes/ar-AA1WXmKY",
-        "image": null,
-        "timestamp": 1771956027.0
-    },
-    {
-        "title_fa": "۷ کارشناس درباره خطر گسترش جنگ با ایران",
-        "title_en": "7 Experts on the Risk of a Wider War with Iran",
-        "summary": [
-            "پلیتیكو دیدگاه هفت کارشناس را درباره احتمال گسترش درگیری با ایران گردآوری کرده؛ تمرکز مقاله بر سناریوهای احتمالی و نقطه‌های خطر است.",
-            "مقاله به سناریوهایی اشاره می‌کند که می‌تواند منجر به تعمیم درگیری شود—از جمله اشتباه محاسباتی و تشدید عملیات نیابتی—که ریسک تبدیل یک درگیری محدود به منازعه‌ای regional را افزایش می‌دهد.",
-            "گسترش درگیری در کوتاه‌مدت فشارهای بین‌المللی و احتمال تحریم‌های بیشتر را به دنبال خواهد داشت و مخاطرات امنیتی و اقتصادی رژیم را افزایش می‌دهد."
-        ],
-        "impact": "اگر این ریسک‌ها محقق شوند، تشدید نظامی به‌طور مستقیم ثبات سیاسی و اقتصادی رژیم را تضعیف و فشارهای امنیتی و بین‌المللی بر تهران را شدت می‌بخشد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Politico",
-        "url": "https://www.msn.com/en-us/news/world/7-experts-on-the-risk-of-a-wider-war-with-iran/ar-AA1WZ7tI",
-        "clean_url": "https://www.msn.com/en-us/news/world/7-experts-on-the-risk-of-a-wider-war-with-iran/ar-AA1WZ7tI",
-        "image": null,
-        "timestamp": 1771952828.0
-    },
-    {
-        "title_fa": "نگرانی ایرانیان از تقویت حضور نظامی آمریکا هم‌زمان با نزدیک شدن دور آخر مذاکرات با ایالات متحده",
-        "title_en": "Iranians worry over American military buildup as next, last-chance round of talks with the US nears",
-        "summary": [
-            "تیتر خبر نشان می‌دهد که عمومی از تقویت نیروی نظامی آمریکا نگران است؛ این تحرک نظامی در آستانه «دور آخر» مذاکرات، ظرفیت‌های فشار واشنگتن را در میز مذاکره افزایش می‌دهد و فضای تصمیم‌گیری مقام‌های رژیم را تنگ‌تر می‌کند.",
-            "از منظر فشار خارجی و تحریم‌ها: تقویت نظامی-دیپلماتیک آمریکا می‌تواند اثر تضعیف ساختاری بر رژیم داشته باشد — فشارهای خارجی ترکیبی با محدودیت دسترسی به بازارها و سرمایه، هزینه بقا برای حاکمیت را بالا می‌برد و احتمال کندی یا توقف جریان‌های اقتصادی حیاتی را افزایش می‌دهد.",
-            "ابعاد داخلی: حتی بدون جزئیات خبری، بازتاب نگرانی عمومی نشان‌دهنده خشم و نارضایتی ناشی از سوءمدیریت اقتصادی و شکست سیاست‌گذاری است؛ این وضعیت احتمال تشدید اعتراضات محلی، فرار سرمایه و ضعف مشروعیت حکمرانان را بالا می‌برد."
-        ],
-        "impact": "نتیجهٔ محتمل این مجموعه فشارها افزایش ریسک بی‌ثباتی سیاسی و اقتصادی در کوتاه‌مدت است که توان نظام را برای اتکا به ابزارهای داخلی برای کنترل اوضاع تضعیف می‌کند.",
-        "tag": "فشار",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3",
-        "clean_url": "https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3",
-        "image": null,
-        "timestamp": 1771952520.0
-    },
-    {
-        "title_fa": "حملات نظامی آمریکا و خطر گرفتار شدن در باتلاق",
-        "title_en": "U.S. Military Strikes and the Risk of a Quagmire",
-        "summary": [
-            "نیت سوئنسان، پژوهشگر ارشد و مدیر پروژه ایران در آتلانتیک کونسیل، نویسنده است؛ او بین 2022 تا 2025 مدیر پرونده ایران در شورای امنیت ملی بوده و در بهار و تابستان 2025 در تیم مذاکره‌کننده دولت ترامپ حضور داشته است.",
-            "عنوان مقاله صریحاً به مخاطره گرفتار شدن در یک باتلاق نظامی به‌خاطر ضربات نظامی آمریکا می‌پردازد؛ متن مقاله احتمالاً پیامدهای درگیر شدن طولانی‌مدت و هزینه‌های استراتژیک چنین اقداماتی را تحلیل می‌کند.",
-            "با توجه به سوابق نویسنده، تحلیل مبتنی بر تجربه سیاست‌گذاری آمریکا خواهد بود و بر انتخاب‌های استراتژیک، ریسک‌های ملموس و هزینه‌های سیاسی-نظامی تأکید خواهد کرد."
-        ],
-        "impact": "این تحلیل هشدار می‌دهد که ضربات نظامی می‌توانند به تشدید تنش و درگیری‌های طولانی‌مدت منجر شوند و پیامدهای استراتژیک قابل‌توجهی برای بازیگران منطقه‌ای دارند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/middle-east/why-iran-will-escalate",
-        "clean_url": "https://www.foreignaffairs.com/middle-east/why-iran-will-escalate",
-        "image": null,
-        "timestamp": 1771952280.0
-    },
-    {
-        "title_fa": "مذاکرات هسته‌ای آمریکا و ایران: حمله نظامی همچنان گزینه است، یک کارشناس می‌گوید",
-        "title_en": "US-Iran nuclear talks: Strike remains option, expert says",
-        "summary": [
-            "یک کارشناس گزارش می‌دهد که در جریان مذاکرات هسته‌ای بین آمریکا و ایران، گزینه حمله نظامی همچنان به‌عنوان بخشی از اهرم فشار مطرح است.",
-            "از منظر فشار خارجی، بیان مجدد گزینه نظامی احتمال افزایش تحریم‌ها و فشار دیپلماتیک بر تهران را بالا می‌برد که به تضعیف ساختارهای مالی و سیاسی رژیم کمک می‌کند.",
-            "در سطح داخلی، حتی اگر گزارش مستقیمی از اعتراضات ذکر نشده باشد، مطرح شدن گزینه نظامی می‌تواند نااطمینانی اقتصادی و نارضایتی عمومی را تشدید کند و ناکارآمدی مدیریتی را برجسته سازد."
-        ],
-        "impact": "اظهارنظر درباره حفظ گزینه حمله، ریسک تشدید تنش تا مرز تقابل نظامی را افزایش می‌دهد و پتانسیل تضعیف بیشتر ثبات سیاسی-اقتصادی رژیم را دارد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mLTV1alBhLThLVlpETFhQLTRGSGZGaHMyYVo3OVZKMExSQk9tRWVNSFFKeWZ2ZUxTSm5adW9ONW9iREg0Zk03ZEJ2OTdMS1hrMy1uNUpuMUo0dnpqM00xMFhPZlYwLUpfOEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mLTV1alBhLThLVlpETFhQLTRGSGZGaHMyYVo3OVZKMExSQk9tRWVNSFFKeWZ2ZUxTSm5adW9ONW9iREg0Zk03ZEJ2OTdMS1hrMy1uNUpuMUo0dnpqM00xMFhPZlYwLUpfOEE",
-        "image": null,
-        "timestamp": 1771952015.0
-    },
-    {
-        "title_fa": "آمریکا بار دیگر اعلام کرد حملات ۲۰۲۵ «برنامه هسته‌ای ایران را نابود کرد»",
-        "title_en": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
-        "summary": [
-            "واشنگتن مجدداً ادعا کرده که حملات سال ۲۰۲۵ برنامه هسته‌ای ایران را «نابود» کرده؛ بازتأکیدی که ماهیت نظامی و قاطع عملیات را برجسته می‌کند.",
-            "این ادعا نشان می‌دهد آمریکا حاضر به به‌کارگیری زور مستقیم علیه تاسیسات حیاتی رژیم است؛ چنین ضربه‌هایی ساختار بازدارندگی و اهرم‌های دیپلماتیک حکومت را تضعیف می‌کند و فشار خارجی روی رژیم را تشدید می‌نماید.",
-            "در داخل، حتی اگر ادعا کاملاً اثبات‌پذیر نباشد، خودِ وقوع یا موفقیتِ چنین عملیات‌هایی سندی از ناتوانی حکومت در حفاظت از منافع حیاتی است که می‌تواند بی‌اعتمادی عمومی را تشدید و فرصت‌های سیاسی برای اپوزیسیون را افزایش دهد؛ هم‌زمان خطر تشدید عملیات نیابتی و پاسخ‌های منطقه‌ای را بالا می‌برد."
-        ],
-        "impact": "بازتأکید آمریکا ریسک تشدید نظامی منطقه‌ای و فرسایش بیشتر مشروعیت داخلی رژیم را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZFX1QwLTd6VUxLc1ViVzExb0h3SENpWGVCcUpPMFV6QmJvbEc4bmk3QzBJMEpZU3F3bzVBRzg5TFZXNFR1Mm5Pek1qenRIMldjNTB4ZndObmNJNjV3QzFNZ2NwNmdiVGVQYnYzWVpXTVRGeThMclJJTFlqeEx3Zm9sWGh1aWZVZGROYXZoX0RGUmdrT2Q3RzNyYXVNVjYySDljT2dB0gGrAUFVX3lxTE1VU3VTQTNuX1VmMEU5T0YxN1pzeEZmU21KWWtKRVpZeFR3YS1iSXNzSXg1OXlUNFRrdHBhSU9qdHBJM2lKX0g5cV9WVldvTnNhSW84YlIzbjh5OXZHcHN1ZGNkZThXQm9EV2k0T21Bck5fVFNsRVlkVlIyR3VjY2NTbEdwZ2g2M1JpZEFaNnlic0lUci1FZEtFTWNqaFkySVEtb2NRbUFjOEZJaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnZFX1QwLTd6VUxLc1ViVzExb0h3SENpWGVCcUpPMFV6QmJvbEc4bmk3QzBJMEpZU3F3bzVBRzg5TFZXNFR1Mm5Pek1qenRIMldjNTB4ZndObmNJNjV3QzFNZ2NwNmdiVGVQYnYzWVpXTVRGeThMclJJTFlqeEx3Zm9sWGh1aWZVZGROYXZoX0RGUmdrT2Q3RzNyYXVNVjYySDljT2dB0gGrAUFVX3lxTE1VU3VTQTNuX1VmMEU5T0YxN1pzeEZmU21KWWtKRVpZeFR3YS1iSXNzSXg1OXlUNFRrdHBhSU9qdHBJM2lKX0g5cV9WVldvTnNhSW84YlIzbjh5OXZHcHN1ZGNkZThXQm9EV2k0T21Bck5fVFNsRVlkVlIyR3VjY2NTbEdwZ2g2M1JpZEFaNnlic0lUci1FZEtFTWNqaFkySVEtb2NRbUFjOEZJaw",
-        "image": null,
-        "timestamp": 1771951026.0
     }
 ]
