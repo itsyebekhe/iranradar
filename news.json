@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "واکنش جهانی به کشتن علی خامنه‌ای به‌دست آمریکا و اسرائیل",
+        "title_en": "World reacts to killing of Iran’s Khamenei by US, Israel forces",
+        "summary": [
+            "کشتن علی خامنه‌ای توسط آمریکا و اسرائیل واکنش‌های تلافی‌جویانه تهران را فعال کرد؛ سپاه پاسداران اعلام کرده به ۲۷ پایگاه در منطقه که نیروهای آمریکایی مستقرند حمله کرده و ایران از حمله به دارایی‌ها و اهداف اسرائیل و آمریکا در چند کشور خلیج خبر داده است.",
+            "واکنش‌های بین‌المللی عمدتاً محکومیت قتل و فراخوان به خویشتن‌داری بوده است؛ روسیه و چین به‌طور رسمی این اقدام را محکوم کردند — نقش مسکو و پکن اکنون به‌عنوان حامیان دیپلماتیک و سیاسی تهران قابل تبیین است و می‌توانند ابزارهای کاهش فشار بین‌المللی علیه رژیم را فراهم کنند.",
+            "رئیس‌جمهور مسعود پزشکیان قتل را «اعلام جنگ علیه مسلمانان» خواند و عزاداری عمومی در تهران گزارش شده؛ هم‌زمان بسته شدن حریم هوایی در منطقه و جلسه اضطراری سران خلیج و اتحادیه اروپا نشان می‌دهد هزینه‌های سیاسی و اقتصادی ناشی از بحران در حال افزایش است و مدیریت ناشی از ناکارآمدی‌های ساختاری را به آزمون سخت‌تری می‌کشد."
+        ],
+        "impact": "مرگ خامنه‌ای و زنجیره حملات تلافی‌جویانه، دگرگونی سریع معادلات امنیتی منطقه را تسریع کرده و با تقویت اتکای رژیم به هم‌پیمانان خارجی، ثبات داخلی و توان مدیریت بحران حکومت را تضعیف می‌کند.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/world-reacts-killing-iran-khamenei-130113921.html",
+        "clean_url": "https://www.yahoo.com/news/articles/world-reacts-killing-iran-khamenei-130113921.html",
+        "image": null,
+        "timestamp": 1772370427.0
+    },
+    {
         "title_fa": "جنگ آمریکا و اسرائیل علیه ایران می‌تواند محاسبات امنیتی خلیج را بازنویسی کند",
         "title_en": "The US-Israeli war on Iran could rewrite Gulf security calculations",
         "summary": [
@@ -232,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBscjVUUDFhT1VkbHF6MlVjU2UtalZKNFJWWDhKTGZHZmlHa0x6UHVIaUtLcUpDT2NTa0VfQlY0WU1BZE95YWtTU0tsRjNJVXJFbm01NGxzMjJ1TjFIY3c",
         "image": null,
         "timestamp": 1772340561.0
+    },
+    {
+        "title_fa": "جان بولتون: حمله به ایران می‌تواند به «هرج‌ومرج» و «خون‌ریزی» منجر شود",
+        "title_en": "John Bolton: Iran Strike Could Mean ‘Turmoil’ and ‘Bloodshed’",
+        "summary": [
+            "جان بولتون، مشاور امنیت ملی سابق دونالد ترامپ، در مصاحبهٔ اختصاصی با Politico هشدار داد که حمله به ایران می‌تواند درگیری را عمیق‌تر کند.",
+            "او تأکید کرد که ضربهٔ نظامی ممکن است خلأ قدرت خطرناکی پدید آورد که وضعیت منطقه را به آشوب و خونریزی بکشاند.",
+            "بولتون نسبت به پیامدهای غیرقابل‌پیش‌بینی و تشدید تصاعدی تنش‌ها هشدار داده و این امکان را مطرح کرد که اقدام نظامی کنترل بحران را دشوارتر کند."
+        ],
+        "impact": "بنابر ارزیابی بولتون، حملهٔ مستقیم احتمالاً ثبات سیاسی و توان حکومت‌داری داخلی و منطقه‌ای را تضعیف می‌کند و یک خلأ قدرت ایجاد خواهد کرد که موجب تشدید بی‌ثباتی می‌شود.",
+        "tag": "تهاجم",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/magazine/2026/03/01/john-bolton-iran-strike-could-mean-turmoil-and-bloodshed-00806066",
+        "clean_url": "https://www.politico.com/news/magazine/2026/03/01/john-bolton-iran-strike-could-mean-turmoil-and-bloodshed-00806066",
+        "image": "http://www.bing.com/th?id=OVFT.O5jQOO26TYOAFMsfQNJuCy&pid=News",
+        "timestamp": 1772338320.0
     },
     {
         "title_fa": "واکنش‌های جهان به حملات آمریکا و اسرائیل علیه ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUVHbktuc1F1Q0tYTUNlMGpzb1U5U1FCZDlBZWpoVWlLemFBMXpHRWh5NkZuLUJLUDdQczk2em5BTHU4OFFqTG5lNTlFOTRldFVibTF1V0pWdXRybm8wYThYVXUweXlIN1c0T1FrX2NUUER0U1VHbXE1Tk1qbHRWZ3FnYUMteHV0R0Q5YjNYVzdQd9IBlwFBVV95cUxNWEZCUndfZHBYcWNITWw1NEstWTd1TmlPWFFDdFpQT2hGblZoZkx2QnpNZkFEbzF3clpzaW9OM0FWTXd3ZHJ2OThnMjR1V2VJejVQd19ibzBHc0doTkU1cHJtMGR5NTdnMlpycEJSVllyZ3pLcFVYU0MxdTNKVnF0QjFOUTZfckpyNFBNc0R4X2FaVi1Zd1U4",
         "image": null,
         "timestamp": 1772014987.0
-    },
-    {
-        "title_fa": "ترکیه در حال بررسی گزینه‌ها در صورت درگیری ایران و آمریکا",
-        "title_en": "Turkey evaluating potential measures in event of Iran-US conflict, source says",
-        "summary": [
-            "رویترز گزارش می‌دهد ترکیه در سناریوی وقوع درگیری میان ایران و آمریکا در حال ارزیابی اقدامات احتمالی است؛ منبع جزئیات مشخصی منتشر نکرده است.",
-            "این بررسی نشان‌دهنده تغییر محاسبات بازیگران منطقه‌ای و آمادگی برای واکنش به بحران‌های ناگهانی است و می‌تواند مانور دیپلماتیک و نظامی ترکیه را در منطقه بازتعریف کند.",
-            "برای ایران، بروز چنین سناریویی می‌تواند فشارهای خارجی و اقتصادی را تشدید کرده و فضای نارضایتی داخلی را گسترده‌تر کند؛ اما بدون شواهد بیشتر نمی‌توان پیامدهای مستقیم را قطعی دانست."
-        ],
-        "impact": "این خبر می‌تواند عدم‌قطعیت منطقه‌ای را افزایش داده و احتمال تضعیف بیشتر ثبات سیاسی-اقتصادی در ایران را بالا ببرد.",
-        "tag": "تنش",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/turkey-evaluating-potential-measures-in-event-of-iran-us-conflict-source-says/ar-AA1X2vaN",
-        "clean_url": "https://www.msn.com/en-us/news/world/turkey-evaluating-potential-measures-in-event-of-iran-us-conflict-source-says/ar-AA1X2vaN",
-        "image": null,
-        "timestamp": 1772013865.0
-    },
-    {
-        "title_fa": "گزارش: ایران برای مهار ترامپ به چین کمونیست متوسل می‌شود",
-        "title_en": "Iran reportedly turns to communist China to checkmate Trump",
-        "summary": [
-            "منابع گزارش می‌دهند ایران در حال آماده‌سازی قرارداد با چین برای خرید موشک‌های کروز ضدکشتی است، همزمان با تحرکات نیروی دریایی آمریکا در حوالی سواحل ایران.",
-            "حضور چین در این معامله نقش یک مولفه استراتژیک تأمین‌کننده را ایفا می‌کند که به تهران امکان می‌دهد توان دریایی خود را برای بازدارندگی در برابر تهدیدات آمریکایی تقویت کند.",
-            "ترجیح دادن خرید تسلیحات خارجی در شرایط فشار خارجی و دشواری‌های اقتصادی داخلی نشانه‌ای از مدیریت ناکارآمد است که منابع را از مسائل معیشتی عمومی به انباشت توان نظامی منتقل می‌کند و ریسک تشدید نارضایتی داخلی را بالا می‌برد."
-        ],
-        "impact": "معامله احتمالی با چین می‌تواند تنش‌ها را تشدید و احتمال برخورد مستقیم با آمریکا را افزایش دهد، در حالی که حکومت را از حل بحران اقتصادی داخلی منحرف می‌کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Daily Caller on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-reportedly-turns-to-communist-china-to-checkmate-trump/ar-AA1X4bUp",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-reportedly-turns-to-communist-china-to-checkmate-trump/ar-AA1X4bUp",
-        "image": "http://www.bing.com/th?id=OVFT.nxy2SpOkTb1sGs093Zt47i&pid=News",
-        "timestamp": 1772013640.0
     }
 ]
