@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چرا آمریکا ایران را هدف قرار داد؟ آنچه درباره حمله و واکنش تهران می‌دانیم",
+        "title_en": "Why has the US attacked Iran? What we know about the attack and Tehran response",
+        "summary": [
+            "بی‌بی‌سی گزارش می‌دهد که آمریکا حمله‌ای علیه اهداف مرتبط با ایران انجام داده و تهران به این اقدام واکنش نشان داده — گزارش تلاش می‌کند واقعیت‌های قابل راستی‌آزمایی را جمع‌بندی کند.",
+            "از منظر ساختاری، چنین حمله‌ای فشار خارجی را تشدید می‌کند و ریسک گسترش تحریم‌ها و انزوای دیپلماتیک را افزایش می‌دهد؛ این فشارها ساختار اقتصادی و ظرفیت انطباق رژیم را می‌سنجند و می‌توانند تضعیف بلندمدت ایجاد کنند.",
+            "در سطح داخلی، برخورد نظامی خارجی همزمان با سوء‌مدیریت اقتصادی موجود می‌تواند نارضایتی عمومی را تشدید و فضای سیاسی را متزلزل‌تر کند؛ احتمال تشدید اعتراضات یا تشدید سرکوب داخلی به موازات فشار خارجی افزایش می‌یابد."
+        ],
+        "impact": "این حمله شانس تضعیف بیشتر رژیم، افزایش هزینه‌های بین‌المللی و بالا رفتن ریسک گسترش درگیری منطقه‌ای را به صورت هم‌زمان افزایش می‌دهد.",
+        "tag": "حمله",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw",
+        "image": null,
+        "timestamp": 1772401533.0
+    },
+    {
         "title_fa": "عکس‌ها: حملات آمریکا و اسرائیل در ایران و واکنش‌های جهانی",
         "title_en": "Photos: U.S.-Israeli strikes in Iran and reactions from around the world",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-iran-nuclear-talks-to-resume-in-geneva-against-backdrop-of-military-threat/ar-AA1X5DW6",
         "image": null,
         "timestamp": 1772070240.0
-    },
-    {
-        "title_fa": "رئیس‌جمهور ایران تکذیب پیگیری سلاح هسته‌ای را با استناد به فتوای علی خامنه‌ای اعلام کرد؛ جت‌های آمریکایی راهی خلیج فارس شدند",
-        "title_en": "US Iran tensions live: Iran President denies nuclear weapons pursuit, cites Khamenei fatwa as US jets 'head to Gulf'",
-        "summary": [
-            "رئیس‌جمهور ایران اعلام کرد کشور به دنبال سلاح هسته‌ای نیست و به فتوای علی خامنه‌ای استناد کرد؛ همزمان ده‌ها جنگنده آمریکایی از جمله F-35، F-22، F-15 و F-16 از پایگاه‌های ایالات متحده به سوی خاورمیانه در حال اعزام گزارش شده و شناورهای نیروی دریایی آمریکا در خلیج فارس در حالت آماده‌باش قرار دارند.",
-            "تحلیل سازوکار فشار خارجی: تحرکات گسترده نظامی آمریکا بار سیاسی و ریسک تحریم‌ها یا اقدامات دیپلماتیک تهاجمی‌تر را افزایش می‌دهد؛ این فشارهای خارجی، اگر ادامه یابد، می‌تواند بنیان اقتصادی و ظرفیت سیاسی حکومت برای مدیریت بحران را تضعیف کند.",
-            "اثر داخلی و ضرورت واقع‌گرایی: این بحران امنیتی در غیاب اصلاحات ساختاری و مدیریت اقتصادی بهتر، فشار بر نظام تصمیم‌گیر را تشدید می‌کند و ریسک افزایش هزینه‌های سیاسی و اقتصادی برای شهروندان را بالا می‌برد؛ درحال‌حاضر هیچ دلیلی در گزارش برای تغییر فوری سیاست هسته‌ای وجود ندارد."
-        ],
-        "impact": "اعزام جنگنده‌ها و آماده‌باش نیروی دریایی آمریکا تنش خارجی را تشدید می‌کند و بدون اصلاحات ساختاری می‌تواند به انزوای بین‌المللی بیشتر و تضعیف ظرفیت حکومت برای مدیریت بحران منجر شود.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-iran-tensions-live-updates-geneva-talks-today-nuclear-tehran-ali-khamenei-donald-trump-news-latest-101772071729400.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-tensions-live-updates-geneva-talks-today-nuclear-tehran-ali-khamenei-donald-trump-news-latest-101772071729400.html",
-        "image": null,
-        "timestamp": 1772065380.0
     }
 ]
