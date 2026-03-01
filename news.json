@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "شلیک موشکی ایران به بیت‌شمش اسرائیل؛ ۹ کشته",
+        "title_en": "Iranian missile strike on Israel’s Beit Shemesh kills nine people",
+        "summary": [
+            "حمله موشکی منتسب به ایران به شهر بیت‌شمش در اسرائیل، منجر به کشته شدن ۹ نفر شد؛ برخورد به یک کشور همسایه نشان‌دهنده گسترش مستقیم عملیات نظامی فراتر از مرزهاست.",
+            "این اقدام بلافاصله خطر تشدید فشارهای بین‌المللی و امکان وضع و افزایش تحریم‌ها را بالا می‌برد که ساختار اقتصادی و توان بقای سیاسی رژیم را بیش از پیش تضعیف می‌کند.",
+            "هزینه‌های نظامی و تمرکز بر عملیات خارجی می‌تواند منابع اقتصادی داخل را تخلیه کند و نارضایتی‌های اجتماعی را تشدید کند؛ چنین رویه‌ای بر کارآمدی حکمرانی و مشروعیت داخلی رژیم تاثیر منفی می‌گذارد."
+        ],
+        "impact": "این حمله خطر گسترش مواجهه نظامی منطقه‌ای را افزایش می‌دهد و رژیم را هم‌زمان در معرض فشارهای بین‌المللی شدیدتر و نارضایتی داخلی فزاینده قرار می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Al Jazeera",
+        "url": "https://www.nytimes.com/2026/03/01/world/middleeast/9-killed-beit-shemesh-iranian-missiles.html",
+        "clean_url": "https://www.nytimes.com/2026/03/01/world/middleeast/9-killed-beit-shemesh-iranian-missiles.html",
+        "image": null,
+        "timestamp": 1772380175.0
+    },
+    {
         "title_fa": "کشته‌شدن دست‌کم ۱۰ نفر در پاکستان هنگام تلاش معترضان برای تصرف کنسولگری آمریکا بر سر خبر مرگ خامنه‌ای",
         "title_en": "At least 10 killed in Pakistan as protesters try to storm US Consulate over Khamenei’s death",
         "summary": [
@@ -340,6 +358,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/cia-closely-watched-khamenei-months-160953918.html",
         "image": "http://www.bing.com/th?id=OVFT.sga0MsHB5EGKT5LzKQ0ZRi&pid=News",
         "timestamp": 1772355120.0
+    },
+    {
+        "title_fa": "پیامدهای حمله ترامپ به ایران برای بازارهای نفت",
+        "title_en": "What’s at stake for oil markets as Trump strikes Iran",
+        "summary": [
+            "تحریم‌ها و فشار خارجی: تشدید حملات آمریکا و تلافی ایران ریسک فشارهای بین‌المللی بر منابع ارزی را افزایش می‌دهد و توان مالی حاکمیت برای مدیریت شوک‌ها را تضعیف می‌کند.",
+            "بازار نفت و زنجیره تأمین: حمله به بندر جبل علی نشان داد تهدیدها فراتر از خطوط مقدم نظامی است؛ این وضعیت پرمیوم ریسک بازار را بالا می‌برد و احتمال اختلال در بنادر و هزینه‌های بیمه و حمل را افزایش می‌دهد.",
+            "نارضایتی داخلی و سوءمدیریت: بار اقتصادی ناشی از تحریم‌ها و ضربه‌های نظامی شتاب‌دهنده نارضایتی عمومی است؛ سوءمدیریت بلندمدت امکان پاسخ مؤثر حاکمیت به این شوک‌ها را کاهش داده است."
+        ],
+        "impact": "کوتاه‌مدت بازار نفت با افزایش قیمت‌ها و پرمیوم ریسک منطقه‌ای مواجه خواهد شد؛ بلندمدت فشار اقتصادی و تحریم‌ها ظرفیت بقای حاکمیت را تضعیف و نارضایتی‌های داخلی را تشدید می‌کند.",
+        "tag": "نفت",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/03/01/nation/iran-oil-market-trump-strike/",
+        "clean_url": "https://www.bostonglobe.com/2026/03/01/nation/iran-oil-market-trump-strike",
+        "image": "http://www.bing.com/th?id=OVFT.jSuj_VfFn1WCDFQYpynsni&pid=News",
+        "timestamp": 1772354460.0
     },
     {
         "title_fa": "اروپایی‌ها نگران گسترش درگیری؛ تأکید کردند در حملات ایران شرکت نداشتند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkdBSjVqcV94d2JBSUtWZ2QwQmV3U3RoSHFJVHl1ajltalQwZzZmSnFrano0S0drN2Y1dUV2bklEQ3V5bTBPdTNPY3VKRlJFY0dQanZkaGM4Zkd1bUZLVjJNZ01GMHp0Z1Bxa2hlZkRJSFA0TWt0c3pVY2N5Vy13MGJKaTjSAYcBQVVfeXFMUGVfeU5CMlI3Zi1CVGJnSlFiS0RDNEdqQ19xMEU2X1lTUjJoTnVJSURFOUtOTG94ZlN2T1dKTmJPS1NSTU9ISTZnR0tyd3MxRjJLcjE5RHpobGxGVDNmQ1ppeE5CMU5ZdFZmMmNkckFzaVVSMXpGZ3B2RVNqOHEtTFlkU216YUtN",
         "image": null,
         "timestamp": 1772051205.0
-    },
-    {
-        "title_fa": "افزایش شدید قیمت غذا و کالاهای اساسی فشار معیشتی ایرانیان را تشدید می‌کند در حالی که تهدید حمله آمریکا فضای عدم‌اطمینان را بالا برده است",
-        "title_en": "Soaring cost of food and other staples squeezes Iranians as threat of U.S. attack looms",
-        "summary": [
-            "افزایش چشمگیر هزینه خوراک و کالاهای اساسی توان خرید مردم را تضعیف کرده؛ این فشار معیشتی نتیجه‌ای ترکیبی از تحریم‌ها، ناکارآمدی مدیریتی و سیاست‌های اقتصادی ناموفق است.",
-            "تهدید بالقوه حمله آمریکا فضای عدم‌اطمینان را تشدید می‌کند و از طریق افزایش هزینه‌های امنیتی، خروج سرمایه و اختلال در تجارت، ظرفیت دولت برای مدیریت بحران اقتصادی را کاهش می‌دهد.",
-            "شواهد نشان می‌دهد که ضعف در مدیریت توزیع، شفافیت مالی و سیاست‌گذاری اقتصادی، همراه با فشارهای خارجی، نارضایتی عمومی را افزایش داده و آستانه بروز اعتراضات را پایین آورده است."
-        ],
-        "impact": "ترکیب فشار معیشتی و تهدید نظامی احتمال تشدید اعتراضات و فرسایش سریع‌تر پایه‌های سیاسی رژیم را افزایش می‌دهد.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Public Broadcasting Service (PBS)",
-        "url": "https://www.pbs.org/newshour/politics/soaring-cost-of-food-and-other-staples-squeezes-iranians-as-threat-of-u-s-attack-looms",
-        "clean_url": "https://www.pbs.org/newshour/politics/soaring-cost-of-food-and-other-staples-squeezes-iranians-as-threat-of-u-s-attack-looms",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/02/AP26056571778886-1024x654.jpg",
-        "timestamp": 1772050740.0
-    },
-    {
-        "title_fa": "پشت تیتر: بحران آمریکا و ایران — توضیح پرینستون",
-        "title_en": "Behind the Headline: The U.S.-Iran Crisis Explained",
-        "summary": [
-            "مؤسسه پرینستون یک توضیح‌گر دربارهٔ بحران آمریکا و ایران منتشر کرده که چارچوب‌های مؤثر بر تنش‌های دیپلماتیک و استراتژیک را بیان می‌کند.",
-            "تحلیل‌های مرتبط روی نقش فشارهای تحریمی و پیامدهای اقتصادی آن تمرکز دارد؛ تحریم‌ها درآمدهای رژیم را کاهش داده و هزینه‌های اقتصادی به سمت مردم سوق یافته که پتانسیل افزایش نارضایتی داخلی را دارد.",
-            "توضیح‌گر خطرات تشدید نظامی، محدودیت‌های دیپلماتیک و معضلات سیاست‌گذاری طرفین را برجسته می‌کند و تأکید می‌ورزد که استدلال‌ها باید بر شواهد عینی و احتیاط راهبردی متکی باشند."
-        ],
-        "impact": "فشار خارجی همراه با مدیریت اقتصادی ناکارآمد، فضای آسیب‌پذیری سیاسی را برای رژیم گسترش داده و می‌تواند به تشدید نارضایتی داخلی و فشار برای تغییر منجر شود.",
-        "tag": "بحران",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Princeton School of Public and International Affairs",
-        "url": "https://www.msn.com/en-us/politics/international-relations/doomsday-planes-j-20s-f-22s-the-iran-escalation-explained/vi-AA1WMA5I",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/doomsday-planes-j-20s-f-22s-the-iran-escalation-explained/vi-AA1WMA5I",
-        "image": null,
-        "timestamp": 1772049735.0
     }
 ]
