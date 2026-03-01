@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آمریکا و اسرائیل به اهدافی در ایران حمله کردند؛ ترامپ آمادگی مذاکره با رهبری جدید را اعلام کرد",
+        "title_en": "US, Israel pound targets in Iran as Trump signals openness to talk to new leadership",
+        "summary": [
+            "آمریکا و اسرائیل حملاتی علیه اهدافی در خاک ایران انجام دادند؛ مقامات رسمی جزئیات کامل تلفات و مکان‌ها را هنوز اعلام نکرده‌اند.",
+            "ترامپ اعلام کرده که آماده مذاکره با «رهبری جدید» ایران است؛ این موضع عملاً دیپلماسی را مشروط به تغییر در رأس قدرت کرده است.",
+            "ترکیب فشار نظامی و اعلام آمادگی دیپلماتیک، فشار خارجی ساختاری بر رژیم را تشدید می‌کند و احتمالاً بار اقتصادی، انزوای بین‌المللی و تضعیف مشروعیت سیاسی را افزایش می‌دهد."
+        ],
+        "impact": "پیامد فوری این رویداد افزایش خطر تشدید نظامی و فشار بین‌المللی است که ثبات داخلی و ظرفیت اقتصادی رژیم را بیش از پیش تضعیف می‌کند.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFJlTzNpYnhDMDIyV1ZFWlljT3pXcUpBckhpSlhVdVdfanNPZEVyQXdxSEhfR0xPNWc2bVZaU3FpTGs4NHR0QWNDSTI5VFhndk1MSDVGdnREa09hWFlwSENXVndpTUhYYWFfWGZEY3ZPLTJBcGZmbWpsbHJESXpwMzBJN3MyeDhybVhNYmNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFJlTzNpYnhDMDIyV1ZFWlljT3pXcUpBckhpSlhVdVdfanNPZEVyQXdxSEhfR0xPNWc2bVZaU3FpTGs4NHR0QWNDSTI5VFhndk1MSDVGdnREa09hWFlwSENXVndpTUhYYWFfWGZEY3ZPLTJBcGZmbWpsbHJESXpwMzBJN3MyeDhybVhNYmNR",
+        "image": null,
+        "timestamp": 1772397900.0
+    },
+    {
         "title_fa": "کاخ سفید: «رهبری جدید احتمالی» ایران پیشنهاد گفت‌وگو داده و ترامپ می‌گوید «نهایتاً» مایل است",
         "title_en": "White House official: Iran's 'new potential leadership' suggests it's open to talks and Trump says he's 'eventually' willing",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://www.dispatch.com/story/opinion/contributors/2026/02/28/us-attack-israel-iran-war-what-happens-next/88918107007",
         "image": null,
         "timestamp": 1772370197.0
+    },
+    {
+        "title_fa": "تغییر بزرگ در ایران محتمل است؛ نوع آن سؤال است",
+        "title_en": "Big Change Seems Certain in Iran. What Kind Is the Question.",
+        "summary": [
+            "مرگ علی خامنه‌ای نقطه‌عطفی در ۴۷ سال حیات جمهوری اسلامی است؛ همزمانی صحنه‌های شادی و سوگواری نشان‌دهندهٔ عدم قطعیت عمیق در مسیر سیاسی کشور است.",
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، و بنیامین نتانیاهو، نخست‌وزیر اسرائیل، علناً از مردم ایران خواسته‌اند حکومت را براندازند؛ اما تحلیلگران نسبت به توان یک کارزار هوایی یا فراخوان‌های خارجی برای فروپاشی نظام از طریق تظاهرات مردمی تردید دارند.",
+            "کارشناسان می‌گویند نظام به نقطهٔ تحول رسیده اما جهت این تغییر مشخص نیست و احتمالاً دوره‌ای از رقابت بر سر قدرت و بی‌ثباتی سیاسی در پیش است."
+        ],
+        "impact": "مرگ رهبر فعلی و مداخلات خارجی، فضای سیاسی داخلی را به‌شدت حساس کرده و شانس بروز درگیری‌های قدرت و تضعیف ثبات نظام را افزایش می‌دهد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.5,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-what-next.html",
+        "clean_url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-what-next.html",
+        "image": "http://www.bing.com/th?id=OVFT.ettFvVQB-7GgVJpcaOjjqy&pid=News",
+        "timestamp": 1772366880.0
     },
     {
         "title_fa": "جنگ آمریکا و اسرائیل علیه ایران می‌تواند محاسبات امنیتی خلیج را بازنویسی کند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.newsweek.com/iran-nuclear-weapons-trump-war-deal-missiles-11584371",
         "image": "/th?id=OVFT.bQuQO-Du3_hvYlJbFhkHoS&pid=News",
         "timestamp": 1772064000.0
-    },
-    {
-        "title_fa": "توضیح | پشت‌پرده مذاکرات هسته‌ای ایران و آمریکا در ژنو چیست؟",
-        "title_en": "Explained | What is behind the Iran–US nuclear talks in Geneva?",
-        "summary": [
-            "متن کامل مقاله از منبع فرستاده نشده؛ بنابراین امکان استخراج جزئیات گزارش‌شده وجود ندارد.",
-            "بدون دسترسی به محتوای مقاله، هرگونه تحلیل درباره تأثیر تحریم‌ها، پیامدهای داخلی اقتصادی-سیاسی یا نقش بازیگران خارجی صرفاً حدس خواهد بود و قابل اتکا نیست.",
-            "برای تحلیل دقیق طبق چارچوب تعیین‌شده (تحریم‌ها، نقش روسیه/چین/کره‌شمالی در صورت ذکر، اعتراضات داخلی و واقعی‌گرایی) لازم است متن کامل مقاله یا لینک آن ارسال شود."
-        ],
-        "impact": "بدون متن مقاله نمی‌توان میزان تأثیر مذاکرات بر ثبات ساختاری رژیم یا واکنش‌های داخلی را به‌صورت قابل استناد ارزیابی کرد.",
-        "tag": "نامشخص",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Mathrubhumi English",
-        "url": "https://english.mathrubhumi.com/news/world/iran-us-nuclear-talks-geneva-2026-history-nuclear-a6zukhid",
-        "clean_url": "https://english.mathrubhumi.com/news/world/iran-us-nuclear-talks-geneva-2026-history-nuclear-a6zukhid",
-        "image": "http://www.bing.com/th?id=OVFT.bGHEESDwGiPQbD8qbsKXBS&pid=News",
-        "timestamp": 1772059080.0
-    },
-    {
-        "title_fa": "معاون رئیس‌جمهور ونس: آمریکا شواهدی از تلاش ایران برای بازسازی برنامه هسته‌ای می‌بیند",
-        "title_en": "US sees evidence Iran is trying to rebuild nuclear program, VP Vance says",
-        "summary": [
-            "معاون رئیس‌جمهور ونس اعلام کرده آمریکا شواهدی از تلاش ایران برای بازسازی برنامه هسته‌ای مشاهده می‌کند.",
-            "این ارزیابی واشنگتن می‌تواند منجر به تشدید فشار دیپلماتیک و افزایش احتمال تحریم‌های جدید علیه ایران شود که هزینه‌های بین‌المللی رژیم را افزایش خواهد داد.",
-            "اگر ادعاها درست باشد، تمرکز مجدد بر برنامه هسته‌ای منابع محدود اقتصادی را به سمت پروژه‌های فنی و نظامی سوق داده و نارضایتی عمومی ناشی از مدیریت اقتصادی را تشدید خواهد کرد."
-        ],
-        "impact": "اعلام علنی آمریکا احتمال تشدید انزوای بین‌المللی و فشارهای اقتصادی را بالا می‌برد که می‌تواند ثبات داخلی نظام را تضعیف کند.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUZGOFZleXRYdGgxeGk3ZzF6V1diam9rbHd4UTJBMFBFTXBHWGJFMElGLXBNQW53eDh0M19TQ2RZUGp2TWRoSGxFMDhjX3dPdVVkNnItNkJ6cWhQMmVwNnlRVk9YeTJmUWp2eEE2UHVTOGNMTjgyQ28tLWVXN0NjanlmTWlPWHR2b2FYd0NMMnRzSXBZMDRaN2NMOXdaQ2tRam5rb2R2bV9iVjdRdHJVVElRY05qblJ5SmtCbkNLbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUZGOFZleXRYdGgxeGk3ZzF6V1diam9rbHd4UTJBMFBFTXBHWGJFMElGLXBNQW53eDh0M19TQ2RZUGp2TWRoSGxFMDhjX3dPdVVkNnItNkJ6cWhQMmVwNnlRVk9YeTJmUWp2eEE2UHVTOGNMTjgyQ28tLWVXN0NjanlmTWlPWHR2b2FYd0NMMnRzSXBZMDRaN2NMOXdaQ2tRam5rb2R2bV9iVjdRdHJVVElRY05qblJ5SmtCbkNLbw",
-        "image": null,
-        "timestamp": 1772058509.0
     }
 ]
