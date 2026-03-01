@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پس از حمله آمریکا و اسرائیل به ایران؛ عکس‌ها و ویدئوها از خاورمیانه",
+        "title_en": "After Attack on Iran by the U.S. and Israel, See Photos and Videos From the Middle East - The New York Times",
+        "summary": [
+            "نیویورک تایمز گزارش داده است که پس از حمله مشترک آمریکا و اسرائیل به ایران، مجموعه‌ای از عکس‌ها و ویدئوها از صحنه‌های مرتبط در خاورمیانه منتشر شده است.",
+            "حمله مستقیم از سوی آمریکا و اسرائیل ساختار سیاسی و امنیتی رژیم را در معرض تضعیف قرار می‌دهد؛ تشدید فشار خارجی می‌تواند زمینه افزایش تحریم‌ها، انزوای دیپلماتیک و کاهش توان دولت در مدیریت بحران‌های اقتصادی را فراهم کند.",
+            "در داخل، هزینه‌های میدانی و اقتصادی برای حکومت افزایش می‌یابد؛ این امر ظرفیت رژیم برای کنترل نارضایتی عمومی و ثبات داخلی را تحت فشار قرار می‌دهد و ریسک تشدید بی‌ثباتی را بالا می‌برد."
+        ],
+        "impact": "اثر فوری این رخداد تضعیف ظرفیت بقا و مشروعیت رژیم و افزایش احتمال گسترش درگیری منطقه‌ای است.",
+        "tag": "حمله",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpIN203WXFqNlluTWo5aXFxUmdydVVRUEJuT3JxTFo2cmZVODQ0S2pVY3ROWGVLNEsyU01kYU0tWmxyNUdHUDJTWVIzM1pUVktkM3dxTkZxYUg2THB5OUZFQWZ0VWxQYVFmQW1rMXgwRTFpMWZQQmhwMC1La01YUWtaWTdzSVVxbzdhWDh5Uk1Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpIN203WXFqNlluTWo5aXFxUmdydVVRUEJuT3JxTFo2cmZVODQ0S2pVY3ROWGVLNEsyU01kYU0tWmxyNUdHUDJTWVIzM1pUVktkM3dxTkZxYUg2THB5OUZFQWZ0VWxQYVFmQW1rMXgwRTFpMWZQQmhwMC1La01YUWtaWTdzSVVxbzdhWDh5Uk1Ddw",
+        "image": null,
+        "timestamp": 1772371320.0
+    },
+    {
         "title_fa": "واکنش جهانی به کشتن علی خامنه‌ای به‌دست آمریکا و اسرائیل",
         "title_en": "World reacts to killing of Iran’s Khamenei by US, Israel forces",
         "summary": [
@@ -232,6 +250,24 @@
         "clean_url": "https://www.npr.org/2026/02/28/nx-s1-5730636/u-s-and-israel-strike-iran-heres-what-we-know",
         "image": null,
         "timestamp": 1772344862.0
+    },
+    {
+        "title_fa": "درگذشت علی خامنه‌ای، رهبر جمهوری اسلامی در ۸۶ سالگی",
+        "title_en": "Iran’s Supreme Leader Ayatollah Ali Khamenei, who led the Islamic Republic since 1989, is dead at 86",
+        "summary": [
+            "علی خامنه‌ای، که از سال ۱۹۸۹ رهبر جمهوری اسلامی ایران بود، در ۸۶ سالگی درگذشته است.",
+            "رئیس‌جمهور ایران اعلام کرده که شورای رهبری جدید «کار خود را آغاز کرده است»؛ فرایند جانشینی رسمی آغاز شده اما جزئیات و ترکیب نهایی مشخص نیست.",
+            "این خلا رهبری هم‌زمان با تضعیف ساختاری ناشی از تحریم‌ها و سوءمدیریت اقتصادی رخ می‌دهد و احتمال تشدید رقابت‌های داخلی و بی‌ثباتی سیاسی-اقتصادی را افزایش می‌دهد."
+        ],
+        "impact": "مرگ خامنه‌ای شکاف‌های نهادی را عمیق‌تر می‌کند و فرایند جانشینی می‌تواند موجی از بی‌ثباتی سیاسی و فشار اقتصادی را بر رژیم تحمیل کند.",
+        "tag": "جانشینی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-supreme-leader-ayatollah-ali-khamenei-dead-5b13b69b708c4ed38e8f95f5fb41a597",
+        "clean_url": "https://apnews.com/article/iran-supreme-leader-ayatollah-ali-khamenei-dead-5b13b69b708c4ed38e8f95f5fb41a597",
+        "image": null,
+        "timestamp": 1772343000.0
     },
     {
         "title_fa": "سیا در یافتن تجمعی از رهبران ایرانی کمک کرد؛ سپس اسرائیل ضربه زد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://lasvegassun.com/news/2026/feb/25/the-latest-iran-pushes-back-against-trump-ahead-of",
         "image": null,
         "timestamp": 1772018460.0
-    },
-    {
-        "title_fa": "کاخ سفید: ترامپ برای مقابله با ایران آماده «استفاده از نیروی کشنده» است",
-        "title_en": "Trump 'willing to use lethal force' against Iran, White House says",
-        "summary": [
-            "سخنگوی کاخ سفید اعلام کرد که دیپلماسی نخستین گزینه ترامپ است اما او در صورت لزوم «استفاده از نیروی کشنده» را مجاز می‌داند؛ ترامپ به تهران ۱۰ تا ۱۵ روز مهلت داده است.",
-            "ایالات متحده نیروی دریایی گسترده‌ای در نزدیکی سواحل ایران مستقر کرده و وزیر خارجه برای توجیه رهبران ارشد کنگره (گروه هشت) در کاخ سفید قرار است اطلاع‌رسانی کند؛ سخنرانی State of the Union بستری برای توجیه حملات احتمالی محسوب می‌شود.",
-            "این تهدیدات نظامی و فشار دیپلماتیک بلافاصله شانس افزایش تحریم‌ها و انزوای بین‌المللی تهران را بالا می‌برد و رژیم را در معرض آزمون مدیریت بحران قرار می‌دهد؛ خبر هیچ اشاره‌ای به حمایت روسیه/چین/کره شمالی یا اعتراضات داخلی و وضعیت اقتصادی نکرده است، بنابراین هر تحلیل درباره شکست‌های مدیریتی داخلی باید بر شواهد دیگری متکی باشد."
-        ],
-        "impact": "افزایش فوری احتمال تقابل نظامی مستقیم و تشدید فشار بین‌المللی بر تهران که ریسک تنش‌های گسترده‌تر در منطقه را بالا می‌برد.",
-        "tag": "تهدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/white-house-says-trumps-first-165903065.html",
-        "clean_url": "https://www.yahoo.com/news/articles/white-house-says-trumps-first-165903065.html",
-        "image": "http://www.bing.com/th?id=OVFT.mpxOVDqopZZerFA4F8JGOC&pid=News",
-        "timestamp": 1772016240.0
-    },
-    {
-        "title_fa": "کدام کشورها شهروندان خود را به‌خاطر تهدید بالقوه آمریکا از ایران فرا می‌خوانند؟",
-        "title_en": "Which countries are urging citizens to leave Iran amid US threat of force?",
-        "summary": [
-            "چندین کشور از جمله استرالیا، آلمان و هند شهروندان خود را به خروج از ایران ترغیب کرده‌اند؛ این هشدارها نشانه افزایش محسوس خطر عملیات نظامی آمریکاست.",
-            "آمریکا حضور نظامی خود در خاورمیانه و مدیترانه را تقویت کرده—از جمله اعزام ناوهای هواپیمابر USS Abraham Lincoln و USS Gerald Ford—که احتمال اجرای ضربه نظامی را واقعی‌تر می‌سازد.",
-            "مذاکرات غیرمستقیم در ژنو ادامه دارد اما تهران با رد درخواست واشنگتن برای توقف کامل غنی‌سازی و اعلام برنامه موشکی به‌عنوان «خط قرمز»، خطر بن‌بست دیپلماتیک و تشدید تنش را افزایش داده است."
-        ],
-        "impact": "هشدار خروج اتباع خارجی همراه با نمایش نظامی آمریکا، ثبات سیاسی و اقتصادی رژیم را تضعیف کرده و شانس بروز بحران ناگهانی یا افزایش سرکوب داخلی را بالا می‌برد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/countries-urging-citizens-leave-iran-101221609.html",
-        "clean_url": "https://www.yahoo.com/news/articles/countries-urging-citizens-leave-iran-101221609.html",
-        "image": null,
-        "timestamp": 1772015292.0
     }
 ]
