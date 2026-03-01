@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "ایران اعلام کرد رهبر جمهوری اسلامی در حملات آمریکا و اسرائیل کشته شده است",
+        "title_en": "Iran Says Supreme Leader Killed in U.S.-Israeli Strikes",
+        "summary": [
+            "گزارش نیویورک‌تایمز: مقامات ایران اعلام کرده‌اند رهبر جمهوری اسلامی در حملات مشترک آمریکا و اسرائیل کشته شده است.",
+            "این رویداد می‌تواند خلأ رهبری و اختلال در زنجیره فرماندهی ایجاد کند و احتمال اقدامات تلافی‌جویانه یا بسیج گسترده نیروهای امنیتی را افزایش دهد.",
+            "حمله مستقیم نیروهای آمریکایی و اسرائیلی به بالاترین مقام سیاسی ـ نظامی، فشار خارجی بر رژیم را از بعد نظامی و سیاسی تشدید و ظرفیت بقا و مشروعیت آن را تضعیف می‌کند؛ پیامدهای امنیتی و اقتصادی منطقه‌ای جدی قابل انتظار است."
+        ],
+        "impact": "کشته شدن رهبر جمهوری اسلامی می‌تواند به تشدید فوری تنش‌های نظامی منطقه‌ای، بی‌ثباتی داخلی و فشارهای اقتصادی و امنیتی گسترده منجر شود.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The New York Times",
+        "url": "https://www.msn.com/en-us/news/world/irans-hard-line-supreme-leader-is-dead-after-major-military-strikes-trump-says/ar-AA1XhkZ4",
+        "clean_url": "https://www.msn.com/en-us/news/world/irans-hard-line-supreme-leader-is-dead-after-major-military-strikes-trump-says/ar-AA1XhkZ4",
+        "image": null,
+        "timestamp": 1772351400.0
+    },
+    {
+        "title_fa": "ایران پس از حملهٔ آمریکا-اسرائیل که خامنه‌ای را کشت، موشک به اسرائیل و کشورهای خلیج شلیک کرد",
+        "title_en": "Iran fires missiles at Israel and Gulf states after U.S.-Israeli strike kills Khamenei",
+        "summary": [
+            "گزارش‌ها حاکی است که پس از حملهٔ مشترک آمریکا و اسرائیل که خامنه‌ای را کشت، تهران موشک‌هایی به سمت اسرائیل و برخی کشورهای خلیج فارس شلیک کرد؛ حرکت مستقیم نظامی که منطقه را به آستانهٔ درگیری گسترده برده است.",
+            "حضور آمریکا و اسرائیل در اقدام نظامی و پاسخ موشکی ایران احتمال افزایش فشار و تحریم‌های بین‌المللی و تضعیف ساختارهای بقای اقتصادی-سیاسی رژیم را تقویت می‌کند و بارِ هزینهٔ بقا را بر دوش اقتصاد و نهادهای حکومتی سنگین‌تر می‌سازد.",
+            "مرگ خامنه‌ای اگر تأیید شود، شوکی بی‌سابقه به رهبری نظام وارد می‌کند؛ این رخداد می‌تواند خلأ قدرت، رقابت داخلی برای جانشینی و تشدید نارضایتی‌های عمومی در شرایط مدیریت اقتصادی ناموفق را بالا ببرد."
+        ],
+        "impact": "پیامد فوری: تشدید خطر گسترش جنگ منطقه‌ای و همزمان تشدید بحران داخلی که ثبات سیاسی و اقتصادی ایران را به شدت تضعیف خواهد کرد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41QUZqT1AwRTY1MWtrS3kwSVBqMlowSWhLNHI0VXpvWmYzRnd0WVQwMzJrR2YzZDRzajVoclZiZ1B2SVlpWTVtbXpzWGxIdmd4bUo5RnZIMWFMZDE1Z2kxUk1Ja2JsVGwtNUc4SHVOTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41QUZqT1AwRTY1MWtrS3kwSVBqMlowSWhLNHI0VXpvWmYzRnd0WVQwMzJrR2YzZDRzajVoclZiZ1B2SVlpWTVtbXpzWGxIdmd4bUo5RnZIMWFMZDE1Z2kxUk1Ja2JsVGwtNUc4SHVOTQ",
+        "image": null,
+        "timestamp": 1772349077.0
+    },
+    {
+        "title_fa": "گزارش ویژه عصر ایران، ۲۸ فوریه ۲۰۲۶ — مؤسسه مطالعهٔ جنگ",
+        "title_en": "Iran Update Evening Special Report, February 28, 2026",
+        "summary": [
+            "مؤسسه مطالعهٔ جنگ گزارش ویژه‌ای به تاریخ ۲۸ فوریه ۲۰۲۶ منتشر کرده؛ متن گزارش در منبع ارائه‌شده در این ورودی موجود نیست.",
+            "بدون دسترسی به متن کامل، نمی‌توان ادعاهای مشخصی درباره تحولات میدانی، فشارهای خارجی یا نقش بازیگران منطقه‌ای مطرح‌شده در گزارش بیان کرد؛ هر تحلیل جزئی بدون متن، گمانه‌زنی خواهد بود.",
+            "برای ارزیابی اثرات بر ثبات رژیم، پیامدهای اقتصادی و سطح نارضایتی داخلی لازم است متن کامل گزارش استخراج و شاخص‌ها و شواهد مستقیم آن بررسی شود."
+        ],
+        "impact": "تأثیر عملی این گزارش بر سیاست‌گذاری یا ثبات داخلی نامشخص است تا زمانی که متن کامل گزارش در دسترس قرار گیرد.",
+        "tag": "گزارش",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Institute for the Study of War",
+        "url": "https://www.msn.com/en-us/news/world/updated-israel-and-us-launch-attack-on-iran/ar-AA1XgowV",
+        "clean_url": "https://www.msn.com/en-us/news/world/updated-israel-and-us-launch-attack-on-iran/ar-AA1XgowV",
+        "image": null,
+        "timestamp": 1772346648.0
+    },
+    {
+        "title_fa": "حملات آمریکا و اسرائیل به ایران — چه خواهد شد؟",
+        "title_en": "U.S. and Israel Strike Iran - What Comes Next?",
+        "summary": [
+            "عنوان CSIS از وقوع حملاتی از سوی آمریکا و اسرائیل علیه ایران خبر می‌دهد؛ این گونه اقدامات ریسک تشدید مستقیم نظامی و افزایش تنش منطقه‌ای را بالا می‌برند.",
+            "چنین حملاتی ساختار بقأ رژیم را تضعیف می‌کنند: احتمال افزایش فشارهای بین‌المللی و تشدید تحریم‌ها وجود دارد که می‌تواند آسیب‌های اقتصادی و سیاسی داخلی را عمیق‌تر کند.",
+            "در داخل کشور این رخدادها می‌توانند نارضایتی عمومی را تشدید کنند و ضعف مدیریت‌ راهبردی حکومت را برجسته سازند؛ هرچند از متن منبع جزئیات مستقیم درباره اعتراضات یا پیامدهای اقتصادی مشخص گزارش نشده است."
+        ],
+        "impact": "نتیجهٔ فوری احتمال افزایش تشدید نظامی منطقه‌ای و فشار بر پایه‌های داخلی رژیم است که می‌تواند امنیت و اقتصاد داخلی را بیشتر متزلزل کند.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CSIS | Center for Strategic and International Studies",
+        "url": "https://www.npr.org/2026/02/28/nx-s1-5730636/u-s-and-israel-strike-iran-heres-what-we-know",
+        "clean_url": "https://www.npr.org/2026/02/28/nx-s1-5730636/u-s-and-israel-strike-iran-heres-what-we-know",
+        "image": null,
+        "timestamp": 1772344862.0
+    },
+    {
         "title_fa": "سیا در یافتن تجمعی از رهبران ایرانی کمک کرد؛ سپس اسرائیل ضربه زد",
         "title_en": "The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.",
         "summary": [
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-speech-today-oman-nuclear-talks-khamenei-indian-students-stranded-101771985330516.html",
         "image": null,
         "timestamp": 1771988700.0
-    },
-    {
-        "title_fa": "روند تنش‌ها بر سر برنامه هسته‌ای ایران در آستانه مذاکرات با آمریکا",
-        "title_en": "A timeline of tensions over Iran's nuclear program as talks with U.S. approach",
-        "summary": [
-            "PBS جدول زمانی نقاط‌عطف و دوره‌های تشدید تنش مرتبط با برنامه هسته‌ای ایران را گردآوری کرده و مذاکرات قریب‌الوقوع با آمریکا را به‌عنوان متغیری تعیین‌کننده در مسیر تنش‌ها معرفی می‌کند.",
-            "طبق بازنمایی این خط زمانی، فشار و تحریم‌های بین‌المللی و انزوای دیپلماتیک ظرفیت اقتصادی و اهرم‌های بقاگرای رژیم را فرسوده کرده‌اند و فضای تصمیم‌گیری داخلی را تضعیف می‌کنند.",
-            "خط زمانی همچنین نشان می‌دهد که سوءمدیریت و کمبود پاسخگویی در حکمرانی برنامه هسته‌ای، همراه با مشکلات اقتصادی ساختاری، می‌تواند مذاکرات را به نقطه‌ای تبدیل کند که یا فشارها را تشدید می‌کند یا فرصت‌های محدود کاهش تنش را خلق می‌کند."
-        ],
-        "impact": "مجموعه شواهد خط زمانی PBS حاکی است مذاکرات پیش‌رو در بستری از تحریم‌ها و ناکارآمدی‌های داخلی می‌تواند تعیین‌کننده وضعیت ثبات کوتاه‌مدت رژیم باشد.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "PBS",
-        "url": "https://www.msn.com/en-in/news/other/timeline-of-iran-nuclear-tensions-ahead-of-us-talks-in-geneva/ar-AA1WXtlJ",
-        "clean_url": "https://www.msn.com/en-in/news/other/timeline-of-iran-nuclear-tensions-ahead-of-us-talks-in-geneva/ar-AA1WXtlJ",
-        "image": null,
-        "timestamp": 1771987187.0
-    },
-    {
-        "title_fa": "علی شمخانی پس از حمله زنده ماند؛ نقش مرکزی در اتاق جنگ ایران را از سر گرفت",
-        "title_en": "Surviving strike, Shamkhani resumes central role in Iran's war room",
-        "summary": [
-            "علی شمخانی که در پی حمله‌ای در ژوئن ۲۰۲۵ از زیر آوار منزلش در تهران زنده بیرون کشیده شد، پس از حادثه به اسرائیل طعنه زده است.",
-            "با وجود هدف قرار گرفتن منزلش، شمخانی همچنان در مرکز فرایند تصمیم‌گیری نظامی و اتاق جنگ ایران حضور و نقش محوری حفظ کرده است.",
-            "حمله‌ای که یک مقام بلندپایه را در پایتخت هدف گرفت، نشانه تشدید تقابل با اسرائیل، تمرکز قدرت حول بقا یافتگان و افزایش ریسک واکنش‌های تلافی‌جویانه و فشارهای خارجی است."
-        ],
-        "impact": "این واقعه احتمال تشدید عملیات تلافی‌جویانه، افزایش فشارهای بین‌المللی و تمرکز بیشتر قدرت در ساختارهای نظامی-امنیتی رژیم را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/surviving-strike-shamkhani-resumes-central-role-irans-war-room-2026-02-25/",
-        "clean_url": "https://www.reuters.com/world/middle-east/surviving-strike-shamkhani-resumes-central-role-irans-war-room-2026-02-25",
-        "image": "http://www.bing.com/th?id=OVFT.Ca1FHYJyFty47D12Id6eli&pid=News",
-        "timestamp": 1771986720.0
-    },
-    {
-        "title_fa": "ارسال جنگنده‌های آمریکا به اسرائیل در بحبوحه تشدید تنش با ایران",
-        "title_en": "U.S. sends fighter jets to Israel amid escalating tensions with Iran",
-        "summary": [
-            "فرستادن جنگنده‌های آمریکایی به اسرائیل نشان‌دهنده افزایش احتمال مداخله یا واکنش نظامی ایالات متحده علیه تهران و تشدید فشار خارجی است.",
-            "افزایش تهدید نظامی ساختارهای ضعیف اقتصادی-سیاسی را بیشتر می‌کند: فشار بر بودجه، افزایش هزینه‌های امنیتی و تضعیف توان حکومت در مدیریت بحران‌های داخلی قابل انتظار است.",
-            "خبر به صراحت از نارضایتی داخلی حکایت دارد؛ ترکیب فشار خارجی و نارضایتی می‌تواند اعتراضات را تشدید یا حکومت را به حلقه سرکوب و تصمیم‌گیری‌های بیش‌تمرکز سوق دهد."
-        ],
-        "impact": "این تحرکات خطر درگیری مستقیم میان آمریکا/اسرائیل و ایران را افزایش می‌دهد و هم‌زمان ثبات داخلی ایران را از طریق تشدید فشار اقتصادی و سیاسی بیشتر تضعیف خواهد کرد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.yahoo.com/news/videos/u-sends-fighter-jets-israel-022714760.html",
-        "clean_url": "https://www.yahoo.com/news/videos/u-sends-fighter-jets-israel-022714760.html",
-        "image": null,
-        "timestamp": 1771986420.0
-    },
-    {
-        "title_fa": "سفر نارندرا مودی به اسرائیل برای تقویت همکاری‌های دفاعی، هوش مصنوعی و امنیت منطقه‌ای",
-        "title_en": "US Iran tensions live updates: Iran rejects Trump’s missile and nuclear claims as ‘big lies’, accuses US and Israel of disinformation",
-        "summary": [
-            "نارندرا مودی برای یک سفر دو روزه به اسرائیل وارد شد؛ محورهای اعلام‌شده گفتگو شامل دفاع، هوش مصنوعی و امنیت منطقه‌ای است و مقاله صرفاً به اهداف سفر اشاره دارد.",
-            "تمرکز بر همکاری‌های دفاعی و امنیتی میان هند و اسرائیل می‌تواند به تضعیف موقعیت دیپلماتیک ایران در کارزارهای منطقه‌ای منجر شود؛ متن منبع اشاره مستقیمی به تشدید تحریم‌ها یا فشار اقتصادی علیه ایران ندارد، اما تقویت این محور می‌تواند گزینه‌های تهران را محدود کند.",
-            "هیچ گزارشی در متن درباره اعتراضات داخلی یا بحران اقتصادی در ایران درج نشده است؛ بنابراین اثرات داخلی این سفر بر ثبات رژیم قابل اثبات نیست، هرچند تشدید همکاری‌های منطقه‌ای ممکن است فشارهای سیاسی و اقتصادی بلندمدت بر تهران را افزایش دهد."
-        ],
-        "impact": "تقویت همکاری هند و اسرائیل در حوزه‌های دفاعی و فناوری احتمالاً موقعیت دیپلماتیک و مانور منطقه‌ای ایران را تضعیف می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/us-iran-war-news-live-updates-donald-trump-ali-khamenei-tehran-attack-us-iran-nuclear-talks-feb-25-liveblog-13841990.html",
-        "clean_url": "https://www.moneycontrol.com/world/us-iran-war-news-live-updates-donald-trump-ali-khamenei-tehran-attack-us-iran-nuclear-talks-feb-25-liveblog-13841990.html",
-        "image": null,
-        "timestamp": 1771985040.0
     }
 ]
