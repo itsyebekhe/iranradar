@@ -90,6 +90,24 @@
         "timestamp": 1772363025.0
     },
     {
+        "title_fa": "آنچه تا کنون درباره حملات آمریکا و اسرائیل و تلافی ایران می‌دانیم",
+        "title_en": "What we know so far about the US-Israel attacks and Iran's retaliation",
+        "summary": [
+            "عملیات گسترده‌ای که آمریکا («Operation Epic Fury») و اسرائیل آغاز کردند به هدف «خنثی‌سازی تهدید هسته‌ای و موشکی» اعلام شده؛ دونالد ترامپ خواستار نابودی صنایع موشکی ایران، تسلیم نیروهای مسلح و فراخوان به قیام مردمی علیه حکومت شد. گزارش‌ها حاکی از کشته شدن علی خامنه‌ای، حملات موقت و ادامه‌دار به تهران و اصابت موشک‌ها/پهپادها به 24 استان است.",
+            "فشار نظامی و تهدیدات سیاسی-دیپلماتیک ساختار امنیتی رژیم را هدف گرفته‌اند؛ هدف اعلامی نابودی ظرفیت موشکی و «براندازی تدریجی» است. این سطح فشار عملیاتِ فرماندهی و کنترل، زنجیره تأمین دفاعی و توان اقتصادی را هدف می‌گیرد و خطر تشدید انشقاقات در نخبگان و بحران جانشینی پس از مرگ رهبر را بالا می‌برد.",
+            "فراخوان ترامپ به «برخاستن مردم» و گزارش حملات گسترده در بیش از دو سوم استان‌ها، نشان‌دهنده آسیب‌پذیری امنیت داخلی و چشم‌انداز تشدید نارضایتی عمومی است. پیامدهای فوری برای اقتصاد—اختلال در زیرساخت‌ها، جلوگیری از تجارت و افزایش هزینه‌های نظامی—تنش‌های معیشتی را تشدید می‌کند."
+        ],
+        "impact": "این ترکیب حملات و تلافی‌ها احتمالاً بی‌ثباتی داخلی و منطقه‌ای را به‌شدت افزایش می‌دهد، فشار بر نهادهای امنیتی و اقتصادی رژیم را تشدید و شانس بحران سیاسی و شکاف‌های نخبه‌ای را بالا می‌برد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://au.news.yahoo.com/know-joint-us-israel-attack-090337775.html",
+        "clean_url": "https://au.news.yahoo.com/know-joint-us-israel-attack-090337775.html",
+        "image": null,
+        "timestamp": 1772362713.0
+    },
+    {
         "title_fa": "حملات تازه آمریکا و اسرائیل به ایران پس از کشته‌شدن علی خامنه‌ای",
         "title_en": "Live Updates: U.S.-Israel launch another round of strikes on Iran following Khamenei's killing",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/countries-urging-citizens-leave-iran-101221609.html",
         "image": null,
         "timestamp": 1772015292.0
-    },
-    {
-        "title_fa": "انتظار از دور بعدی مذاکرات آمریکا و ایران در سایه تهدیدهای ترامپ",
-        "title_en": "What to expect from the next round of U.S.-Iran talks as Trump threatens Tehran",
-        "summary": [
-            "عنوان خبر نشان می‌دهد دور جدید گفت‌وگوهای آمریکا و ایران در راه است و هم‌زمان ترامپ تهران را با تهدید قرار داده است؛ ترکیب مذاکرات و فشار لفظی واشنگتن فضای تنش را بالا می‌برد.",
-            "فشار تحریمی و تهدیدهای سیاسی ساختارهای اقتصادی و سیاسی رژیم را به‌صورت بلندمدت تضعیف می‌کند؛ تداوم این فشارها هزینه‌زایی برای نهادهای تصمیم‌گیر و توان مدیریتی کشور را افزایش می‌دهد.",
-            "از منظر داخلی، افزایش فشار خارجی می‌تواند نارضایتی عمومی را تشدید کند و ضعف‌های مدیریتی و ناکارآمدی اقتصادی رژیم را برجسته سازد؛ اما تحقق تغییر نظامی یا سیاسی بدون سازمان‌دهی داخلی منسجم بعید است."
-        ],
-        "impact": "ترکیب مذاکرات و تهدیدهای علنی واشنگتن احتمالاً فشار بر رژیم را افزایش می‌دهد و پنجره محدود فشاری برای اپوزیسیون فراهم می‌آورد، اما تحول ساختاری به سازمان‌دهی داخلی نیاز دارد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUVHbktuc1F1Q0tYTUNlMGpzb1U5U1FCZDlBZWpoVWlLemFBMXpHRWh5NkZuLUJLUDdQczk2em5BTHU4OFFqTG5lNTlFOTRldFVibTF1V0pWdXRybm8wYThYVXUweXlIN1c0T1FrX2NUUER0U1VHbXE1Tk1qbHRWZ3FnYUMteHV0R0Q5YjNYVzdQd9IBlwFBVV95cUxNWEZCUndfZHBYcWNITWw1NEstWTd1TmlPWFFDdFpQT2hGblZoZkx2QnpNZkFEbzF3clpzaW9OM0FWTXd3ZHJ2OThnMjR1V2VJejVQd19ibzBHc0doTkU1cHJtMGR5NTdnMlpycEJSVllyZ3pLcFVYU0MxdTNKVnF0QjFOUTZfckpyNFBNc0R4X2FaVi1Zd1U4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUVHbktuc1F1Q0tYTUNlMGpzb1U5U1FCZDlBZWpoVWlLemFBMXpHRWh5NkZuLUJLUDdQczk2em5BTHU4OFFqTG5lNTlFOTRldFVibTF1V0pWdXRybm8wYThYVXUweXlIN1c0T1FrX2NUUER0U1VHbXE1Tk1qbHRWZ3FnYUMteHV0R0Q5YjNYVzdQd9IBlwFBVV95cUxNWEZCUndfZHBYcWNITWw1NEstWTd1TmlPWFFDdFpQT2hGblZoZkx2QnpNZkFEbzF3clpzaW9OM0FWTXd3ZHJ2OThnMjR1V2VJejVQd19ibzBHc0doTkU1cHJtMGR5NTdnMlpycEJSVllyZ3pLcFVYU0MxdTNKVnF0QjFOUTZfckpyNFBNc0R4X2FaVi1Zd1U4",
-        "image": null,
-        "timestamp": 1772014987.0
     }
 ]
