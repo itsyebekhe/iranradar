@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حملات آمریکا و اسرائیل به ایران: شمار کشته‌ها و مجروحان — بروزرسانی لحظه‌ای",
+        "title_en": "US-Israel attacks on Iran: Death toll and injuries live tracker",
+        "summary": [
+            "پس از حملات مشترک آمریکا و اسرائیل به ایران، انفجارها در ایران، اسرائیل و چند کشور منطقه شنیده شد؛ تهران با پرتاب موشک و پهپاد به پایگاه‌های آمریکا در منطقه و اهداف اسرائیلی پاسخ داد.",
+            "آمار تلفات تأییدشده در 10 کشور شامل 201 کشته و 747 مجروح در ایران، 9 کشته و 121 مجروح در اسرائیل، 2 کشته و 5 مجروح در عراق، 1 کشته و 32 مجروح در کویت و 3 کشته و 58 مجروح در امارات است؛ اسرائیل اعلام کرد بیش از 1,200 مهمات در 24 استان ایران رها شده است.",
+            "سپاه پاسداران می‌گوید حملاتی به 27 پایگاه منطقه‌ای که نیروهای آمریکایی در آنها مستقرند انجام داده و ضرباتی در هشت کشور منطقه (بحرین، عراق، اردن، کویت، عمان، قطر، عربستان و امارات) اجرا شده؛ بیشتر حملات رهگیری شده‌اند؛ آمریکا شبکه‌ای از حداقل 19 پایگاه منطقه‌ای با حدود 40–50 هزار نیرو دارد."
+        ],
+        "impact": "این رویارویی مستقیم ساختار آسیب‌پذیری رژیم را افزایش می‌دهد: فشار نظامی و بین‌المللی و تلفات گسترده می‌تواند توان اقتصادی و سیاسی حکومت را تضعیف کرده و احتمال افزایش نارضایتی داخلی و اختلال در زیرساخت‌های حیاتی را بالا ببرد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/us-israel-attacks-iran-death-143224657.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-israel-attacks-iran-death-143224657.html",
+        "image": null,
+        "timestamp": 1772375850.0
+    },
+    {
         "title_fa": "پس از حمله آمریکا و اسرائیل به ایران؛ عکس‌ها و ویدئوها از خاورمیانه",
         "title_en": "After Attack on Iran by the U.S. and Israel, See Photos and Videos From the Middle East - The New York Times",
         "summary": [
@@ -214,6 +232,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41QUZqT1AwRTY1MWtrS3kwSVBqMlowSWhLNHI0VXpvWmYzRnd0WVQwMzJrR2YzZDRzajVoclZiZ1B2SVlpWTVtbXpzWGxIdmd4bUo5RnZIMWFMZDE1Z2kxUk1Ja2JsVGwtNUc4SHVOTQ",
         "image": null,
         "timestamp": 1772349077.0
+    },
+    {
+        "title_fa": "ایران گام‌های بعدی را برنامه‌ریزی می‌کند؛ ادامه حملات نظامی و خلأ قدرت",
+        "title_en": "Iran plots its next steps as military strikes continue",
+        "summary": [
+            "ادامه حملات نظامی به تهران را تحت فشار خارجی قرار می‌دهد؛ این فشار ساختاری توان تصمیم‌گیری و واکنش دولت مرکزی را تضعیف می‌کند و هزینه‌های اجرایی و نظامی را افزایش می‌دهد.",
+            "مرگ حاکم عالی یک خلأ فوری در مرکز قدرت ایجاد کرده است که می‌تواند رقابت‌های جانشینی را تشدید کند و روند تخصیص منابع امنیتی و سیاسی را مبهم سازد؛ توان هماهنگی استراتژیک نظام تحت فشار قرار گرفته است.",
+            "اگرچه تهران تاکنون از زانو زدن خودداری کرده، اما ترکیب حملات نظامی و خلأ رهبری ریسک افزایش نارضایتی اجتماعی و احتمال تشدید اعتراض‌ها را بالا می‌برد؛ این وضعیت نشان‌دهنده ضعف‌های نهادی و مدیریت ناکارآمد است."
+        ],
+        "impact": "ادامه حملات نظامی همراه با مرگ حاکم عالی، قدرت تصمیم‌گیری را تضعیف و امکان رقابت بر سر جانشینی و افزایش آسیب‌پذیری نظام را در کوتاه‌مدت تقویت می‌کند.",
+        "tag": "خلأقدرت",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/03/01/iran-next-moves-us-israel-military-strikes-00806203",
+        "clean_url": "https://www.politico.com/news/2026/03/01/iran-next-moves-us-israel-military-strikes-00806203",
+        "image": "http://www.bing.com/th?id=OVFT.9iEkiFyeG-CfjRmBqGZMXy&pid=News",
+        "timestamp": 1772347500.0
+    },
+    {
+        "title_fa": "مرگ علی خامنه‌ای و تشدید درگیری با اسرائیل؛ تهران وعده انتقام داد",
+        "title_en": "Iran vows revenge after the killing of its top leader and trades strikes with Israel in widening war",
+        "summary": [
+            "گزارش‌ها حاکی است علی خامنه‌ای، رهبر جمهوری اسلامی ایران، در ۸۶ سالگی درگذشته و رئیس‌جمهور اعلام کرده شورای رهبری جدید کار خود را آغاز کرده؛ هم‌زمان ایران و اسرائیل تبادل حملات را در جنگی در حال گسترش ادامه می‌دهند.",
+            "مرگ رهبر در خلال تنش نظامی می‌تواند جای خالی رهبری را تشدید کند و احتمال افزایش فشارهای بین‌المللی و تحریم‌ها را بالا ببرد — ضربه‌ای ساختاری که توان دولت در مدیریت اقتصاد و کنترل بازارها را کاهش می‌دهد.",
+            "خلأ رهبری و تمرکز بر عملیات نظامی خارجی ریسک بی‌ثباتی داخلی را افزایش می‌دهد؛ با توجه به مدیریت ناکافی اقتصادی قبلی، رژیم در برابر شوک‌های تازه آسیب‌پذیر است و این وضعیت می‌تواند به تشدید نارضایتی عمومی و بحران درون‌حاکمیتی بینجامد."
+        ],
+        "impact": "مرگ رهبر همراه با گسترش درگیری، ثبات کوتاه‌مدت نظام را تضعیف کرده و مسیر را برای تشدید خشونت، فشار بین‌المللی و فروپاشی اقتصادی کوتاه‌تر می‌کند.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.85,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f",
+        "clean_url": "https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f",
+        "image": null,
+        "timestamp": 1772347200.0
     },
     {
         "title_fa": "گزارش ویژه عصر ایران، ۲۸ فوریه ۲۰۲۶ — مؤسسه مطالعهٔ جنگ",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/decoding-trump-iran-strategy-195932561.html",
         "image": null,
         "timestamp": 1772024220.0
-    },
-    {
-        "title_fa": "ایران در آستانه مذاکرات ژنو در برابر ترامپ ایستاد؛ آمریکا استقرار نظامی گسترده انجام داد",
-        "title_en": "Iran pushes back against Trump ahead of Geneva talks in face of major US military deployment",
-        "summary": [
-            "واشینگتن‌پست گزارش می‌دهد که ایران پیش از مذاکرات ژنو موضعی بازدارنده در برابر مواضع ترامپ اتخاذ کرده است.",
-            "همزمان ایالات متحده استقرار نظامی عمده‌ای انجام داده است که فضای مذاکرات را از جنبه امنیتی متشنج می‌کند.",
-            "ترکیب فشار دیپلماتیک خارجی و نمایش قدرت نظامی می‌تواند هزینه‌های سیاسی و اقتصادی برای حکومت ایران افزایش دهد و امکان تأثیرگذاری بر نتایج مذاکرات را محدود کند."
-        ],
-        "impact": "هم‌زمانی فشار دیپلماتیک و استقرار نظامی آمریکا خطر تضعیف مانور سیاسی حکومت و افزایش حساسیت عمومی نسبت به ناکارآمدی مدیریت را بیشتر می‌کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXNiajVFVmotQ0RQcU1ZTUhwdEZEdFNLUVJIMEpHYk9YejBLQ25vV3J6QWZzZlJERk9TNndCaUJZalB0RGN5TklKbHpCSFdpNDFyTjZnUWpiSDl3cFI2bm5vbThxdEd0OXQ0YWJlci1qZGlIcWVaZEVhQ0QzcTBQTldVeDl2ZnVoTHM0VThTdkNKYnBCSjY5WnI5Z0ltdGNId2VDcXgwWWsybHJ4WE1LNjRsQWxCaWxsT2FBS09NRDR4c0NOTExr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXNiajVFVmotQ0RQcU1ZTUhwdEZEdFNLUVJIMEpHYk9YejBLQ25vV3J6QWZzZlJERk9TNndCaUJZalB0RGN5TklKbHpCSFdpNDFyTjZnUWpiSDl3cFI2bm5vbThxdEd0OXQ0YWJlci1qZGlIcWVaZEVhQ0QzcTBQTldVeDl2ZnVoTHM0VThTdkNKYnBCSjY5WnI5Z0ltdGNId2VDcXgwWWsybHJ4WE1LNjRsQWxCaWxsT2FBS09NRDR4c0NOTExr",
-        "image": null,
-        "timestamp": 1772019594.0
-    },
-    {
-        "title_fa": "ترامپ گفت برنامه هسته‌ای ایران را «نابود کرد». حالا می‌گوید ممکن است آمریکا دوباره ایران را بمباران کند.",
-        "title_en": "Trump said he 'obliterated' Iran's nuclear program. Now he says the U.S. may have to bomb Iran again.",
-        "summary": [
-            "سخنان ترامپ: رئیس‌جمهور آمریکا ادعای «نابودی» برنامه هسته‌ای ایران در تابستان گذشته را تکرار نکرده اما همزمان گفته ممکن است برای جلوگیری از پیشرفت هسته‌ای مجبور به بمباران ایران شوند؛ هم‌زمان نیروهای آمریکایی در منطقه تجمع کرده‌اند.",
-            "پیامد فشار خارجی: تهدید آشکار به حمله و تمرکز نیروها، فشار نظامی و سیاسی را افزایش می‌دهد و می‌تواند ساختار سیاسی و اقتصادی ایران را بیشتر تضعیف کند — از طریق تشدید ریسک امنیتی، نوسان در بازارها و احتمال اختلال در تجارت انرژی — اما انجام حمله مستلزم هزینه و ریسک‌های بین‌المللی بزرگ است.",
-            "اثر داخلی و حکمرانی: این نوع مواجهه بیرونی واکنش‌های داخلی را شعله‌ور می‌کند و ضعف مدیریتی و سیاست‌گذاری در حوزه امنیتی و هسته‌ای حکومت را برجسته می‌سازد؛ تشدید تهدیدات خارجی احتمالاً نارضایتی عمومی و فشار بر ساختارهای اقتصادی را افزایش خواهد داد."
-        ],
-        "impact": "تهدید به حمله و تجمع نیروهای آمریکایی فشار ساختاری بر حکومت ایران را افزایش می‌دهد و در کوتاه‌مدت ریسک بی‌ثباتی اقتصادی و سیاسی را بالا می‌برد، در حالی که هر اقدام نظامی آمریکا می‌تواند پیامدهای نامعلوم و پرهزینه‌ای برای همه طرف‌ها داشته باشد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/trump-said-obliterated-irans-nuclear-program-now-says-us-may-bomb-iran-rcna260383",
-        "clean_url": "https://www.nbcnews.com/world/iran/trump-said-obliterated-irans-nuclear-program-now-says-us-may-bomb-iran-rcna260383",
-        "image": null,
-        "timestamp": 1772018760.0
-    },
-    {
-        "title_fa": "ایران در آستانه مذاکرات ژنو در برابر فشار ترامپ واکنش نشان داد",
-        "title_en": "The Latest: Iran pushes back against Trump ahead of Geneva talks over Tehran’s nuclear program",
-        "summary": [
-            "دو مقام ایرانی واکنش نشان دادند و اظهارات ترامپ را «دروغ بزرگ» خواندند اما هم‌زمان گفتند مذاکرات ژنو ممکن است با «دیپلماسی شرافتمندانه» به توافق منجر شود.",
-            "آمریکا بزرگ‌ترین استقرار هواپیماها و کشتی‌های جنگی خود در خاورمیانه در دهه‌ها را سازماندهی کرده است؛ این فشار نظامی و سیاسی برای افزایش اهرم مذاکره است و احتمال تشدید خطر درگیری نظامی را بالا می‌برد.",
-            "رژیم ایران هم‌زمان با اعتراضات سراسری اخیر دست‌وپنجه نرم می‌کند؛ ترکیب فشار خارجی و ناتوانی مدیریتی داخلی اقتصاد و مشروعیت سیاسی را تضعیف کرده و فضای تصمیم‌گیری را به سمت گزینه‌های رادیکال‌تر سوق می‌دهد."
-        ],
-        "impact": "کوتاه‌مدت: افزایش فشارهای نظامی-دیپلماتیک آمریکا همراه با نارضایتی داخلی احتمال تقابل نظامی یا تشدید تحریم‌ها را بالا می‌برد و ثبات رژیم را بیش از پیش تضعیف می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Las Vegas Sun",
-        "url": "https://lasvegassun.com/news/2026/feb/25/the-latest-iran-pushes-back-against-trump-ahead-of/",
-        "clean_url": "https://lasvegassun.com/news/2026/feb/25/the-latest-iran-pushes-back-against-trump-ahead-of",
-        "image": null,
-        "timestamp": 1772018460.0
     }
 ]
