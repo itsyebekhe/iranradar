@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اسرائیل: جنگنده‌ها بار دیگر تهران را هدف قرار دادند؛ علی خامنه‌ای کشته شد و شورای رهبری اداره کشور را به‌دست گرفت",
+        "title_en": "Israel says warplanes hit Tehran again after killing Khamenei, leadership council takes over",
+        "summary": [
+            "خبر رویترز گزارش می‌دهد که اسرائیل اعلام کرده جنگنده‌هایش پس از کشته شدن علی خامنه‌ای بار دیگر تهران را هدف قرار داده‌اند و یک شورای رهبری مسئولیت را برعهده گرفته است.",
+            "اقدام نظامی مستقیم و ترور رهبری عالی کشور ساختار قدرت را به‌طرز شدیدی تضعیف می‌کند؛ این موقعیت، فشار دیپلماتیک و احتمال تشدید تحریم‌ها را افزایش داده و توان دوام دولتی را کاهش می‌دهد.",
+            "خلأ رهبری و حملات متحرک به پایتخت می‌تواند مدیریت اقتصادی و امنیتی را مختل کند، زمینه بی‌ثباتی داخلی و احتمال اختلافات درون نهادهای امنیتی را فراهم می‌آورد."
+        ],
+        "impact": "ترور رهبر و حملات به تهران ریسک تشدید جنگ منطقه‌ای و تضعیف ساختار حکمرانی را به‌شدت بالا می‌برد و ظرفیت دولت برای کنترل اقتصاد و نظم داخلی را کاهش می‌دهد.",
+        "tag": "حمله",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFpUWMtNVc0VU9QcVNsczVSOVlaSzc0OHF2M00tOTFsMHlZVzFjSjdXQy11ZHVPVDl1WVo3QnU0UmNFblEtcXB6TE43V3ltTk44MklFZ2hHU3lMTkdOYVFKbjVkdmVoNklEemJmVG15Y2NnU2JKeGRiak0wT0V3MlMzS2poRDlNOEE5VENiLTVXLVdRbWY1ekpoclA4VmVXNGIxTHRrYWNNamlta3YxWTQ0Tnl3TEQxcTlMTnhuZ0Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFpUWMtNVc0VU9QcVNsczVSOVlaSzc0OHF2M00tOTFsMHlZVzFjSjdXQy11ZHVPVDl1WVo3QnU0UmNFblEtcXB6TE43V3ltTk44MklFZ2hHU3lMTkdOYVFKbjVkdmVoNklEemJmVG15Y2NnU2JKeGRiak0wT0V3MlMzS2poRDlNOEE5VENiLTVXLVdRbWY1ekpoclA4VmVXNGIxTHRrYWNNamlta3YxWTQ0Tnl3TEQxcTlMTnhuZ0Y",
+        "image": null,
+        "timestamp": 1772379897.0
+    },
+    {
         "title_fa": "رهبر ایران در حمله آمریکا-اسرائیل کشته شد؛ مقام رسمی: جانشین ظرف روزها تعیین می‌شود",
         "title_en": "Iran’s supreme leader killed in US-Israeli attack; another to be chosen within days, official says",
         "summary": [
@@ -358,6 +376,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/ayatollah-ali-khamenei-irans-dictator-044659129.html",
         "image": "http://www.bing.com/th?id=OVFT._uH5FamTm_v3PCtv2NAYJi&pid=News",
         "timestamp": 1772349540.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: ارتش آمریکا سه نظامی کشته‌شده را تأیید کرد؛ ایران روز دوم با موشک به منطقه حمله کرد",
+        "title_en": "Live updates: U.S. military confirms 3 troops killed as Iran lashes out with missiles on Day 2 of Mideast war",
+        "summary": [
+            "ارتش آمریکا تأیید کرده سه نیروی آمریکایی در جریان درگیری‌ها کشته شده‌اند؛ گزارش می‌گوید موشک‌های ایرانی به کشورهای منطقه و کشتی‌ها اصابت کرده‌اند.",
+            "یک حمله جداگانه در اسرائیل دست‌کم هشت کشته برجای گذاشته است؛ تنش‌ها بین ایران و بازیگران منطقه‌ای به سرعت تشدید شده‌اند.",
+            "گزارش به تحریم‌ها یا نقش بازیگران خارجی دیگر اشاره نکرده است؛ با این حال این نوع تشدید نظامی معمولاً به افزایش فشارهای بین‌المللی و محدودیت‌های اقتصادی علیه رژیم منجر می‌شود، و مقاله شواهدی درباره نقش روسیه، چین یا کره شمالی ارائه نکرده است."
+        ],
+        "impact": "تشدید حملات و تلفات نظامی فوراً هزینه‌های سیاسی و اقتصادی رژیم را بالا می‌برد، شانس تحریم‌های گسترده‌تر و فشار دیپلماتیک بیشتر را افزایش می‌دهد و مدیریت بحران داخلی را برای حکومت دشوارتر می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-supreme-leader-khamenei-funeral-day-2/",
+        "clean_url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-supreme-leader-khamenei-funeral-day-2",
+        "image": null,
+        "timestamp": 1772349240.0
     },
     {
         "title_fa": "ایران پس از حملهٔ آمریکا-اسرائیل که خامنه‌ای را کشت، موشک به اسرائیل و کشورهای خلیج شلیک کرد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aVBfazBSenFTcHBXQVRRUlRVdU9LMzJ6TllLVU1jNWdpSlJmakpWRHlvUi1aT1RleDlJc3lqbGFWdHpzeUY0MDFqX3hBZWFtSjJva0puU0ZYa2FkT1ZuOUh6bmI1Q1phRFhXQjM5WmtnRVNTa2RGWEtwWTZSTlE",
         "image": null,
         "timestamp": 1772042345.0
-    },
-    {
-        "title_fa": "دولت ترامپ تحریم‌های جدیدی علیه ایران وضع کرد در آستانه مذاکرات هسته‌ای",
-        "title_en": "Trump administration hits Iran with new sanctions as nuclear talks near",
-        "summary": [
-            "ایالات متحده تحریم‌های تازه‌ای علیه نهادها و تراکنش‌های ایرانی اعمال کرده؛ این تحریم‌ها به‌طور ساختاری دسترسی تهران به شبکه‌های مالی بین‌المللی و تجارت را تضعیف می‌کنند.",
-            "کاهش منابع ارزی و افزایش هزینه‌های معامله می‌تواند واردات ضروری، پرداخت‌های دولتی و پروژه‌های اقتصادی را محدود کند و به تشدید نارضایتی عمومی ناشی از سوءمدیریت اقتصادی دامن بزند.",
-            "تحریم‌ها هم ابزار فشاری برای واشنگتن به منظور کسب امتیاز در مذاکرات هسته‌ای هستند و هم ریسک دارد که تهران را به موضع‌گیری تندتر یا به‌کارگیری سرکوب داخلی برای جلوگیری از بروز اعتراضات سوق دهد."
-        ],
-        "impact": "تحریم‌های جدید فشار اقتصادی و سیاسی بر حکومت را تقویت می‌کنند؛ نتیجه محتمل هم افزایش سرکوب داخلی برای حفظ کنترل و هم سخت‌تر شدن مذاکرات هسته‌ای است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/iran-sanctions-trump-missiles-oil-714a97384a7cbd13bbaf46d79360b7e0",
-        "clean_url": "https://apnews.com/article/iran-sanctions-trump-missiles-oil-714a97384a7cbd13bbaf46d79360b7e0",
-        "image": null,
-        "timestamp": 1772040720.0
-    },
-    {
-        "title_fa": "آمریکا تحریم‌های جدید علیه ایران وضع کرد",
-        "title_en": "US issues new sanctions as it dials up pressure on Iran",
-        "summary": [
-            "ایالات متحده بستهٔ جدیدی از تحریم‌ها را علیه ۱۲ شناور و چند شرکت و فرد مرتبط با فروش نفت ایران اعلام کرد؛ هدف اعلام‌شده جلوگیری از تأمین مالی برنامهٔ موشکی بالستیک تهران و مسدودسازی دارایی‌های هدف‌گذاری‌شده است.",
-            "این اقدام بخشی از سیاست فشار حداکثری آمریکا از زمان خروج از برجام در ۲۰۱۸ است؛ هم‌زمان گزارش شده که واشنگتن حضور نظامی خود در منطقه را با دو ناو هواپیمابر و ناوگان جنگنده‌ها تقویت کرده که ریسک رویارویی را بالا می‌برد.",
-            "تهران فروش نفت را حق خود و تحریم‌ها را «دزدی دریایی» می‌خواند؛ اما تحریم‌های جدید مستقیم به منابع ارزی رژیم می‌زنند و می‌توانند بار اقتصادی و فشار سیاسی داخلی را افزایش دهند و ناتوانی حکمرانی در اولویت‌بخشی به رفاه مردم را برجسته سازند."
-        ],
-        "impact": "تحریم‌ها دسترسی رژیم به درآمدهای نفتی و منابع مورد استفاده برای برنامه‌های نظامی را محدودتر می‌کنند و فشار اقتصادی-سیاسی داخل نظام را تشدید خواهند کرد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/us-issues-sanctions-dials-pressure-165409561.html",
-        "clean_url": "https://www.yahoo.com/news/articles/us-issues-sanctions-dials-pressure-165409561.html",
-        "image": null,
-        "timestamp": 1772039239.0
     }
 ]
