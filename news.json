@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "کاخ سفید: «رهبری جدید احتمالی» ایران پیشنهاد گفت‌وگو داده و ترامپ می‌گوید «نهایتاً» مایل است",
+        "title_en": "White House official: Iran's 'new potential leadership' suggests it's open to talks and Trump says he's 'eventually' willing",
+        "summary": [
+            "یک مقام ارشد کاخ سفید می‌گوید پس از حملات گسترده آمریکا و اسرائیل که به کشته‌شدن رهبر کشور و مقامات ارشد انجامید، «رهبری جدید احتمالی» ایران تمایل به گفت‌وگو نشان داده؛ ترامپ نیز می‌گوید برای آینده «نهایتاً» حاضر به مذاکره است اما عملیات نظامی فعلاً ادامه دارد.",
+            "فشار نظامی و حملات هدفمند (از جمله بمباران تأسیسات موشکی با بمب‌های ۲هزار پوندی توسط B-2) ساختار فرماندهی و توانایی‌های استراتژیک رژیم را تضعیف کرده؛ این سطح از فشار خارجی می‌تواند ثبات نهادی را کاهش داده و وابستگی تهران به راهکارهای بقا را افزایش دهد.",
+            "ابهام درباره هویت رهبران جدید و اینکه چگونه اعلام آمادگی برای گفت‌وگو شده، نشانه ضعف کنترلی و بحران مدیریتی در رأس نظام است؛ فقدان شفافیت در رهبری، ریسک تشدید اختلافات داخلی و فرسایش مشروعیت کارگزاران را بالا می‌برد."
+        ],
+        "impact": "پنجره‌ای برای دیپلماسی محدود ممکن است باز شود، اما خلأ رهبری و تخریب زیرساخت‌های نظامی توان بازدارندگی و کنترل داخلی رژیم را به‌طور ساختاری تضعیف می‌کند.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "PBS",
+        "url": "https://www.inquirer.com/news/nation-world/iran-trump-talks-new-leaders-cia-mossad-20260301.html",
+        "clean_url": "https://www.inquirer.com/news/nation-world/iran-trump-talks-new-leaders-cia-mossad-20260301.html",
+        "image": null,
+        "timestamp": 1772394434.0
+    },
+    {
         "title_fa": "سیا ماه‌ها رهبران ایران را پیش از حملات زیر نظر داشت، منابع AP می‌گویند",
         "title_en": "CIA tracked Iranian leaders for months before strikes, AP source says",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUZGOFZleXRYdGgxeGk3ZzF6V1diam9rbHd4UTJBMFBFTXBHWGJFMElGLXBNQW53eDh0M19TQ2RZUGp2TWRoSGxFMDhjX3dPdVVkNnItNkJ6cWhQMmVwNnlRVk9YeTJmUWp2eEE2UHVTOGNMTjgyQ28tLWVXN0NjanlmTWlPWHR2b2FYd0NMMnRzSXBZMDRaN2NMOXdaQ2tRam5rb2R2bV9iVjdRdHJVVElRY05qblJ5SmtCbkNLbw",
         "image": null,
         "timestamp": 1772058509.0
-    },
-    {
-        "title_fa": "آمریکا تحریم‌های جدید علیه ایران را در آستانه مذاکرات هسته‌ای در ژنو صادر کرد",
-        "title_en": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا ۱۲ کشتی و چند شرکت و فرد مرتبط با فروش نفت ایران و تأمین برنامه موشکی را تحریم کرد؛ دارایی‌های مربوطه مسدود و تعامل مالی با شهروندان آمریکایی عملاً ممنوع می‌شود.",
-            "این تحریم‌ها منابع ارزی رژیم را هدف قرار می‌دهد و می‌تواند در کوتاه‌مدت تأمین مالی برنامه موشکی و خرید قطعات نظامی را تنگ‌تر کند؛ هم‌زمان فشار اقتصادی بر مردم و پتانسیل نارضایتی داخلی را افزایش می‌دهد.",
-            "اعزام گسترده نیروهای نظامی آمریکا به منطقه همراه با تشدید تحریم‌ها فضای تنش را بالا می‌برد و شانس تشدید تقابل نظامی یا بن‌بست مذاکرات هسته‌ای در ژنو را افزایش می‌دهد."
-        ],
-        "impact": "تحریم‌های تازه توان مالی رژیم برای پیشبرد برنامه موشکی را محدودتر و فشارهای داخلی را شدت می‌بخشد، اما هم‌زمان ریسک تقابل نظامی و شکست دیپلماتیک را بالا می‌برد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran",
-        "clean_url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran",
-        "image": null,
-        "timestamp": 1772055156.0
     }
 ]
