@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اروپایی‌ها نگران گسترش درگیری؛ تأکید کردند در حملات ایران شرکت نداشتند",
+        "title_en": "Wary of wider conflict, European allies stress they didn’t join Iran strikes",
+        "summary": [
+            "کشورهای اروپایی به‌صراحت از مشارکت در حملات ایران فاصله گرفتند و این موضع‌گیری را تنها راه جلوگیری از گسترش یک درگیری فرامرزی گسترده خواندند.",
+            "این فاصله‌گیری شانس دخالت مستقیم غرب را کاهش می‌دهد اما به‌طور هم‌زمان دیپلماسی تهران را تضعیف کرده و احتمال تشدید فشار دیپلماتیک و اقتصادی بر رژیم را افزایش می‌دهد.",
+            "برای داخل ایران، تکیه تهران به عملیات نظامی خارجی به‌جای اصلاحات اقتصادی و حکمرانی موجب تشدید نارضایتی عمومی و نشان‌دهنده شکست مدیریت بلندمدت حکومت در حل مشکلات اقتصادی و سیاسی است."
+        ],
+        "impact": "موضع محتاطانه متحدان اروپایی موقتا از گسترش جنگ جلوگیری می‌کند اما دیپلماسی تهران را منزوی‌تر کرده و ثبات داخلی رژیم را از منظر اقتصادی و سیاسی بیشتر تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/wary-of-wider-conflict-european-allies-stress-they-didn-t-join-iran-strikes/ar-AA1XhT3U",
+        "clean_url": "https://www.msn.com/en-us/news/world/wary-of-wider-conflict-european-allies-stress-they-didn-t-join-iran-strikes/ar-AA1XhT3U",
+        "image": null,
+        "timestamp": 1772353319.0
+    },
+    {
         "title_fa": "ایران اعلام کرد رهبر جمهوری اسلامی در حملات آمریکا و اسرائیل کشته شده است",
         "title_en": "Iran Says Supreme Leader Killed in U.S.-Israeli Strikes",
         "summary": [
@@ -1276,6 +1294,24 @@
         "clean_url": "https://www.bbc.com/news/articles/cx2dyz6p3weo",
         "image": null,
         "timestamp": 1772271660.0
+    },
+    {
+        "title_fa": "نقشه حملات آمریکا و اسرائیل به ایران و تلافی‌های تهران",
+        "title_en": "See where U.S., Israeli strikes have hit Iran and where Iran has retaliated",
+        "summary": [
+            "تصاویر ماهواره‌ای و ویدئوها نشان می‌دهد ده‌ها هدف در ایران مورد حمله قرار گرفته‌اند، از جمله کمپ‌ِ متعلق به علی خامنه‌ای، رهبر جمهوری اسلامی؛ ایران نیز حداقل یک پایگاه آمریکایی را هدف قرار داده است.",
+            "این حملات مستقیم مراکز حساس رژیم را نشانه گرفته‌اند و نشان از افزایش فشار نظامی و شکست نسبی توان دفاعی و بازدارندگی داخلی دارد؛ برخوردن به محل‌های مرکزیت قدرت، پیام روشنی از آسیب‌پذیری ساختار فرماندهی رژیم ارسال می‌کند.",
+            "ضربه‌دیدن زیرساخت‌ها و مراکز حکومتی هزینه‌های سیاسی و اقتصادی فوری ایجاد می‌کند: تشدید مخارج نظامی، فشار بر زیرساخت‌های شهری و افزایش نارضایتی عمومی احتمالی که می‌تواند شکاف‌های داخلی را عمیق‌تر کند."
+        ],
+        "impact": "حملات و تلافی‌ها به‌روشنی جایگاه امنیتی و سیاسی رژیم را تضعیف کرده و خطر تشدید درگیری‌های منطقه‌ای و فشارهای بین‌المللی بیشتر را بالا برده‌اند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": 0.7,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/",
+        "clean_url": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video",
+        "image": "http://www.bing.com/th?id=OVFT.Abhe5p_VNmH_NnSWpO7wwC&pid=News",
+        "timestamp": 1772270580.0
     },
     {
         "title_fa": "حمله مشترک آمریکا و اسرائیل به ایران — آنچه می‌دانیم",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1pSWXpDc19uZzF2a3FMNG5RQ2dlYWxLdWcwaTBNOHpZTzh0QU9ZcWdEOHN0Um5PS3hZTjl4SEhVVzZTWmFGdEdZdkZkdThCQ1JvalU4ZWY0aHE1LWFKc1l4Q2dyNmg2Q0dEdTVGZ3d3UmtaMXpxelZYNWQ4RGxDWXdWUXZPRGlGbmJGb1MxV0NkeXZSVVZubGhZbnZSdnI2Z2szQkxVN28yMndHcldRZmJKQ0xReWwxWVBHelVwX0FxQQ",
         "image": null,
         "timestamp": 1771991589.0
-    },
-    {
-        "title_fa": "عراقچی: توافق با آمریکا در دسترس است؛ افزایش حضور نظامی آمریکا و مانورهای سپاه",
-        "title_en": "Iran’s FM says deal with US ‘within reach’ if diplomacy ‘given priority’",
-        "summary": [
-            "عراقچی اعلام کرد یک توافق برای جلوگیری از درگیری «در دسترس» است مشروط بر اینکه دیپلماسی در اولویت قرار گیرد؛ ایران بار دیگر متعهد شد که هرگز سلاح هسته‌ای نخواهد ساخت و خواستار حق استفاده از فناوری هسته‌ای صلح‌آمیز شد.",
-            "جلسات غیرمستقیم میان واشنگتن و تهران با میانجی‌گری عمان در ژنو ادامه می‌یابد؛ هم‌زمان رئیس‌جمهور دونالد ترامپ ضمن بیان تمایل به دیپلماسی، تهدید به اقدام نظامی را تکرار کرد و ایالات متحده نیروی دریایی خود را در منطقه تقویت کرده است (حضور یو‌اس‌اس جرالد آر فورد در کرت).",
-            "افزایش مانورهای نظامی سپاه و ترکیب احساس عمومی از ترس جنگ و امید به راه‌حل دیپلماتیک، نشان‌دهنده وضعیت امنیتی-سیاسی شکننده و ناتوانی حکومت در تضمین اطمینان و ثبات برای مردم است."
-        ],
-        "impact": "همزمانی چشم‌انداز توافق دیپلماتیک با افزایش فشار نظامی خارجی، موقعیت رژیم را از منظر امنیتی و سیاسی تضعیف می‌کند و احتمال تشدید بی‌ثباتی اقتصادی و نارضایتی اجتماعی در صورت شکست مذاکرات را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-fm-says-deal-us-033903415.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-fm-says-deal-us-033903415.html",
-        "image": null,
-        "timestamp": 1771991023.0
-    },
-    {
-        "title_fa": "تنش‌های ایران-آمریکا: تهران ادعاهای ترامپ درباره موشک‌ها و برنامه هسته‌ای را «دروغ بزرگ» خواند",
-        "title_en": "Iran-US tensions live: Tehran rejects Trump's claims on missiles, nuclear programme as ‘big lies’",
-        "summary": [
-            "دونالد ترامپ ایران را «حامی شماره یک تروریسم جهان» خواند و ادعا کرد که رژیم پس از اعتراضات آغازشده در دسامبر ٢٠٢٥، ۳۲٬۰۰۰ نفر را کشته است.",
-            "تهران اتهامات مربوط به برنامه موشکی و هسته‌ای را «دروغ بزرگ» خواند و به صراحت ادعاهای ترامپ را رد کرد.",
-            "این تبادل اتهام‌ها می‌تواند فشار سیاسی و احتمال اقدامات قاطع‌تر واشینگتن را افزایش دهد و همزمان ناکامی رژیم در مدیریت اعتراضات گسترده را برجسته کند."
-        ],
-        "impact": "افزایش اتهامات و انزوای سیاسی-دیپلماتیک محتمل، ساختار ثبات رژیم را تضعیف کرده و ظرفیت او برای مهار اعتراضات و بحران‌های اقتصادی را کاهش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-speech-today-oman-nuclear-talks-khamenei-indian-students-stranded-101771985330516.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/iran-us-tensions-live-updates-trump-speech-today-oman-nuclear-talks-khamenei-indian-students-stranded-101771985330516.html",
-        "image": null,
-        "timestamp": 1771988700.0
     }
 ]
